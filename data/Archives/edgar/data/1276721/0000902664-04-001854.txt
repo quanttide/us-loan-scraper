@@ -1,0 +1,155 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QNxn6/vjLktAoD0cp02XQgPYzbonoIc5sPZt5FELnSRKJ+N5YyQevfbAa+gHkfbH
+ A3un1Q9IlNB8tFIa2k/IYA==
+
+<SEC-DOCUMENT>0000902664-04-001854.txt : 20041220
+<SEC-HEADER>0000902664-04-001854.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041220170058
+ACCESSION NUMBER:		0000902664-04-001854
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041216
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED ACCESSORY HOLDINGS CORP
+		CENTRAL INDEX KEY:			0001276721
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				562426615
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-114547
+		FILM NUMBER:		041214700
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CASTLE HARLAN INC
+		STREET 2:		150 E 58TH ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10155
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>srz9769555v2.txt
+<DESCRIPTION>ADVANCED ACCESSORY HOLDINGS CORPORATION
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(D) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+
+Date of Report (Date of earliest event reported)          DECEMBER 16, 2004
+                                                      ------------------------
+
+                    ADVANCED ACCESSORY HOLDINGS CORPORATION
+             (Exact Name of Registrant as Specified in its Charter)
+
+
+
+         DELAWARE                     333-114547                56-2426615
+
+ (State or Other Jurisdiction                               (I.R.S. Employer
+  of Organization)             (Commission File Number)     Identification No.)
+
+
+
+                           12900 HALL ROAD, SUITE 200
+                        STERLING HEIGHTS, MICHIGAN 48313
+
+                         (Address of Principal Executive
+                          Offices, including Zip Code)
+
+                                 (586) 997-2900
+
+                         (Registrant's telephone number,
+                              including area code)
+                                       N/A
+               -----------------------------------------------------
+                 (Former name or former address, if changed since
+                                   last report)
+
+
+
+<PAGE>
+
+
+ITEM 5.02.  DEPARTURE OF DIRECTORS OR PRINCIPAL OFFICERS; ELECTION OF
+DIRECTORS; APPOINTMENT OF PRINCIPAL OFFICERS
+
+
+             On December 16, 2004, Clifford C. Suing, Advanced Accessory
+Holdings Corporation's (the "Company") Vice President -Finance and Chief
+Accounting Officer was designated as the Company's principal accounting officer
+(within the meaning of federal securities law). Mr. Suing, who is 39, has served
+as the Company's Vice President -Finance and Chief Accounting Officer since
+November 2004. Prior to joining the Company, Mr. Suing was employed by Oxford
+Automotive, a tier 1 supplier of stampings, assemblies and modules, from 1997 to
+2004 and held various senior level financial positions including Treasurer,
+Corporate Controller and most recently Vice-President Finance for the European
+operations. Mr. Suing joined Oxford as a result of the acquisition by Oxford of
+Lobdell Emery in 1997. Mr. Suing joined Lobdell in 1991 as a financial analyst,
+and was Treasurer at the time of the acquisition. From 1986 to 1991, Mr. Suing
+was employed by Ernst & Young LLP. Mr. Suing is a CPA and holds a Bachelors
+degree in Accounting from Saginaw Valley State University.
+
+             Previously, Ronald Gardhouse, the Company's Executive Vice
+President and Chief Financial Officer served as the Company's principal
+accounting officer. Mr. Gardhouse will continue to serve the Company in all of
+his other current capacities, including as Executive Vice President, Chief
+Financial Officer and principal financial officer of the Company.
+
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+            Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                              ADVANCED ACCESSORY HOLDINGS
+                                              CORPORATION
+                                              (Registrant)
+
+
+Date:   December 20, 2004                     By:  /s/ Terence C. Seikel
+                                                   ----------------------------
+                                                   Terence C. Seikel
+                                                   President and Chief Executive
+                                                      Officer
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

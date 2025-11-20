@@ -1,0 +1,785 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BsjyDNe0kW08039yiAuckNs2vf/fJ3ncO2qAGH4k2idKY/dRJ/+EqFdZSt0VG3zA
+ cG6qC0khg5ueXhQNTB7wDg==
+
+<SEC-DOCUMENT>0000950152-04-009134.txt : 20041222
+<SEC-HEADER>0000950152-04-009134.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222134108
+ACCESSION NUMBER:		0000950152-04-009134
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A
+		CENTRAL INDEX KEY:			0001280871
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-74756-03
+		FILM NUMBER:		041220043
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1900 EAST NINTH STREET
+		STREET 2:		LOCATOR 2101
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114
+
+	MAIL ADDRESS:	
+		STREET 1:		1900 E NINTH
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44114
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>l10882ae8vk.txt
+<DESCRIPTION>NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A   8-K
+<TEXT>
+<PAGE>
+
+- --------------------------------------------------------------------------------
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+               Date of Report (Date of earliest event reported):
+                               December 15, 2004
+
+                         National City Auto Receivables
+                                  Trust 2004-A
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+          Delaware                  333-74756                      N/A
+- -----------------------------      ------------           ---------------------
+(State or other jurisdiction       (Commission              (I.R.S. Employer
+ of incorporation)                 File Number)            Identification No.)
+
+
+        1900 East 9th Street
+           Cleveland, Ohio                                     44114-3484
+- ---------------------------------------                   ---------------------
+(Address of Principal Executive Offices)                       (Zip Code)
+
+
+Registrant's telephone number, including area code (216) 222-2000
+
+                                       N/A
+
+- --------------------------------------------------------------------------------
+           Former name or former address, if changed since last report
+
+- --------------------------------------------------------------------------------
+
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions.
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act
+    (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+    (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+    Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+    Act (17 CFR 240.13e-4(c))
+<PAGE>
+Item 8.01. Other Events.
+           -------------
+
+        For the Payment Date of December 15, 2004, The Bank of New York, as
+Indenture Trustee, made the monthly payments to the Securityholders, as
+indicated in the Payment Date Statement to Securityholders (the "Payment Date
+Statement to Securityholders").
+
+Item 9.01. Financial Statements and Exhibits.
+           ----------------------------------
+
+         (a)      Financial statements of businesses acquired.
+
+                  Not applicable
+
+         (b)      Pro forma financial information.
+
+                  Not applicable
+
+         (c)      Exhibit No. 20
+
+         The following is filed herewith. The exhibit number corresponds with
+Item 601 of Regulation S-K.
+
+    Exhibit No.                                 Description
+    -----------                                 -----------
+
+         20                   Payment Date Statement to Securityholders
+
+<PAGE>
+                                   SIGNATURES
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                        NATIONAL CITY BANK, as Trust
+                                        Administrator
+
+                                        By: /s/ Russell A. Cronin, Jr.
+                                            -----------------------------------
+                                            Name: Russell A. Cronin, Jr.
+                                            Title: Senior Vice President
+
+
+
+Dated: December 22, 2004
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-20
+<SEQUENCE>2
+<FILENAME>l10882aexv20.txt
+<DESCRIPTION>EXHIBIT 20
+<TEXT>
+<PAGE>
+                                                                    Exhibit 20
+
+
+December 10, 2004
+
+
+Monthly Servicer's Certificate
+National City Bank
+National City Auto Receivables Trust 2004-A
+
+The undersigned, a duly authorized representative of National City Bank, as
+Servicer, pursuant to the Sale and Servicing Agreement (the "Agreement") dated
+February 1, 2004 between National City Bank, as Seller and Servicer, and The
+Bank of New York, as Indenture Trustee, does hereby certify as follows:
+
+1)   Capitalized terms used in this Certificate have their respective meanings
+     as set forth in the Agreement .
+
+2)   National City Bank is, as of the date hereof, the Servicer under the
+     Agreement.
+
+3)   The undersigned is a Responsible Officer.
+
+4)   This Certificate relates to the Payment Date occurring on December 15,
+     2004.
+
+5)   As of the date hereof, the information provided is complete and no Servicer
+     Defaults have occurred.
+
+
+IN WITNESS WHEREOF, the undersigned has duly executed and delivered this
+Certificate this 10th day of December, 2004.
+
+
+
+NATIONAL CITY BANK
+as Servicer
+
+
+
+
+
+BY:              /s/ Richard G. Zab
+                 ------------------------------------
+NAME:            Richard G. Zab
+TITLE:           Senior Vice President
+
+                 as Authorized Agent
+
+
+
+<PAGE>
+
+
+
+
+            NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A
+        $178,000,000 1.10% Automobile Loan Pass-Through Notes, Class A-1
+        $197,000,000 1.50% Automobile Loan Pass-Through Notes, Class A-2
+        $240,000,000 2.11% Automobile Loan Pass-Through Notes, Class A-3
+        $200,020,000 2.88% Automobile Loan Pass-Through Notes, Class A-4
+          $36,650,000 2.45% Automobile Loan Pass-Through Notes, Class B
+          $10,785,978 2.99% Automobile Loan Pass-Through Notes, Class C
+                       Monthly Servicer Certificate Report
+<TABLE>
+<S>                                                                                                       <C>
+- -----------------------------------------------------------------------------------------------------------------------------
+Collection Period                                                                                                        10
+Collection Period # Beginning Date                                                                              Nov-01-2004
+Collection Period # End Date                                                                                    Nov-30-2004
+Distribution Date                                                                                               Dec-15-2004
+
+I.  Available Amount in the Certificate Account
+A.  Credits
+                1.  Payments from Obligors Applied to Collection Period
+                              a. Scheduled Principal Payments                                                $11,724,808.71
+                              b. Prepaid Principal Payments                                                   $8,129,339.84
+                              c. Total Principal Payments                                                    $19,854,148.55
+                              d. Interest Payments                                                            $3,828,576.44
+                              e. Total (c+d)                                                                 $23,682,724.99
+                2.  Repurchase Amount From Repurchased Receivable
+                              a. Principal Payments                                                                   $0.00
+                              b. Interest Payments                                                                    $0.00
+                              c. Total (a+b)                                                                          $0.00
+                3.  Recovery of Defaulted Receivable
+                              a. Gross Loan Default Balance                                                   $1,133,952.75
+                              b. Net Liquidation Proceeds                                                       $248,029.00
+                              c. Other Net Recovery Amount                                                       $57,820.40
+                              d. Liquidation Proceeds Allocated to Principal                                    $248,029.00
+                              e. Net Loan Default Balance                                                       $885,923.75
+                              f. Other Net Recovery Allocated to Principal                                       $57,112.78
+                              g. Total Principal Recovery Amount                                                $305,141.78
+                              h. Net Liquidation Proceeds Allocated to Interest                                       $0.00
+                              i. Other Net Recovery Allocated to Interest                                           $707.62
+                              j. Total Interest Recovery Amount                                                     $707.62
+                              k. Net Principal loss                                                             $828,810.97
+                4.  Advance by Servicer
+                5.  Investment Earnings on Reserve Account (as of month end)                                     $16,131.84
+                6.  Payment for Optional Prepayment at Call Date                                                      $0.00
+                7.  Total Credits (sum 1 through 6)                                                          $24,004,706.23
+B.  Total Collections                                                                                        $24,004,706.23
+                1. Available Interest Collections                                                             $3,845,415.90
+                2. Available Principal Collections                                                           $20,159,290.33
+
+II. Receivable Pool Balance
+A. Original Principal Pool Balance plus deposit in Prefunding Account                                       $862,455,978.42
+B. Principal Pool Balance as of the Beginning of the Collection Period                                      $666,076,848.61
+C. Principal Pool Balance as of the End of the Collection Period                                            $645,088,747.31
+
+
+III. Note Principal Balances For the Collection Period
+A.  Class A Notes
+                1.  Beginning Class A-1 Balance                                                                       $0.00
+                2.  Ending Class A-1 Balance                                                                          $0.00
+                3.  Beginning Class A-2 Balance                                                             $179,894,629.24
+                4.  Ending Class A-2 Balance                                                                $160,361,100.83
+                5.  Beginning Class A-3 Balance                                                             $240,000,000.00
+                6.  Ending Class A-3 Balance                                                                $240,000,000.00
+                7.  Beginning Class A-4 Balance                                                             $200,020,000.00
+                8.  Ending Class A-4 Balance                                                                $200,020,000.00
+B .  Class B Notes
+                1.  Beginning Class B Balance                                                                $35,665,867.89
+                2.  Ending Class B Balance                                                                   $34,542,035.33
+C.   Class C Notes
+                1.  Beginning Class C Balance                                                                $10,496,351.06
+                2.  Ending Class C Balance                                                                   $10,165,610.73
+
+IV. Reserve Account Balance For the Collection Period
+A. Initial Reserve Account Deposit
+B. Beginning Reserve Account Balance                                                                         $10,780,699.73
+C. Ending Reserve Account Balance                                                                            $10,780,699.73
+
+V. Summary of Cash Disbursements
+A. Available Collections                                                                                     $24,004,706.23
+
+</TABLE>
+
+
+
+                                  Page 1 of 8
+<PAGE>
+            NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A
+        $178,000,000 1.10% Automobile Loan Pass-Through Notes, Class A-1
+        $197,000,000 1.50% Automobile Loan Pass-Through Notes, Class A-2
+        $240,000,000 2.11% Automobile Loan Pass-Through Notes, Class A-3
+        $200,020,000 2.88% Automobile Loan Pass-Through Notes, Class A-4
+          $36,650,000 2.45% Automobile Loan Pass-Through Notes, Class B
+          $10,785,978 2.99% Automobile Loan Pass-Through Notes, Class C
+                       Monthly Servicer Certificate Report
+<TABLE>
+<S>                                                                                                     <C>
+- ------------------------------------------------------------------------------------------------------------------------------
+B. Withdrawals from Reserve Account                                                                                   $0.00
+C. Total Available Collections                                                                               $24,004,706.23
+D. Reimbursement of Advance                                                                                           $0.00
+E. Payment of Servicing Fee                                                                                     $555,064.04
+F. Interest paid to Class A-1 Notes                                                                                   $0.00
+G. Interest paid to Class A-2 Notes                                                                             $224,868.29
+H. Interest paid to Class A-3 Notes                                                                             $422,000.00
+I. Interest paid to Class A-4 Notes                                                                             $480,048.00
+J. Interest paid to Class B Notes                                                                                $72,817.81
+K. Interest paid to Class C Notes                                                                                $26,153.41
+L. Principal paid to Class A-1 Notes                                                                                  $0.00
+M. Principal paid to Class A-2 Notes                                                                         $19,533,528.41
+N. Principal paid to Class A-3 Notes                                                                                  $0.00
+O. Principal paid to Class A-4 Notes                                                                                  $0.00
+P. Principal paid to Class B Notes                                                                            $1,123,832.56
+Q. Principal paid to Class C Notes                                                                              $330,740.33
+R. Remaining Available Collections                                                                            $1,235,653.38
+S. Deposit from Remaining Available Collections to fund Reserve Account                                               $0.00
+T. Remaining Available Collections Released to Depositor                                                      $1,235,653.38
+
+VI.  Scheduled Monthly Interest Distribution
+A. Available Collections                                                                                     $24,004,706.23
+
+B.  Reimbursement of Advance
+                1. Prior Advance Outstanding                                                                          $0.00
+                2. Reimbursement of Prior Advance Outstanding from Interest Collections                               $0.00
+                3. Remaining Prior Advance Outstanding                                                                $0.00
+                4. Reimbursement of Prior Advance Outstanding from Reserve Account                                    $0.00
+                5. Remaining Prior Advance Outstanding                                                                $0.00
+                6. Current Advance                                                                                    $0.00
+                7. Total Advance Outstanding for the Period                                                           $0.00
+
+C. Total Reimbursement of Advance paid                                                                                $0.00
+
+D . Remaining Available Collections                                                                          $24,004,706.23
+
+E. Servicing Fee
+                1. Current Servicing Fee Accrued                                                                $555,064.04
+                2. Unpaid Servicing Fees From Prior Collection Periods                                                $0.00
+                3. Total Servicing Fee Due                                                                      $555,064.04
+                4. Payment of Servicing Fee from Interest Collections                                           $555,064.04
+                5. Payment of Servicing Fee from Reserve Account                                                      $0.00
+                6. This period unpaid Servicing Fee                                                                   $0.00
+
+F. Total Servicing Fee paid                                                                                     $555,064.04
+
+G . Remaining Available Collections                                                                          $23,449,642.19
+
+H. Class A Interest Distribution Amount
+                1.1. Class A-1 Coupon Rate                                                                            1.10%
+                1.2. Class A-1 Monthly Interest                                                                       $0.00
+                1.3. Class A-1 Interest Carryover Shortfall                                                           $0.00
+                1.4. Class A-1 Interest on Interest Carryover Shortfall                                               $0.00
+                1.5. Class A-1 Interest Distributable Amount                                                          $0.00
+                1.6. Payment of Class A-1 Interest Distributable Amount from Interest Collections                     $0.00
+                1.7. Payment of Class A-1 Interest Distributable Amount from Reserve Account                          $0.00
+                1.8  This period Class A-1 Interest Carryover Shortfall                                               $0.00
+
+                2.1. Class A-2 Coupon Rate                                                                            1.50%
+                2.2. Class A-2 Monthly Interest                                                                 $224,868.29
+                2.3. Class A-2 Interest Carryover Shortfall                                                           $0.00
+                2.4. Class A-2 Interest on Interest Carryover Shortfall                                               $0.00
+                2.5. Class A-2 Interest Distributable Amount                                                    $224,868.29
+                2.6. Payment of Class A-2 Interest Distributable Amount from Interest Collections               $224,868.29
+                2.7. Payment of Class A-2 Interest Distributable Amount from Reserve Account                          $0.00
+                2.8. This period Class A-2 Interest Carryover Shortfall                                               $0.00
+
+</TABLE>
+
+                                  Page 2 of 8
+<PAGE>
+
+                   NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A
+        $178,000,000 1.10% Automobile Loan Pass-Through Notes, Class A-1
+        $197,000,000 1.50% Automobile Loan Pass-Through Notes, Class A-2
+        $240,000,000 2.11% Automobile Loan Pass-Through Notes, Class A-3
+        $200,020,000 2.88% Automobile Loan Pass-Through Notes, Class A-4
+          $36,650,000 2.45% Automobile Loan Pass-Through Notes, Class B
+          $10,785,978 2.99% Automobile Loan Pass-Through Notes, Class C
+                       Monthly Servicer Certificate Report
+
+<TABLE>
+<S>                                                                                                       <C>
+- --------------------------------------------------------------------------------------------------------------------------------
+                3.1. Class A-3 Coupon Rate                                                                            2.11%
+                3.2. Class A-3 Monthly Interest                                                                 $422,000.00
+                3.3. Class A-3 Interest Carryover Shortfall                                                           $0.00
+                3.4. Class A-3 Interest on Interest Carryover Shortfall                                               $0.00
+                3.5. Class A-3 Interest Distributable Amount                                                    $422,000.00
+                3.6. Payment of Class A-3 Interest Distributable Amount from Interest Collections               $422,000.00
+                3.7. Payment of Class A-3 Interest Distributable Amount from Reserve Account                          $0.00
+                3.8. This period Class A-3 Interest Carryover Shortfall                                               $0.00
+
+                4.1. Class A-4 Coupon Rate                                                                            2.88%
+                4.2. Class A-4 Monthly Interest                                                                 $480,048.00
+                4.3. Class A-4 Interest Carryover Shortfall                                                           $0.00
+                4.4. Class A-4 Interest on Interest Carryover Shortfall                                               $0.00
+                4.5. Class A-4 Interest Distributable Amount                                                    $480,048.00
+                4.6. Payment of Class A-4 Interest Distributable Amount from Interest Collections               $480,048.00
+                4.7. Payment of Class A-4 Interest Distributable Amount from Reserve Account                          $0.00
+                4.8. This period Class A-4 Interest Carryover Shortfall                                               $0.00
+
+I. Total Interest paid to Class A Notes                                                                       $1,126,916.29
+
+J. First Priority Principal Distribution Amount                                                                       $0.00
+
+K. Remaining Available Collections                                                                           $22,322,725.90
+
+L. Class B Interest Distribution Amount
+                1. Class B Coupon Rate                                                                                2.45%
+                2. Class B Monthly Interest                                                                      $72,817.81
+                3. Class B Interest Carryover Shortfall                                                               $0.00
+                4. Class B Interest on Interest Carryover Shortfall                                                   $0.00
+                5. Class B Interest Distributable Amount                                                         $72,817.81
+                6. Payment of Class B Interest Distributable Amount from Interest Collections                    $72,817.81
+                7. Payment of Class B Interest Distributable Amount from Reserve Account                              $0.00
+                8. This period Class B Interest Carryover Shortfall                                                   $0.00
+
+M. Total Interest paid to Class B Notes                                                                          $72,817.81
+
+N. Second Priority Principal Distribution Amount                                                             $10,491,749.82
+
+O. Remaining Available Collections                                                                           $11,758,158.27
+
+P. Class C Interest Distribution Amount
+                1. Class C Coupon Rate                                                                                2.99%
+                2. Class C Monthly Interest                                                                      $26,153.41
+                3. Class C Interest Carryover Shortfall                                                               $0.00
+                4. Class C Interest on Interest Carryover Shortfall                                                   $0.00
+                5. Class C Interest Distributable Amount                                                         $26,153.41
+                6. Payment of Class C Interest Distributable Amount from Interest Collections                    $26,153.41
+                7. Payment of Class C Interest Distributable Amount from Reserve Account                              $0.00
+                8. This period Class C Interest Carryover Shortfall                                                   $0.00
+
+Q. Total Interest paid to Class C Notes                                                                          $26,153.41
+
+R. Total Interest paid from Reserve Account                                                                           $0.00
+
+S. Remaining Available Collections                                                                           $11,732,004.86
+
+VII.  Scheduled Monthly Principal Distributions
+A. Principal Distribution Amount
+                1. Available Principal Collections                                                           $20,159,290.33
+                2. Net Principal Losses                                                                         $828,810.97
+                3. Total (1 + 2)                                                                             $20,988,101.30
+
+B. Total Available Collections
+                1. Remaining Available Collections                                                           $11,732,004.86
+                2. First and Second Priority Principal Distribution Amount                                   $10,491,749.82
+                3. Total (1 + 2)                                                                             $22,223,754.68
+
+</TABLE>
+
+                                  Page 3 of 8
+<PAGE>
+
+                   NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A
+        $178,000,000 1.10% Automobile Loan Pass-Through Notes, Class A-1
+        $197,000,000 1.50% Automobile Loan Pass-Through Notes, Class A-2
+        $240,000,000 2.11% Automobile Loan Pass-Through Notes, Class A-3
+        $200,020,000 2.88% Automobile Loan Pass-Through Notes, Class A-4
+          $36,650,000 2.45% Automobile Loan Pass-Through Notes, Class B
+          $10,785,978 2.99% Automobile Loan Pass-Through Notes, Class C
+                       Monthly Servicer Certificate Report
+
+<TABLE>
+<S>                                                                                                       <C>
+- --------------------------------------------------------------------------------------------------------------------------------
+C. Principal Distribution Amount Triggers
+                1.  Average Three Period Charge Off Rate                                                              1.24%
+                2.  Charge Off Rate Trigger                                                                           4.50%
+                3.  Principal Distribution Amount Trigger Status                                                       Pass
+
+D. Principal Distribution Amounts
+                1.  Class A-1 Principal Distribution Amount                                                           $0.00
+                2.  Class A Principal Distribution Amount                                                    $19,533,528.41
+                3.  Class B Principal Distribution Amount                                                     $1,123,832.56
+                4.  Class C Principal Distribution Amount                                                       $330,740.33
+
+E. Class A Principal Distribution Amount
+                1.1. Beginning Class A-1 Principal Balance                                                            $0.00
+                1.2. Class A-1 Monthly Principal                                                                      $0.00
+                1.3. Class A-1 Principal Carryover Shortfall                                                          $0.00
+                1.4. Total Class A-1 Principal Distribution Amount                                                    $0.00
+                1.5. Payment of Class A-1 Principal Distribution Amount from Available Collections                    $0.00
+                1.6. Payment of Class A-1 Principal Distribution Amount from Reserve Account                          $0.00
+                1.7. Class A-1 Principal Carryover Shortfall for the Period                                           $0.00
+                1.8. Ending Class A-1 Principal Balance                                                               $0.00
+
+                2.1. Beginning Class A-2 Principal Balance                                                  $179,894,629.24
+                2.2. Class A-2 Monthly Principal                                                             $19,533,528.41
+                2.3. Class A-2 Principal Carryover Shortfall                                                          $0.00
+                2.4. Total Class A-2 Principal Distribution Amount                                           $19,533,528.41
+                2.5. Payment of Class A-2 Principal Distribution Amount from Available Collections           $19,533,528.41
+                2.6. Payment of Class A-2 Principal Distribution Amount from Reserve Account                          $0.00
+                2.7. Class A-2 Principal Carryover Shortfall for the Period                                           $0.00
+                2.8. Ending Class A-2 Principal Balance                                                     $160,361,100.83
+
+                3.1. Beginning Class A-3 Principal Balance                                                  $240,000,000.00
+                3.2. Class A-3 Monthly Principal                                                                      $0.00
+                3.3. Class A-3 Principal Carryover Shortfall                                                          $0.00
+                3.4. Total Class A-3 Principal Distribution Amount                                                    $0.00
+                3.5. Payment of Class A-3 Principal Distribution Amount from Available Collections                    $0.00
+                3.6. Payment of Class A-3 Principal Distribution Amount from Reserve Account                          $0.00
+                3.7. Class A-3 Principal Carryover Shortfall for the Period                                           $0.00
+                3.8. Ending Class A-3 Principal Balance                                                     $240,000,000.00
+
+                4.1. Beginning Class A-4 Principal Balance                                                  $200,020,000.00
+                4.2. Class A-4 Monthly Principal                                                                      $0.00
+                4.3. Class A-4 Principal Carryover Shortfall                                                          $0.00
+                4.4. Total Class A-4 Principal Distribution Amount                                                    $0.00
+                4.5. Payment of Class A-4 Principal Distribution Amount from Available Collections                    $0.00
+                4.6. Payment of Class A-4 Principal Distribution Amount from Reserve Account                          $0.00
+                4.7. Class A-4 Principal Carryover Shortfall for the Period                                           $0.00
+                4.8. Ending Class A-4 Principal Balance                                                     $200,020,000.00
+
+F. Total Principal paid to Class A Notes from Available Collections                                          $19,533,528.41
+
+G. Remaining Available Collections                                                                            $2,690,226.27
+
+H. Class B Principal Distribution Amount
+                1. Beginning Class B Principal Balance                                                       $35,665,867.89
+                2. Class B Monthly Principal                                                                  $1,123,832.56
+                3. Class B Principal Carryover Shortfall                                                              $0.00
+                4. Total Class B Principal Distribution Amount                                                $1,123,832.56
+                5. Payment of Class B Principal Distribution Amount from Available Collections                $1,123,832.56
+                6. Payment of Class B Principal Distribution Amount from Reserve Account                              $0.00
+                7. Class B Principal Carryover Shortfall for the Period                                               $0.00
+                8. Ending Class B Principal Balance                                                          $34,542,035.33
+
+I. Total Principal paid to Class B Notes                                                                      $1,123,832.56
+
+J. Class C Principal Distribution Amount
+                1. Beginning Class C Principal Balance                                                       $10,496,351.06
+                2. Class C Monthly Principal                                                                    $330,740.33
+
+
+</TABLE>
+
+                                  Page 4 of 8
+<PAGE>
+
+                   NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A
+        $178,000,000 1.10% Automobile Loan Pass-Through Notes, Class A-1
+        $197,000,000 1.50% Automobile Loan Pass-Through Notes, Class A-2
+        $240,000,000 2.11% Automobile Loan Pass-Through Notes, Class A-3
+        $200,020,000 2.88% Automobile Loan Pass-Through Notes, Class A-4
+          $36,650,000 2.45% Automobile Loan Pass-Through Notes, Class B
+          $10,785,978 2.99% Automobile Loan Pass-Through Notes, Class C
+                       Monthly Servicer Certificate Report
+
+<TABLE>
+<S>                                                                                                       <C>
+- --------------------------------------------------------------------------------------------------------------------------------
+                3. Class C Principal Carryover Shortfall                                                              $0.00
+                4. Total Class C Principal Distribution Amount                                                  $330,740.33
+                5. Payment of Class C Principal Distribution Amount from Available Collections                  $330,740.33
+                6. Payment of Class C Principal Distribution Amount from Reserve Account                              $0.00
+                7. Class C Principal Carryover Shortfall for the Period                                               $0.00
+                8. Ending Class C Principal Balance                                                          $10,165,610.73
+
+K. Total Principal paid to Class C Notes                                                                        $330,740.33
+
+L. Total Principal paid from Reserve Account                                                                          $0.00
+
+M. Remaining Available Collections                                                                            $1,235,653.38
+
+VIII.  Required Reserve Account Amount for Next Distribution Date
+A.  Reserve Account Required Amount.
+                Required Amount is equal to the lesser of:                                                            $0.00
+                 - 1.250% of Initial Pool Balance; and
+
+                 - the greater of 1.00% of Initial Pool Balance, and 2.00% of
+                 Current Pool Balance; and - the Ending Note Balance
+
+B.  Required Reserve Account Amount for Next Period                                                                   $0.00
+
+C. Remaining Available Collections                                                                            $1,235,653.38
+
+D. Reserve Account Activity
+                1. Beginning Reserve Account Balance                                                         $10,780,699.73
+                2. Withdrawal from Reserve Account to pay Servicer Advance                                            $0.00
+                3. Withdrawal from Reserve Account to pay Servicing Fee                                               $0.00
+                4. Withdrawal from Reserve Account to pay Class A Interest                                            $0.00
+                5. Withdrawal from Reserve Account to pay Class B Interest                                            $0.00
+                6. Withdrawal from Reserve Account to pay Class C Interest                                            $0.00
+                7. Withdrawal from Reserve Account to pay Class A Principal                                           $0.00
+                8. Withdrawal from Reserve Account to pay Class B Principal                                           $0.00
+                9. Withdrawal from Reserve Account to pay Class C Principal                                           $0.00
+                10. Deposit from Remaining Available Collections to fund Reserve Account                              $0.00
+                11. Residual Cashflow to Certificate Holder                                                   $1,235,653.38
+                12. Ending Reserve Account Balance                                                           $10,780,699.73
+
+IX. Delinquency and Default Information
+A.  Automobiles Delinquency Information
+                Delinquency                                                                                       Principal
+                 0  -29 days (Current)                                                                      $636,115,991.33
+                30  -59 days                                                                                  $6,261,833.31
+                60  -89 days                                                                                  $1,636,711.26
+                91-119 days                                                                                     $958,220.69
+                120+ days                                                                                       $115,990.72
+                Total                                                                                         $8,972,755.98
+
+                Delinquency                                                                                           Units
+                 0  -29 days (Current)                                                                               45,938
+                30  -59 days                                                                                            411
+                60  -89 days                                                                                            108
+                91-119 days                                                                                              66
+                120+ days                                                                                                11
+                Total                                                                                                   596
+
+B.  Delinquency Percentage
+                1. Outstanding Principal Balance for Delinquency >=60 days                                    $2,710,922.67
+                2. Portfolio Principal Ending Balance for Collection Period                                 $645,088,747.31
+                3. Delinquency Percentage (1/2)                                                                       0.42%
+
+C. Automobiles Default Information
+                1. Aggregate Principal Balance for Defaulted Receivables                                      $5,977,098.92
+                2. Number of Current Defaulted Loans                                                                     75
+                3. Aggregate Number of Defaulted Loans                                                                  400
+                4. Current Default Percentage (Annualized)                                                            1.58%
+
+</TABLE>
+
+                                  Page 5 of 8
+<PAGE>
+
+                   NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A
+        $178,000,000 1.10% Automobile Loan Pass-Through Notes, Class A-1
+        $197,000,000 1.50% Automobile Loan Pass-Through Notes, Class A-2
+        $240,000,000 2.11% Automobile Loan Pass-Through Notes, Class A-3
+        $200,020,000 2.88% Automobile Loan Pass-Through Notes, Class A-4
+          $36,650,000 2.45% Automobile Loan Pass-Through Notes, Class B
+          $10,785,978 2.99% Automobile Loan Pass-Through Notes, Class C
+                       Monthly Servicer Certificate Report
+<TABLE>
+<S>                                                                                                       <C>
+- --------------------------------------------------------------------------------------------------------------------------------
+X.  Portfolio Average Delinquency Ratio
+A.  Delinquency Ratio for 2 Collection Periods Prior                                                                  0.33%
+B.  Delinquency Ratio for Prior Collection Period                                                                     0.38%
+C.  Delinquency Ratio for Current Collection Period                                                                   0.42%
+D.  Average Delinquency Ratio ((sum A through C) / 3)                                                                 0.38%
+
+XI.  Portfolio Average Net Loss Ratio
+                1.  Principal Recoveries of Defaulted Receivable                                                $305,141.78
+                2.  Principal Balance of Defaulted Receivable                                                 $1,133,952.75
+                3.  Average Pool Balance for Collection Period                                              $655,582,797.96
+                4.  Net Loss Ratio ((2 - 1) / #3)                                                                     1.52%
+                5.  Cumulative Net Principal Loss                                                             $4,024,282.37
+                6.  Cumulative Net Loss Ratio                                                                         0.47%
+
+A.  Net Loss Ratio for 2 Collection Periods Prior                                                                     0.96%
+B.  Net Loss Ratio for Prior Collection Period                                                                        1.23%
+C.  Net Loss Ratio for Current Collection Period                                                                      1.52%
+D.  Average Net Loss Ratio ((sum A through C) / 3)                                                                    1.24%
+
+XII.  Portfolio Information
+A.  Weighted Average APR                                                                                             6.770%
+B.  Weighted Average Remaining Term                                                                                      51
+C.  Weighted Average Original Term                                                                                       64
+D   Monthly Prepayment Speed (% ABS)                                                                                  1.20%
+E.  Cumulative Prepayment Speed (% ABS)                                                                               1.18%
+</TABLE>
+
+
+
+                                  Page 6 of 8
+<PAGE>
+
+
+
+
+                   NATIONAL CITY AUTO RECEIVABLES TRUST 2004-A
+        $178,000,000 1.10% Automobile Loan Pass-Through Notes, Class A-1
+        $197,000,000 1.50% Automobile Loan Pass-Through Notes, Class A-2
+        $240,000,000 2.11% Automobile Loan Pass-Through Notes, Class A-3
+        $200,020,000 2.88% Automobile Loan Pass-Through Notes, Class A-4
+          $36,650,000 2.45% Automobile Loan Pass-Through Notes, Class B
+          $10,785,978 2.99% Automobile Loan Pass-Through Notes, Class C
+                       Monthly Servicer Certificate Report
+
+<TABLE>
+<S>                                                                                                       <C>
+- --------------------------------------------------------------------------------------------------------------------------------
+1)  Class A-1 Principal                                                                                               $0.00
+      Principal Factor                                                                                            0.0000000
+
+2)  Class A-1 Interest                                                                                                $0.00
+      Interest Factor                                                                                             0.0000000
+                Total per each individual Class A-1 Note                                                              $0.00
+
+3)  Class A-2 Principal                                                                                      $19,533,528.41
+      Principal Factor                                                                                            0.1085832
+
+4)  Class A-2 Interest                                                                                          $224,868.29
+      Interest Factor                                                                                             0.0012500
+                Total per each individual Class A-2 Note                                                            $100.30
+
+5)  Class A-3 Principal                                                                                               $0.00
+      Principal Factor                                                                                            0.0000000
+
+6)  Class A-3 Interest                                                                                          $422,000.00
+      Interest Factor                                                                                             0.0017583
+                Total per each individual Class A-3 Note                                                              $1.76
+
+7)  Class A-4 Principal                                                                                               $0.00
+      Principal Factor                                                                                            0.0000000
+
+8)  Class A-4 Interest                                                                                          $480,048.00
+      Interest Factor                                                                                             0.0024000
+                Total per each individual Class A-4 Note                                                              $2.40
+
+9)  Class B Principal                                                                                         $1,123,832.56
+      Principal Factor                                                                                            0.0315100
+
+10)  Class B Interest                                                                                            $72,817.81
+        Interest Factor                                                                                           0.0020417
+                Total per each individual Class B Note                                                               $32.65
+
+11)  Class C Principal                                                                                          $330,740.33
+        Principal Factor                                                                                          0.0315100
+
+12)  Class C Interest                                                                                            $26,153.41
+        Interest Factor                                                                                           0.0024917
+                Total per each individual Class C Note                                                               $33.09
+
+13) Fees and Compensation paid to Servicer
+                (a)  Total                                                                                      $555,064.04
+                (b)  Per individual Class A, Class B and Class C Note                                               $555.06
+
+14)  The amount deposited into the Reserve Account                                                                    $0.00
+
+15) Aggregate Unreimbursed Advances
+                This Month                                                                                            $0.00
+                Previous Month                                                                                        $0.00
+                Change From Previous Month                                                                            $0.00
+
+16)  (a)  Pool Balance after this payment                                                                   $645,088,747.31
+     (b)  Pool Factor after this payment                                                                          0.7479672
+     (c)  Pool survival factor after this payment                                                                 0.8766509
+
+17)  (a) Available Reserve Account Amount                                                                    $10,780,699.73
+     (b) Percent of Pool Balance                                                                                      1.62%
+
+18)  Required Reserve Account Amount                                                                                  $0.00
+
+19)  Payment to Certificateholders                                                                            $1,235,653.38
+
+</TABLE>
+
+                                  Page 7 of 8
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

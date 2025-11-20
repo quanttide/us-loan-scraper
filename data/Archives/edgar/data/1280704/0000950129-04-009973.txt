@@ -1,0 +1,1383 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MClWYcAmSfTsDmLx9VQTug2hKhpdjfL+YFGIKX+PEJBcyuQ5xBSpSP1Nzk+ALODG
+ 1xqnNRxe+rWSKXeE2NWjZA==
+
+<SEC-DOCUMENT>0000950129-04-009973.txt : 20041221
+<SEC-HEADER>0000950129-04-009973.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041221134814
+ACCESSION NUMBER:		0000950129-04-009973
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WFS FINANCIAL 2004-1 OWNER TRUST
+		CENTRAL INDEX KEY:			0001280704
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-106760-01
+		FILM NUMBER:		041216590
+
+	BUSINESS ADDRESS:	
+		STREET 1:		444 E WARM SPRINGS ROAD #116
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>v04112e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>WFS Financial 2004-1 Owner Trust - 12-20-2004</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+<P align="center"><FONT size="4"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</FONT>
+<DIV align="center"><FONT size="3"><B>WASHINGTON, D.C. 20549</B>
+</FONT></DIV>
+
+<P>
+<HR size="1" noshade width="26%">
+
+<P align="center"><FONT size="5"><B>FORM 8-K</B>
+</FONT>
+<P align="center"><FONT size="3"><B>CURRENT REPORT</B>
+</FONT>
+<P align="center"><FONT size="3"><B>PURSUANT TO SECTION 13 OR 15(d) of the</B>
+</FONT>
+<P align="center"><FONT size="3"><B>SECURITIES EXCHANGE ACT OF 1934</B>
+</FONT>
+<P align="left"><FONT size="2">Date of Report (Date earliest event
+reported): December&nbsp;20, 2004
+</FONT>
+<P align="center"><FONT size="6">WFS Financial 2004-1 Owner Trust
+</FONT>
+<HR size="1" noshade width="65%">
+
+<DIV align="center"><FONT size="2">(Exact name of registrant as specified in charter)
+</FONT></DIV>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="85%">
+<TR valign="bottom">
+    <TD width="36%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="27%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="27%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><FONT size="2"><B>Delaware</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2">
+<B>333-106760-01</B>
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2"><B>05-0576204</B></FONT></TD>
+</TR>
+<TR>
+    <TD align="center" valign="top"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2">
+<HR size="1" noshade>
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><FONT size="2">(State or other jurisdiction<BR>
+of incorporation)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2">
+(Commission<BR>
+file number)
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2">(IRS employer<BR>
+identification no.)</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="85%">
+<TR valign="bottom">
+    <TD width="60%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><FONT size="2">c/o WFS Receivables Corporation 4 (as Originator of the Trust)<BR>
+444 East Warm Springs Road # 116</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><FONT size="2">Las Vegas, Nevada</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2">
+89119</FONT></TD>
+</TR>
+<TR>
+    <TD align="center" valign="top"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2">
+<HR size="1" noshade></FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><FONT size="2">(Address of principal executive offices)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="center" valign="top"><FONT size="2">
+(Zip code)</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P align="left"><FONT size="2">Registrant&#146;s telephone number, including area code: (702)&nbsp;407-4317
+</FONT>
+<P align="left"><FONT size="2">This filing relates to Registration
+Statement No.&nbsp;333-106760-01
+</FONT>
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions:
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+<P align="center"><FONT size="2">&nbsp;</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">ITEM 8.01. OTHER EVENTS</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">ITEM 9.01. FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">INDEX TO EXHIBITS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="v04112exv20w1.txt">Exhibit 20.1</A></TD></TR>
+<TR><TD colspan="9"><A HREF="v04112exv20w2.txt">Exhibit 20.2</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+
+
+
+<!-- link2 "ITEM 8.01. OTHER EVENTS" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left"><FONT size="2"><B>ITEM 8.01. OTHER EVENTS</B>
+</FONT>
+
+<P align="left"><FONT size="2">On December&nbsp;30, 2003, the Commission declared effective a Registration Statement
+on Form&nbsp;S-3 (File No.&nbsp;333-106760) under the Securities Act of 1933, as amended
+(the &#147;Securities Act&#148;), providing for the issuance by the Originator of several
+series of asset-backed securities through a series of trusts to be originated
+by the Originator. The WFS Financial 2004-1 Owner Trust (the &#147;Trust&#148;) is one of
+the trusts to be so originated and the Trust issued the following securities,
+consisting of Auto Receivable Backed Notes in seven classes, pursuant to a
+prospectus dated as of February&nbsp;9, 2004 consisting of a prospectus supplement and
+base prospectus (the &#147;Prospectus&#148;):
+</FONT>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="55%">
+<TR valign="bottom">
+    <TD width="100%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">$222,000,000 1.08% Class&nbsp;A-1 Notes</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">$555,000,000 1.51% Class&nbsp;A-2 Notes</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">$200,000,000 2.19% Class&nbsp;A-3 Notes</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">$331,750,000 2.81% Class&nbsp;A-4 Notes</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">$&nbsp;&nbsp;56,250,000 2.34% Class&nbsp;B Notes</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">$&nbsp;&nbsp;63,750,000 2.49% Class&nbsp;C Notes</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">$&nbsp;&nbsp;48,750,000 3.17% Class&nbsp;D Notes</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P align="left"><FONT size="2">The Class&nbsp;A-1 Notes, Class&nbsp;A-2 Notes, Class&nbsp;A-3 Notes, Class&nbsp;A-4 Notes, Class&nbsp;B
+Notes, Class&nbsp;C Notes and Class&nbsp;D Notes (the &#147;Notes&#148;) were issued by the Trust
+on February&nbsp;27, 2004. The Notes are secured by the assets of the Trust. The Notes
+were issued in fully-registered form in denominations of $1,000 and integral
+multiples thereof. As more fully described in the Prospectus, the assets of the
+Trust include (i)&nbsp;a pool of retail installment contracts secured by liens on
+new and pre-owned automobiles and light trucks (&#147;Contracts&#148;) and (ii)&nbsp;certain
+accounts maintained by the Trustee on behalf of the Trust, including all
+investments held thereby and all income from the investment of funds therein
+and all proceeds therefrom. The Trust did not issue any certificates
+representing ownership interests in the assets of the Trust pursuant to the
+Prospectus, but did issue certificates to the Originator. The certificates
+issued to the Originator are not registered pursuant to the Registration
+Statement, as amended.
+</FONT>
+<P align="left"><FONT size="2">Pursuant to the Sale and Servicing Agreement (&#147;Agreement&#148;) entered into by and
+among the Trust, WFS Financial Inc (the &#147;Master Servicer&#148;) and the Originator
+of the Trust, the Indenture Trustee will deliver to each Noteholder with
+respect to each monthly distribution to holders of the Notes a statement (the
+&#147;Statement to Securityholders&#148;) setting forth certain current information
+required by the Agreement. In addition, and also as required by the Agreement,
+the Master Servicer is required to provide to both the Indenture Trustee and
+the Owner Trustee a report regarding the assets of the Trust and the proceeds
+received by it therefrom as to the monthly reporting period preceding each
+Distribution Date (the &#147;Distribution Date Statement&#148;). Copies of the Statement
+to Securityholders and the Distribution Date Statement with respect
+to the December&nbsp;20, 2004 Distribution Date are filed herewith as Exhibits 20.1 and 20.2,
+respectively, and are incorporated herein by this reference. Pursuant to the
+Agreement, proceeds of the Contracts and other funds received in the amount of
+$66,509,048.27 were invested by the Indenture Trustee during the Due Period
+with respect to the current Distribution Date in the
+</FONT>
+<P align="center"><FONT size="2">Page 2</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<P align="left"><FONT size="2">Reinvestment Contract entered into among Western Financial Bank, WFS Financial
+Auto Loans 2, Inc. and the Indenture Trustee (the &#147;RIC&#148;), or as otherwise
+required by the Agreement, and $66,509,048.27 was distributed from the RIC or
+otherwise to the Indenture Trustee for distribution to the holders of the Notes
+and as otherwise required by the Indenture applicable to the Trust and the
+Agreement on the current Distribution Date.
+</FONT>
+<P align="left"><FONT size="2">No matters occurred within the period as to which this Current Report on Form
+8-K relates that would be reportable under Items 1 through 5 of Part II of Form
+10-Q.
+</FONT>
+<!-- link2 "ITEM 9.01. FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+<P align="left"><FONT size="2"><B>ITEM 9.01. FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS</B>
+</FONT>
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<TR valign="top">
+    <TD width="1%" align="left" nowrap><FONT size="2">(c)</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="96%"><FONT size="2">Exhibits</FONT></TD>
+</TR>
+</TABLE>
+<P align="left"><FONT size="2">The exhibits listed on the Exhibit&nbsp;Index on page 5 of this Form&nbsp;8-K are filed
+herewith.
+</FONT>
+<P align="center"><FONT size="2">Page 3</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+<P align="center"><FONT size="2"><B>SIGNATURES</B>
+</FONT>
+
+<P align="left"><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+</FONT>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left" valign="top"><FONT size="2">WFS
+FINANCIAL 2004-1 OWNER TRUST</FONT></TD>
+</TR>
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+By:
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">WFS Financial Inc<BR>
+as Master Servicer</FONT></TD>
+</TR>
+
+
+<TR>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+<TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR><TD><FONT size="2">&nbsp;</FONT></TD></TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">Date: December&nbsp;20, 2004</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+<TD colspan="3" align="left" valign="top"><FONT size="2">/s/ J.&nbsp;KEITH PALMER
+<HR size="1" noshade width="60%"></FONT><FONT size="2">
+J. Keith Palmer, Senior Vice President and<BR>
+Treasurer</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<P align="center"><FONT size="2">Page 4</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+<!-- link1 "INDEX TO EXHIBITS" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+<P align="center"><FONT size="2"><B>INDEX TO EXHIBITS</B>
+</FONT>
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="65%">
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="79%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="center"><FONT size="1"><B>Exhibit No.</B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center"><FONT size="1"><B>Description</B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center"><FONT size="1"><B>Page</B></FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="center"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">20.1</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Statement to Securityholders as to the December&nbsp;20, 2004
+Distribution Date
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&#151;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2">20.2</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">
+Distribution Date Statement dated as of November&nbsp;30, 2004
+for the December&nbsp;20, 2004 Distribution Date
+</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&#151;</FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<P align="center"><FONT size="2">Page 5</FONT>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-20.1
+<SEQUENCE>2
+<FILENAME>v04112exv20w1.txt
+<DESCRIPTION>EXHIBIT 20.1
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 20.1
+
+
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class A-1
+
+
+<TABLE>
+<S>                                                                                      <C>
+Original Principal Balance                                                               222,000,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                  <C>                       <C>                   <C>
+              Principal Amount of Notes as of Prior Distribution Date                              0.00                   0.000000
+
+              Principal Amount of Notes as of Current Distribution Date                            0.00                   0.000000
+
+                                        Pool Factor                                            0.000000
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount                      0.00                                       0.000000
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                             0.00                                       0.000000
+
+              Principal Distribution Amount                                    0.00                                       0.000000
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                       0.00                                       0.000000
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                              0.00                                       0.000000
+
+              Interest Distribution Amount                                     0.00                                       0.000000
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class A-2
+
+<TABLE>
+<S>                                                                                      <C>
+Original Principal Balance                                                               555,000,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                    PER $1000
+                                                                                                                    ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS              BALANCE
+<S>                                                                <C>                   <C>                         <C>
+              Principal Amount of Notes as of Prior Distribution Date                    361,658,861.15                651.637588
+
+              Principal Amount of Notes as of Current Distribution Date                  323,133,209.15                582.221998
+
+                                        Pool Factor                                            0.582222
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount             38,525,652.00                                     69.415589
+              Plus: Prior Principal Carryover                                  0.00                                      0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                    38,525,652.00                                     69.415589
+
+              Principal Distribution Amount                           38,525,652.00                                     69.415589
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                  0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 455,087.40                                      0.819977
+              Plus: Prior Interest Carryover                                   0.00                                      0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        455,087.40                                      0.819977
+
+              Interest Distribution Amount                               455,087.40                                      0.819977
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                  0.000000
+
+
+                                                                                                                 BA9 - SUM OF(4:6)
+                                                                                                                    AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                           ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                      0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class A-3
+
+
+
+<TABLE>
+<S>                                                                                      <C>
+Original Principal Balance                                                               200,000,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                <C>                   <C>                         <C>
+              Principal Amount of Notes as of Prior Distribution Date                    200,000,000.00                1000.000000
+
+              Principal Amount of Notes as of Current Distribution Date                  200,000,000.00                1000.000000
+
+                                        Pool Factor                                            1.000000
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount                      0.00                                       0.000000
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                             0.00                                       0.000000
+
+              Principal Distribution Amount                                    0.00                                       0.000000
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 365,000.00                                       1.825000
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        365,000.00                                       1.825000
+
+              Interest Distribution Amount                               365,000.00                                       1.825000
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+<PAGE>
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class A-4
+
+
+
+<TABLE>
+<S>                                                                                      <C>
+Original Principal Balance                                                               331,750,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                <C>                   <C>                         <C>
+              Principal Amount of Notes as of Prior Distribution Date                    331,750,000.00                1000.000000
+
+              Principal Amount of Notes as of Current Distribution Date                  331,750,000.00                1000.000000
+
+                                        Pool Factor                                            1.000000
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount                      0.00                                       0.000000
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                             0.00                                       0.000000
+
+              Principal Distribution Amount                                    0.00                                       0.000000
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 776,847.92                                       2.341667
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        776,847.92                                       2.341667
+
+              Interest Distribution Amount                               776,847.92                                       2.341667
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class B-1
+
+
+<TABLE>
+<S>                                                                                       <C>
+Original Principal Balance                                                                56,250,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                <C>                    <C>                        <C>
+              Principal Amount of Notes as of Prior Distribution Date                     46,254,579.61                 822.303638
+
+              Principal Amount of Notes as of Current Distribution Date                   44,259,985.74                 786.844191
+
+                                        Pool Factor                                            0.786844
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount              1,994,593.87                                      35.459447
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                     1,994,593.87                                      35.459447
+
+              Principal Distribution Amount                            1,994,593.87                                      35.459447
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                  90,196.43                                       1.603492
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                         90,196.43                                       1.603492
+
+              Interest Distribution Amount                                90,196.43                                       1.603492
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class C-1
+
+
+
+<TABLE>
+<S>                                                                                       <C>
+Original Principal Balance                                                                63,750,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                       PER $1000
+                                                                                                                       ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS                 BALANCE
+<S>                                                                 <C>                   <C>                          <C>
+              Principal Amount of Notes as of Prior Distribution Date                     52,436,575.94                   822.534525
+
+              Principal Amount of Notes as of Current Distribution Date                   50,175,401.50                   787.065122
+
+                                        Pool Factor                                            0.787065
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount              2,261,174.44                                        35.469403
+              Plus: Prior Principal Carryover                                  0.00                                         0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                     2,261,174.44                                        35.469403
+
+              Principal Distribution Amount                            2,261,174.44                                        35.469403
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                     0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 108,805.90                                         1.706759
+              Plus: Prior Interest Carryover                                   0.00                                         0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        108,805.90                                         1.706759
+
+              Interest Distribution Amount                               108,805.90                                         1.706759
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                     0.000000
+
+
+                                                                                                                       PER $1000
+                                                                                                                       AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                              ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                         0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class D-1
+
+
+
+
+<TABLE>
+<S>                                                                                       <C>
+Original Principal Balance                                                                48,750,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                <C>                    <C>                        <C>
+              Principal Amount of Notes as of Prior Distribution Date                     40,072,583.29                 822.001709
+
+              Principal Amount of Notes as of Current Distribution Date                   38,344,569.99                 786.555282
+
+                                        Pool Factor                                            0.786555
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount              1,728,013.30                                      35.446427
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                     1,728,013.30                                      35.446427
+
+              Principal Distribution Amount                            1,728,013.30                                      35.446427
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 105,858.41                                       2.171455
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        105,858.41                                       2.171455
+
+              Interest Distribution Amount                               105,858.41                                       2.171455
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-20.2
+<SEQUENCE>3
+<FILENAME>v04112exv20w2.txt
+<DESCRIPTION>EXHIBIT 20.2
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 20.2
+
+
+
+
+[LOGO]  WFS FINANCIAL INC
+
+
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                           Distribution Date Statement
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+
+
+<TABLE>
+<CAPTION>
+COLLECTIONS
+                                                                                                                    DOLLARS
+<S>                                                                             <C>                               <C>
+Payments received                                                                                                     55,331,787.89
+                  Plus / (Less) :
+                                     Net Servicer Advances                                                                26,641.50
+                                     Investment Earnings on
+                                       funds in the Collection Account                                                    94,373.49
+                                                                                                                  ------------------
+Total Available Funds                                                                                                 66,509,048.27
+                                                                                                                  ==================
+
+
+DISTRIBUTIONS
+
+
+                  Servicing Fee                                                                        1,149,925.00
+                  Trustee and Other Fees                                                                   3,440.58
+                                                                                                 -------------------
+
+Total Fee Distribution                                                                                                 1,153,365.58
+
+                  Note Interest Distribution Amount - Class A-1                             0.00
+                  Note Interest Distribution Amount - Class A-2                       455,087.40
+                  Note Interest Distribution Amount - Class A-3                       365,000.00
+                  Note Interest Distribution Amount - Class A-4                       776,847.92
+                                                                                -----------------
+                                                                                    1,596,935.32
+
+                  Note Principal Distribution Amount - Class A-1                            0.00
+                  Note Principal Distribution Amount - Class A-2                   38,525,652.00
+                  Note Principal Distribution Amount - Class A-3                            0.00
+                  Note Principal Distribution Amount - Class A-4                            0.00
+                                                                                -----------------
+                                                                                   38,525,652.00
+Total Class A Interest and Principal Distribution                                                                     40,122,587.32
+
+                  Note Interest Distribution Amount - Class B-1                        90,196.43
+                  Note Principal Distribution Amount - Class B-1                    1,994,593.87
+                                                                                -----------------
+
+Total Class B Interest and Principal Distribution                                                                      2,084,790.30
+
+                  Note Interest Distribution Amount - Class C-1                       108,805.90
+                  Note Principal Distribution Amount - Class C-1                    2,261,174.44
+                                                                                -----------------
+
+Total Class C Interest and Principal Distribution                                                                      2,369,980.34
+
+                  Note Interest Distribution Amount - Class D-1                       105,858.41
+                  Note Principal Distribution Amount - Class D-1                    1,728,013.30
+                                                                                -----------------
+
+Total Class D Interest and Principal Distribution                                                                      1,833,871.71
+
+                  Spread Account Deposit                                                                              18,944,453.02
+                                                                                                                  ------------------
+
+
+Total Distributions                                                                                                   66,509,048.27
+                                                                                                                  ==================
+</TABLE>
+
+<PAGE>
+
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                           Distribution Date Statement
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+
+<TABLE>
+<CAPTION>
+PORTFOLIO DATA:
+                                                                          # of loans
+<S>                                                                       <C>                <C>               <C>
+      Beginning Aggregate Principal Balance                                         78,265                     1,103,927,914.43
+
+          Less:                      Principal Payments                                        (20,401,658.54)
+                                     Full Prepayments                               (2,181)    (20,160,728.76)
+                                     Partial Prepayments                                 -                  -
+                                     Liquidations                                     (530)     (7,041,285.01)
+                                                                                             -----------------
+                                                                                                                 (47,603,672.31)
+                                                                                                               -----------------
+      Ending Aggregate Principal Balance                                            75,554                     1,056,324,242.12
+                                                                                                               =================
+
+Ending Outstanding Principal Balance of Notes                                                                    987,663,166.38
+Overcollateralization Amount                                                                                      68,661,075.74
+Overcollateralization Level                                                                                               6.50%
+
+OTHER RELATED INFORMATION:
+
+Spread Account:
+
+                  Beginning Balance                                                             11,039,279.14
+                        Investment earnings on funds in spread account                              16,966.25
+                        Less: Funds included in Total Available Funds                          (11,056,245.39)
+                        Deposits                                                                18,944,453.02
+                        Reductions                                                              (8,381,210.60)
+                                                                                             -----------------
+                  Ending Balance                                                                                  10,563,242.42
+
+                  Beginning Initial Deposit                                                     10,029,910.96
+                        Repayments                                                              (8,381,210.60)
+                                                                                             -----------------
+                  Ending Initial Deposit                                                                           1,648,700.36
+
+
+Modified Accounts:
+                  Principal Balance                                                                         -                 -
+                  Scheduled Balance                                                                         -                 -
+
+Servicer Advances:
+                  Beginning Unreimbursed Advances                                                  944,177.45
+                  Net Advances                                                                      26,641.50
+                                                                                             -----------------
+                                                                                                                     970,818.95
+
+Net Charge-Off Data:
+                  Charge-Offs                                                                    9,774,003.87
+                  Recoveries                                                                    (2,037,654.77)
+                                                                                             -----------------
+                  Net Charge-Offs                                                                                  7,736,349.10
+
+Delinquencies ( P&I):                                                     # of loans
+                  30-59 Days                                                         1,564      14,072,735.96
+                  60-89 Days                                                           403       3,757,934.99
+                  90-119 Days                                                          146       1,223,164.77
+                  120 days and over                                                      3          43,927.39
+
+Repossessions                                                                          103         880,934.94
+
+Contracts Repurchased (pursuant to Sect. 3.02, 4.07, or
+  9.01 of the Sale and Servicing Agreement)                                            200                         2,729,526.90
+
+Cumulative Charge-Off Percentage                                                                                          0.52%
+
+WAC                                                                                                                    10.6457%
+WAM                                                                                                                      54.456
+</TABLE>
+
+
+<PAGE>
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                           Distribution Date Statement
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+
+
+<TABLE>
+<CAPTION>
+===========================================================================================================
+                              BEGINNING        NOTE MONTHLY                   TOTAL
+         ORIGINAL            OUTSTANDING        PRINCIPAL       PRIOR       PRINCIPAL         PRINCIPAL
+         PRINCIPAL            PRINCIPAL       DISTRIBUTABLE   PRINCIPAL   DISTRIBUTABLE     DISTRIBUTION
+CLASSES   BALANCE              BALANCE            AMOUNT      CARRYOVER      AMOUNT            AMOUNT
+===========================================================================================================
+<S>     <C>                <C>                <C>             <C>        <C>                <C>
+A-1     222,000,000.00               0.00             0.00       0.00             0.00                0.00
+
+
+A-2     555,000,000.00     361,658,861.15    38,525,652.00       0.00    38,525,652.00       38,525,652.00
+
+
+A-3     200,000,000.00     200,000,000.00             0.00       0.00             0.00                0.00
+
+
+A-4     331,750,000.00     331,750,000.00             0.00       0.00             0.00                0.00
+
+
+B-1      56,250,000.00      46,254,579.61     1,994,593.87       0.00     1,994,593.87        1,994,593.87
+
+
+C-1      63,750,000.00      52,436,575.94     2,261,174.44       0.00     2,261,174.44        2,261,174.44
+
+
+D-1      48,750,000.00      40,072,583.29     1,728,013.30       0.00     1,728,013.30        1,728,013.30
+===========================================================================================================
+
+TOTAL 1,477,500,000.00   1,032,172,599.99    44,509,433.61       0.00    44,509,433.61       44,509,433.61
+===========================================================================================================
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+====================================================
+                        REMAINING         TOTAL
+           CURRENT     OUTSTANDING      PRINCIPAL
+          PRINCIPAL     PRINCIPAL     AND INTEREST
+CLASSES   CARRYOVER      BALANCE      DISTRIBUTION
+====================================================
+<S>       <C>        <C>              <C>
+A-1         0.00               0.00            0.00
+
+
+A-2         0.00     323,133,209.15   38,980,739.40
+
+
+A-3         0.00     200,000,000.00      365,000.00
+
+
+A-4         0.00     331,750,000.00      776,847.92
+
+
+B-1         0.00      44,259,985.74    2,084,790.30
+
+
+C-1         0.00      50,175,401.50    2,369,980.34
+
+
+D-1         0.00      38,344,569.99    1,833,871.71
+====================================================
+
+TOTAL       0.00     987,663,166.38   46,411,229.67
+====================================================
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+=====================================================================================================================
+                      NOTE MONTHLY                    TOTAL
+                        INTEREST         PRIOR        INTEREST        INTEREST      CURRENT     DEFICIENCY    POLICY
+NOTE     INTEREST    DISTRIBUTABLE      INTEREST   DISTRIBUTABLE    DISTRIBUTION   INTEREST       CLAIM        CLAIM
+CLASSES    RATE         AMOUNT        CARRYOVER       AMOUNT          AMOUNT       CARRYOVER      AMOUNT      AMOUNT
+======================================================================================================================
+<S>      <C>         <C>              <C>         <C>               <C>            <C>         <C>            <C>
+A-1      1.08000%           0.00          0.00            0.00            0.00        0.00        0.00         0.00
+
+A-2      1.51000%     455,087.40          0.00      455,087.40      455,087.40        0.00        0.00         0.00
+
+A-3      2.19000%     365,000.00          0.00      365,000.00      365,000.00        0.00        0.00         0.00
+
+A-4      2.81000%     776,847.92          0.00      776,847.92      776,847.92        0.00        0.00         0.00
+
+B-1      2.34000%      90,196.43          0.00       90,196.43       90,196.43        0.00        0.00         0.00
+
+C-1      2.49000%     108,805.90          0.00      108,805.90      108,805.90        0.00        0.00         0.00
+
+D-1      3.17000%     105,858.41          0.00      105,858.41      105,858.41        0.00        0.00         0.00
+====================================================================================================================
+
+TOTAL               1,901,796.06          0.00    1,901,796.06    1,901,796.06        0.00        0.00         0.00
+====================================================================================================================
+</TABLE>
+
+
+<PAGE>
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                              Officer's Certificate
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+
+Detailed Reporting
+
+     See Schedule F
+
+
+
+
+WFS Financial Inc, as Master Servicer, certifies that all computations presented
+reflect accurate information as of November 30, 2004 and were performed in
+conformity with the Sale and Servicing Agreement dated February 01, 2004.
+
+
+
+                                      ------------------------------------------
+                                      Lori Bice
+                                      Assistant Vice President
+                                      Director Technical Accounting
+
+
+
+
+
+                                      ------------------------------------------
+                                      Mark Olson
+                                      Vice President
+                                      Controller
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

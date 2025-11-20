@@ -1,0 +1,525 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ E8ZUoliicBTuqSpaXvIrAofjy1aD9knqd0u5kp0kJhpNTiPS0CsvKx5qAjXEs9Lh
+ G0NgSGRxmGTeWzAkp5cTfA==
+
+<SEC-DOCUMENT>0001051170-04-000748.txt : 20041229
+<SEC-HEADER>0001051170-04-000748.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229124803
+ACCESSION NUMBER:		0001051170-04-000748
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041227
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CENTEX HOME EQUITY LOAN TRUST 2004-A
+		CENTRAL INDEX KEY:			0001276936
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-105322-02
+		FILM NUMBER:		041230291
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2728 NORTH HARWOOD
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>centex2004a_dec04.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(D) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+
+        Date of Report (Date of earliest event reported) : December 27, 2004
+
+     CHEC FUNDING LLC, (as depositor under the Pooling and Servicing  Agreement,
+dated  January 1, 2004  providing  for the issuance of Centex Home Equity Loan
+Asset-Backed Certificates, Series 2004-A)
+
+                                CHEC FUNDING, LLC
+             on behalf of itself and the Trust described below with
+                      respect to which it is the depositor
+             (Exact name of registrant as specified in its charter)
+
+
+         Delaware                  333-105322-02                76-2851805
+     (State or other          (Commission File Number)       (IRS Employer
+     jurisdiction of                                       Identification No.)
+     incorporation)
+
+
+2728 North Harwood
+Dallas, Texas                                                      75201
+(Address of principal executive offices)                       (Zip Code)
+
+
+       Registrant's telephone number, including area code : (214) 981-5000
+
+                                       N/A
+         (Former name or former address, if changed since last report.)
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+     [] Written communications pursuant to Rule 425 under the Securities Act (17
+        CFR 230.425)
+
+     [] Soliciting  material  pursuant to Rule 14a-12(b)  under the Exchange Act
+        (17 CFR 240.14a-12(b))
+
+     [] Pre-commencement  communications  pursuant to Rule  14d-2(b)  under the
+        Exchange Act (17 CFR 240.14d-2(b))
+
+     [] Pre-commencement  communications  pursuant to Rule  13e-4(c)  under the
+        Exchange Act (17 CFR 240.13e-4(c))
+
+<page>
+
+
+
+Item 8.01.    Other Events.
+
+     This  current  report  on Form  8-K  relates  to the  monthly  distribution
+reported to the holders of Centex Home Equity Loan Trust 2004-A  pursuant to the
+terms of the Pooling and Servicing Agreement, dated as of January 1, 2004, among
+CHEC Funding,  LLC, as Depositor,  Centex Home Equity  Company,  LLC, as Seller,
+Harwood Street Funding II LLC, as Conduit  Seller,  Centex Home Equity  Company,
+LLC, as Servicer, and JPMorgan Chase Bank, as Trustee.
+
+     On December 27, 2004  distributions  were made to the  Certificateholders.
+Specific  information  with respect to these  distributions  is filed as Exhibit
+99.1.
+
+Item 9.01.    Financial Statements and Exhibits.
+
+           (a)   Not applicable
+
+           (b)   Not applicable
+
+           (c)   The following exhibit is filed as part of this report:
+
+                 Statement to Certificateholders on December 27, 2004
+                 as Exhibit 99.1.
+
+
+
+
+
+<page>
+
+CHEC FUNDING,LLC
+Centex Home Equity Loan Asset-Backed Certificates, Series 2004-A
+- -------------------------------------------------------------------------------
+
+
+SIGNATURE
+
+
+     Pursuant to the  requirements  of the Securities  Exchange Act of 1934, the
+     registrant  has duly  caused  this report to be signed on its behalf by the
+     undersigned hereunto duly authorized.
+
+                   JPMORGAN CHASE BANK, not in its individual capacity, but
+                   solely as Trustee under the Agreement referred to herein
+
+
+
+Date:  December 29, 2004          By:  /s/ Mark W. McDermott
+                                  --------------------------------------------
+                                Name:  Mark W. McDermott
+                                Title: Vice President
+
+
+
+
+
+
+
+<page>
+INDEX TO EXHIBITS
+
+
+      Exhibit
+      Number                  Description of Exhibits
+
+        99.1             Statement to Certificateholders December 27, 2004
+
+
+
+Exhibit 99.1
+Statement to Certificateholders December 27, 2004
+
+
+<table>
+
+                      Centex Home Equity Loan Trust 2004-A
+                         STATEMENT TO CERTIFICATEHOLDERS
+                                 December 27, 2004
+<s>       <c>       <c>
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                             DISTRIBUTION IN DOLLARS
+- ----------------------------------------------------------------------------------------------------------------------------------
+                ORIGINAL          BEGINNING                                                                                ENDING
+                    FACE          PRINCIPAL                                                 REALIZED     DEFERRED        PRINCIPAL
+CLASS              VALUE          BALANCE      PRINCIPAL       INTEREST       TOTAL         LOSSES       INTEREST        BALANCE
+- ----------------------------------------------------------------------------------------------------------------------------------
+AF_1     134,100,000.00     57,980,597.87     12,279,844.16     98,083.84    12,377,928.00     0.00      0.00       45,700,753.71
+AF_2      25,800,000.00     25,800,000.00              0.00     57,405.00        57,405.00     0.00      0.00       25,800,000.00
+AF_3      66,700,000.00     66,700,000.00              0.00    181,201.67       181,201.67     0.00      0.00       66,700,000.00
+AF_4      93,200,000.00     93,200,000.00              0.00    350,276.67       350,276.67     0.00      0.00       93,200,000.00
+AF_5       8,500,000.00      8,500,000.00              0.00     34,920.83        34,920.83     0.00      0.00        8,500,000.00
+AF_6      36,500,000.00     36,500,000.00              0.00    129,879.17       129,879.17     0.00      0.00       36,500,000.00
+AV_1      95,000,000.00     57,563,467.75      6,728,191.21    120,978.47     6,849,169.68     0.00      0.00       50,835,276.54
+AV_2     331,070,000.00    182,541,918.51     17,984,406.69    386,783.66    18,371,190.35     0.00      0.00      164,557,511.82
+M_1       59,370,000.00     59,370,000.00              0.00    142,157.39       142,157.39     0.00      0.00       59,370,000.00
+M_2       33,250,000.00     33,250,000.00              0.00     92,499.22        92,499.22     0.00      0.00       33,250,000.00
+M_3       19,000,000.00     19,000,000.00              0.00     56,128.92        56,128.92     0.00      0.00       19,000,000.00
+M_4       14,250,000.00     14,250,000.00              0.00     45,777.94        45,777.94     0.00      0.00       14,250,000.00
+M_5       14,250,000.00     14,250,000.00              0.00     48,232.11        48,232.11     0.00      0.00       14,250,000.00
+B         19,010,000.00     19,010,000.00              0.00     68,435.75        68,435.75     0.00      0.00       19,010,000.00
+R                  0.00              0.00              0.00          0.00             0.00     0.00      0.00                0.00
+TOTALS   950,000,000.00    687,915,984.13     36,992,442.06  1,812,760.64    38,805,202.70     0.00      0.00      650,923,542.07
+
+X_IO          14,405.44    703,102,080.10              0.00         14.61            14.61     0.00      0.00      668,468,525.65
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------------------------------- ------------------------
+             FACTOR INFORMATION PER $1,000 OF ORIGINAL FACE                                                    PASS-THROUGH RATES
+- --------------------------------------------------------------------------------------------------------- ------------------------
+                                                                                                                        CURRENT
+                       BEGINNING                                                               ENDING                   PASS-THRU
+CLASS     CUSIP        PRINCIPAL          PRINCIPAL        INTEREST          TOTAL            PRINCIPAL       CLASS       RATE
+- --------------------------------------------------------------------------------------------------------- ------------------------
+AF_1     152314HV5     432.36836592      91.57229053       0.73142312        92.30371365      340.79607539      AF_1    2.030000 %
+AF_2     152314HW3   1,000.00000000       0.00000000       2.22500000         2.22500000    1,000.00000000      AF_2    2.670000 %
+AF_3     152314HX1   1,000.00000000       0.00000000       2.71666672         2.71666672    1,000.00000000      AF_3    3.260000 %
+AF_4     152314HY9   1,000.00000000       0.00000000       3.75833337         3.75833337    1,000.00000000      AF_4    4.510000 %
+AF_5     152314HZ6   1,000.00000000       0.00000000       4.10833294         4.10833294    1,000.00000000      AF_5    4.930000 %
+AF_6     152314JA9   1,000.00000000       0.00000000       3.55833342         3.55833342    1,000.00000000      AF_6    4.270000 %
+AV_1     152314JB7     605.93123947      70.82306537       1.27345758        72.09652295      535.10817411      AV_1    2.440630 %
+AV_2     152314JC5     551.36955481      54.32206690       1.16828363        55.49035053      497.04748790      AV_2    2.460630 %
+M_1      152314JD3   1,000.00000000       0.00000000       2.39443136         2.39443136    1,000.00000000      M_1     2.780630 %
+M_2      152314JE1   1,000.00000000       0.00000000       2.78193143         2.78193143    1,000.00000000      M_2     3.230630 %
+M_3      152314JF8   1,000.00000000       0.00000000       2.95415368         2.95415368    1,000.00000000      M_3     3.430630 %
+M_4      152314JG6   1,000.00000000       0.00000000       3.21248702         3.21248702    1,000.00000000      M_4     3.730630 %
+M_5      152314JH4   1,000.00000000       0.00000000       3.38470947         3.38470947    1,000.00000000      M_5     3.930630 %
+B        152314JJ0   1,000.00000000       0.00000000       3.59998685         3.59998685    1,000.00000000      B       4.180630 %
+TOTALS                 724.12208856      38.93941269       1.90816909        40.84758179      685.18267586
+
+X_IO     N/A        ###############       0.00000000       1.01420019         1.01420019    ##############      X_IO    0.000000 %
+
+- --------------------------------------------------------------------------------------------------------- ------------------------
+
+
+IF THERE ARE ANY QUESTIONS OR PROBLEMS WITH THIS STATEMENT, PLEASE CONTACT THE ADMINISTRATOR LISTED BELOW:
+                    --------------------------------------------------
+                                  RYAN VAUGHN
+              JPMorgan Chase Bank - Structured Finance Services NY
+                           4 NEW YORK PLAZA FLR 6,
+                            New York, New York 10004
+                              Tel: (212) 623-4484
+                              Fax: (212) 623-5930
+                        Email: ryan.m.vaughn@jpmchase.com
+                    --------------------------------------------------
+
+<page>
+Sec. 7.09(ii)                           Distributions Allocable to Principal
+                                        Group I
+                                        Scheduled Monthly Payments                                                     385,772.63
+                                        Curtailments                                                                   269,770.93
+                                        Prepayments in Full                                                         10,841,254.91
+                                        Loans Repurchased by Seller                                                          0.00
+                                        Substitution Amounts                                                                 0.00
+                                        Net Liquidation Proceeds                                                             0.00
+
+                                        Group II
+                                        Scheduled Monthly Payments                                                      73,469.23
+                                        Curtailments                                                                   485,679.99
+                                        Prepayments in Full                                                          5,729,961.40
+                                        Loans Repurchased by Seller                                                          0.00
+                                        Substitution Amounts                                                                 0.00
+                                        Net Liquidation Proceeds                                                             0.00
+
+                                        Group III
+                                        Scheduled Monthly Payments                                                     229,516.39
+                                        Curtailments                                                                   344,429.84
+                                        Prepayments in Full                                                         16,193,023.18
+                                        Loans Repurchased by Seller                                                          0.00
+                                        Substitution Amounts                                                                 0.00
+                                        Net Liquidation Proceeds                                                        43,778.02
+
+                                        Subordination Increase Amount                                                2,395,785.54
+                                        Excess Overcollateralization Amount                                                  0.00
+
+Sec. 7.09(iv)                           Class Interest Carryover Shortfall
+                                        Class AF-1                                                                           0.00
+                                        Class AF-2                                                                           0.00
+                                        Class AF-3                                                                           0.00
+                                        Class AF-4                                                                           0.00
+                                        Class AF-5                                                                           0.00
+                                        Class AF-6                                                                           0.00
+                                        Class AV-1                                                                           0.00
+                                        Class AV-2                                                                           0.00
+                                        Class M-1                                                                            0.00
+                                        Class M-2                                                                            0.00
+                                        Class M-3                                                                            0.00
+                                        Class M-4                                                                            0.00
+                                        Class M-3                                                                            0.00
+                                        Class B                                                                              0.00
+
+
+
+Sec. 7.09(v)                            Class Principal Carryover Shortfall
+                                        Subordinate Certificates
+                                        Class M-1                                                                            0.00
+                                        Class M-2                                                                            0.00
+                                        Class M-3                                                                            0.00
+                                        Class M-4                                                                            0.00
+                                        Class M-5                                                                            0.00
+                                        Class B                                                                              0.00
+
+Sec. 7.09(vi)                           Aggregate Loan Balance of Each Group
+                                        Group I Beginning Aggregate Loan Balance                                   292,957,974.15
+                                        Group I Ending Aggregate Loan Balance                                      281,461,175.68
+
+                                        Group II Beginning Aggregate Loan Balance                                   91,997,655.95
+                                        Group II Ending Aggregate Loan Balance                                      85,708,545.33
+
+                                        Group III Beginning Aggregate Loan Balance                                 318,146,450.00
+                                        Group III Ending Aggregate Loan Balance                                    301,298,804.64
+
+Sec. 7.09(vii)                          Overcollateralization
+                                        Total Overcollateralization Amount                                          17,544,983.58
+                                        Total Required Overcollateralization Amount                                 23,750,360.14
+
+Sec. 7.09(viii)                         Internal Revenue Code Section 6049(d)(7)(C) Market Discount Information
+
+Sec. 7.09(ix)                           Substitution Amounts
+                                        Group I                                                                             0.00
+                                        Group II                                                                            0.00
+                                        Group III                                                                           0.00
+
+Sec. 7.09(ix)                           Loan Purchase Price Amounts
+                                        Group I                                                                             0.00
+                                        Group II                                                                            0.00
+                                        Group III                                                                           0.00
+
+Sec. 7.09(x)                            Weighted Average Net Coupon Rate
+                                        Group I                                                                         7.3163 %
+                                        Group II                                                                        6.3550 %
+                                        Group III                                                                       7.2993 %
+
+Sec. 7.09(xi)                           Monthly Remittance Amount
+                                        Group I                                                                    13,283,271.48
+                                        Group II                                                                    6,776,647.83
+                                        Group III                                                                  18,746,283.39
+
+Sec. 7.09(xi)                           Weighted Average Gross Margin
+                                        Group II Loans                                                                  7.1091 %
+                                        Group III Loans                                                                 8.1083 %
+
+
+
+Sec. 7.09(xiv)                          Largest Loan Balance
+                                        Group I                                                                       800,794.60
+                                        Group II                                                                      321,095.55
+                                        Group III                                                                     697,486.34
+
+Sec. 7.09(xv)                           Basic Principal Amount
+                                        Group I                                                                    11,496,798.47
+                                        Group II                                                                    6,289,110.62
+                                        Group III                                                                  16,810,747.43
+
+Sec. 7.09(xvi)                          Net Wac Cap Carryover Paid
+                                        Group I                                                                             0.00
+                                        Group II                                                                            0.00
+                                        Group III                                                                           0.00
+                                        Subordinate                                                                         0.00
+
+Sec. 7.09(xvi)                          Remaining Net Wac Cap Carryover
+                                        Group I                                                                             0.00
+                                        Group II                                                                            0.00
+                                        Group III                                                                           0.00
+                                        Subordinate                                                                         0.00
+
+Sec. 7.09(xviii)                        Net Wac Cap
+                                        Group I Net WAC Cap                                                               7.32 %
+                                        Group II Net WAC Cap                                                              6.15 %
+                                        Group III Net WAC Cap                                                             7.06 %
+                                        Subordinate Net WAC Cap                                                           6.88 %
+
+Sec. 7.09(xix)                          Applied Realized Loss Amounts
+                                        Subordinate Certificates
+                                        Class M-1                                                                           0.00
+                                        Class M-2                                                                           0.00
+                                        Class M-3                                                                           0.00
+                                        Class B                                                                             0.00
+
+Sec. 7.09(xx)                           Stepdown Date Has Not Occurred
+
+
+Sec. 7.09(b)(i)          Number and Aggregate Principal Amounts of Mortgage Loans in Delinquency (Includes Bankruptcies)
+                                      Group 1
+                                                                               Principal
+                                      Period                Number               Balance               Percentage
+                                     30-59 days                 94            6,738,065.09                   2.39 %
+                                     60-89 days                 29            1,957,038.21                   0.70 %
+                                     90+days                     6              238,552.65                   0.08 %
+                                     Total                     129            8,933,655.95                   3.17 %
+                                      Group 2
+                                                                               Principal
+                                      Period                Number               Balance               Percentage
+                                     30-59 days                 20            2,817,296.17                   3.29 %
+                                     60-89 days                  2              119,342.29                   0.14 %
+                                     90+days                     3              340,832.47                   0.40 %
+                                     Total                      25            3,277,470.93                   3.83 %
+                                      Group 3
+                                                                               Principal
+                                      Period                Number               Balance               Percentage
+                                     30-59 days                130           13,446,948.57                   4.46 %
+                                     60-89 days                 26            2,474,724.00                   0.82 %
+                                     90+days                     9              824,914.06                   0.27 %
+                                      Total                    165           16,746,586.63                   5.55 %
+                                      Group Totals
+                                                                               Principal
+                                      Period                Number               Balance               Percentage
+                                     30-59 days                244           23,002,309.83                   3.44 %
+                                     60-89 days                 57            4,551,104.50                   0.68 %
+                                     90+days                    18            1,404,299.18                   0.21 %
+                                      Total                    319           28,957,713.51                   4.33 %
+
+Sec. 7.09(b)(ii)                        Number and Aggregate Principal Amounts of Mortgage Loans in Foreclosure
+                                                                   Group 1
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       27            1,753,355.76                 0.62 %
+                                                                   Group 2
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       12            1,960,265.25                 2.29 %
+                                                                   Group 3
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       48            5,569,277.85                 1.85 %
+                                                                  Group Totals
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       87            9,282,898.86                 1.39 %
+
+
+
+
+Sec. 7.09(b)(iii)                       Number and Aggregate Principal Amounts of Mortgage Loans in Bankruptcy
+                                                                   Group 1
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       27            1,824,866.51                 0.65 %
+                                                                   Group 2
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       12            1,904,008.84                 2.22 %
+                                                                   Group 3
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       39            4,246,470.58                 1.41 %
+                                                                  Group Totals
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       78            7,975,345.93                 1.19 %
+
+Sec. 7.09(b)(iii)                       Balloon Loans
+                                        Number of Balloon Loans                                                      31.00
+                                        Balance of Balloon Loans                                              1,582,511.52
+
+Sec. 7.09(b)(iv)                        Number and Aggregate Principal Amounts of REO Loans
+                                                                   Group 1
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                        6              363,539.84                 0.13 %
+                                                                   Group 2
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                        1              275,211.96                 0.32 %
+                                                                   Group 3
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                        9              725,029.81                 0.24 %
+                                                                  Group Totals
+                                                                                        Principal
+                                                                   Number               Balance               Percentage
+                                                                       16            1,363,781.61                 0.20 %
+
+Sec. 7.09(b)(v)                         Book Value of REO Loans
+                                        Group I                                                                       407,295.46
+                                        Group II                                                                      301,027.62
+                                        Group III                                                                     833,998.12
+
+Sec. 7.09(b)(vi)                        Realized Losses
+                                        Group I:
+                                        Monthly Realized Losses                                                             0.00
+                                        Cumulative Realized Losses                                                     12,666.38
+                                        Group II:
+                                        Monthly Realized Losses                                                             0.00
+                                        Cumulative Realized Losses                                                          0.00
+                                        Group III:
+                                        Monthly Realized Losses                                                        36,897.93
+                                        Cumulative Realized Losses                                                     56,959.46
+
+Sec. 7.09(b)(vii)                       Net Liquidation Proceeds
+                                        Group I                                                                             0.00
+                                        Group II                                                                            0.00
+                                        Group III                                                                      43,778.02
+
+Sec. 7.09(b)(viii)                      60+ Delinquency Percentage (Rolling Three Month)                                2.1197 %
+
+Sec. 7.09(b)(ix)                        Cumulative Loss Percentage                                                        0.01 %
+                                        Cumulative Realized Losses Since Cut-Off Date                                  69,625.84
+                                        Aggregate Loan Balance as of the Cut-Off Date                             950,014,405.44
+
+Sec. 7.09(b)(x)                         Has a Trigger Event Occurred?                                                         NO
+
+                                        1-Month LIBOR for Current Distribution Date                                    2.18063 %
+
+
+Copyright 2001 J.P. Morgan Chase & Co. All rights reserved.
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

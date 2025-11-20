@@ -1,0 +1,1948 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QbN9D2WMCF8L/7dgJfPCHPwRu1uqvrbjq/jgybbgeNd9bcU0rG717quhgy0vGX1l
+ MfOucVcCFM1BAuGz/vosxQ==
+
+<SEC-DOCUMENT>0001104659-04-041263.txt : 20041227
+<SEC-HEADER>0001104659-04-041263.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227153848
+ACCESSION NUMBER:		0001104659-04-041263
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN BANK HOLDINGS INC
+		CENTRAL INDEX KEY:			0001213219
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				161645705
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-102410
+		FILM NUMBER:		041226441
+
+	MAIL ADDRESS:	
+		STREET 1:		12211 PLUM ORCHARD DR
+		STREET 2:		STE 300
+		CITY:			SILVER SPRING
+		STATE:			MD
+		ZIP:			20404
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04-15089_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div style="font-family:Times New Roman;">
+
+<div style="border:none;border-top:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;font-weight:bold;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></p>
+
+</div>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C.&#160;
+20549</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM 8-K</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Date of Report (Date of earliest event reported)
+December 21, 2004</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">American Bank Holdings, Inc.</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">0-23513</font></b></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="32%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">06-1478208</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other<br>
+  jurisdiction of<br>
+  incorporation)</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File Number)</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="32%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer<br>
+  Identification No.)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="32%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="66%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:66.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">12211 Plum Orchard Drive, Suite 300, Silver
+  Spring, MD</font></b></p>
+  </td>
+  <td width="2%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:2.08%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">20904</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="66%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:66.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices)</font></p>
+  </td>
+  <td width="2%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:2.08%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.92%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Zip Code)</font></p>
+  </td>
+ </tr>
+ <tr height="0">
+  <td width="239" style="border:none;"></td>
+  <td width="15" style="border:none;"></td>
+  <td width="239" style="border:none;"></td>
+  <td width="15" style="border:none;"></td>
+  <td width="1" style="border:none;"></td>
+  <td width="239" style="border:none;"></td>
+ </tr>
+</table>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone
+number, including area code:&#160;&#160; <b><font style="font-weight:bold;">(301) 572-3740</font></b></font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Former name or former address, if changed since last report)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font> Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font> Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))</p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))</p>
+
+<div style="border:none;border-bottom:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-ba.htm',USER='cpiercy',CD='Dec 27 11:40 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 1.01.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <u>Entry into a Material
+Definitive Agreement.</u></font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On December 21, 2004,
+American Bank Holdings, Inc. (the &#147;Company&#148;) entered into an employment
+agreement with James E. Plack pursuant to which Mr. Plack will be employed as
+the President of the Company and as Chief Operating Officer of American Bank, a
+wholly-owned subsidiary of the Company.&#160;
+A copy of the Employment Agreement is attached hereto as Exhibit 10.1
+and is incorporated herein by reference.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Item 9.01</font></p>
+  </td>
+  <td width="89%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:89.94%;">
+  <p style="margin:0in 0in .0001pt;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">Financial
+  Statements and Exhibits.</font></u></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable.</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Not Applicable.</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(c)</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Exhibits</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="10%" valign="top" style="padding:0in .7pt 0in .7pt;width:10.06%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="17%" valign="top" style="padding:0in .7pt 0in .7pt;width:17.24%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.1</font></p>
+  </td>
+  <td width="72%" valign="top" style="padding:0in .7pt 0in .7pt;width:72.7%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Employment Agreement
+  between the Company and James E. Plack.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-ba.htm',USER='cpiercy',CD='Dec 27 11:40 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, as amended, the Registrant
+has duly caused this Report to be signed on its behalf by the undersigned
+thereunto duly authorized.</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:47.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">AMERICAN BANK HOLDINGS,
+  INC.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:47.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:47.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: December 27, 2004</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.92%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By: </font></p>
+  </td>
+  <td width="26%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:26.08%;">
+  <p style="margin:0in 0in .0001pt .2in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/
+  John M. Wright</font></p>
+  </td>
+  <td width="18%" valign="top" style="padding:0in 0in 0in 0in;width:18.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.92%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="44%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:44.58%;">
+  <p style="margin:0in 0in .0001pt .1in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">John
+  M. Wright</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.92%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="44%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:44.58%;">
+  <p style="margin:0in 0in .0001pt .1in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Senior
+  Vice President and</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.5%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.92%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="44%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:44.58%;">
+  <p style="margin:0in 0in .0001pt .1in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Chief
+  Financial Officer</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-ba.htm',USER='cpiercy',CD='Dec 27 11:40 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">EXHIBIT INDEX</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="8%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:8.02%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit
+  No.</font></b></p>
+  </td>
+  <td width="3%" valign="bottom" style="padding:0in .7pt 0in .7pt;width:3.2%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="88%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:88.78%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit Description</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:8.02%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0in .7pt 0in .7pt;width:3.2%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="88%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:88.78%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in .7pt 0in .7pt;width:8.02%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.1</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0in .7pt 0in .7pt;width:3.2%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="88%" valign="top" style="padding:0in .7pt 0in .7pt;width:88.78%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Employment Agreement
+  Between the Company and James E. Plack.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-ba.htm',USER='cpiercy',CD='Dec 27 11:40 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>a04-15089_1ex10d1.htm
+<DESCRIPTION>EX-10.1
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div>
+
+<p align="right" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:right;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit 10.1</font></b></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">EXECUTION COPY</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EMPLOYMENT
+AGREEMENT</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; This Employment
+Agreement (&#147;Agreement&#148;) is made effective the 21st day of December, 2004,
+between American Bank Holdings, Inc., a Delaware corporation (&#147;Employer&#148;), and <b><font style="font-weight:bold;">JAMES E. PLACK </font></b>(&#147;Executive&#148;).</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Recitals</font></b></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; A.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Employer is the holding company for
+American Bank, a federally chartered savings bank (the &#147;Bank&#148;), which is
+engaged in the business of providing certain banking services including, but
+not limited to, making loans, providing mortgage financing, and maintaining
+depository accounts, to its customers. Employer&#146;s principal office is located
+in Montgomery County, Maryland.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; B.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Employer desires to employ Executive
+as its President, as Chief Operating Officer of the Bank and in such other
+capacities as the Board of Directors of the Employer shall direct. Executive
+desires to accept such employment.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; D.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; This Agreement entirely supersedes
+and replaces any previous employment agreement or understanding, if any, that
+may have existed between the parties.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; E.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; In consideration of the mutual
+promises contained in this Agreement, and for other good and valuable
+consideration, the receipt and sufficiency of which are acknowledged, the
+parties, intending to be legally bound, state and agree as provided below.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Agreements</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 1.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Term. </font></b>The
+term of this Agreement shall commence on January 17, 2005 and continue until
+December 31, 2007, unless it is sooner terminated as provided in Section 5
+below. Thereafter, if still in effect, this Agreement shall be automatically renewed
+pursuant to the terms herein on a year-to-year basis, unless either party
+should terminate it by written notice to the other at least thirty (30)
+days&#160; prior to the completion of the
+then-current term or as provided in Section 5. In the event of such notice,
+this Agreement shall terminate either at the conclusion of said term or
+pursuant to Section 5, as appropriate.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 2.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Duties.</font></b>
+Executive shall serve as the President of Employer and Chief Operating Officer
+of the Bank, and be responsible for such duties as Employer may assign to him
+from time-to-time. Executive&#146;s duties with Employer and the Bank shall be set
+forth in more detail in the resolutions of the Board of Directors of the
+Employer adopting and approving this Agreement and in other resolutions which
+shall be adopted from time to time.&#160; Employer
+shall have the authority to determine the means and manner by which those
+duties may be performed.&#160; All work
+performed by Executive shall be subject to review by Employer. All fees
+generated by Executive&#146;s services shall belong to Employer. Executive shall
+devote his full working time and attention to, and work exclusively for,
+Employer. Executive shall comply with all policies, standards, and regulations
+of Employer now or subsequently in effect.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 3.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Compensation.
+</font></b>Subject to periodic review by Employer and modification at its sole
+discretion, Employer shall pay to Executive the following compensation for his
+services:</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">A.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Salary. </font></b>A base salary at the rate of two hundred sixty-five
+thousand dollars ($265,000) per year, less applicable taxes and other
+withholding. Said salary shall be payable on a semi-monthly basis commencing on
+the first payroll date for which Executive is eligible after the effective date
+of this Agreement.&#160; The amount of this
+salary to be paid by the Employer and the amount to be paid by the Bank shall
+be determined by the Employer&#146;s Board of Directors.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">B.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Incentive Compensation.</font></b></font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">i.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">First Year - Stock Option Bonus. </font></b>An option to purchase
+15,000 shares of Employer&#146;s outstanding common stock (&#147;Option Interest&#148;) shall
+be granted in accordance with the terms of Employer&#146;s 1998 Stock Option Plan.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">ii.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Second and Third Years &#151; Cash Bonuses. </font></b>Following the
+completion of calendar year 2005, a cash bonus of up to one hundred thirty-five
+thousand dollars ($135,000) shall be paid if Employer&#146;s net income after tax is
+$3,000,000 or greater. Following the completion of calendar year 2006, a cash
+bonus of up to one hundred thirty-five thousand dollars ($135,000) shall be
+paid if Employer&#146;s net income after tax is $4,000,000 or greater. No partial
+year bonus(es) shall be paid. Employer shall pay any earned bonus, if any, by
+no later than two (2) weeks after receipt of audited financial statements for
+the applicable period.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Benefits.</font></b></font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; A.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Executive
+shall be entitled to participate in any health or disability insurance plans,
+life insurance plans, pension or profit sharing plans (including 401(k)),
+salary continuation, or any other welfare or employee benefit plans or programs
+offered to Employer&#146;s and/or the Bank&#146;s employees, if any, provided Executive
+satisfies the eligibility and participation requirements applicable with
+respect to each such plan or program.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; B.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Employer
+agrees to provide Executive with a car allowance of $400 per month.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; C.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Employer
+further agrees to pay an aggregate $135,000 to Executive which will be to both
+pay relocation costs and serve as a combination signing bonus (&#147;Special Payment&#148;).</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; D.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Executive
+agrees to repay Employer the full amount of the Special Payment if he is no
+longer employed with the Employer on January 17, 2007 under this Agreement, as
+it may be amended from time-to-time, unless this Agreement has been terminated
+by the Employer following the Executive&#146;s death or permanent disability as
+defined herein.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in .6in .0001pt 0in;page-break-after:avoid;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Termination.</font></b></font></p>
+
+<p style="margin:0in .6in .0001pt 0in;page-break-after:avoid;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">A.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Employer. </font></b>Employer may terminate Executive&#146;s employment
+under this Agreement at any time during Executive&#146;s employment with Employer as
+follows:</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; i.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">For Cause. </font></b>Termination
+&#147;for cause,&#148; for the purposes of this Agreement, shall mean, as determined by
+Employer, Employer&#146;s termination of Executive&#146;s employment with Employer
+because of Executive&#146;s personal dishonesty, incompetence, willful misconduct,
+breach of fiduciary duty involving personal profit, intentional failure to
+perform stated duties, failure to perform his employment related duties in a
+reasonably satisfactory manner, willful violation of any law, rule, or
+regulation (other than traffic violations or similar offenses) or final cease-and-desist
+order, or material breach of any provisions of this Agreement. Employer may
+terminate Executive&#146;s employment for cause immediately on written notice to
+Executive.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On termination for cause, Employer shall pay Executive
+all accrued salary, any pension or other benefits to the extent vested and
+fully earned, any accrued, but unused vacation, and any appropriate business
+expenses Executive incurred in connection with his employment duties through
+his employment termination date. In no event, however, shall Executive be paid
+any other compensation or reimbursement including, without limitation,
+severance compensation.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; ii.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Other than
+for Cause. </font></b>(a)&#160; Termination &#147;other
+than for cause,&#148; for the purposes of this Agreement, shall mean, as determined
+by Employer, Employer&#146;s termination of Executive&#146;s employment for any reason
+other than for cause, permanent disability, or death. Employer may terminate
+Executive&#146;s employment other than for cause immediately on written notice to
+Executive.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Termination
+&#147;other than for cause,&#148; for purposes of this Agreement shall also include the
+termination of Executive&#146;s employment within sixty (60) days after at least
+eighty-five (85) percent of Employer&#146;s outstanding common stock is sold to an
+entity(ies) or person(s) not currently &#147;affiliated&#148; with Employer, as that term
+is defined by the applicable rules and regulations of the Office of Thrift
+Supervision.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (c)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; On
+termination other than for cause, Employer shall pay Executive all accrued
+salary, any bonuses to the extent fully earned, any pension or other benefits
+to the extent vested and fully earned, any accrued, but unused vacation, and
+any appropriate business expenses Executive incurred in connection with his
+employment duties through his employment termination date. In no event, except
+as provided in the following subsection (d), shall Executive be paid any other
+compensation or reimbursement, except for severance compensation provided for
+in Section 6 below.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (d)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Upon termination after a change of
+control as set forth in Section 5.A.ii(b), in lieu of any payment under Section
+6, Employer shall pay Executive an amount equal to two (2) years of Executive&#146;s
+base salary at the time of the termination of his employment with Employer.
+Said payment shall be paid in semi-monthly installments pursuant to Employer&#146;s
+regular payroll procedure, less applicable taxes and other withholding, during
+the severance </font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">period. Such payment shall be reduced by any compensation Executive
+receives from employment or for other related services performed after
+termination of his employment with Employer. Executive shall have an
+affirmative obligation to exercise best efforts in pursuing other employment,
+to keep Employer informed of such efforts to obtain other employment, and to
+notify Employer immediately on obtaining other employment.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Any
+payments made to the Executive pursuant to this Agreement, or otherwise, are
+subject to and conditioned upon their compliance with 12 USC Section 1825(k)
+and any regulation promulgated thereunder.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; iii.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Permanent Disability. </font></b>Termination
+for &#147;permanent disability,&#148; for the purposes of this Agreement, shall mean, as
+determined by Employer, Employer&#146;s termination of Executive&#146;s employment with
+Employer because Executive is unable to perform his essential job functions on
+a full-time basis for a period of ninety (90) calendar days in any one (1)-year
+period due to Executive&#146;s sickness or disability. Employer may terminate
+Executive&#146;s employment for permanent disability immediately on written notice
+to Executive following the expiration of said ninety-day period.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On termination for permanent disability, Employer
+shall pay Executive all accrued salary, any bonuses to the extent fully earned,
+any pension or other benefits to the extent vested and fully earned, any
+accrued, but unused vacation, and any appropriate business expenses Executive
+incurred in connection with his employment duties through his employment
+termination date. In no event, however, shall Executive be paid any other
+compensation or reimbursement including, without limitation, severance
+compensation.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; iv.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Death. </font></b>Employer
+may terminate Executive&#146;s employment at any time during Executive&#146;s employment
+with Employer due to Executive&#146;s death.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On termination due to death, Employer shall pay
+Executive&#146;s estate all accrued salary, any bonuses to the extent fully earned,
+any pension or other benefits to the extent vested and fully earned, any
+accrued, but unused vacation, and any appropriate business expenses Executive
+incurred in connection with his employment duties through his employment
+termination date. In no event, however, shall Executive&#146;s estate be paid any
+other compensation or reimbursement including, without limitation, severance
+compensation.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">B.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Executive. </font></b>Executive may terminate his employment under this
+Agreement prior to the expiration of its term for good reason on thirty (30)
+days&#146; written notice to Employer. &#147;Good reason,&#148; for the purposes of this
+Agreement, shall mean, as determined by Employer, (i) a material reduction in
+Executive&#146;s duties, or (ii) a failure to pay Executive compensation he is owed
+under Section 3 above. In the event of good reason, Executive may terminate his
+employment under this Agreement only after he has provided Employer with ten
+(10) days&#146; written notice and Employer has failed to cure such good reason.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On termination for good reason, Employer shall pay
+Executive all accrued salary, any bonuses to the extent fully earned, any
+pension or other benefits to the extent vested and fully earned, any accrued,
+but unused vacation, and any appropriate business expenses Executive </font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">incurred in connection with his employment duties through his
+employment termination date. In no event, however, shall Executive be paid any
+other compensation or reimbursement including, without limitation, severance
+compensation.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">In the event, Executive terminates this agreement
+prior to commencing employment on January 15,<sup>  </sup>2005, Executive shall
+pay Employer liquidated damages in the amount of $85,000.&#160; In the event of Executive&#146;s death or
+permanent disability prior to January 15, 2005, this obligation on the part of
+Executive shall be null and void.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">C. <b><font style="font-weight:bold;">Mutual Consent. </font></b>The
+parties may terminate this Agreement at any time by mutual written consent.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On termination by mutual consent, Employer shall pay
+Executive all accrued salary, any bonuses to the extent fully earned, any
+pension or other benefits to the extent vested and fully earned, any accrued,
+but unused vacation, and any appropriate business expenses Executive incurred
+in connection with his employment duties through his employment termination
+date. In no event, however, shall Executive be paid any other compensation or
+reimbursement including, without limitation, severance compensation.</font></p>
+
+<p style="margin:0in .6in .0001pt 0in;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Severance.&#160; </font></b>Executive
+shall be entitled to a severance payment if Employer should terminate him other
+than for cause under Section 5.A.ii(a) above. In that event, Employer shall pay
+Executive a severance equal to one (1) year of Executive&#146;s base salary at the
+time of the termination of his employment with Employer,</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Severance payments due to Executive under this Section
+6, if any, shall be reduced by any compensation Executive receives from employment
+or for other related services performed after termination of his employment
+with Employer. Executive shall have an affirmative obligation to exercise best
+efforts in pursuing other employment, to keep Employer informed of such efforts
+to obtain other employment, and to notify Employer immediately on obtaining
+other employment.</font></p>
+
+<p style="margin:0in .6in .0001pt 0in;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">7.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Covenant Not to Disclose Confidential Information.&#160; </font></b>Executive acknowledges that all
+software, other computer information systems, and hardware developed or used by
+or for Employer, any related proposals, white papers, sketches, plans,
+drawings, manufacturing processes, software applications, notes, methods,
+formulae, and tapes, any financial records of Employer including, but not
+limited to, any invoices, note&#160; rates and
+terms, and employee salary information, and any other proprietary information
+including, but not limited to, any customer lists, call or contact lists,
+sources of supply, and any marketing, production, and merchandising plans or
+systems (&#147;Confidential Information&#148;) are confidential trade secrets and shall
+remain the sole and exclusive property of Employer.</font></p>
+
+<p style="margin:0in .6in .0001pt 0in;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; During his
+employment, Executive shall not use or disclose any Confidential Information to
+anyone other than Employer except as is necessary for the performance of his
+duties under this Agreement. In the event of the termination of his employment,
+Executive shall promptly return any Confidential Information in his possession
+or control, including copies, to Employer. </font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thereafter, Executive shall not use or disclose such Confidential
+Information to anyone without the prior written approval of Employer.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">8.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Covenant Not to Compete.</font></b>
+Executive agrees that during his employment with Employer and for a period of one
+(1) year immediately following the termination thereof, whether voluntary or
+involuntary, he shall not, for any reason, own, control, or become employed by
+or otherwise work for, whether on a full-time, part-time, or contractor basis
+as a chief executive officer or in a management capacity similar to his
+position with Employer, any bank or other employer, including himself, that
+provides competitive banking services within the market area below.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Executive expressly
+acknowledges Employer has customers throughout the Washington, D.C.
+metropolitan area and that its market area is region-wide.<b><font style="font-weight:bold;"> </font></b>This
+covenant not to compete, however, shall prevent Executive only from owning,
+controlling, or becoming employed by or otherwise working in a chief executive
+officer or other management position for another employer that provides banking
+services that are competitive with Employer within fifty (50)-miles of the
+boarders of Montgomery County, Maryland.</font></p>
+
+<p style="margin:0in .6in .0001pt 0in;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">9.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Covenant Not to Solicit
+Customers. </font></b>Executive agrees that during the term his employment with
+Employer and for a period of two (2) years immediately following the
+termination thereof, he shall not contact or solicit by any means whatsoever,
+whether directly or indirectly, personally, by agent, or representative, or become
+employed by or otherwise work for, any current or prospective customer of
+Employer for the purpose of providing banking services that are competitive
+with those provided by Employer.</font></p>
+
+<p style="margin:0in .6in .0001pt 0in;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;Customer,&#148; as used in
+this Agreement, shall include any entity or individual for whom Employer has
+provided banking services at any time during Executive&#146;s employment with
+Employer. &#147;Prospective customer,&#148; as used in this Agreement, shall include any
+entity or individual with whom Employer has had any discussions or negotiations
+concerning Employer&#146;s provision of banking services within one (1) year prior
+to the termination of Executive&#146;s employment with Employer. If Executive should
+be employed by Employer for less than one (1) year, then &#147;prospective customer,&#148;
+as used in this Agreement, shall include any entity or individual with whom
+Employer has had any discussions or negotiations concerning Employer&#146;s
+provision of banking services at any time during Executive&#146;s employment with
+Employer.</font></p>
+
+<p style="margin:0in .6in .0001pt 0in;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Covenant Not to Solicit Employees
+and Consultants.</font></b> Executive agrees that during his employment with
+Employer and for a period of two (2) years immediately following the
+termination thereof, he shall not contact or solicit by any means whatsoever,
+whether directly or indirectly, personally, by agent or representative, any
+employee or consultant of Employer for the purpose of offering or providing
+employment, or otherwise inducing any employee or consultant to discontinue his
+or her employment or other working relationship with Employer. For the purposes
+of this Section 10, employee and consultant shall include any employee or
+consultant who has performed any services or other work for Employer at any
+time within six (6) months prior to the termination of Executive&#146;s employment
+with Employer.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='6',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 11.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Breach of Executive&#146;s
+Covenants.</font></b>&#160; Executive
+acknowledges Employer has invested considerable time and resources in
+developing his skills and has given him access to certain trade secrets and other
+proprietary information, and that the use of such information by him on behalf
+of himself or some other competing employer or entity would cause irreparable
+harm to Employer. Executive also acknowledges Employer has invested
+considerable time and resources in developing its relationships with its
+customers and prospective customers, the loss of which similarly would cause
+irreparable harm to Employer. Without limitation, Executive agrees that if he
+should breach any of the restrictive covenants contained in Sections 7-10,
+inclusive, of this Agreement, Employer may apply for arbitration pursuant to
+Section 15 below or to any court of competent jurisdiction, at its discretion,
+for the immediate entry of an order for injunction restraining any actual or threatened
+breaches or violations of said provisions or terms by Executive. In the event
+of such injunction, Employer shall not be required to post or pay any bond.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If, for any reason, any
+of the restrictive covenants or related provisions contained in Sections 7-10,
+inclusive, of this Agreement should be held invalid or otherwise unenforceable,
+it is agreed that the arbitrator or court, as appropriate, shall construe the
+pertinent section(s) or provision(s) so as to allow its enforcement to the
+maximum extent permitted by applicable law.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If Executive should bring
+an action for interpretation of any of the restrictive covenants contained in
+Sections 8-10, inclusive, of this Agreement, if Executive should violate any of
+these restrictive covenants, or if the operation of these restrictive covenants
+should be otherwise stayed, the restrictive covenant(s) shall be extended by
+the time equivalent to the duration of the violation or stay, whichever is
+greater, so that the restrictive covenant(s) shall be cumulatively in force for
+the full one (1)-year period above. It is the intention of the parties that
+these restrictive covenants, including the restrictive covenant contained in
+Section 7 of this Agreement, shall not be stayed during any such action.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.4in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Executive shall be
+responsible for all legal expenses and other costs actually incurred by
+Employer in enforcing any of the restrictive covenants in this Agreement.&#160; For the Employer to be entitled to the
+recovery set forth in the previous sentence it need only obtain a portion of
+any injunctive relief or money damages, including nominal damages, it pursues
+in order to recover its actual attorneys&#146; fees and costs in full. The parties
+intend that the provisions in Sections 7-10, inclusive, of this Agreement shall
+survive any termination of this Agreement.</font></p>
+
+<p style="margin:0in .6in .0001pt 0in;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">12.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Representations of
+Executive.</font></b>&#160; Executive
+represents that the restrictions on his business provided in this Agreement
+including, but not limited to, those pertaining to Employer&#146;s prospective
+customers, are fair and protect legitimate business interests of Employer.
+Executive represents further that the consideration for this Agreement is fair
+and adequate, and that even if the restrictions in this Agreement are applied
+to him, he shall still be able to earn a good and reasonable living from those
+activities, areas, and opportunities not restricted by this Agreement.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><font size="2" style="font-size:10.0pt;">13.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Intellectual Property. </font></b>In consideration of Employer&#146;s
+employment of Executive and the related compensation to be paid to Executive,
+Executive assigns and transfers to Employer, and agrees Employer shall be the
+owner of, all inventions, discoveries, computer hardware, computer software,
+algorithms, improvements, unpublished articles, notes, and related items (&#147;Proprietary
+Materials&#148;) conceived, developed, or made by Executive, either alone or with </font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">7</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='7',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">others, in whole or in part, during Executive&#146;s employment with
+Employer that are useful in, or directly or indirectly related to, Employer&#146;s
+business or that relate to, or are conceived, developed, or made in the course
+of Executive&#146;s employment, or that are developed or made from, or by knowledge
+gained from, such employment. Employer shall have the right to use all such
+Proprietary Materials, whether original or derivative, in any manner
+whatsoever, and Executive acknowledges that all such Proprietary Materials
+shall be considered as &#147;work made for hire&#148; belonging exclusively to Employer.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Executive agrees
+to disclose promptly in writing to Employer any Proprietary Materials conceived
+or made by him alone or with others during Executive&#146;s employment, and agrees
+not to disclose such Proprietary Materials to others, except as required by his
+employment, without the prior written consent of Employer. Executive further
+agrees that during his employment with Employer, and at any time thereafter, he
+shall, on the request of Employer, execute proper assignments to Employer of
+any and all Proprietary Materials to which Employer is entitled under this
+Agreement.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Executive shall
+execute all papers and perform all other lawful acts that Employer may deem
+necessary or advisable for the preparation, prosecution, procurement, and
+maintenance of trademark, copyright, and patent applications and trademarks,
+copyrights, and patents of the United States of America and foreign countries
+for Proprietary Materials to which Employer is entitled. He shall execute any
+and all documents that may be required or necessary to vest title in Employer
+to such Proprietary Materials and related trademarks, copyrights, and patents
+and applications. It is understood that all expenses in connection with such
+trademarks, copyrights, patents, and all related applications shall be paid by
+Employer, but Employer shall have no obligation to protect by trademark,
+copyright, patent, or otherwise any such Proprietary Materials except at its
+own discretion and to such extent as Employer may deem desirable. Executive
+shall not be entitled to any additional compensation, other than his
+compensation herein, for any services rendered by Executive during the term of
+his employment.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Notwithstanding
+the foregoing, the provisions of this Section 13 shall not apply to an
+invention or other intellectual property for which no equipment, supplies,
+facilities, or trade secret information of Employer is used and which is
+developed entirely on Executive&#146;s own time (&#147;Excepted Materials&#148;), unless, as
+determined by Employer, (a) the invention relates to Employer&#146;s actual or
+anticipated business, research, or development, or (b) the invention results
+from any work performed by Executive for Employer. Employer, at its sole
+discretion, shall determine whether such invention or other intellectual
+property qualifies as Excepted Materials under this Agreement on Executive&#146;s
+prompt disclosure of such invention or other intellectual property in writing
+to Employer as required above. Inventions and other intellectual property
+qualifying as Excepted Materials shall be indicated in attached Schedule A.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 14.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">No Prior Obligations. </font></b>Executive
+represents he is not subject to any contractual or other obligation that would
+preclude him from entering into this Agreement or would in any way restrict his
+work activities as required under this Agreement. In the event the Employer
+discovers any contractual or other obligation that would preclude Executive
+from entering into this Agreement or would in any way restrict his work
+activities as required under this Agreement, Employer can terminate for Cause
+per Paragraph 5.A.i.&#160; Additionally, in
+the event that a civil or </font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">8</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='8',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">other action should be filed against Employer in relation to this
+Section 14, Executive agrees to indemnify Employer in full for any resulting
+liability including, but not limited to, Employer&#146;s actual attorneys&#146; fees and
+costs.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 15.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Arbitration. </font></b>If
+the parties are unable to resolve any dispute arising under this Agreement or
+their underlying employment relationship including, but not limited to, the
+termination of Executive&#146;s employment with Employer, the enforcement of a
+restrictive covenant, or any related contract, tort, or statutory claim, then
+such dispute shall be submitted to binding arbitration with JAMS in accordance
+with JAMS&#146; commercial arbitration rules then in effect at the JAMS office
+nearest to Employer&#146;s principal office in Montgomery County, Maryland. The only
+exception shall be for any matter involving injunctive relief which, at
+Employer&#146;s discretion, may be alternatively submitted to a court of competent
+jurisdiction.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; A petition for
+arbitration may be brought at any time within the applicable statute of
+limitation. Judgment on an award rendered by an arbitrator may be entered in
+any court having competent jurisdiction for enforcement. Except for the
+enforcement of a restrictive covenant, which shall be assessed as provided in
+Section 11 above, each party shall be responsible for its own costs, including
+attorneys&#146; fees (other than the arbitrator&#146;s fees, which the parties shall
+share equally). This provision is intended to be liberally construed in favor
+of requiring arbitration.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 16.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Notice. </font></b>In the
+event that any notice is to be given to any party under this Agreement, it
+shall be given, by certified mail, return receipt requested, and addressed to
+the party as follows:</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="71%" style="border-collapse:collapse;width:71.44%;">
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">To Employer:</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Chairman of the Board
+  of Directors</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">American Bank Holdings,
+  Inc.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">12211 Plum Orchard Drive, Suite 300</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Silver Spring, Maryland 20904</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Copy to:</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Stuart G. Stein, Esq.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Hogan &amp; Hartson L.L.P.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">555 Thirteenth Street, N.W.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Washington, DC 20004-1109</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">To Executive:</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mr. James E. Plack</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">9401 Culross Court</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="28%" valign="top" style="padding:0in .7pt 0in .7pt;width:28.1%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.28%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="67%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:67.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dublin, OH 43017</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; In the event that
+any party should subsequently move or change its address, the new address shall
+become the effective address for the purpose of providing notice under this
+Section&nbsp;16 on receipt of notification of the new or changed address by the
+other party.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">9</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='9',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 17.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Choice of Law. </font></b>This
+Agreement including, but not limited to, its interpretation, performance, or
+claimed breach, shall be governed by, and construed in accordance with, the
+laws of the State of Maryland without giving any force or effect to the
+provisions of any conflict of law rule thereof.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 18.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Revocation and
+Modification. </font></b>This Agreement, or any provision hereof, may not be
+revoked or modified unless agreed to in writing by each of the parties.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 19.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Waiver. </font></b>No
+waiver of a breach or default of this Agreement shall be deemed a waiver of any
+subsequent breach or default.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 20.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Severability. </font></b>In
+the event that, for any reason, a section or provision of this Agreement should
+be held invalid or otherwise unenforceable, it is agreed that the same shall
+not affect any other section or provision of this Agreement, and the remaining
+provisions of this Agreement shall remain in full force and effect.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 21.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Binding Agreement. </font></b>This
+Agreement shall be binding on, and inure to the benefit of, the parties hereto,
+their successors, heirs, personal representatives, and permitted assigns. This
+Agreement may be assigned only by Employer; it may not be assigned by
+Executive.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 22.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Regulatory Matters</font></b>.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:72.7pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">A.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; If Executive is suspended and/or temporarily prohibited
+from participating in the conduct of the Bank&#146;s affairs by a notice served
+under Section 8(e)(3) or (g)(1) of the Federal Deposit Insurance Act (the &#147;FDIA&#148;) (12 U.S.C. 1818(e)(3) and
+(g)(1)), the Bank&#146;s obligations under the Agreement shall be suspended as of
+the date of service, unless stayed by appropriate proceedings.&#160; If the charges in the notice are dismissed,
+the Bank may in its discretion (i)&nbsp;pay Executive all of the compensation
+withheld while its obligations hereunder were suspended and (ii)&nbsp;reinstate
+any of its obligations which were suspended.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:73.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:73.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">B.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; If Executive is removed and/or permanently prohibited
+from participating in the conduct of the Bank&#146;s affairs by an order issued
+under Sections&nbsp;8(e) or 8(g)(1) of the FDIA (12 U.S.C. 1818(e) or (g)(1)),
+all obligations of the Bank under this Agreement shall terminate, as of the
+effective date of the order, but the vested rights of the parties shall not be
+affected.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:73.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:73.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">C.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; If the Bank is in default (as defined in Section 3(x)(1)
+of the FDIA), all obligations of the Bank under this Agreement shall terminate
+as of the date of default, but this Section 22 shall not affect any vested
+rights of the contracting parties.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:73.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:73.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">D.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; All obligations of the Bank under this Agreement shall be
+terminated, except to the extent it is determined that continuation of this
+Agreement is necessary for the continued operation of the Bank:&#160; (i) by the Director of the Office of Thrift
+Supervision (&#147;OTS&#148;), or his or
+her designee, at the time that the Federal Deposit Insurance Corporation&#160; enters into an agreement to provide
+assistance to or on behalf of the Bank under the authority contained in Section
+13(c) of FDIA; or (ii) by the Director of the OTS, or his or her designee, at
+the time that the Director of the OTS, or his or her designee, approves a
+supervisory merger to resolve </font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='10',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">problems related to operation of the Bank or when the Bank is
+determined by the Director of the OTS to be in an unsafe or unsound
+condition.&#160; Any rights of the parties
+that have already vested, however, shall not be affected by such action.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">23.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Entire Agreement. </font></b>This Agreement contains the entire
+agreement concerning Executive&#146;s employment with Employer.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">24.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b><font style="font-weight:bold;">Counterparts.</font></b>&#160; This
+Agreement may be executed in one or more counterparts, each of which shall be
+deemed to be an original but all of which together will constitute one and the
+same agreement.</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="88%" style="border-collapse:collapse;width:88.04%;">
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="53%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:53.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">EMPLOYER:</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.94%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" valign="top" style="padding:0in .7pt 0in .7pt;width:47.68%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="53%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:53.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">AMERICAN BANK HOLDINGS,
+  INC.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.94%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" valign="top" style="padding:0in .7pt 0in .7pt;width:47.68%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.94%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" valign="top" style="padding:0in .7pt 0in .7pt;width:47.68%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.94%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="47%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:47.68%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ J.R. Schuble, Jr.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.94%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:47.68%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">J.R. Schuble, Jr.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.94%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" valign="top" style="padding:0in .7pt 0in .7pt;width:47.68%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Chairman of the Board of Directors</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.94%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="47%" valign="top" style="padding:0in .7pt 0in .7pt;width:47.68%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="53%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:53.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">EXECUTIVE:</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="53%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:53.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ James E. Plack</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="46%" valign="top" style="padding:0in .7pt 0in .7pt;width:46.38%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="53%" colspan="2" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:53.62%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">James E. Plack</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">11</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='11',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#
+160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Schedule
+A</font></b></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXCEPTED
+MATERIALS</font></b></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="88%" style="border-collapse:collapse;width:88.04%;">
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="93%" valign="top" style="padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1.</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2.</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3.</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4.</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="6%" valign="top" style="padding:0in .7pt 0in .7pt;width:6.14%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5.</font></p>
+  </td>
+  <td width="93%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:93.86%;">
+  <p style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">12</font></p>
+
+<div style="margin:0in 0in .0001pt;punctuation-wrap:simple;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='12',FILE='C:\JMS\cpiercy\04-15089-1\task263015\15089-1-km.htm',USER='cpiercy',CD='Dec 27 11:44 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

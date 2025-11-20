@@ -1,0 +1,475 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NHgaq0VbmH5YwVpsH6F78Wv8nkvB5QMy/ELJJbDUUr0RnW8ds/m9VuW47vVVyqlX
+ jrDYx3sk3WrjUexeThPvlQ==
+
+<SEC-DOCUMENT>0001277607-04-000015.txt : 20041229
+<SEC-HEADER>0001277607-04-000015.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229092758
+ACCESSION NUMBER:		0001277607-04-000015
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041227
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WACHOVIA ASSET SECURITIZATION INC AST BACK NTS SER 2003-HE1
+		CENTRAL INDEX KEY:			0001224157
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-97457-04
+		FILM NUMBER:		041229591
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE FIRST UNION CENTER
+		STREET 2:		11000 BROKEN LAND PARKWAY
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21044
+		BUSINESS PHONE:		7043834629
+
+	MAIL ADDRESS:	
+		STREET 1:		301 S. COLLEGE STREET
+		STREET 2:		NC5578
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28288-5578
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>wahethree_one.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0080)http://www.sec.gov/Archives/edgar/data/1277607/000095014404004387/g88736e8vk.htm -->
+<HEAD><TITLE>Wachovia Asset Securitization Issuance, LLC 2003-HE1</TITLE>
+</HEAD>
+<BODY bgColor=#ffffff>8-K
+<P>
+<P align=center><FONT size=4>SECURITIES AND EXCHANGE COMMISSION </FONT>
+<P align=center><FONT size=3>Washington, DC 20549 </FONT>
+<P align=center><FONT size=5>FORM 8-K </FONT>
+<P align=center><FONT size=3>CURRENT REPORT </FONT>
+<P align=center><FONT size=3>PURSUANT TO SECTION 13 OR 15 (d)&nbsp;OF
+THE<BR>SECURITIES EXCHANGE ACT OF 1934 </FONT>
+<P align=center><FONT size=2>Date of Report (date of earliest event reported):
+December 27, 2004 </FONT>
+<P align=center><FONT
+<DIV align=center><FONT size=2>
+<P align=center><FONT
+size=2>
+<TD vAlign=top align=middle><FONT size=2>Wachovia Asset Securitization Issuance, LLC<BR>
+(Issuer in respect of the Asset-Backed Notes, Series 2003-HE1)
+<HR align=center width="45%" noShade SIZE=1>
+<CENTER>(Exact name of registrant as specified in its charter) </FONT></TD></TR></DIV>
+<CENTER>
+<TABLE cellSpacing=0 cellPadding=0 width="65%" border=0>
+  <BODY>
+  <TR vAlign=bottom>
+    <TD width="36%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="27%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="27%">&nbsp;</TD></TR>
+  <TR vAlign=bottom>
+    <TD vAlign=top align=middle><FONT size=2>North Carolina</FONT></TD>
+    <TD><FONT size=2>&nbsp;</FONT></TD>
+    <TD vAlign=top align=middle><FONT size=2>333-97457-04 </FONT></TD>
+    <TD><FONT size=2>&nbsp;</FONT></TD>
+    <TD vAlign=top align=middle><FONT size=2>56-1967773</FONT></TD></TR>
+  <TR>
+    <TD vAlign=top align=middle>
+      <HR noShade SIZE=1>
+    </TD>
+    <TD><FONT size=2>&nbsp;</FONT></TD>
+    <TD vAlign=top align=middle><FONT size=2>
+      <HR noShade SIZE=1>
+      </FONT></TD>
+    <TD><FONT size=2>&nbsp;</FONT></TD>
+    <TD vAlign=top align=middle>
+      <HR noShade SIZE=1>
+    </TD></TR>
+  <TR vAlign=bottom>
+    <TD vAlign=top align=middle><FONT size=2>State or other jurisdiction<BR>of
+      incorporation)</FONT></TD>
+    <TD><FONT size=2>&nbsp;</FONT></TD>
+    <TD vAlign=top align=middle><FONT size=2>(Commission<BR>File Number)
+      </FONT></TD>
+    <TD><FONT size=2>&nbsp;</FONT></TD>
+    <TD vAlign=top align=middle><FONT size=2>(IRS Employer<BR>ID
+    Number)</FONT></TD></TR></BODY></TABLE></CENTER>
+<CENTER>
+<TABLE cellSpacing=0 cellPadding=0 width="65%" border=0>
+  <body>
+  <TR vAlign=bottom>
+    <TD width="100%">&nbsp;</TD></TR>
+  <TR>
+    <TD vAlign=top align=middle><FONT size=2>301 S. College Street, Suite D, Charlotte, NC 28288-5578<BR>
+      <HR noShade SIZE=1>
+      (Address of principal executive
+officer)</FONT></TD></TR></body></TABLE></CENTER>
+<CENTER>
+
+<P align=center><FONT size=2>Registrant's Telephone Number, including area code:  (704) 383-6044</FONT>
+<P>
+<HR align=center width="45%" noShade SIZE=1>
+
+<DIV align=center><FONT size=2>(Former name or former address, if changed since
+last report) </FONT></DIV>
+<P>
+<P align=center><FONT size=2>&nbsp;</FONT> <!-- PAGEBREAK -->
+<P>
+<HR noShade>
+
+<P align=center>
+<P align=center>
+<DIV align=left><FONT size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions:
+<P align=center>
+
+<DIV align=left><FONT size=2>[  ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+<P align=center>
+
+<DIV align=left><FONT size=2>[  ] Soliciting material pursuant to Rule 14a-12(b) under the Exchange Act (17 CFR 240.14a-12(b))
+
+<P align=center>
+
+<DIV align=left><FONT size=2>[  ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+<P align=center>
+
+<DIV align=left><FONT size=2>[  ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+<P align=center><FONT size=2>&nbsp;</FONT> <!-- PAGEBREAK -->
+<P>
+<HR noShade>
+
+<P>
+<H5 align=left>&nbsp;</H5>
+<P><!-- link2 "Item&nbsp;8.01 Other Events" -->
+<DIV align=left><A name=000></A></DIV>
+<P align=left><FONT size=2>Item&nbsp;8.01 Other Events </FONT>
+<P align=left><FONT size=2>Attached herein as Exhibit&nbsp;20 hereto is a copy
+of the Monthly Statement sent to Securityholders with respect to the
+December 27, 2004 Remittance Date. </FONT><!-- link2 "Item&nbsp;7 Financial Statements and Exhibits" -->
+<DIV align=left><A name=001></A></DIV>
+<P align=left><FONT size=2>Item&nbsp;9.01 Financial Statements and Exhibits </FONT>
+<P align=left><FONT size=2>Item&nbsp;601 (a)&nbsp;of Regulation<BR>S-K
+Exhibit&nbsp;Number</FONT>
+<P align=left><FONT
+size=2>20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monthly Statement to
+Securityholders with respect to the December 27, 2004 Remittance
+Date.</FONT>
+<P align=center><FONT size=2>&nbsp;</FONT> <!-- PAGEBREAK -->
+<P>
+<HR noShade>
+
+<P>
+<H5 align=left>&nbsp;</H5>
+<P><!-- link1 " SIGNATURES" -->
+<P align=center><FONT size=2>SIGNATURES </FONT>
+<P align=left><FONT size=2>Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly authorized. </FONT>
+<P align=left><FONT size=2>WACHOVIA BANK, NA </FONT>
+<CENTER>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <body>
+  <TR vAlign=bottom>
+    <TD width="61%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="34%">&nbsp;</TD></TR>
+  <TR vAlign=bottom>
+    <TD vAlign=top><FONT size=2>By: \s\ Jeff Noftsger <BR>Name:
+      Jeff Noftsger <BR>Title: Vice President</FONT></TD>
+    <TD><FONT size=2>&nbsp;</FONT></TD>
+    <TD vAlign=top align=left><FONT size=2><BR><BR>Dated: December 27,
+      2004</FONT></TD></TR></body></TABLE></CENTER>
+<P align=center><FONT size=2>&nbsp;</FONT> <!-- PAGEBREAK -->
+<P>
+<HR noShade>
+
+<P>
+<H5 align=left>&nbsp;</H5>
+<P><!-- link1 " Exhibit&nbsp;Index" -->
+<P align=center><FONT size=2>Exhibit&nbsp;Index </FONT>
+<P align=left><FONT size=2>20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monthly
+Statement sent to Securityholders with respect to the December 27, 2004
+Remittance Date. </FONT>
+<P align=center><FONT size=2>&nbsp;</FONT> <!-- PAGEBREAK -->
+<P>
+<HR noShade>
+
+<P>
+<H5 align=left>&nbsp;</H5>
+<P>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-20
+<SEQUENCE>2
+<FILENAME>wahethree_one-exhibit.htm
+<DESCRIPTION>STATEMENT TO SECURITYHOLDERS
+<TEXT>
+<html>
+<head>
+<title>0412_WAHL03_1A.PDF</title>
+<meta name="Author" content="a700539">
+<meta name="Creator" content="Microsoft Excel - 0412_WAHL03_1A.xls  [Group]">
+<meta name="Producer" content="Acrobat PDFWriter 4.0 for Windows NT">
+<meta name="CreationDate" content="">
+</head>
+<body>
+<pre><P align=left><FONT size=1>                                           Wachovia Asset Securitization, Inc.
+                                              Asset-Backed Notes, Series 2003-HE1
+                                                       Statement to Securityholder                                                          Distribution Date: 12/27/04
+
+                                                Original        Beginning                                           Unpaid                              Ending
+                                Certificate    Certificate      Certificate                                         Principal      Total              Certificate
+      Class            Cusip       Rate         Balance          Balance                Interest      Principal     Amount     Distribution            Balance
+
+       A-1           92975QAA8  2.470630%    1,000,000,000.00  659,702,559.59         1,403,508.58  19,489,343.77     0.00     20,892,852.35        640,213,215.82
+
+Factors per Thousand                                            659.70255959           1.40350858     19.48934377                20.89285235          640.21321582
+
+       A-2           92975QAB6  2.240000%     100,000,000.00   65,970,255.96          127,249.29     1,948,934.38     0.00     2,076,183.67          64,021,321.58
+
+Factors per Thousand                                            659.70255960           1.27249290     19.48934380                20.76183670          640.21321580
+
+  Certificate           n/a     0.000000%          0.00        13,953,992.49          907,474.61         0.00         0.00      907,474.61           14,115,548.98
+
+
+
+
+     Totals                                 1,100,000,000.00  725,672,815.55        2,438,232.48    21,438,278.15    0.00     23,876,510.63       704,234,537.40
+
+
+
+
+                                                                            - Page 1 -
+
+                                                                                                Bond Interest Information
+
+                                                       Type of                      Accrual                              Moody's            S&P              Fitch
+     Class                 Cusip                     Certificate                     Period           LIBOR/Auction   Original Rating* Original Rating* Original Rating*
+
+       A-1             92975QAA8                 Senior/Variable                     31/360                2.18063%         Aaa             AAA               n/a
+
+       A-2             92975QAB6                  Senior/Auction                     31/360                2.24000%         Aaa             AAA               n/a
+
+
+
+
+* Original Ratings of the Offered Certificates per the Prospectus Supplement dated September 25, 2002
+
+
+
+
+                                                                                                        - Page 2 -
+
+                                  Bond Interest Information
+
+           Current           Current                   Current       Outstanding           Cumulative
+Class    Interest Due    Interest Shortfall       Shortfall Paid   Shortfall to be Paid  Interest Shortfall
+
+A-1      1,403,508.58          0.00                     0.00              0.00                 0.00
+
+A-2      127,249.29            0.00                     0.00              0.00                 0.00
+
+
+
+
+                                             - Page 3 -
+
+                        Collection Activity
+
+
+Interest
+Interest Collected                             3,045,388.30
+(Additional Balance Interest)                      0.00
+(Relief Act Shortfalls)                            0.00
+
+
+Total Interest Collected                       3,045,388.30
+
+
+Principal
+Principal Collected                           35,148,057.39
+Net Liquidation Proceeds                           0.00
+Substitute Adjustment Amount                       0.00
+Other Principal Collected                          0.00
+(Additional Balance Increase)                      0.00
+(Draw Amounts)                                (13,918,048.12)
+
+
+Total Principal Collected                     21,230,009.27
+
+
+Additional Funds
+Interest Earnings from the Funding Account         0.00
+Draws from the Policy                              0.00
+Yield Maintenance Payment                          0.00
+
+
+Total Additional Funds Collected                   0.00
+
+Total Available Collections                   24,275,397.57
+
+
+
+
+                               - Page 4 -
+
+                  Collateral Information
+
+
+
+Periodic Information
+Beginning Collateral Balance               739,626,808.04
+Ending Collateral Balance                  718,350,086.38
+Current Liquidation Loss Amounts             48,075.22
+Cumulative Liquidation Loss Amounts         1,279,794.10
+Gross WAC                                     4.782%
+Net WAC                                       4.341%
+WAM                                             198
+AGE                                              35
+Gross CPR                                     44.248%
+Net CPR                                       29.495%
+Draw Rate                                     20.385%
+
+Original Information
+Collateral Balance                        1,100,011,119.68
+Number of Loans                                22,971
+Gross WAC                                     4.407%
+WAM                                             233
+
+Overcollateralization Information
+Overcollateralization Target Amount        14,115,548.98
+Beginning Overcollateralization Amount     13,953,992.49
+Ending Overcollateralization Amount        14,115,548.98
+Overcollateralization Increase               161,556.49
+Overcollateralization Decrease                  0.00
+
+
+
+
+                             - Page 5 -
+
+              Additional Account Activity
+
+
+
+                    Funding Account
+
+
+
+Beginning Balance                        0.00
+
+Interest Earnings                        0.00
+
+Deposits                                 0.00
+
+Withdrawals                              0.00
+
+Ending Balance                           0.00
+
+
+
+
+                         Page 6
+
+                      Delinquency Information
+
+
+
+
+Delinquent:                  #                   $          %
+
+              30-59 Days     25            1,195,965.34   0.166%
+              60-89 Days     5             186,024.98     0.026%
+             90-119 Days     5             563,686.28     0.078%
+             120-149 Days    2              51,159.72     0.007%
+             150-179 Days    2             190,037.30     0.026%
+              180+ Days      7             365,548.98     0.051%
+
+                Total        46           2,552,422.60    0.355%
+
+
+
+
+Foreclosure:                 #                   $          %
+
+                             18            1,225,708.40   0.171%
+
+
+
+
+REO:                         #                   $          %
+
+                             0                 0.00       0.000%
+
+
+
+
+                              - Page 7 -
+
+                                               Miscellaneous Reporting Items
+
+
+
+                        Fees                                                         Additional Information
+
+Servicing Fee                      308,177.84           3 Largest Mortgage Loan Balances                       7,956,481.42
+Enhancer Premium                   90,709.10            Additional Balances created during the first
+Indenture Trustee Expenses           0.00                Rapid Amortization Period                                     0.00
+Broker Dealer Expenses               0.00               Additional Balance Increase Amount payable
+Auction Agent Expenses               0.00                to Certificateholders                                         0.00
+                                                        Additional Balance Increase Amount payable
+Total Fees                         398,886.94            from Principal Collections                                    0.00
+                                                        Condition 1 in effect?                                           No
+                                                        Condition 2 in effect?                                           No
+                Amortization Period                     Condition 3 in effect?                                           No
+                                                        Cumulative Subsequent Mortgage Loans                           0.00
+Revolving (Yes / No)                   No               Deficiency Amount                                              0.00
+Managed Amortization (Yes / No)       Yes               Draws from Policy not yet Reimbursed                           0.00
+Rapid Amortization (Yes / No)          No               Liquidation Loss Amount %                                     0.1%
+                                                        Net Excess Spread % - Current                               1.891%
+                                                        Net Excess Spread % - 2 mth avg                             2.020%
+                                                        Net Excess Spread % - 3 mth avg                             1.998%
+                                                        Percentage Interest Class A-1                                90.9%
+                                                        Percentage Interest Class A-2                                 9.1%
+                                                        Stepdown Date Active (Yes / No)                                  No
+                                                        Stepdown Delinquency Test Met? (Yes / No)                       Yes
+
+
+
+
+                                                         - Page 8 -
+
+</pre>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

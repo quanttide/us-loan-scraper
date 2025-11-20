@@ -1,0 +1,558 @@
+
+<PAGE>
+                                                                    EXHIBIT 20.1
+
+
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class A-1
+
+
+<TABLE>
+<S>                                                                                      <C>
+Original Principal Balance                                                               222,000,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                  <C>                       <C>                   <C>
+              Principal Amount of Notes as of Prior Distribution Date                              0.00                   0.000000
+
+              Principal Amount of Notes as of Current Distribution Date                            0.00                   0.000000
+
+                                        Pool Factor                                            0.000000
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount                      0.00                                       0.000000
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                             0.00                                       0.000000
+
+              Principal Distribution Amount                                    0.00                                       0.000000
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                       0.00                                       0.000000
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                              0.00                                       0.000000
+
+              Interest Distribution Amount                                     0.00                                       0.000000
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class A-2
+
+<TABLE>
+<S>                                                                                      <C>
+Original Principal Balance                                                               555,000,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                    PER $1000
+                                                                                                                    ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS              BALANCE
+<S>                                                                <C>                   <C>                         <C>
+              Principal Amount of Notes as of Prior Distribution Date                    361,658,861.15                651.637588
+
+              Principal Amount of Notes as of Current Distribution Date                  323,133,209.15                582.221998
+
+                                        Pool Factor                                            0.582222
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount             38,525,652.00                                     69.415589
+              Plus: Prior Principal Carryover                                  0.00                                      0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                    38,525,652.00                                     69.415589
+
+              Principal Distribution Amount                           38,525,652.00                                     69.415589
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                  0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 455,087.40                                      0.819977
+              Plus: Prior Interest Carryover                                   0.00                                      0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        455,087.40                                      0.819977
+
+              Interest Distribution Amount                               455,087.40                                      0.819977
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                  0.000000
+
+
+                                                                                                                 BA9 - SUM OF(4:6)
+                                                                                                                    AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                           ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                      0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class A-3
+
+
+
+<TABLE>
+<S>                                                                                      <C>
+Original Principal Balance                                                               200,000,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                <C>                   <C>                         <C>
+              Principal Amount of Notes as of Prior Distribution Date                    200,000,000.00                1000.000000
+
+              Principal Amount of Notes as of Current Distribution Date                  200,000,000.00                1000.000000
+
+                                        Pool Factor                                            1.000000
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount                      0.00                                       0.000000
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                             0.00                                       0.000000
+
+              Principal Distribution Amount                                    0.00                                       0.000000
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 365,000.00                                       1.825000
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        365,000.00                                       1.825000
+
+              Interest Distribution Amount                               365,000.00                                       1.825000
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+<PAGE>
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class A-4
+
+
+
+<TABLE>
+<S>                                                                                      <C>
+Original Principal Balance                                                               331,750,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                <C>                   <C>                         <C>
+              Principal Amount of Notes as of Prior Distribution Date                    331,750,000.00                1000.000000
+
+              Principal Amount of Notes as of Current Distribution Date                  331,750,000.00                1000.000000
+
+                                        Pool Factor                                            1.000000
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount                      0.00                                       0.000000
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                             0.00                                       0.000000
+
+              Principal Distribution Amount                                    0.00                                       0.000000
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 776,847.92                                       2.341667
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        776,847.92                                       2.341667
+
+              Interest Distribution Amount                               776,847.92                                       2.341667
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class B-1
+
+
+<TABLE>
+<S>                                                                                       <C>
+Original Principal Balance                                                                56,250,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                <C>                    <C>                        <C>
+              Principal Amount of Notes as of Prior Distribution Date                     46,254,579.61                 822.303638
+
+              Principal Amount of Notes as of Current Distribution Date                   44,259,985.74                 786.844191
+
+                                        Pool Factor                                            0.786844
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount              1,994,593.87                                      35.459447
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                     1,994,593.87                                      35.459447
+
+              Principal Distribution Amount                            1,994,593.87                                      35.459447
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                  90,196.43                                       1.603492
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                         90,196.43                                       1.603492
+
+              Interest Distribution Amount                                90,196.43                                       1.603492
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+
+
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class C-1
+
+
+
+<TABLE>
+<S>                                                                                       <C>
+Original Principal Balance                                                                63,750,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                       PER $1000
+                                                                                                                       ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS                 BALANCE
+<S>                                                                 <C>                   <C>                          <C>
+              Principal Amount of Notes as of Prior Distribution Date                     52,436,575.94                   822.534525
+
+              Principal Amount of Notes as of Current Distribution Date                   50,175,401.50                   787.065122
+
+                                        Pool Factor                                            0.787065
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount              2,261,174.44                                        35.469403
+              Plus: Prior Principal Carryover                                  0.00                                         0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                     2,261,174.44                                        35.469403
+
+              Principal Distribution Amount                            2,261,174.44                                        35.469403
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                     0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 108,805.90                                         1.706759
+              Plus: Prior Interest Carryover                                   0.00                                         0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        108,805.90                                         1.706759
+
+              Interest Distribution Amount                               108,805.90                                         1.706759
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                     0.000000
+
+
+                                                                                                                       PER $1000
+                                                                                                                       AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                              ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                         0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+
+
+<PAGE>
+                        WFS FINANCIAL 2004-1 OWNER TRUST
+                          Statement to Securityholders
+                  for Collection Period ended November 30, 2004
+                   for Distribution Date of December 20, 2004
+                                    Class D-1
+
+
+
+
+<TABLE>
+<S>                                                                                       <C>
+Original Principal Balance                                                                48,750,000.00
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                                     PER $1000
+                                                                                                                     ORIG PRIN
+AGGREGATE BALANCES:                                                                              TOTALS               BALANCE
+<S>                                                                <C>                    <C>                        <C>
+              Principal Amount of Notes as of Prior Distribution Date                     40,072,583.29                 822.001709
+
+              Principal Amount of Notes as of Current Distribution Date                   38,344,569.99                 786.555282
+
+                                        Pool Factor                                            0.786555
+
+PRINCIPAL DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Principal Distributable Amount              1,728,013.30                                      35.446427
+              Plus: Prior Principal Carryover                                  0.00                                       0.000000
+                                                                   -----------------
+              Total Principal Distributable Amount                     1,728,013.30                                      35.446427
+
+              Principal Distribution Amount                            1,728,013.30                                      35.446427
+                                                                   -----------------
+
+              Current Principal Carryover                                                          0.00                   0.000000
+
+
+INTEREST DISTRIBUTABLE AMOUNT:
+
+              Note Monthly Interest Distributable Amount                 105,858.41                                       2.171455
+              Plus: Prior Interest Carryover                                   0.00                                       0.000000
+                                                                   -----------------
+              Total Interest Distributable Amount                        105,858.41                                       2.171455
+
+              Interest Distribution Amount                               105,858.41                                       2.171455
+                                                                   -----------------
+
+              Current Interest Carryover                                                           0.00                   0.000000
+
+
+                                                                                                                     PER $1000
+                                                                                                                     AGGREGATE
+AGGREGATE SECURITY RELATED INFORMATION:                                                                            ORIG PRIN BAL
+
+              Aggregate Principal Balance                          1,056,324,242.12
+
+              Overcollateralization Amount                            68,661,075.74
+
+              Servicing Fee                                            1,149,925.00                                       0.766617
+
+              Spread Account                                          10,563,242.42
+              Net Change in Spread Account                              (476,036.72)
+
+              Net Collections                                         55,452,802.88
+
+              Aggregate Principal Balance of Delinquent Contracts      5,025,027.15
+
+              Aggregate Excess Spread Amount                          13,351,299.64
+              Total Initial Spread Deposit Repayment                 (13,351,299.64)
+                                                                   -----------------
+              Certificate Distributable Amount                                    -
+                                                                   =================
+</TABLE>
+

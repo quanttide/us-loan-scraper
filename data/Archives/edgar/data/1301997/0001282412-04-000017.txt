@@ -1,0 +1,523 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QFnasbtbbPRdEfaYdMywa6VT8T/q0PQX9+Ht9tkdue9q1cvwWtdqPXvl/ISfsrBM
+ /voeidEgL9PxLQyC6zYeMQ==
+
+<SEC-DOCUMENT>0001282412-04-000017.txt : 20041229
+<SEC-HEADER>0001282412-04-000017.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229123257
+ACCESSION NUMBER:		0001282412-04-000017
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041225
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Structured Asset Securities Corp Mortgage Pass-Through Certificates, Series 2004-17XS
+		CENTRAL INDEX KEY:			0001301997
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-115858-13
+		FILM NUMBER:		041230128
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 WORLD FINANCIAL CENTER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10285
+		BUSINESS PHONE:		2125267000
+
+	MAIL ADDRESS:	
+		STREET 1:		3 WORLD FINANCIAL CENTER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10285
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k_1204.htm
+<DESCRIPTION>SASCO 2004-17XS 8K
+<TEXT>
+<HTML><HEAD><TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY style="FONT-SIZE: 10pt; COLOR: #000000; LINE-HEIGHT: 12pt" vLink=#ff00ff
+aLink=#ff0000 link=#0000ff>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P style="FONT-SIZE: 14.5pt; MARGIN: 0pt; LINE-HEIGHT: 16.5pt"
+align=center>UNITED STATES</P>
+<P style="FONT-SIZE: 14.5pt; MARGIN: 0pt; LINE-HEIGHT: 16.5pt"
+align=center>SECURITIES AND EXCHANGE COMMISSION</P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; LINE-HEIGHT: 14pt"
+align=center>Washington, D.C. &nbsp;20549</P>
+<P style="FONT-SIZE: 14.5pt; MARGIN: 0pt; LINE-HEIGHT: 16.5pt" align=center>FORM
+8-K</P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; LINE-HEIGHT: 14pt"
+align=center>CURRENT REPORT</P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt" align=center>PURSUANT
+TO SECTION 13 OR 15(d) OF THE</P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 24pt; LINE-HEIGHT: 14pt"
+align=center>SECURITIES EXCHANGE ACT OF 1934</P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt" align=center>Date of
+Report (Date of earliest event reported)</P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 24pt; LINE-HEIGHT: 14pt"
+align=center>27-Dec-04</P><p style="MARGIN-TOP: 0pt; PADDING-LEFT: 36pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; LINE-HEIGHT: 14pt"
+align=center>Structured Asset Securities Corporation<br>
+Mortgage Pass-Through Certificates<br>
+Series 2004-17XS</P><P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+align=center><U>Structured Asset Securities Corporation</U></P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt" align=center>(Exact
+Name of Registrant as Specified in its Charter)</P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<TABLE align=center>
+  <TR>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=212>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center><U>Delaware</U></P></TD>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=212>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center><U>333-115858-13</U></P></TD>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=212>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center><U>74-2440850</U></P></TD></TR>
+  <TR>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=212>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center>(State or Other Jurisdiction</P>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt" align=center>Of
+      Incorporation)</P></TD>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=212>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center>(Commission</P>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center>File Number)</P></TD>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=212>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center>(I.R.S. Employer</P>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center>Identification No.)</P></TD></TR></TABLE>
+<P style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt"
+align=justify><BR></P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<TABLE align=center>
+  <TR>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=235>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center>745 Seventh Avenue, 7th Floor</P>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center><U>New York, New York</U></P><P style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; LINE-HEIGHT: 14pt"
+      align=center>(Address of Principal<BR>Executive Offices)</P></TD>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=190>&nbsp;</TD>
+    <TD
+    style="PADDING-RIGHT: 7.2pt; PADDING-LEFT: 7.2pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt"
+    vAlign=top width=212>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt" align=center><BR></P>
+      <P style="FONT-SIZE: 12pt; MARGIN: 0pt; LINE-HEIGHT: 14pt"
+      align=center><U>10019</U></P>
+      <P
+      style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; LINE-HEIGHT: 14pt"
+      align=center>(Zip Code)</P></TD></TR></TABLE>
+<P style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt"
+align=justify><BR></P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 14pt"
+align=justify>Registrant&#39;s telephone number, including area code: &nbsp;&nbsp;&nbsp;&nbsp;(212) 526-7000</P>
+<br>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 14pt"
+align=justify>Check the appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following provisions (see General
+Instruction A.2. below):</P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 14pt"
+align=justify>
+[&nbsp;&nbsp;] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 14pt"
+align=justify>
+[&nbsp;&nbsp;] Soliciting material pursuant to Rule 14a-12(b) under the Exchange Act (17 CFR 240.14a-12(b))</P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 14pt"
+align=justify>
+[&nbsp;&nbsp;] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 14pt"
+align=justify>
+[&nbsp;&nbsp;] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+<br>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 14pt"
+align=justify><U>Item 8.01 &nbsp;Other Events.</U></P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 60pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 14pt">On &nbsp;27-Dec-04&nbsp;a scheduled distribution was made from the Trust to holders of the Certificates. The Trustee
+has caused to be filed with the Commission, the Monthly Report dated &nbsp;27-Dec-04. The Monthly Report is filed pursuant to and in accordance with (1) numerous no-action letters (2)
+current Commission policy in the area.</P>
+<P
+style="MARGIN-TOP: 0pt; MARGIN-LEFT: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 14pt"
+align=justify><U>Item
+9.01 &nbsp;Financial Statements and Exhibits.</U></P>
+<p style="MARGIN-TOP: 0pt; MARGIN-LEFT: 60pt; FONT-SIZE: 12pt">(C) Exhibits</p>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 144pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: -14pt; TEXT-INDENT: -84pt; LINE-HEIGHT: 14pt">Exhibit No. 99.1</P>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 144pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; LINE-HEIGHT: 14pt">Monthly Distribution Report
+dated: &nbsp;27-Dec-04</P>
+<P style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 24pt"
+align=center><BR></P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 24pt; LINE-HEIGHT: 14pt"
+align=center><B>SIGNATURES</B></P>
+<P
+style="MARGIN-TOP: 0pt; MARGIN-RIGHT: 24pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 60pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 14pt"
+align=left>Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.</P>
+<P
+style="FONT-SIZE: 12pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 216pt; LINE-HEIGHT: 14pt">By: &nbsp;U.S. Bank National Association, as &nbsp;Trustee&nbsp; for:</p>
+<P
+style="FONT-SIZE: 12pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 216pt; LINE-HEIGHT: 14pt">Structured Asset Securities Corporation</P>
+<P
+style="FONT-SIZE: 12pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 216pt; LINE-HEIGHT: 14pt">Mortgage Pass-Through Certificates</P>
+<P
+style="FONT-SIZE: 12pt; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 216pt; LINE-HEIGHT: 14pt">Series 2004-17XS</P>
+<BR>
+<BR>
+
+
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 264pt; FONT-SIZE: 12pt; MARGIN-RIGHT: 0pt; MARGIN-BOTTOM: -14pt; TEXT-INDENT: -48pt; LINE-HEIGHT: 14pt">By:</P>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 264pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 14pt">/s/&nbsp;Diana Kenneally</p>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 264pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: -14pt; TEXT-INDENT: -48pt; LINE-HEIGHT: 14pt">Name:</P>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 264pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 14pt">Diana Kenneally</p>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 264pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: -14pt; TEXT-INDENT: -48pt; LINE-HEIGHT: 14pt">Title:</P>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 264pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 14pt">Assistant Vice President</p>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P style="FONT-SIZE: 12pt; MARGIN: 0pt"><BR></P>
+<P
+style="MARGIN-TOP: 0pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; TEXT-INDENT: 60pt; LINE-HEIGHT: 14pt"
+align=justify>Dated: &nbsp;29-Dec-04</P>
+<P style="FONT-SIZE: 12pt; MARGIN-TOP: 24pt; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 14pt"
+align=left><U>Index to Exhibits</U></P>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 120pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: -14pt; TEXT-INDENT: -84pt; LINE-HEIGHT: 14pt">Exhibit No. 99.1</P>
+<P
+style="MARGIN-TOP: 0pt; PADDING-LEFT: 120pt; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt; LINE-HEIGHT: 14pt">Monthly Distribution Report
+dated: &nbsp;27-Dec-04</P><BR><hr></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1 CHARTER
+<SEQUENCE>2
+<FILENAME>ex991_1204.htm
+<DESCRIPTION>SASCO 2004-17 XS EXHIBITS
+<TEXT>
+<html><head><title>Distribution Report for sasco 04-17xs</title>
+<meta name="Author"content="First Security Investor Reporting (www.fsir.com)"></head><body>
+<table border=0 cellspacing=0 cellpadding=2  align=center>
+<tr><td align=center colspan=7><b>Structured Asset Securities Corporation</b></td></tr>
+<tr><td align=center colspan=7><b>Mortgage Pass-Through Certificates</b></td></tr>
+<tr><td align=center colspan=7><b>Series 2004-17XS</b></td></tr>
+<tr><td align=center colspan=7><b>B366</b></td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="996pt">
+<tr><td align=left colspan=5></td><td align=left colspan=1><b>Payment Date:</b></td><td align=left colspan=1><b>December 27, 2004</b></td></tr>
+<tr><td align=left colspan=5></td><td align=left colspan=1><b>Record Date:</b></td><td align=left colspan=1><b>November 30, 2004</b></td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 >
+<tr><td align=left colspan=7><b>Trustree&#39;s Report to Certificateholders</b></td></tr>
+<tr><td align=left colspan=7><b>Payment Summary</b></td></tr>
+</table> <p>
+<table border=1 cellspacing=0 cellpadding=2 width="996pt">
+<tr><td align=left colspan=2> </td><td align=left colspan=1>Pass-Through</td><td align=left colspan=1>Interest </td><td align=left colspan=1>Original</td><td align=left colspan=1>Beginning</td><td align=left colspan=1>Principal </td></tr>
+<tr><td align=left colspan=1>Class</td><td align=left colspan=1>CUSIP</td><td align=left colspan=1>Rate </td><td align=left colspan=1>Type</td><td align=left colspan=1>Balance</td><td align=left colspan=1>  Balance</td><td align=left colspan=1>Paid</td></tr>
+<tr><td align=left colspan=1>A1</td><td align=left colspan=1>86359BZB0</td><td align=left colspan=1>2.400000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>121,774,000.00 </td><td align=left colspan=1>106,624,259.96 </td><td align=left colspan=1>6,801,897.96 </td></tr>
+<tr><td align=left colspan=1>A2</td><td align=left colspan=1>86359BZC8</td><td align=left colspan=1>4.450000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>31,319,000.00 </td><td align=left colspan=1>31,319,000.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A3A</td><td align=left colspan=1>86359BZD6</td><td align=left colspan=1>5.450000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>35,819,000.00 </td><td align=left colspan=1>35,819,000.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A3B</td><td align=left colspan=1>86359BZE4</td><td align=left colspan=1>5.540000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>30,000,000.00 </td><td align=left colspan=1>30,000,000.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A4A</td><td align=left colspan=1>86359BZF1</td><td align=left colspan=1>4.980000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>12,162,000.00 </td><td align=left colspan=1>12,162,000.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A4B</td><td align=left colspan=1>86359BZG9</td><td align=left colspan=1>5.000000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>12,162,000.00 </td><td align=left colspan=1>12,162,000.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M1</td><td align=left colspan=1>86359BZH7</td><td align=left colspan=1>5.410000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>5,794,000.00 </td><td align=left colspan=1>5,794,000.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M2</td><td align=left colspan=1>86359BZJ3</td><td align=left colspan=1>5.850000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>4,507,000.00 </td><td align=left colspan=1>4,507,000.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M3</td><td align=left colspan=1>86359BZK0</td><td align=left colspan=1>6.000000%</td><td align=left colspan=1>Variable</td><td align=left colspan=1>3,991,000.00 </td><td align=left colspan=1>3,991,000.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>P</td><td align=left colspan=1>N/A </td><td align=left colspan=1>0.000000%</td><td align=left colspan=1>N/A</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>X</td><td align=left colspan=1>N/A </td><td align=left colspan=1>0.000000%</td><td align=left colspan=1>N/A</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>R</td><td align=left colspan=1>N/A </td><td align=left colspan=1>0.000000%</td><td align=left colspan=1>N/A</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=4>* Reflects the application of Net Fund Cap</td><td align=left colspan=1>      257,528,000.00 </td><td align=left colspan=1>    242,378,259.96 </td><td align=left colspan=1>             6,801,897.96 </td></tr>
+</table> <p>
+<table border=1 cellspacing=0 cellpadding=2 width="445pt">
+<tr><td align=left colspan=1>Interest</td><td align=left colspan=1>Total</td><td align=left colspan=5>Ending</td></tr>
+<tr><td align=left colspan=1>Paid</td><td align=left colspan=1>Paid</td><td align=left colspan=5>Balance</td></tr>
+<tr><td align=left colspan=1>220,356.80 </td><td align=left colspan=1>7,022,254.76 </td><td align=left colspan=5>99,822,362.00 </td></tr>
+<tr><td align=left colspan=1>116,141.29 </td><td align=left colspan=1>116,141.29 </td><td align=left colspan=5>31,319,000.00 </td></tr>
+<tr><td align=left colspan=1>162,677.96 </td><td align=left colspan=1>162,677.96 </td><td align=left colspan=5>35,819,000.00 </td></tr>
+<tr><td align=left colspan=1>138,500.00 </td><td align=left colspan=1>138,500.00 </td><td align=left colspan=5>30,000,000.00 </td></tr>
+<tr><td align=left colspan=1>50,472.30 </td><td align=left colspan=1>50,472.30 </td><td align=left colspan=5>12,162,000.00 </td></tr>
+<tr><td align=left colspan=1>50,675.00 </td><td align=left colspan=1>50,675.00 </td><td align=left colspan=5>12,162,000.00 </td></tr>
+<tr><td align=left colspan=1>26,121.28 </td><td align=left colspan=1>26,121.28 </td><td align=left colspan=5>5,794,000.00 </td></tr>
+<tr><td align=left colspan=1>21,971.63 </td><td align=left colspan=1>21,971.63 </td><td align=left colspan=5>4,507,000.00 </td></tr>
+<tr><td align=left colspan=1>19,955.00 </td><td align=left colspan=1>19,955.00 </td><td align=left colspan=5>3,991,000.00 </td></tr>
+<tr><td align=left colspan=1>35,193.39 </td><td align=left colspan=1>35,193.39 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>540,645.18 </td><td align=left colspan=1>540,645.18 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>1,382,709.84 </td><td align=left colspan=1>8,184,607.80 </td><td align=left colspan=5>235,576,362.00 </td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="711pt">
+<tr><td align=left colspan=7><b>Distributions Per Certificate</b></td></tr>
+<tr><td align=left colspan=1></td><td align=left colspan=1>Beginning</td><td align=left colspan=1>Principal</td><td align=left colspan=1>Interest </td><td align=left colspan=3>Ending</td></tr>
+<tr><td align=left colspan=1>Class</td><td align=left colspan=1>Cert. Factor</td><td align=left colspan=1>Distribution</td><td align=left colspan=1>Distribution</td><td align=left colspan=3>Cert. Factor</td></tr>
+<tr><td align=left colspan=1>A1</td><td align=left colspan=1>0.87559134 </td><td align=left colspan=1>55.85673428 </td><td align=left colspan=1>1.80955544 </td><td align=left colspan=3>0.81973461 </td></tr>
+<tr><td align=left colspan=1>A2</td><td align=left colspan=1>1.00000000 </td><td align=left colspan=1>0.00000000 </td><td align=left colspan=1>3.70833333 </td><td align=left colspan=3>1.00000000 </td></tr>
+<tr><td align=left colspan=1>A3A</td><td align=left colspan=1>1.00000000 </td><td align=left colspan=1>0.00000000 </td><td align=left colspan=1>4.54166667 </td><td align=left colspan=3>1.00000000 </td></tr>
+<tr><td align=left colspan=1>A3B</td><td align=left colspan=1>1.00000000 </td><td align=left colspan=1>0.00000000 </td><td align=left colspan=1>4.61666667 </td><td align=left colspan=3>1.00000000 </td></tr>
+<tr><td align=left colspan=1>A4A</td><td align=left colspan=1>1.00000000 </td><td align=left colspan=1>0.00000000 </td><td align=left colspan=1>4.15000000 </td><td align=left colspan=3>1.00000000 </td></tr>
+<tr><td align=left colspan=1>A4B</td><td align=left colspan=1>1.00000000 </td><td align=left colspan=1>0.00000000 </td><td align=left colspan=1>4.16666667 </td><td align=left colspan=3>1.00000000 </td></tr>
+<tr><td align=left colspan=1>M1</td><td align=left colspan=1>1.00000000 </td><td align=left colspan=1>0.00000000 </td><td align=left colspan=1>4.50833333 </td><td align=left colspan=3>1.00000000 </td></tr>
+<tr><td align=left colspan=1>M2</td><td align=left colspan=1>1.00000000 </td><td align=left colspan=1>0.00000000 </td><td align=left colspan=1>4.87500000 </td><td align=left colspan=3>1.00000000 </td></tr>
+<tr><td align=left colspan=1>M3</td><td align=left colspan=1>1.00000000 </td><td align=left colspan=1>0.00000000 </td><td align=left colspan=1>5.00000000 </td><td align=left colspan=3>1.00000000 </td></tr>
+<tr><td align=left colspan=1>P</td><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=left colspan=3>N/A</td></tr>
+<tr><td align=left colspan=1>X</td><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=left colspan=3>N/A</td></tr>
+<tr><td align=left colspan=1>R </td><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=left colspan=3>N/A</td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="996pt">
+<tr><td align=left colspan=7><b>Principal Detail</b></td></tr>
+<tr><td align=left colspan=1></td><td align=left colspan=1>Beginning</td><td align=left colspan=1>Scheduled</td><td align=left colspan=1>Unscheduled</td><td align=left colspan=1>Other Principal/</td><td align=left colspan=1>Total Principal</td><td align=left colspan=1>Realized Losses</td></tr>
+<tr><td align=left colspan=1>Class</td><td align=left colspan=1>Balance</td><td align=left colspan=1>Principal</td><td align=left colspan=1>Principal</td><td align=left colspan=1>Cash Adjustments</td><td align=left colspan=1>Distribution</td><td align=left colspan=1>/ Applied Loss</td></tr>
+<tr><td align=left colspan=1>A1</td><td align=left colspan=1>106,624,259.96 </td><td align=left colspan=1>155,172.00 </td><td align=left colspan=1>6,646,725.96 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>6,801,897.96 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A2</td><td align=left colspan=1>31,319,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A3A</td><td align=left colspan=1>35,819,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A3B</td><td align=left colspan=1>30,000,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A4A</td><td align=left colspan=1>12,162,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A4B</td><td align=left colspan=1>12,162,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M1</td><td align=left colspan=1>5,794,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M2</td><td align=left colspan=1>4,507,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M3</td><td align=left colspan=1>3,991,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>P</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>X</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>R</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1><b>Total:</b></td><td align=left colspan=1>242,378,259.96 </td><td align=left colspan=1>155,172.00 </td><td align=left colspan=1>6,646,725.96 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>6,801,897.96 </td><td align=left colspan=1>0.00 </td></tr>
+</table> <p>
+<table border=1 cellspacing=0 cellpadding=2 width="445pt">
+<tr><td align=left colspan=1>Ending</td><td align=left colspan=1>Deferred </td><td align=left colspan=5>Cumulative </td></tr>
+<tr><td align=left colspan=1>Balance</td><td align=left colspan=1>Amount</td><td align=left colspan=5>Realized Losses</td></tr>
+<tr><td align=left colspan=1>99,822,362.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>31,319,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>35,819,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>30,000,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>12,162,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>12,162,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>5,794,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>4,507,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>3,991,000.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>235,576,362.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="996pt">
+<tr><td align=left colspan=7><b>Interest Detail</b></td></tr>
+<tr><td align=left colspan=1></td><td align=left colspan=1>Accrued</td><td align=left colspan=1>Deferred</td><td align=left colspan=1>Prepayment </td><td align=left colspan=1>Current Interest</td><td align=left colspan=1>Prepayment</td><td align=left colspan=1>Other Interest/</td></tr>
+<tr><td align=left colspan=1>Class</td><td align=left colspan=1>Certificate Int</td><td align=left colspan=1>Interest</td><td align=left colspan=1>Int. Shortfall</td><td align=left colspan=1>Shortfalls</td><td align=left colspan=1>Premiums</td><td align=left colspan=1>Adjustment</td></tr>
+<tr><td align=left colspan=1>A1</td><td align=left colspan=1>220,356.80 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A2</td><td align=left colspan=1>116,141.29 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A3A</td><td align=left colspan=1>162,677.96 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A3B</td><td align=left colspan=1>138,500.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A4A</td><td align=left colspan=1>50,472.30 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>A4B</td><td align=left colspan=1>50,675.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M1</td><td align=left colspan=1>26,121.28 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M2</td><td align=left colspan=1>21,971.63 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>M3</td><td align=left colspan=1>19,955.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>P</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>35,193.39 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>X</td><td align=left colspan=1>540,645.18 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1>R</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td></tr>
+<tr><td align=left colspan=1> Totals:</td><td align=left colspan=1>1,347,516.45 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>35,193.39 </td><td align=left colspan=1>0.00 </td></tr>
+</table> <p>
+<table border=1 cellspacing=0 cellpadding=2 width="445pt">
+<tr><td align=left colspan=1>Total Interest</td><td align=left colspan=1>Cumulative</td><td align=left colspan=5>Cumulative</td></tr>
+<tr><td align=left colspan=1>Distr. Amount</td><td align=left colspan=1>Interest Shortfall</td><td align=left colspan=5>Deferred Interest</td></tr>
+<tr><td align=left colspan=1>220,356.80 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>116,141.29 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>162,677.96 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>138,500.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>50,472.30 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>50,675.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>26,121.28 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>21,971.63 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>19,955.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>35,193.39 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>540,645.18 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>771,975.80 </td></tr>
+<tr><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>0.00 </td></tr>
+<tr><td align=left colspan=1>1,382,709.84 </td><td align=left colspan=1>0.00 </td><td align=left colspan=5>771,975.80 </td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="711pt">
+<tr><td align=left colspan=7><b>Mortgage Loan Activity for related Payment Date:</b></td></tr>
+<tr><td align=left colspan=1># of Mortgage</td><td align=left colspan=1>Beginning Agg Sched</td><td align=left colspan=1>Ending Agg Sched</td><td align=left colspan=1>Interest Remittance</td><td align=left colspan=3>Principal Remittance</td></tr>
+<tr><td align=left colspan=1>Loans</td><td align=left colspan=1>Principal Balance</td><td align=left colspan=1>Principal Balance</td><td align=left colspan=1>Amount</td><td align=left colspan=3>Amount</td></tr>
+<tr><td align=left colspan=1>1,127 </td><td align=left colspan=1>243,150,845.96 </td><td align=left colspan=1>236,348,948.00 </td><td align=left colspan=1>1,350,715.18 </td><td align=left colspan=3>6,801,897.96 </td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="840pt">
+<tr><td align=left colspan=1><b>Substitution of Mortgage Loans Information</b></td><td align=left colspan=1></td><td align=right></td><td align=right><b></b></td><td align=left colspan=3><b>Overcollateralization Information</b></td></tr>
+<tr><td align=left colspan=1>Deleted</td><td align=left colspan=1>Scheduled</td><td align=left colspan=1>Qualifying Substitute</td><td align=left colspan=1></td><td align=right>Target  </td><td align=right>Overcollateralization</td><td align=right></td></tr>
+<tr><td align=left colspan=1>Mortgage Loan</td><td align=left colspan=1>Prin Balance</td><td align=left colspan=1>Mortgage Loan</td><td align=right></td><td align=right>Overcollateralization</td><td align=right>Amount</td><td align=right></td></tr>
+<tr><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=right></td><td align=right>772,586.00</td><td align=right>772,586.00</td><td align=right></td></tr>
+<tr><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=left colspan=1>N/A</td><td align=right></td><td align=right>Aggregate OC</td><td align=right>Overcollateralization</td><td align=right></td></tr>
+<tr><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=right>Release Amount</td><td align=right>Deficiency</td><td align=left colspan=1></td></tr>
+<tr><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=right>0.00</td><td align=right>0.00</td><td align=left colspan=1></td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="996pt">
+<tr><td align=left colspan=7><b>Aggregate Delinquency information for related Payment Date:</b></td></tr>
+<tr><td align=left colspan=1></td><td align=left colspan=1>One Month</td><td align=left colspan=1>Two Months</td><td align=left colspan=1>3 Months +</td><td align=left colspan=1>Bankruptcy</td><td align=left colspan=1>Foreclosures</td><td align=left colspan=1> REO </td></tr>
+<tr><td align=left colspan=1># of Loans</td><td align=center colspan=1>8 </td><td align=center colspan=1>1 </td><td align=center colspan=1>1 </td><td align=center colspan=1>2 </td><td align=center colspan=1>3 </td><td align=center colspan=1>0 </td></tr>
+<tr><td align=left colspan=1>Agg Prin Balance</td><td align=center colspan=1>1,242,877.72 </td><td align=center colspan=1>114,000.00 </td><td align=center colspan=1>58,565.00 </td><td align=center colspan=1>332,638.11 </td><td align=center colspan=1>338,773.50 </td><td align=center colspan=1>0.00 </td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="996pt">
+<tr><td align=left colspan=1><b>Fees &amp; Insurance Premium Information</b></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=3><b>Advance Information</b></td></tr>
+<tr><td align=left colspan=1>Master Servicing Fees</td><td align=left colspan=1></td><td align=left colspan=1>50,656.45 </td><td align=left colspan=1></td><td align=left colspan=1>Aggreg. Advances Required</td><td align=left colspan=1></td><td align=left colspan=1>1,252,471.33 </td></tr>
+<tr><td align=left colspan=1>Cert. Insurance Premium</td><td align=left colspan=1></td><td align=left colspan=1>3,198.73 </td><td align=left colspan=1></td><td align=left colspan=1>Aggreg. Advances Made</td><td align=left colspan=1></td><td align=left colspan=1><u>1,252,471.33 </u></td></tr>
+<tr><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1></td><td align=left colspan=1>0.00 </td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="711pt">
+<tr><td align=left colspan=7><b>Net Fund Cap Shortfalls Summary</b></td></tr>
+<tr><td align=left colspan=1></td><td align=center colspan=1></td><td align=center colspan=1></td><td align=center colspan=1>Payment to</td><td align=center colspan=3>Cumulative</td></tr>
+<tr><td align=left colspan=1>Class</td><td align=center colspan=1>Beg Shortfall</td><td align=center colspan=1>Current Shortfall</td><td align=center colspan=1>Shortfall</td><td align=center colspan=3>Shortfall</td></tr>
+<tr><td align=left colspan=1>A1</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1>A2</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1>A3A</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1>A3B</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1>A4A</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1>A4B</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1>M1</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1>M2</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1>M3</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+<tr><td align=left colspan=1> Totals:</td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=1>0.00 </td><td align=left colspan=3>0.00 </td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 >
+<tr><td align=left colspan=7><b>Realized Losses Incurred from Mortgage Loans Summary</b></td></tr>
+<tr><td align=left colspan=1>Current Month</td><td align=left colspan=6>Since Cutoff</td></tr>
+<tr><td align=left colspan=1>0.00 </td><td align=left colspan=6>0.00 </td></tr>
+</table> <p>
+<table border=0 cellspacing=0 cellpadding=2 width="840pt">
+<tr><td align=left colspan=1><b>Payment from Cap Provider</b></td><td align=left colspan=1></td><td align=right></td><td align=left colspan=4><b>Class A1A Cert. Interest Rate &amp; Libor Info</b></td></tr>
+<tr><td align=left colspan=1>Basis Risk Cap</td><td align=left colspan=1>0.00 </td><td align=right></td><td align=left colspan=2>Class A1A Interest Rate</td><td align=left colspan=2>2.4000%</td></tr>
+<tr><td align=left colspan=1>Class X Cap</td><td align=left colspan=1>0.00 </td><td align=right></td><td align=left colspan=2>Libor rate</td><td align=left colspan=2>2.1800%</td></tr>
+</table> <p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p></body></html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

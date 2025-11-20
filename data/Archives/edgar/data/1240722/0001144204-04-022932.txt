@@ -1,0 +1,243 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PfnRc8RUgmEY4/o2jOweDh5OCSKu7fHYykwguqtKpIODrHdmwIPogmpprPqJCnVJ
+ 6MxiT2EZMfbeUITQ+WcnfA==
+
+<SEC-DOCUMENT>0001144204-04-022932.txt : 20041228
+<SEC-HEADER>0001144204-04-022932.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228140941
+ACCESSION NUMBER:		0001144204-04-022932
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOLOMON TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001240722
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTORS & GENERATORS [3621]
+		IRS NUMBER:				521812208
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50532
+		FILM NUMBER:		041228179
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7375 BENEDICT AVENUE
+		CITY:			BENEDICT
+		STATE:			MD
+		ZIP:			20612
+		BUSINESS PHONE:		3012744479
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>
+Unassociated Document
+</TITLE>
+<!-- Licensed to: v-->
+<!-- Document Created using EDGARIZER HTML -->
+<!-- Copyright 2004 EDGARfilings, Ltd., an IEC company.-->
+<!-- All rights reserved EDGARfilings.com -->
+</HEAD>
+<BODY><DIV><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>UNITED STATES</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SECURITIES AND EXCHANGE COMMISSION</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>WASHINGTON, D.C. 20549</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center>______________________</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman, serif"><STRONG>FORM 8-K</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman, serif"><STRONG>CURRENT REPORT</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Pursuant to Section 13 or 15(d) of the </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Securities Exchange Act of 1934 </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Date of Report (Date of earliest event reported): December 23, 2004</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center>______________________</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 24pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Solomon Technologies, Inc.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif">(Exact name of registrant as specified in its charter)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+
+<TR>
+<TD vAlign=top align=middle width="23%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Delaware</STRONG></FONT></DIV></TD>
+<TD vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV></TD>
+<TD vAlign=top align=middle width="23%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"><STRONG>000-50532</STRONG></FONT></DIV></TD>
+<TD vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV></TD>
+<TD vAlign=top align=middle width="23%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"><STRONG>52-1812208</STRONG></FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top align=middle width="23%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"><STRONG>(State of incorporation)</STRONG></FONT></DIV></TD>
+<TD vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV></TD>
+<TD vAlign=top align=middle width="23%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"><STRONG>(Commission File Number)</STRONG></FONT></DIV></TD>
+<TD vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV></TD>
+<TD vAlign=top align=middle width="23%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"><STRONG>(I.R.S. Employer Identification No.)</STRONG></FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"><STRONG>1400 L&amp;R Industrial Blvd.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Tarpon Springs, Florida 34689</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif">(Address of principal executive office, including zip code) </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"><STRONG>(727) 934-8778</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif">(Telephone number, including area code) </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">&nbsp; </FONT></DIV>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 36pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><FONT face=Wingdings>o</FONT></FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></TD></TR></TABLE>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 36pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif" face=Wingdings><FONT face=Wingdings>o</FONT></FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></TD></TR></TABLE>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 36pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif" face=Wingdings><FONT face=Wingdings>o</FONT></FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></TD></TR></TABLE>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 36pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><FONT face=Wingdings>o</FONT></FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 207pt">&nbsp;&nbsp;</FONT>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=black noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Forward-Looking Statements</STRONG></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">:</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">This report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. The statements regarding Solomon Technologies, Inc. (the &#147;Company&#148;) in this report that are not historical in nature, particularly those that utilize terminology such as &#147;may,&#148; &#147;will,&#148; &#147;should,&#148; &#147;likely,&#148; &#147;expects,&#148; &#147;anticipates,&#148; &#147;estimates,&#148; &#147;believes,&#148; or &#147;plans,&#148; or comparable terminology, are forward-looking statements based on current expectations about future events, which management has derived from the information currently available to it. It is possible that the assumptions made by management for purposes of such statements may not materialize. Actual results may differ
+materially from those projected or implied in any forward-looking statements. Important factors known to management that could cause forward-looking statements to turn out to be incorrect are identified and discussed from time to time in the Company&#146;s filings with the Securities and Exchange Commission. The forward-looking statements contained in this report speak only as of the date hereof, and the Company undertakes no obligation to correct or update any forward-looking statements, whether as a result of new information, future events or otherwise.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Item 3.02</STRONG></FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Unregistered Sales of Equity Securities. </STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">On December 23, 2004, the Company sold 225,000 shares of Series A Preferred Stock and warrants to purchase 450,000 shares of common stock to two investors for $225,000. Each share of Series A Preferred Stock is entitled to a cumulative dividend of $0.08 per share per annum and is entitled to certain preemptive rights. The holders of the outstanding Series A Preferred Stock are entitled to elect three of five directors and vote with common stockholders as a single class on an as converted basis. In the event of any liquidation of the Company, the holders of the Series A Preferred Stock will be entitled to receive in preference to the holders of common stock an amount equal to $4.00 per share until April 29, 2005, $5.00 per share until April 29, 2006, and $6.00 per share after April 29, 2006, plus in each
+case accrued but unpaid dividends.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Each share of Series A Preferred Stock may be converted at any time, at the Company&#146;s option, initially into one share of common stock but only after payment of the liquidation preference. Each share of the Series A Preferred Stock may be converted at any time, at the option of the holder, initially into one share of common stock. The conversion price is subject to appropriate adjustment in the event of stock splits, stock dividends, recapitalizations and similar transactions.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Each share of Series A Preferred Stock is redeemable by the holders starting in April 2007 for $6.00 in cash plus accrued or accumulated and unpaid dividends. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">The warrants have an exercise price of $1.00 per share and expire December 23, 2014.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">The placement agent received a fee of $19,125, which is 8.5% of the gross proceeds of the sale of those securities.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">The sales of these securities were determined to be exempt from registration under Section 4(2) of the Securities Act and Rule 506 thereunder as transactions by an issuer not involving a public offering solely to &#147;accredited investors.&#148; Each purchaser of these securities represented such purchaser&#146;s intention to acquire the securities for investment only and not with a view to or for sale in connection with any distribution thereof and appropriate legends were affixed to the share and warrant certificates. The sales of these securities were made without general solicitation or advertising. All of the foregoing securities are deemed restricted securities for the purposes of the Securities Act. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;2</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=black noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SIGNATURES </STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center bgColor=#ffffff border=0>
+
+<TR vAlign=top bgColor=#ffffff>
+<TD width="50%"><FONT face="Times New Roman, serif" size=2>&nbsp;</FONT></TD>
+<TD width="1%"><FONT face="Times New Roman, serif" size=2>&nbsp;</FONT></TD>
+<TD width="49%"><FONT face="Times New Roman, serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD><FONT face="Times New Roman, serif" size=2>&nbsp;</FONT></TD>
+<TD colSpan=2><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SOLOMON TECHNOLOGIES, INC.
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left>(Registrant)</DIV></FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD><FONT face="Times New Roman, serif" size=2>&nbsp;<BR>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, serif" size=2>&nbsp;<BR>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, serif" size=2>&nbsp;<BR>&nbsp;</FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Dated: December 28, 2004</FONT></TD>
+<TD><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By:&nbsp;&nbsp;</FONT></TD>
+<TD><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/&nbsp;Peter W. DeVecchis, Jr.</FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD colSpan=2><FONT face="Times New Roman, serif" size=1>&nbsp;</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<HR align=left width="80%" color=#000000 noShade SIZE=2>
+ Peter W. DeVecchis, Jr.</FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD colSpan=2><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></TD>
+<TD><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">President</FONT></TD></TR></TABLE><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT size=3>&nbsp;&nbsp;&nbsp; </FONT></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left>&nbsp;</DIV>
+<DIV valign="top">&nbsp;</DIV>
+<DIV valign="top">&nbsp;</DIV>
+<DIV valign="top">&nbsp;</DIV>
+<DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;3</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1></FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR></DIV></DIV></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

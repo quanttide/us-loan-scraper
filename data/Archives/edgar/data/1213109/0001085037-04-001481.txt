@@ -1,0 +1,178 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DTlBWuuPj+YLA8JdNWBRc1MpvlgetdC2gzpmkcN58oVsKmK4/4SS3PVfvR1RTtiE
+ 9eLcZqSUR/9P/UGNTAiRvQ==
+
+<SEC-DOCUMENT>0001085037-04-001481.txt : 20041222
+<SEC-HEADER>0001085037-04-001481.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041221184955
+ACCESSION NUMBER:		0001085037-04-001481
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UCLUELET EXPLORATION CORP
+		CENTRAL INDEX KEY:			0001213109
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		IRS NUMBER:				980389524
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50375
+		FILM NUMBER:		041218763
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1156-145 TYEE DRIVE
+		CITY:			POINT ROBERTS
+		STATE:			WA
+		ZIP:			98281
+		BUSINESS PHONE:		778-863-2751
+
+	MAIL ADDRESS:	
+		STREET 1:		1156-145 TYEE DRIVE
+		CITY:			POINT ROBERTS
+		STATE:			WA
+		ZIP:			98281
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k122104.htm
+<TEXT>
+<HTML>
+<HEAD>
+
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>OMB APPROVAL</TITLE>
+<META NAME="keywords" CONTENT="D/ljm/630150.1">
+<META NAME="doccomm" CONTENT="27271-0001">
+</HEAD>
+<BODY>
+
+<B><FONT SIZE=2><P ALIGN="CENTER">UNITED STATES SECURITIES AND<BR>
+EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</P>
+</FONT><FONT FACE="Arial"><P ALIGN="CENTER">FORM 8-K</P>
+</FONT><FONT SIZE=2><P ALIGN="CENTER">CURRENT REPORT<BR>
+</B>Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934</P>
+<P ALIGN="CENTER">Date of Report (Date of earliest event reported)  <B>December 21, 2004</P>
+<P ALIGN="CENTER">UCLUELET EXPLORATION CORP.<BR>
+</B>(Exact name of registrant as specified in its charter)</P>
+<B><P>Nevada</B><BR>
+(State or other jurisdiction of incorporation)</P>
+<B><P>333-50375</B><BR>
+(Commission File Number)</P>
+<B><P>98-0389524</B><BR>
+(IRS Employer Identification No.)</P>
+<B><P>#1156 - 145 Tyee Drive, Point Roberts, WA  98281</B><BR>
+(Address of principal executive offices and Zip Code)</P>
+<B><P>778-863-2751<BR>
+</B>Registrant's telephone number, including area code  </P>
+<B><P>Not Applicable<BR>
+</B>(Former name or former address, if changed since last report)</P>
+<P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+<P>[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+<P>[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+<P>[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+<P>[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+<B><P>Item 5.03.  Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year</P>
+</B><P>On December 20, 2004, the board of directors of the Corporation approved an eight (8) for one (1) forward stock split (the "Forward Stock Split") of the Corporation's authorized, issued and outstanding common stock.  The Forward Stock Split was effected with the Nevada Secretary of State on December 21, 2004 and the record date will be as of December 31, 2004.  As a result, the authorized capital of the Corporation will increase from 25,000,000 to 200,000,000 shares of common stock with a par value of $0.001. The ratio of distribution is an additional seven (7) shares of common stock for every one (1) share of common stock issued and outstanding immediately prior to the effective date of the Forward Stock Split.  This will increase the issued and outstanding share capital of the Corporation from 3,100,750 shares of common stock to 24,806,000 shares of common stock.</P>
+<P>&nbsp;</P>
+<B><P>Item 9.01.  Financial Statements and Exhibits.</P>
+</B><P>99.1&#9;Certificate of Amendment filed with the Nevada Secretary of State on December 21, 2004.</P>
+<B><P ALIGN="CENTER">SIGNATURES</P>
+</B><P>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<B><P>UCLUELET EXPLORATION CORP.</P>
+</B>
+<U><P>/s/ David Heel</U>____________<BR>
+David Heel, President and Director</P>
+<P>Date: December 21, 2004.</P></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>f8k122104ex99.htm
+<TEXT>
+<HTML>
+<HEAD>
+
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>DEAN HELLER</TITLE>
+<META NAME="Template" CONTENT="C:\Program Files\Microsoft Office\Office\html.dot">
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=637>
+<TR><TD WIDTH="73%" VALIGN="TOP">
+<FONT SIZE=2><P>DEAN HELLER<BR>
+Secretary of State<BR>
+204 North Carson Street, Suite 1<BR>
+Carson City, Nevada 88701-4299<BR>
+(775) 684 5706<BR>
+Website: secretaryofstate.biz</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="CENTER">FILED # C15750-02<BR>
+DEC 21 2004<BR>
+IN THE OFFICE OF<BR>
+DEAN HELLER, SECRETARY OF STATE</FONT></TD>
+</TR>
+</TABLE>
+
+<P ALIGN="JUSTIFY"></P>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=307>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Certificate of Change Pursuant<BR>
+to NRS 78.209</FONT></TD>
+</TR>
+</TABLE>
+
+<B><U><P ALIGN="CENTER">Certificate of Change filed Pursuant to NRS 78.209<BR>
+For Nevada Profit Corporations</P>
+</B></U><P ALIGN="JUSTIFY">1. Name of corporation:</P>
+<P ALIGN="JUSTIFY">UCLUELET EXPLORATION CORP.</P>
+<P ALIGN="JUSTIFY">2. The board of directors have adopted a resolution pursuant to NRS 78.207 and have obtained any required approval of the stockholders.</P>
+<P ALIGN="JUSTIFY">3. The current number of authorized shares and the par value, if any, of each class or series, if any, of shares before the change:</P>
+<P ALIGN="JUSTIFY">Twenty-Five Million (25,000,000) shares of common stock with a par value of $0.001</P>
+<P ALIGN="JUSTIFY">4. The number of authorized shares and the par value, if any, of each class or series, if any, of shares after the change:</P>
+<P ALIGN="JUSTIFY">Two Hundred Million (200,000,000) shares of common stock with a par value of $0.001</P>
+<P ALIGN="JUSTIFY">5. The number of shares of each affected class or series, if any, to be issued after the change in exchange for each issued share of the same class or series:</P>
+<P ALIGN="JUSTIFY">The Corporation shall issue eight (8) shares of common stock for every one (1) share of common stock issued and outstanding immediately prior to the effective date of the Forward Stock Split.</P>
+<P ALIGN="JUSTIFY">6. The provisions, if any, for the issuance of fractional shares, or for the payment of money or the issuance of scrip to stockholders otherwise entitled to a fraction of a share and the percentage of outstanding shares affected thereby:</P>
+<P ALIGN="JUSTIFY">N/A</P>
+<P ALIGN="JUSTIFY">7. Effective date of filing (optional): ___________________</P>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=631>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<P>8. Officer Signature:</TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<U><P>/s/ David Heel</U><BR>
+Signature</TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<U><P>PRESIDENT</U><BR>
+Title</TD>
+</TR>
+</TABLE>
+
+<P ALIGN="JUSTIFY">IMPORTANT: Failure to include any of the above information and submit the proper fees may cause this filing to be rejected.</P></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,183 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AWvc+Gqtq3/n9v08ktvtKAahXIO4Fcli9BTiNo1J5qyR+LtkM2KBBF5fpCDKv6IG
+ l3zkNSw4ZqkEGOLcHmIc3A==
+
+<SEC-DOCUMENT>0001019056-04-001490.txt : 20041223
+<SEC-HEADER>0001019056-04-001490.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223121808
+ACCESSION NUMBER:		0001019056-04-001490
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041217
+ITEM INFORMATION:		Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VSB BANCORP INC
+		CENTRAL INDEX KEY:			0001225874
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				113680128
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50237
+		FILM NUMBER:		041223171
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3155 AMBOY ROAD
+		CITY:			STATEN ISLAND
+		STATE:			NY
+		ZIP:			10306
+		BUSINESS PHONE:		7189791100
+
+	MAIL ADDRESS:	
+		STREET 1:		3155 AMBOY ROAD
+		CITY:			STATEN ISLAND
+		STATE:			NY
+		ZIP:			10306
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>vsb_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+                                  UNITED STATES
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                              Washington, DC 20549
+
+                                    FORM 8-K
+
+
+                                 CURRENT REPORT
+     Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+       Date of Report (Date of earliest event reported): December 17, 2004
+
+
+                                VSB Bancorp, Inc.
+             ------------------------------------------------------
+             (Exact Name of Registrant as specified in its charter)
+
+          New York                      0-50237                  11-3680128
+- ----------------------------        ---------------          ------------------
+(State or other jurisdiction        Commission File            IRS Employer
+     of incorporation)                   Number              Identification No.
+
+
+                 3155 Amboy Road, Staten Island, New York 10306
+            --------------------------------------------------------
+            Address of principal (Zip/Postal Code) executive offices
+
+
+Registrant's telephone number: 718-979-1100
+
+
+                                       n/a
+          -------------------------------------------------------------
+          (Former name or former address, if changed since last report)
+
+
+Check the appropriate box below if the Form 8-K is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+[ ]  Written communications pursuant to Rule 425 under the Securities Act
+     (17 CFR 230.425)
+
+[ ]  Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+[ ]  Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+[ ]  Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+<PAGE>
+
+Item 4.02(a) Non-Reliance on Previously Issued Financial Statement or a Related
+             Audit Report or Completed Interim Review
+
+Management and the audit committee of the Board of Directors determined on
+December 17, 2004, determined to amend its annual report on Form 10-KSB for the
+year ended December 31, 2003 to restate the financial statements and related
+information contained therein. The Company has concluded that both basic and
+diluted net income per share, as disclosed in those financial statements, should
+be restated to reflect a four for three stock split effected as a dividend which
+was announced on January 28, 2004, with a record date of February 17, 2004 and a
+mailing date of March 8, 2004. As such, the financial statements of the Company
+and the related auditors' report for the periods reported therein should no
+longer be relied upon.
+
+Therefore, the Company will be filing an amendment of its Report on Form 10-KSB
+as soon as practicable to reflect the restated net income per share and other
+share and per share data. The net income per share and other per share data
+disclosed in the Company's reports on Form 10-QSB during 2004 give effect to the
+stock dividend, and need not be restated. There has been no change in reported
+net income for any of the years affected by the restatement of the per share
+data.
+
+The following table sets forth the data as previously reported in the Company's
+original report on Form 10-KSB and the data as restated for the four for three
+stock split effected as a dividend paid during the first quarter of 2004.
+
+Basic net income per share of common stock                 2003    2002    2001
+                                                           -----   -----   -----
+As previously reported..................................   $1.44   $1.12   $0.88
+As restated.............................................   $1.08   $0.84   $0.66
+
+Diluted net income per share of common stock
+As previously reported $................................   $1.37   $1.08   $0.87
+As restated.............................................   $1.03   $0.81   $0.65
+
+The data reported in the Form 10-KSB filed on March, 24 2004 was based upon the
+actual average shares outstanding during 2003 of 1,055,999 (basic) and 1,107,778
+shares (diluted). After retroactively adjusting for the stock dividend announced
+and paid during the first quarter of 2004, the number of shares outstanding
+during 2003 was 1,407,999 shares (basic) and 1,477,037 shares (diluted).
+
+The Company's management discussed this matter with the Audit Committee of the
+Board of Directors and its former independent registered public accounting firm,
+Deloitte & Touche LLP, as well as with its current independent registered public
+accounting firm, Crowe Chizek and Company LLC.
+
+                                       2
+<PAGE>
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Dated: December 23, 2004
+
+                                       VSB Bancorp, Inc.
+
+                                       By: /s/ RAFFAELE M. BRANCA
+                                           -------------------------------------
+                                           Raffaele M. Branca
+                                           Executive Vice President and CFO
+
+
+                                       3
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

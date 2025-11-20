@@ -1,0 +1,656 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KzcA0Pqth5jtU71PM2ORHKXXgPL0Ly57AlVqhSCjRl9arM8QffDVDMtS9Y43Bfmp
+ W4urHvnNT9zo2MbpLVlGuA==
+
+<SEC-DOCUMENT>0000950134-04-019564.txt : 20041220
+<SEC-HEADER>0000950134-04-019564.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041220124406
+ACCESSION NUMBER:		0000950134-04-019564
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041217
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASHFORD HOSPITALITY TRUST INC
+		CENTRAL INDEX KEY:			0001232582
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				861062192
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31775
+		FILM NUMBER:		041213354
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14180 DALLAS PARKWAY 9TH FL
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75254
+		BUSINESS PHONE:		9724909600
+
+	MAIL ADDRESS:	
+		STREET 1:		14180 DALLAS PARKWAY 9TH FL
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75254
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d21059e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+<DIV align="center" style="font-size: 10pt">CURRENT REPORT</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">PURSUANT TO SECTION 13 OR 15(d) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (date of earliest event reported): December&nbsp;17, 2004
+
+
+<P align="center" style="font-size: 24pt"><B>ASHFORD HOSPITALITY TRUST, INC.</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">MARYLAND
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">001-31775
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">86-1062192</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State of Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Number)</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="center">14185 Dallas Parkway, Suite&nbsp;1100<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="center">Dallas, Texas<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">75254</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="center">(Address of principal executive offices)<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip code)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: (972)&nbsp;490-9600
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box if the Form 8-K filing is intended to simultaneously satisfy the filing
+obligation of the registrant under any of the following provisions:
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))
+
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">ITEM 7.01 REGULATION FD DISCLOSURE</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="d21059exv99w49.htm">Press Release</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link2 "ITEM 7.01 REGULATION FD DISCLOSURE" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt">ITEM 7.01 REGULATION FD DISCLOSURE
+
+<P align="left" style="font-size: 10pt">On December&nbsp;17, 2004, Ashford Hospitality Trust, Inc. (the &#147;Company&#148;) issued a press release
+announcing that its Board of Directors declared a dividend for its fourth quarter ended December
+31, 2004, of approximately $0.5878 per fully-diluted share, for the Company&#146;s 8.55% Series&nbsp;A
+Cumulative Preferred Stock. The dividend is payable January&nbsp;18, 2005, for shareholders of record
+on December&nbsp;31, 2004. The total dividend reflects a partial dividend of $0.0534 per fully-diluted
+share for the period from September&nbsp;22 to September&nbsp;30, 2004, and the regular quarterly preferred
+dividend of $0.5344 per fully-diluted share. A copy of the press release is attached hereto as
+Exhibit&nbsp;99.49 and is incorporated herein by reference.
+
+
+<!-- link2 "ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt">ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="91%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Number</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.49
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release of the Company dated December&nbsp;17, 2004, furnished under Item&nbsp;7.01, announcing
+the declaration of a dividend.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURE" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt">SIGNATURE
+
+
+<P align="left" style="font-size: 10pt">Pursuant to the requirements of Section&nbsp;12 of the Securities and Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+
+<P align="left" style="font-size: 10pt">Dated: December&nbsp;20, 2004
+
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">ASHFORD HOSPITALITY TRUST, INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/  DAVID A. BROOKS
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">David A. Brooks&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Chief Legal Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.49
+<SEQUENCE>2
+<FILENAME>d21059exv99w49.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w49</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="right" style="font-size: 10pt">Exhibit&nbsp;99.49
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="63%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG src="d21059d2105900.gif" alt="(ASHFORD HOSPTALITY TRUST LOGO)">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">NEWS RELEASE</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="11%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Contact:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">David Kimichik
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Tripp Sullivan</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chief Financial Officer
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Corporate Communications, Inc.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">(972) 490-9600
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">(615) 254-3376</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>ASHFORD HOSPITALITY TRUST DECLARES PREFERRED STOCK DIVIDEND</B>
+
+
+<P align="left" style="font-size: 10pt">DALLAS &#151;
+(December&nbsp;17, 2004) &#151; Ashford Hospitality Trust, Inc. (NYSE: AHT) today announced the
+Board of Directors has declared a quarterly cash dividend of $0.5878 per fully diluted share for
+the Company&#146;s 8.55% Series&nbsp;A Cumulative Preferred Stock for the fourth quarter ending December&nbsp;31,
+2004. The dividend is payable on January&nbsp;18, 2005, to shareholders of record as of December&nbsp;31,
+2004. The total dividend reflects a partial dividend of $0.0534 per fully diluted share for the
+period September&nbsp;22 to September&nbsp;30, 2004, and the regular quarterly preferred dividend of $0.5344
+per fully diluted share.
+
+
+
+<P align="center" style="font-size: 10pt">* * * * *
+
+
+<P align="left" style="font-size: 10pt">Ashford Hospitality Trust is a self-administered real estate investment trust focused on investing
+in the hospitality industry across all segments and at all levels of the capital structure,
+including direct hotel investments, first mortgages, mezzanine loans and sale-leaseback
+transactions. Additional information can be found on the Company&#146;s web site at www.ahtreit.com.
+
+
+
+<P align="center" style="font-size: 10pt">-END-
+
+
+
+<P align="center" style="font-size: 10pt">14185 Dallas Parkway, Suite&nbsp;1100, Dallas, TX 75254&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone: (972)&nbsp;490-9600
+
+
+
+
+<P align="center" style="font-size: 10pt">
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>d21059d2105900.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 d21059d2105900.gif
+M1TE&.#EAI@%P`/<```````@("!`0$!@8&"$A(2DI*3$Q,3DY.4)"0DI*2E)2
+M4EI:6F-C8VMK:W-S<WM[>X2$A(R,C)24E)R<G*6EI:VMK;6UM;V]O<;&QL[.
+MSM;6UM[>WN?GY^_O[_?W]_______________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M____________________________________________________________
+M_____________________RP`````I@%P```(_@`_"!Q(L*#!@P@3*ES(L*'#
+MAQ`C2IQ(L:+%BQ@S:MS(L:/'CR!#BAQ)LJ3)DRA3FO2@LJ7+ES!CRIQ)LZ"'
+M#C5SZMS)LZ=/E0,`?&#YLZC1HTB3ZC0``$``I5"C2IU*52+3I@`&""1:M:O7
+MKV!I(G"*-6O8LVC3JN4XMBQ6`D/7RIU+E^X"LFZ;&JC+MZ]?J"SO-@T`P`$%
+MMWNY_EW,N+'+!FX7"(2`E?`!QY@S:_[HH#(`!00IETT0=[/ITZ@5BL9*FBC+
+MSH,!D$Y-N[;I"&XO'V3@%K1BV\"#RYV0&R%+WK$E"[?)\+=+Y\N%LSQ<MD#!
+M"A5*?Q",53)TF!Z^_CM4W`$GQ._.Q=<LKUA]1??1>U:(#0`N00Q-,\1EJ<"S
+M`YT;"(41;%@)H%M#%"1PP`(+*&!``PA9H,""#!Z@`'P?9+"``0HPJ$`""H38
+MX0`83&1!6V41\``'$V&P88<+'&"``0<P,(%Y$E'@((,QRGC`CPH8MD%\'EG@
+MEE8$95"6!@4E@!<`#V@74V=,3L12!TU=<"5Q`CXT7U/N!9A?1%@VQ6`"""10
+M`)@/L71!4PQ@0%0'%EQU`(X0<8"5!!14``%AGU5D9%,-2&#H`PNL.9@#>!)9
+MT9ME"5"0F&4-N=4'![@%04UP6M2405B>]T%3UC$45)?C8?II0:%"Q-ML_@01
+MI613%$S$E'T#X6:61"R1BE`%!&`5@:,6X5=6`(I1ZA:+!&4**`##8BB2L:A&
+M=-BF!NT545,'*J3H1&T=!&M#3D*XD`!-32#16'`I!EEA%'&K$)<`($#L1+-6
+MQM*<>975Z%5[7NJ2`N@"D-U$_1U<4*W;RM;0MQ(Y6:U`EC;T``"7P8=5B1"Q
+M*^6HGTI+D+P'$:4!5J#=VQ!+)[N%9YF5/<LF04P]6ZO('@%@P9K:2I2I!!HU
+M92]#5TTDL45B-IK0H$^)[/%OF0*@=$,D*]2RP2HWI&Q3.+DF,P`:;(TJ2XIB
+MQ7!+\WT@P<P1]8<D1D(W5#.XJU+$U+BFTMIQ_GT?PS8U0U6KAE76";&DY[(%
+M?:W?!]0.7M"I6&6'LT8&M-L4MA'IRD!&<1-=-T1'4R2FP@UQB>M"+#U=D&CQ
+M8NP0H&<37M#A9;'(%;K/7G!IX[L25#!6NJL$`-`?S!U1KX3"7:_<3M$]\4-^
+M?UPX5D[S_=O%/3?<K>`.R\YJ7E4.!'E3%ACT)59O#_0[^2>QA!M17"X>$;U#
+M5]04W@A%;?3G`X7'4+#/.]>8FO,!U1%D+,&32.`40COOQ2HO\A,(`,D2NZ%,
+MQRVEZI_B4#*`TS4E9:+BS@`F-S*G#$``*$RA"@4P`$#M3VH;X,`&-)`!"$0)
+M</QK2%LJJ!"/&00`_MG3WD,<Y\`/?(UC1`$887A($'KYZH%NT0\)):(GS*DJ
+M@`WA#MBDAT,"1``"8`RC&"$0`0"^L%\)5`@1'R(8=3G$AP2!S!0%LD!O<:V(
+MZP-`&J\8,..XSRU#<PWX2M(9Q4#*C:+ZP&H`$,$A=F\A^HL8__`3ONGED"'O
+M0B1#VF(!\W0`,K9KW?9Z>$?OC4]G!4$188:%.D4"\GMNJ5A(FE(!"DR``KAL
+M2OHD`BFV.;)^"C%>1,)5$`?(,B%DD8A@]DC*?H%0E`^)I.R"]2S)#<1)S[HA
+M`0GT05A62B1*&L`)QWG"IC"+5Q^@U"AQ",R$%$V2$\/`.=78E$KJT)P/_H'C
+M!RXV/$^YSB'!DE36R.86A1W'+>:""#<!L#F"B&V>&PD,`)PSJX12A';'9"?S
+MGK*N2SI$8D`36<'V=KH/`-">$*DC,@-%N)KU<2#(P4I#VR00+0+`7$01V]_@
+M5M*!K)$BU&'E+QLB3=!Y%$%/=*1%-VF]@<#,?O]DB)C*=R^6`*PIQ"/*0I^I
+M3+=HDV)YZ1I'YB/4@O"3JBM#2/)2NCR&%/4AH6O=%AWR)8@N9"R[_,"7$J-`
+MOK62GX1#45.^NL\GX8^F'Y`85@B;KY]F)%-_*],Z#Z(!NZ8.2@UK)T*H^4*+
+MO&NRL1+(FGR3S^;]1C!+=4A3>JI6`#`Q.E?%_BQ!%JI9BD1ML07A'0#L:B4Z
+MLG8@BMII$YDID+&0CFI15<BIG'<1K&BR9!\85$<Y:I!3W8RMORTF$`>*@0W,
+MT+O:\4!WOXM2BX0M;!O(P&]D2-Z,5F1M(44(=?[CG@B4M81]#2)"EFN5HSJ$
+M4L0E2)G*NY!W@FIC#<NK0=9&W2+V)2C"!1D6"8*;@U#&BJH%@$`7XMB'^;)%
+M+S7(K!KI$/X>I)<$;NV$/^"V.3I8*KIBB&"Z!1W<#*"2%^-J0_*%W-T*K,<<
+MLP@'`#B`"BA&`V,QP!RQHC3X.?>_6$$`2C.`'&VZV"\7P``&LKQE+7/YRUX.
+M<Y?'#&8RB[G,:#ZS_IK'O.44(^23MT4`\?)7F0:4"#H:@%P!K'N>3SYK``UX
+M[D`>,$&&;@H^$"@;0PEKHMMFI6`'(+%#$EV6!MQW($CNC@/\!RH'X,XM`7B6
+M%Z_<F"^"\0%C1+4851U&5I\ZU;!>=:Q;/>M7O_H!:$5L_PIG$/=PH`(2B,`$
+M+(4S3O<//38)#WQ^HVR+<"4#%`CV!.1'0F-O!4/^@XZU/\`!#6S9`MU]L;C'
+M36[-8+O<Z'94!Y2][9NPF]2[?G>3V;WN=-L[-1FX)2XID&MN\VG?QZU(+?<M
+M`8AJ0-^X#/B]%^Z8@V.GEGOD0,)KJ?"(4!P[%(#H!OJ$\7XS_..+80FT_A].
+M@3UN_.'8L<C%:WG,#4R`Y!X'N<S_,G*,!YEB$^<W12S`<99/JN<ZG[G00\XX
+MH-_\`QH`>LQYS7.2#XDK''@YRH=.=<9@`.A2Q#30`XR0"P#=GE$G><6K3O:U
+M>)WDC:PY+I&XD+-CG$E<Z4#/4\Y%C+1'(=):-@%[#5V^[SV1@&\EWG7]8[\/
+M_MYNKR7<!U+S6AX]M$5'^^QR/O:(&AZ=EM]U6@O?]\-KGCF:9[;=+T]ZO4.>
+M]`YL^ML+HG8*//X^6-^UW($.;X5@X`'APX`Q$Q(!!3#`O8Q?0`(@\!T_/<`!
+M$7@Z03C@@*-[@`$/4/4#&A#SV[\VG0]X/4&"_FV0#4#_`1&(_N\79N4'5/X#
+M%'"`]*=O$`[8,/H1B*P#$LB!!S#S2@](0`/*FX$&P%_\$:8RJE<!PY9;L0=Y
+MC>=ZVB%W*$<!M<=`J-(JO09$$W`QE\82%P,!$]`?_V$^```!#G`7C.9CL9(`
+M#D`9"^``#:!PE*%@/L5;!,$`RN%007(QZJ<`QZ0GEH(E[B$!_N<D(#B#(\,`
+M#N``":-6-P<`KW<R"S`!G6$=BJ$A#\`;QZ<``2B`0%<Q+'%UDL=Z4N=XK-(G
+M''=]'*$G`A9`"](_`)!16((C/'<0%O`V'C!1!2$UR%1>1#$`;R(>))@0#3!3
+M!Q%`+-$`]G$`'=@0_A7@@G14,?B!A"/C?!\@`$+E`4(X.RM61"M'`<>4>!00
+M00FX1QXP<;7T@`MAAD[U/'-8$#+8?I<871LV*HUDAXZ(3)%X73\480P`B#^D
+M'DIHB@Y!`:_X0[(DBW68A*^G1ZB73JWH0)EX3F[R=13SA247;W/G@'57AM7R
+M/!708-%5+2P1:A/@9G'(>'0X,CNEA`DQ`7OQ`/KE4[BHBW6H'F5D`!BV$,"H
+M1CA"'+-(1Z_7&=GW>9.RC,R(<A,`40.HB2?7<391C5>H$;13%@<Q`1DD$">#
+M$(363<[Q)C9SB\BD?06D+@&"3+B86B/C'OYU$/>(3*&&0HRTCZ.B?11P_A4"
+M`(/*"'(,N6L'V8#]Y@&9*%8EX8MTA)*[]":=MP$!H&.NF%[$5H?GZ)$`,`$6
+M\";:1XP(D8MJY!X.L#DBDY)J90$:8"2<QX^/B#IWD1`A^7$\27(9=QTH!W,&
+M<9,H`902N'S5\@#V<G?W\3P6$(P<Z9($<3(*@@`"0)*C\HY7N1!9:2U\.3*6
+M@@"U)98^Y9$C`X-GB99P.1`K]W!OB7&U1),A(9<!)(EC:1"'^`$1H&`6P(U]
+MR1PM"7D-D%!@&8CNP0`0\AWEF!`AJ)AJ]'18`GRHY%/VQ!)SQFU85)F6V8#[
+M@IEC&'#-V!*@B1!Z\@`;\"9(>3(%<`$:@!NO_K>7U]B'/S2520A1O?*%!:B*
+M\%B2"]$`E<@0%*":(Q,^A"@]N&$!&9`!8X$0A!&.\T&8-4F*T1&*8VB-!"&&
+MS$F0GCDM!\"("0J=!$,`3$04A"8`"*!\!3$!"2`>''``VM<!"!!S'&``\Z0`
+MZJ(8'(`FCHD`!?!X#5":!:$!!^!F^\2B#-%["<&A:+4!D29?>S8`YTD4,2D`
+M!6!-!X$!!W"@Y1:*R!DK??(;JH=+P%=V4%H;'?"%M603YD$4![F41Y%W2;%M
+M89&<?Q>E!\&`*"<>!PFC8IJFIB%Q#1@A/1>.:AJGPB%Q<V<0G(BF<IJGCA%V
+M4S<0G"AI>AJHFK%Q_G4:>1@'J(*:J(Y!J!B790?HGXH:J5*1=`U(<I(IJ9C:
+M%Y3:E@J8J9Z*&=!F=)\ZJ@TWAG=&JJCZ%U<WC:G:JGZ!`4OGJK(ZJ[0ZJI!:
+MJ[B:J[JZJ[S:J[[ZJ\`:K,(ZK,1:K,9ZK,B:K,J*%K>ZK,Z*F\&V(KJQH!QQ
+M;CO1K)MW/-CZ$/76$@T)*ATQ1S[96Q+QK14!JQ50(@J``1K0CAAAG[['``J@
+MGG+&`7*4$QR``.;J$0U`ABU:EB5A`=XA8)VQKW9W`3]R/&MS?A/Q1=QZ,55"
+M`;4I$?WZ$,3AKZ-G`6[D(AIP6!@1:,5E'P^@+A0`6BYQ,G@:$@30@1@B_@&/
+MZ1$/("F_`2P7,4=RQBNWN1$*$$@-@0'4U0`3>8T%L;(/8893A#-5BG0X:+(5
+M@3FR=0%#H@#UF!G;MI;&@2G#V1(I:!%36SA"M88240%!6ZT"H64+\0`Z9C@8
+M2Q$2P%=MDK4-P7T9(`$9P`'C!Q(7$`#!0Q0!0&)$09-=(WI7*A"A="E<\1N-
+M4AX"%I8Y]6,=,"1*8UD"0;.EP0&AU"O`=R4",[@#L0%X\AV<.R0!<*J$6QK^
+M,S4+@"TY-:Y.E:("D0$<E1XPN``W=+@4XXP?H+BV.V\9PHV/NQ\?4`"Q\[<"
+MP+FYZT>:IS1#@@"8`Z:EL0&'2P#RP[EQEXP@_M$9+2H4,8DL<6$!#'`!?&D!
+M!&`C#!``4=(!E+$!%T-5#B`!$"`9%Y``<`$!/&J:`I`R$R``I;D`$J(N"*MD
+MXG00$N``&9"C-34!%Q`CW,8;&-``!S!"C),``O4``X``'=@!"8`=)B@0>6NE
+MD-'`@LDB.Z,`'!``VN*#&I"Z2'<`0Z./S->:Z!<G#\"]DZ&!]N)]0C$6\\0!
+M"R``-L+!"E!#.H8!$FQG^R09#3``X]*^[WL0`M!=3J(P%Q#$$$!:T7<!!*`!
+M'K"^#I```<`D.(P3$FD`#L`L#"`!"7P@/F:O6V0!!["R%M`90Q(@1Y<!7BP0
+M$Z`B'M`?B-2Q%R`!_GW+.`.0,ATL$`:@L7M!I("F93(2B0*P`0#[)@:[$02`
+M-[V7984I$!&@&[=)%`AP(>@G(!P@`!7``1'`(@;@OZ62NNH"`3;B`1%PE["X
+M%0$P)$4H$`T``1+@<@9!A!+$2M=IR,0#OAS33]NAE1]`(@+1`<5+1XN#*`<!
+MNP<S`#>4`!-`M]G1`"FC)S@!NP-A'ZD9%Q,P-!!P(,.'=`)E`=;L`5;$$D8Y
+M$!2`*^BX:R4[$(>\*>IHSZK,BJ8<O&X4SY%)1RP2?\1Y,`704!'`5PD07X=<
+M7-@RCBQ1`1LVA0-Q`#>$QJ&U`#/%2,-R`*R49QS<)<(K$+['P0)E+N,\_A"Y
+M?,IN-``,TP!&"A)ZDK46K#L`S3@"PKR!R#%&,AT'@%8.G+M?+!#4/"0/8M2L
+M1)2BM2D7`,'!>Y[=*"7R&A<"4"7:[%.L%`!49;3!RTH2.-*_`0$]0\T"H;^8
+MV24!\G2RB"WJ^;I=(K6:W"YZ*!`.(&4($0&SD=8^%7#G/!0!0-`)<$,-8"\E
+MC%(3<`"U@B4LHM=T=#`&(,MJ@RMI6#Q?:RD-`"M5C<LS-:_?C%8W+6A&1%49
+M0`#$,U>MF=)#X6-8<C!Z<C.I,V<'O6OY)Q#QI1*'<4RRM;7!JP`5$"?,`;Z#
+M9A\;,A`S'0$-D%.NE=IN-%==/+EZA&K$C37._D$`&!8@S.+-+#$`6XV.E9G/
+M>D5=A^V.S)'*6X$U)Q-D9!W1Y2@`^D%\`J'5HJ5-0SV'&L@`YS2^7'0`Q#,A
+MG3M7[QG2B[-%,RT!#."\-:4MB4C2]1,@57(RB*33[UW:5>*SA`NV2$==1>93
+MP=.&IX@3<%N1DS$`W<Q1#)`Q'RD0W%E8.'(Q.&+A6%)!%-X!#!L2"[!+2D(4
+M3TR<%B`>B?G>#",`B"0!S;Q]Z<Q1%"Y!#+.SO\&5/]1O$(`KGUSA1'&:M-TS
+M?9T`,RB:KO@Q<V@>*?GDT1UD")!0!'`!F$R<8!6Q'+6-T'N&3VKA`C!G#J!?
+M2C)HNE'G:E.\XD'*_KAL+G\]:&Y[,7Q;)4I=R/N4,F`N$`DP&SQ(D5URT^+C
+M==NVR<!U0U7LXV#%+'^8(0]0*D11`+-QY.CGGE)S:26!XQ,[&4,3DAE@W5N!
+M4D&JZHY.86^CQ04DV`V%*![@N4)1(EC.>"3-G[^9(=LQ-&ZLB>C7,R2(`*>,
+M$[5<(BJ"QS?&))M^=.(+G(;,2C=AX1CPB@CP`&?3MD@GR;EK`)LC<=3EN>BG
+MB$U-[`%P,%UN$%6\ZR;%,$ULRK7^&R>3AQB@'^\NWA5@*<BH`=0E`,&SZ4,2
+MI$Q2XBA^``6)?M91/A!`&OJ1NAR`(]!GBP-1K^MFX0<0\"4</`J@%?H1_LP4
+M`'T<L,4H+B!3V`$LL@`D:0`1P'4B(9R8Q6D#X$9E]/`%\*(4X-X/-"0)8N<.
+M!279>3!SQ>?!6R@?\"84P"2'\?0/$.`>N0`$\+@/@!.'80$0H`%P_`&KV`$&
+M$#X?6"M*(@'4KH?2^8'Z0=VU3=>MH:'+;.'9GDX(H!@/0A#"-RQ88A@ZLM#$
+MV0`;(`%N].U^:`#$<]4>,*$'80`+4"O<;,AGC'10L@$0$'!B7>$(_`%&F+N,
+MKS;GSE$)/10=&A</$BT?6"*'X2=YY@#9O-`X$2*E[?I-]%MECWX;!BW9H<1<
+M'P$%0-`?""$#8!C!6R(4;5(@^Y('T=S;JA`6_E`!%_#\!%$!YN%^5QI^5:(8
+MXFL!,[\[]J2^!,UM5,636'I=$*!\%C"R3G5^Z<<P$0T!+#(!'".)$_!<=,?.
+MH<1]BF0I&!`M!0$0!2!,F.#APP</'2P<1'B0X$*&!R]$_+`A`D,-#B9>F,"0
+MPP,('1I6X$`Q8@8)$2M(H&"28866'SA`_&"AXT$-#R(8-(E!`T,(&%Y*J'#0
+MX(4*$RX>/."`@@2#/#&D/!@APTL()2D(_:`A),ZE'R8LY"GVITL+13]DX"IV
+MXH<.$%IN@,!S0DP*:E?>?=G2@P>U#1L^*.O2\&'$B14O_M"``6/(D24CY@!@
+M<F0/`$1>YMS9\V?/I``V@);<@2IIU"8UT$S=6C*!F*YE'S8XH8#1V18$X)[=
+MV[?GL@8S!.#]VT,$#A!^FPRN>(,$#3>73T<H@<!7ZKTU($`@M#!J#0D.M,U>
+MWKS)#0H.L/[-@8"#\Y(S##@=W_Y]R86_R]Z/W_]_X"CJ#T"&!B3P0`035'!!
+L!AMT\$$((Y1P0@HKM/!"##/4<$,.._3P0Q!#%'%$$DLT\4044U11Q(```#L_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

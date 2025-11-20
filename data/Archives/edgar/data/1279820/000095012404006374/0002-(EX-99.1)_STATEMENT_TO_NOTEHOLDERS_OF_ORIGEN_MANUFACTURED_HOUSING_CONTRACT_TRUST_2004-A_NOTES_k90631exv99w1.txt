@@ -1,0 +1,217 @@
+
+<PAGE>
+                                                                     Page 1 of 3
+
+                ORIGEN MANUFACTURED HOUSING CONTRACT TRUST 2004-A
+                         STATEMENT TO CERTIFICATEHOLDERS
+                                DECEMBER 15, 2004
+
+
+<Table>
+<Caption>
+
+
+
+                                                      DISTRIBUTION IN DOLLARS
+
+            ORIGINAL         BEGINNING                                                                                  ENDING
+              FACE           PRINCIPAL                                                       REALIZED     DEFERRED     PRINCIPAL
+CLASS         VALUE           BALANCE        PRINCIPAL        INTEREST         TOTAL          LOSSES      INTEREST      BALANCE
+- -----    --------------   --------------    ------------    ------------    ------------     --------    ----------  -------------
+<S>      <C>              <C>               <C>             <C>             <C>              <C>         <C>         <C>
+A1        64,500,000.00    37,391,098.19    2,623,316.03       62,941.68    2,686,257.71       0.00          0.00    34,767,782.16
+A2        45,000,000.00    45,000,000.00            0.00      126,750.00      126,750.00       0.00          0.00    45,000,000.00
+A3        15,000,000.00    15,000,000.00            0.00       57,000.00       57,000.00       0.00          0.00    15,000,000.00
+A4        32,643,000.00    32,643,000.00            0.00      155,054.25      155,054.25       0.00          0.00    32,643,000.00
+M1        23,809,000.00    23,809,000.00            0.00      117,259.33      117,259.33       0.00          0.00    23,809,000.00
+M2        19,048,000.00    19,048,000.00            0.00      105,398.93      105,398.93       0.00          0.00    19,048,000.00
+CERT               0.00             0.00            0.00      756,152.28      756,152.28       0.00          0.00             0.00
+         --------------   --------------    ------------    ------------    ------------       ----          ----   --------------
+TOTALS   200,000,000.00   172,891,098.19    2,623,316.03    1,380,556.47    4,003,872.50       0.00          0.00   170,267,782.16
+         ==============   ==============    ============    ============    ============       ====          ====   ==============
+</Table>
+
+
+
+
+<Table>
+<Caption>
+                            FACTOR INFORMATION PER $1000 OF ORIGINAL FACE                                      PASS-THROUGH RATES
+
+
+
+                                                                                                                           CURRENT
+                         BEGINNING                                                          ENDING                        PASS-THRU
+CLASS     CUSIP          PRINCIPAL         PRINCIPAL        INTEREST       TOTAL           PRINCIPAL           CLASS         RATE
+- -----   ----------     --------------     -----------      ----------   -----------     --------------          ----      ----------
+<S>     <C>            <C>                <C>              <C>          <C>             <C>                    <C>        <C>
+A1      686198AAT4       579.70694868     40.67156636      0.97584000   41.64740636       539.03538233            A1      2.020000 %
+A2      686198AAU1     1,000.00000000      0.00000000      2.81666667    2.81666667     1,000.00000000            A2      3.380000 %
+A3      686198AAV9     1,000.00000000      0.00000000      3.80000000    3.80000000     1,000.00000000            A3      4.560000 %
+A4      686198AAW7     1,000.00000000      0.00000000      4.75000000    4.75000000     1,000.00000000            A4      5.700000 %
+M1      686198AAX5     1,000.00000000      0.00000000      4.92500021    4.92500021     1,000.00000000            M1      5.910000 %
+M2      686198AAY3     1,000.00000000      0.00000000      5.53333316    5.53333316     1,000.00000000            M2      6.640000 %
+        ----------     --------------     -----------      ----------   -----------     --------------          ----      ----------
+TOTALS                   864.45549095     13.11658015      6.90278235   20.01936250       851.33891080
+        ==========     ==============     ===========      ==========   ===========     ==============          ====      ==========
+</Table>
+
+
+ IF THERE ARE ANY QUESTIONS OR PROBLEMS WITH THIS STATEMENT, PLEASE CONTACT THE
+                          ADMINISTRATOR LISTED BELOW:
+                                Rory Nowakowski
+                 JPMorgan Chase Bank, N.A. - ITS - Global Debt
+                         JPM, 227 W. Monroe, 26th Floor
+                            Chicago, Illinois 60606
+                   Tel: (312) 267-5081 / Fax: (312) 267-5213
+                        Email: rory.nowakowski@chase.com
+
+
+
+
+
+(JPMORGAN LOGO)  COPYRIGHT (C) 2001 J.P. MORGAN CHASE & CO. ALL RIGHTS RESERVED.
+
+<PAGE>
+
+                                                                     Page 2 of 3
+
+
+                ORIGEN MANUFACTURED HOUSING CONTRACT TRUST 2004-A
+
+                                DECEMBER 15, 2004
+
+<Table>
+<Caption>
+
+<S>                      <C>                                                                                           <C>
+Section 7.05(a)(i)       Principal Payment Allocable to Holders                                                        2,623,316.03
+
+Section 7.05(a)(ii)      Interest Payment Allocable to Holders                                                           624,404.19
+
+Section 7.05(a)(iii)     Servicing Fee                                                                                   224,738.98
+                         Indenture Trustee Fee                                                                             1,250.00
+                         Custodian Fee                                                                                         0.00
+                         Owner Trustee Fee                                                                                     0.00
+                         Monthly Backup Servicing Fee                                                                      5,000.00
+
+Section 7.05(a)(iv)      Beginning Balance of Contracts                                                              215,749,419.89
+                         Ending Balance of Contracts                                                                 213,126,103.86
+
+Section 7.05(a)(v)       Number of Contracts                                                                                  5,166
+                         Weighted Average Remaining Term                                                                     231.82
+                         Weighted Average Contract Rate:                                                                     10.168%
+
+Section 7.05(a)(vi)      Number and Aggregate Principal Amounts of Contracts in Delinquency
+</Table>
+
+<Table>
+<Caption>
+
+                                                   Group Totals
+                            -----------------------------------------------------------
+                             Period        Number    Principal Balance       Percentage
+                            ----------     ------    -----------------       ----------
+                            <S>            <C>       <C>                     <C>
+                            30-59 days       61         2,116,671.18           0.99 %
+                            60-89 days       28         1,178,959.80           0.55 %
+                              90+days        57         2,224,639.09           1.04 %
+                               Total        146         5,520,270.07           2.58 %
+</Table>
+
+<Table>
+
+<S>               <C>
+                  Number and Aggregate Principal Amounts of Contracts under Repossession Procedures
+</Table>
+
+<Table>
+<Caption>
+
+                                           Group Totals
+                               ---------------------------------------------
+                               Number     Principal Balance       Percentage
+                               ------     -----------------       ----------
+                               <S>        <C>                     <C>
+                                 30          1,160,576.08            0.54 %
+</Table>
+
+<Table>
+
+<S>               <C>
+                  Number and Aggregate Principal Amounts of Contracts in Bankruptcy
+</Table>
+
+
+<Table>
+<Caption>
+
+                                           Group Totals
+                               ---------------------------------------------
+                               Number     Principal Balance       Percentage
+                               ------     -----------------       ----------
+                               <S>        <C>                     <C>
+                                 73          2,989,855.76            1.40 %
+</Table>
+
+<Table>
+<S>                      <C>                                                                                           <C>
+Section 7.05(a)(viii)    Principal Prepayments                                                                          1,799,180.23
+
+                         Liquidation Proceeds                                                                             238,311.71
+
+Section 7.05(a)(viii)    Realized Losses
+                            Current Period                                                                                174,219.36
+                            Cumulative                                                                                  1,114,989.22
+
+Section 7.05(a)(ix)      Adjusted Note Balances
+                            Class M1                                                                                   23,809,000.00
+                            Class M2                                                                                   19,048,000.00
+</Table>
+
+(JPMORGAN LOGO)  COPYRIGHT (C) 2001 J.P. MORGAN CHASE & CO. ALL RIGHTS RESERVED.
+
+<PAGE>
+                                                                     Page 3 of 3
+
+
+
+
+                ORIGEN MANUFACTURED HOUSING CONTRACT TRUST 2004-A
+                                DECEMBER 15, 2004
+
+<Table>
+<S>                      <C>                                                                                             <C>
+Section 7.05(a)(x)       Interest Payment Amount
+                            Interest Distribution - A-1                                                                    62,941.68
+
+                            Interest Distribution - A-2                                                                   126,750.00
+
+                            Interest Distribution - A-3                                                                    57,000.00
+
+                            Interest Distribution - A-4                                                                   155,054.25
+                            Available Funds Cap Carry-Forward Amount - A-4                                                      0.00
+                            Interest Reduction Amount - A-4                                                                     0.00
+
+                            Interest Distribution - M-1                                                                   117,259.33
+                            Available Funds Cap Carry-Forward Amount - M-1                                                      0.00
+                            Liquidation Loss Interest Amount - M-1                                                              0.00
+                            Interest Reduction Amount - M-1                                                                     0.00
+
+                            Interest Distribution - M-2                                                                   105,398.93
+                            Available Funds Cap Carry-Forward Amount - M-2                                                      0.00
+                            Liquidation Loss Interest Amount - M-2                                                              0.00
+                            Interest Reduction Amount - M-2                                                                     0.00
+
+Section 7.05(a)(xi)      Overcollateralization Target Amount                                                           42,858,321.70
+Section 7.05(a)(xii)     Overcollateralization Amount                                                                  42,858,321.70
+
+Section 7.05(a)(xiv)     Trust Certificate Distribution                                                                   756,152.28
+
+Expense Paid to LLC and DRS                                                                                                 2,971.09
+Servicing Fee Adjustment                                                                                                    1,816.13
+Miscellaneous Servicing Expenses                                                                                                0.00
+</Table>
+
+(JPMORGAN LOGO)  COPYRIGHT (C) 2001 J.P. MORGAN CHASE & CO. ALL RIGHTS RESERVED.
+

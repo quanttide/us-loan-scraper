@@ -1,0 +1,325 @@
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+       Pursuant to Sec. 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+Date of Report (Date of earliest event reported): December 27, 2004
+
+
+STRUCTURED ASSET SECURITIES CORPORATION (as Depositor under the Trust Agreement,
+dated as of August 1, 2004 providing for the issuance of Structured Adjustable
+Rate Mortgage Loan Trust Mortgage Pass-Through Certificates Series 2004-13)
+
+
+                     STRUCTURED ASSET SECURITIES CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+           Delaware                333-115858-15              74-2440850
+(State or other jurisdiction       (Commission               (IRS Employer
+     of incorporation)             File Number)           Identification No.)
+
+                          745 Seventh Avenue, 7th Floor
+                               New York, NY 10019
+                    (Address of principal executive offices)
+
+      Registrant's telephone number, including area code : (212) 526-7000
+
+                                       N/A
+         (Former name or former address, if changed since last report.)
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+     [] Written communications pursuant to Rule 425 under the Securities Act (17
+        CFR 230.425)
+
+     [] Soliciting  material  pursuant to Rule 14a-12(b)  under the Exchange Act
+        (17 CFR 240.14a-12(b))
+
+     [] Pre-commencement  communications  pursuant to Rule  14d-2(b)  under the
+        Exchange Act (17 CFR 240.14d-2(b))
+
+     [] Pre-commencement  communications  pursuant to Rule  13e-4(c)  under the
+        Exchange Act (17 CFR 240.13e-4(c))
+
+<page>
+
+
+Item 8.01   Other Events.
+
+     This  current  report  on Form  8-K  relates  to the  monthly  distribution
+reported  to the  holders of  Structured  Adjustable  Rate  Mortgage  Loan Trust
+Mortgage  Pass-Through  Certificates Series 2004-13 pursuant to the terms of the
+Trust  Agreement,  dated as of August 1, 2004 among  Structured Asset Securities
+Corporation,  as depositor,  Aurora Loan Services Inc., as master servicer,  and
+JPMorgan Chase Bank, as trustee.
+
+ On  December 27, 2004  distributions  were  made to the  Certificateholders.
+Specific information with respect to the distributions is filed as Exhibit 99.1.
+
+
+Item 9.01 Financial Statements and Exhibits.
+
+           (a) Not applicable
+
+           (b) Not applicable
+
+           (c) The following exhibit is filed as part of this report:
+
+               Statement to Certificateholders on December 27, 2004 is filed as
+               Exhibit 99.1 hereto.
+
+
+
+ <PAGE>
+
+Structured  Adjustable  Rate  Mortgage  Loan Trust
+Mortgage Pass-Through  Certificates Series 2004-13
+- -----------------------------------------------------
+
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                              JPMORGAN CHASE BANK, N.A., not in its
+                              individual capacity but solely as Trustee
+                              under the Agreement referred to herein
+
+Date: December 30, 2004        By:    /s/  Diane E. Wallace
+                                   --------------------------------------------
+                             Name:   Diane E. Wallace
+                            Title:   Vice President
+
+
+
+
+<PAGE>
+
+                                 EXHIBIT INDEX
+
+      Exhibit            Description
+
+        99.1             Monthly Certificateholder Statement on
+                         December 27, 2004
+
+
+
+<page>
+
+Exhibit 99.1
+Monthly Certificateholder Statement on December 27, 2004
+
+
+                 Structured Adjustable Rate Mortgage Loan Trust
+               Mortgage Pass-Through Certificates Series 2004-13
+
+                        Statement To Certificateholders
+                                 December 27, 2004
+<TABLE>
+<S>     <C>    <C>    <C>    <C>    <C>    <C>
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+                                  DISTRIBUTION IN DOLLARS
+- -----------------------------------------------------------------------------------------------------------------------------------
+              Original       Beginning                                                                                 Ending
+                Face         Principal                                                      Realized      Deferred    Principal
+Class          Value         Balance          Principal         Interest       Total        Losses        Interest     Balance
+- -----------------------------------------------------------------------------------------------------------------------------------
+A1       45,000,000.00    41,548,348.84     1,745,925.12        137,879.77     1,883,804.89   0.00         0.00      39,802,423.72
+A2      300,000,000.00   276,988,992.34    11,639,500.78        593,910.56    12,233,411.34   0.00         0.00     265,349,491.56
+A3        6,359,000.00     5,871,243.34       246,718.62         12,588.92       259,307.54   0.00         0.00       5,624,524.72
+A4       79,464,000.00    73,368,844.29     3,083,070.97        157,315.03     3,240,386.00   0.00         0.00      70,285,773.32
+B1        8,712,000.00     8,709,993.70           445.44         20,550.75        20,996.19   0.00         0.00       8,709,548.26
+B2        6,649,000.00     6,647,468.80           339.96         18,260.23        18,600.19   0.00         0.00       6,647,128.84
+B3        4,814,000.00     4,812,891.38           246.13         16,743.51        16,989.64   0.00         0.00       4,812,645.25
+B4        2,751,000.00     2,750,366.47           140.66          9,127.20         9,267.86   0.00         0.00       2,750,225.81
+B5        1,375,000.00     1,374,683.36            70.30          4,561.94         4,632.24   0.00         0.00       1,374,613.06
+B6        3,442,834.00     3,442,041.15           175.88         11,422.54        11,598.42   0.00         0.00       3,441,865.24
+R               100.00             0.00             0.00              0.00             0.00   0.00         0.00               0.00
+P                 0.00             0.00             0.00          6,466.83         6,466.83   0.00         0.00               0.00
+TOTALS  458,566,934.00   425,514,873.67    16,716,633.86        988,827.28    17,705,461.14   0.00         0.00     408,798,239.78
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+              Original       Beginning                                                                                 Ending
+                Face         Notional                                                      Realized      Deferred    Notional
+Class          Value         Balance          Principal         Interest       Total        Losses        Interest     Balance
+- -----------------------------------------------------------------------------------------------------------------------------------
+AX1      92,965,464.00             0.00             0.00        233,569.17       233,569.17   0.00         0.00               0.00
+AX2     215,411,500.00   198,888,714.41             0.00              0.00             0.00   0.00         0.00     190,531,106.67
+AIO      73,544,747.00             0.00             0.00        184,775.99       184,775.99   0.00         0.00               0.00
+BX       20,175,000.00    20,170,353.89             0.00         11,381.60        11,381.60   0.00         0.00      20,169,322.36
+- ----------------------------------------------------------------------------------------------------------------------------------
+
+- ---------------------------------------------------------------------------------------------------    ---------------------------
+Factor Information Per $1,000 of Original Face                                                              Pass-through Rates
+- ---------------------------------------------------------------------------------------------------    ---------------------------
+                                                                                                                    Current
+                         Beginning                                                      Ending             Class    Pass-thru
+Class     Cusip         Principal          Principal       Interest       Total        Principal                    Rate (%)
+- -----------------------------------------------------------------------------------------------------    -------------------------
+A1        863579AA6      923.29664089      38.79833600     3.06399489   41.86233089   884.49830489         A1     3.982245 %
+A2        863579BM9      923.29664113      38.79833593     1.97970187   40.77803780   884.49830520         A2     2.490000 %
+A3        863579BZ0      923.29664098      38.79833622     1.97970121   40.77803743   884.49830476         A3     2.490000 %
+A4        863579CA4      923.29664112      38.79833598     1.97970188   40.77803785   884.49830514         A4     2.490000 %
+B1        863579AD0      999.76970845       0.05112948     2.35890152    2.41003099   999.71857897         B1     2.740000 %
+B2        863579AE8      999.76970973       0.05112949     2.74631223    2.79744172   999.71858024         B2     3.190000 %
+B3        863579AF5      999.76970918       0.05112796     3.47808683    3.52921479   999.71858122         B3     3.853786 %
+B4        863579AH1      999.76970920       0.05113050     3.31777535    3.36890585   999.71857870         B4     3.982245 %
+B5        863579AJ7      999.76971636       0.05112727     3.31777455    3.36890182   999.71858909         B5     3.982245 %
+B6        863579AK4      999.76971007       0.05108582     3.31777251    3.36885833   999.71861554         B6     3.982245 %
+R         863579AG3        0.00000000       0.00000000     0.00000000    0.00000000     0.00000000         R      3.982245 %
+TOTALS                   927.92314954      36.45407599     2.15634231   38.61041830   891.46907348
+- -----------------------------------------------------------------------------------------------------    -------------------------
+                                                                                                                     Current
+                         Beginning                                                       Ending             Class    Pass-thru
+Class     Cusip         Notional          Principal       Interest       Total           Notional                    Rate (%)
+- -----------------------------------------------------------------------------------------------------    -------------------------
+AX1       863579AB4        0.00000000       0.00000000     2.51242945    2.51242945     0.00000000         AX1    4.000000 %
+AX2       863579AC2      923.29664113       0.00000000     0.00000000    0.00000000   884.49830520         AX2    0.000000 %
+AIO       863579BY3        0.00000000       0.00000000     2.51242947    2.51242947     0.00000000         AIO    4.000000 %
+BX        863579BN7      999.76970954       0.00000000     0.56414374    0.56414374   999.71858042         BX     0.677128 %
+- ----------------------------------------------------------------------------------------------------    --------------------------
+
+If there are any questions or comments, please contact the Relationship Manager listed below.
+
+
+IF THERE ARE ANY QUESTIONS OR PROBLEMS WITH THIS STATEMENT, PLEASE CONTACT THE ADMINISTRATOR LISTED BELOW:
+                -------------------------------------------------
+                                  Ashia Miller
+              JPMorgan Chase Bank, N.A. - Structured Finance Services NY
+                             4 NY Plaza 6th Fl.,
+                            New York, New York 10004
+                              Tel: (212) 623-4481
+                              Fax: (212) 623-5858
+                       Email: ashia.n.miller@jpmorgan.com
+
+                -------------------------------------------------
+
+*Please Note:
+The Ending Balances for AX1 and AIO classes are only an estimate. Both balances are
+subject to change due to the fluctuation in Weighted Average Net Rate on the deal.
+
+<page>
+                           ADDITIONAL BOND REPORTING
+Class AX1 - Beginning Balance                                                             70,070,751.39
+Class AX1 - Ending Balance*                                                               64,653,488.59
+
+Class AIO - Beginning Balance                                                             55,432,796.53
+Class AIO - Ending Balance*                                                               51,147,213.45
+
+                             COLLATERAL GROUP DETAIL
+Weighted Average Coupon Rate                                                                 4.263998 %
+Beginning Weighted Average Net Rate (Pass Through Rate)                                      3.982245 %
+Ending Weighted Average Net Rate (Pass Through Rate)                                         3.976999 %
+Beginning Loan Count                                                                              1,323
+Ending Loan Count                                                                                 1,283
+Beginning Scheduled Balance                                                              425,514,873.79
+Ending Scheduled Balance                                                                 408,798,239.80
+Scheduled Principal                                                                           21,761.15
+Unscheduled Principal                                                                     16,694,872.84
+Net Liquidation Proceeds                                                                           0.00
+Insurance Proceeds                                                                                 0.00
+Advances                                                                                           0.00
+Scheduled Interest                                                                         1,511,995.63
+Servicing Fee                                                                                 96,661.54
+Master Servicing Fee                                                                               0.00
+Trustee Fee                                                                                    2,659.47
+Net Interest                                                                               1,412,087.21
+Realized Loss Amount                                                                               0.00
+Cumulative Realized Loss                                                                           0.00
+Cumulative Loss as a Percentage of Original Collateral                                       0.000000 %
+Bankruptcy Loss                                                                                    0.00
+Fraud Loss                                                                                         0.00
+Special Hazard Loss                                                                                0.00
+Prepayment Penalties                                                                           6,466.83
+Relief Act Interest Shortfall                                                                      0.00
+Prepayment Interest Shortfall                                                                      0.00
+
+Sec. 4.03(ix)                             Number and Aggregate Principal Amounts of Mortgage Loans in Delinquency
+                                           Group Totals
+                                                                                     Principal
+                                          Category              Number                Balance               Percentage
+                                          1 Month                         2               280,482.74                  0.07 %
+                                          2 Month                         1               120,200.00                  0.03 %
+                                          3 Month                         1               175,000.00                  0.04 %
+                                           Total                          4               575,682.74                  0.14 %
+
+                                          Number and Aggregate Principal Amounts of Mortgage Loans in Foreclosure
+                                          Group Totals
+                                                                Principal
+                                           Number               Balance                Percentage
+                                                     0                    0.00                  0.00 %
+
+Sec. 4.03(x)                              Number and Aggregate Principal Amounts of REO Loans
+                                          Group Totals
+                                                                Principal
+                                           Number               Balance                Percentage
+                                                     0                    0.00                  0.00 %
+Fraud Loss Limit                                                                                                       4,585,669.34
+Bankruptcy Loss Limit                                                                                                    100,000.00
+Special Hazard Loss Limit                                                                                              2,843,115.00
+
+
+
+
+
+Sec. 4.03(xii)             Aggregate Outstanding Interest Shortfalls
+
+Class A1 Shortfall                                                                                                             0.00
+Class A2 Shortfall                                                                                                             0.00
+Class A3 Shortfall                                                                                                             0.00
+Class A4 Shortfall                                                                                                             0.00
+Class AX1 Shortfall                                                                                                            0.00
+Class AX2 Shortfall                                                                                                            0.00
+Class AIO Shortfall                                                                                                            0.00
+Class B1 Shortfall                                                                                                             0.00
+Class B2 Shortfall                                                                                                             0.00
+Class B3 Shortfall                                                                                                             0.00
+Class BX Shortfall                                                                                                             0.00
+Class B4 Shortfall                                                                                                             0.00
+Class B5 Shortfall                                                                                                             0.00
+Class B6 Shortfall                                                                                                             0.00
+Class R Shortfall                                                                                                              0.00
+
+                                                              Relief Act and Prepayment Interest Shortfalls
+
+Class A1 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class A2 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class A3 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class A4 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class AX1 Relief Act and Prepayment Interest Shortfall                                                                         0.00
+Class AX2 Relief Act and Prepayment Interest Shortfall                                                                         0.00
+Class AIO Relief Act and Prepayment Interest Shortfall                                                                         0.00
+Class B1 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class B2 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class B3 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class BX Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class B4 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class B5 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class B6 Relief Act and Prepayment Interest Shortfall                                                                          0.00
+Class R Relief Act and Prepayment Interest Shortfall                                                                           0.00
+Total Relief Act and PPIS                                                                                                      0.00
+
+*Please Note:
+The Ending Balances for AX1 and AIO classes are only an estimate. Both balances are
+subject to change due to the fluctuation in Weighted Average Net Rate on the deal.
+
+
+Copyright 2001 J.P. Morgan Chase & Co. All rights reserved.
+
+
+</TABLE>
+

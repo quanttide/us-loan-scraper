@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="py-sec-edgar" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="sec-edgar-clean" project-jdk-type="Python SDK" />
+</project>

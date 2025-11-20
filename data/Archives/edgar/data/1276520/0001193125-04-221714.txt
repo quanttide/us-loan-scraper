@@ -1,0 +1,1153 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ H4yXaIxIX9nslCHGXWdotLWGv16x1tmPpawDrTL3SIZxquEnRHAxXUOan92fG48p
+ AgetRCUxgKOdV2yirQm8fg==
+
+<SEC-DOCUMENT>0001193125-04-221714.txt : 20041230
+<SEC-HEADER>0001193125-04-221714.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230171808
+ACCESSION NUMBER:		0001193125-04-221714
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENWORTH FINANCIAL INC
+		CENTRAL INDEX KEY:			0001276520
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				331073076
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32195
+		FILM NUMBER:		041234882
+
+	MAIL ADDRESS:	
+		STREET 1:		6620 WEST BROAD STREET
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23230
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%"
+SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>December 23,
+2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>(Date of earliest event reported) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>GENWORTH FINANCIAL, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>001-32195</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>33-1073076</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction of</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>incorporation or organization)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>6620 West Broad Street, Richmond, VA</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>23230</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>(804) 281-6000
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>N/A </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>(Former Name or Former Address, if Changed Since Last Report) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below): </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 1.01. Entry into a Material Definitive Agreement. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On December 28, 2004, Genworth Financial, Inc. (&#147;Genworth&#148;)
+entered into a Consideration Agreement with GE Capital International (Mauritius) (&#147;GECIM&#148;), a subsidiary of General Electric Company (&#147;GE&#148;). The Consideration Agreement sets forth the terms on which Genworth will participate in
+GE&#146;s previously announced sale (the &#147;GE Sale&#148;) of 60% of its global outsourcing business to an acquisition vehicle owned by funds of General Atlantic Partners, LLC and Oak Hill Capital Partners, L.P. The GE Sale was completed on
+December 30, 2004. As a result of the GE Sale, GECIM owns 40% of Gecis Global Holdings, a Luxembourg Company (&#147;GGH&#148;), a new entity formed to hold the outsourcing business that was the subject of the GE Sale. Through its subsidiary, GE
+Financial Assurance Holdings, Inc. (&#147;GEFAHI&#148;), GE also is the beneficial owner of 70.1% of the outstanding common stock of Genworth. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the Consideration Agreement, upon the closing of the GE Sale, (1) we received consideration of $40 million from GECIM, and (2) we entered into
+an Outsourcing Services Amendment Agreement (the &#147;Service Agreement&#148;) with Gecis International Holdings, Luxembourg, Swiss Branch Zug, a Luxembourg Company and a subsidiary of GGH (&#147;GIH&#148;). Pursuant to Service Agreement, we
+committed to purchase a minimum volume of services from GIH during an eight-year period. Our minimum volume commitment during each of the first five years of the Service Agreement will be $24 million, and our minimum volume commitment during the
+sixth, seventh and eighth years will be $18 million, $12 million and $6 million, respectively. In addition, we have agreed (1) to irrevocably waive our rights to acquire certain assets of GE&#146;s global outsourcing business, (2) to irrevocably
+waive certain non-compete rights with respect to the global outsourcing business and (3) to cause our subsidiaries to enter into new servicing agreements with GIH to replace existing service agreements, subject to the receipt of any required
+regulatory approvals. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 8.01. Other Events. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">As part of the consideration for the assets that GEFAHI transferred to
+Genworth, in connection with Genworth&#146;s corporate reorganization and initial public offering, Genworth issued to GEFAHI a $550 million contingent note (as subsequently amended, the &#147;Contingent Note&#148;). Genworth was required to repay
+the Contingent Note solely to the extent that statutory contingency reserves from its U.S. mortgage insurance business in excess of $150 million were released and paid to Genworth as a dividend. The release of these reserves and payment of the
+dividend were subject to statutory limitations, regulatory approvals and other conditions. The Contingent Note provided that Genworth was required to use its reasonable best efforts to achieve the satisfaction of such conditions and to repay the
+Contingent Note by December 31, 2004. On December <B><U></U></B>23, 2004, all conditions to the release of such reserves and the payment of such dividend to Genworth were satisfied. As a result, on December <B></B>23, 2004, Genworth&#146;s U.S.
+mortgage insurance business paid a $700 million dividend to Genworth, and Genworth repaid the Contingent Note in full. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">From time to time, Genworth expects to grant various awards to its directors and executive officers under the 2004 Genworth Financial, Inc. Omnibus
+Incentive Plan. Forms of grant award agreements are attached hereto as exhibits and are incorporated herein by reference. In addition, as previously disclosed, for so long as GE owns more than 50% of Genworth&#146;s outstanding common stock,
+Genworth will be part of the GE group, and some of Genworth&#146;s executive officers will continue to participate in certain benefit plans established and maintained by GE. These benefit plans are identified in Item 9.01 of this current report on
+Form 8-K and are incorporated herein by reference. Pursuant to the Employee Matters Agreement, dated May 24, 2004, among Genworth, GE, General Electric Capital Corporation, GEI, Inc. and GEFAHI (as previously filed with the Securities and Exchange
+Commission), Genworth reimburses GE for benefits that GE provides to Genworth&#146;s employees under these benefit plans. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01. Financial Statements and Exhibits. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="88%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Number</B></FONT><BR><HR WIDTH="30" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="43" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.56.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Deferred Stock Unit Award Agreement under the 2004 Genworth Financial, Inc. Omnibus Incentive Plan.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.56.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Restricted Stock Unit Award Agreement under the 2004 Genworth Financial, Inc. Omnibus Incentive Plan.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.56.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Stock Option Award Agreement under the 2004 Genworth Financial, Inc. Omnibus Incentive Plan.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.56.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Stock Appreciation Rights Award Agreement under the 2004 Genworth Financial, Inc. Omnibus Incentive Plan.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric Incentive Compensation Plan, as amended effective July 1, 1991 (Incorporated by reference to Exhibit 10(a) to General Electric Company&#146;s Annual Report on Form 10-K
+(Commission file number 1-35) for the fiscal year ended December 31, 1991).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 1991 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(n) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 1990).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 1994 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(o) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 1993).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric Leadership Life Insurance Program, effective January 1, 1994 (Incorporated by reference to Exhibit 10(r) to General Electric Company&#146;s Annual Report on Form 10-K
+(Commission file number 1-35) for the fiscal year ended December 31, 1993).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.5</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 1997 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(t) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 1997).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.6</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 1990 Long Term Incentive Plan as restated and amended effective August 1, 1997 (Incorporated by reference to Exhibit 10(u) to General Electric Company&#146;s Annual Report on
+Form 10-K (Commission file number 1-35) for the fiscal year ended December 31, 1997).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.7</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 2000 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(u) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 2000).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.8</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric Supplementary Pension Plan, as amended effective July 1, 2000 (Incorporated by reference to Exhibit 10(v) to General Electric Company&#146;s Annual Report on Form 10-K
+(Commission file number 1-35) for the fiscal year ended December 31, 2000).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.9</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of GE Executive Life Insurance Agreement provided to GE officers, as revised September 2000 (Incorporated by reference to Exhibit 10(w) to General Electric Company&#146;s Annual Report
+on Form 10-K (Commission file number 1-35) for the fiscal year ended December 31, 2000).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.10</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 2003 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(x) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 2002).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.11</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Amendment No. 1 to General Electric 1990 Long Term Incentive Plan as restated and amended effective August 1, 1997 (Incorporated by reference to Exhibit 10(y) to General Electric
+Company&#146;s Annual Report on Form 10-K (Commission file number 1-35) for the fiscal year ended December 31, 2002).</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Date: December <U></U>30, 2004
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">GENWORTH FINANCIAL, INC.</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ Jamie S. Miller</FONT></P><HR WIDTH="78%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Jamie S. Miller </FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Vice President and Controller</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Number</B></FONT><BR><HR WIDTH="30" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="43" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.56.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Deferred Stock Unit Award Agreement under the 2004 Genworth Financial, Inc. Omnibus Incentive Plan.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.56.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Restricted Stock Unit Award Agreement under the 2004 Genworth Financial, Inc. Omnibus Incentive Plan.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.56.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Stock Option Award Agreement under the 2004 Genworth Financial, Inc. Omnibus Incentive Plan.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.56.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Stock Appreciation Rights Award Agreement under the 2004 Genworth Financial, Inc. Omnibus Incentive Plan.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric Incentive Compensation Plan, as amended effective July 1, 1991 (Incorporated by reference to Exhibit 10(a) to General Electric Company&#146;s Annual Report on Form 10-K
+(Commission file number 1-35) for the fiscal year ended December 31, 1991).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 1991 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(n) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 1990).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 1994 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(o) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 1993).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.4</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric Leadership Life Insurance Program, effective January 1, 1994 (Incorporated by reference to Exhibit 10(r) to General Electric Company&#146;s Annual Report on Form 10-K
+(Commission file number 1-35) for the fiscal year ended December 31, 1993).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.5</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 1997 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(t) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 1997).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.6</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 1990 Long Term Incentive Plan as restated and amended effective August 1, 1997 (Incorporated by reference to Exhibit 10(u) to General Electric Company&#146;s Annual Report on
+Form 10-K (Commission file number 1-35) for the fiscal year ended December 31, 1997).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.7</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 2000 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(u) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 2000).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.8</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric Supplementary Pension Plan, as amended effective July 1, 2000 (Incorporated by reference to Exhibit 10(v) to General Electric Company&#146;s Annual Report on Form 10-K
+(Commission file number 1-35) for the fiscal year ended December 31, 2000).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.9</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of GE Executive Life Insurance Agreement provided to GE officers, as revised September 2000 (Incorporated by reference to Exhibit 10(w) to General Electric Company&#146;s Annual Report
+on Form 10-K (Commission file number 1-35) for the fiscal year ended December 31, 2000).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.10</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">General Electric 2003 Executive Deferred Salary Plan (Incorporated by reference to Exhibit 10(x) to General Electric Company&#146;s Annual Report on Form 10-K (Commission file number 1-35)
+for the fiscal year ended December 31, 2002).</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.59.11</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Amendment No. 1 to General Electric 1990 Long Term Incentive Plan as restated and amended effective August 1, 1997 (Incorporated by reference to Exhibit 10(y) to General Electric
+Company&#146;s Annual Report on Form 10-K (Commission file number 1-35) for the fiscal year ended December 31, 2002).</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.56.1
+<SEQUENCE>2
+<FILENAME>dex10561.htm
+<DESCRIPTION>FORM OF DEFERRED STOCK
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form of Deferred Stock</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.56.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>2004 Genworth Financial, Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Omnibus Incentive Plan </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Deferred Stock Unit Award Agreement </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I><U>Award Agreement </U></I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dear [Non-Employee Director]: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Congratulations on your selection as a Participant in the 2004 Genworth Financial, Inc. Omnibus Incentive Plan (the &#147;<U>Plan</U>&#148;). This Award Agreement and the Plan together govern your rights under the
+Deferred Stock Units (&#147;<U>DSUs</U>&#148;) which are granted to you from time to time as payment of your annual retainer and set forth all of the conditions and limitations affecting such rights. Unless the context otherwise requires,
+capitalized terms used in this Award Agreement shall have the meanings ascribed to them in the Plan. If there is any inconsistency between the terms of this Award Agreement and the terms of the Plan, the Plan&#146;s terms shall supersede and replace
+the conflicting terms of this Award Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>1.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Grant</U></B><B>.</B> Each DSU will represent one Share and will be credited to a notional account maintained by the Company in your name. Each DSU entitles you to
+receive from the Company the Fair Market Value of one Share, each in accordance with the terms of this Award Agreement, the Plan, and any rules and procedures adopted by the Board of Directors in respect of Nonemployee Director Awards.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>2.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Dividend Equivalents</U></B>. Until you terminate your service on the Board of Directors for any reason, you shall receive Dividend Equivalents with respect to the DSUs
+equal to the number of DSUs times the per Share quarterly dividend payments made to shareholders of the Company&#146;s Class A common stock. Such Dividend Equivalents will be reinvested in additional DSUs. Any such additional DSUs will be credited
+to a notional account maintained by the Company in your name. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>3.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>No Voting Rights</U></B><B>. </B>You will not be entitled to vote any Shares represented by the DSUs. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Payment</U></B>. The DSUs granted pursuant to paragraph 1, together with additional DSUs accumulated pursuant to paragraph 2, shall be paid to you in cash beginning one
+(1) year after your termination of service on the Board of Directors. You may elect to receive such amount as a lump sum or in equal payments for up to ten (10) years. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Change of Control</U></B>. Unless the Successor Entity provides otherwise, settlement of DSUs shall not accelerate upon a Change of Control. </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Administration</U></B><B>.</B> This Award Agreement and your rights hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from
+time to time, as well as to such rules and regulations as the Board of Directors may adopt for administration of Nonemployee Director Awards under the Plan. It is expressly understood that the Board of Directors is authorized to administer,
+construe, and make all determinations necessary or appropriate to the administration of Nonemployee Director Awards under the Plan and this Award Agreement, all of which shall be binding upon you, the Participant. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Continuation of Service</U></B><B>.</B> This Award Agreement shall not confer upon you any right to continuation of service on the Board of Directors.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Plan</U></B><B>. </B>A copy of the Plan will be furnished upon request. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>9.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Amendment, Modification, Suspension, and Termination</U></B><B>. </B>The Board of Directors shall have the right at any time in its sole discretion, subject to certain
+restrictions, to alter, amend, modify, suspend, or terminate the Plan in whole or in part, and shall have the right at any time in its sole discretion to alter, amend, modify, suspend or terminate the terms and conditions of any Nonemployee Director
+Award; <I>provided</I>, <I>however</I>, that no such action shall adversely affect in any material way your Award without your written consent. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>10.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Applicable Law</U></B><B>.</B> The validity, construction, interpretation, and enforceability of this Award Agreement shall be determined and governed by the laws of
+the State of Delaware without giving effect to the principles of conflicts of law. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>11.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Entire Agreement</U></B><B>.</B> This Award Agreement, the Plan, and the rules and procedures adopted by the Board of Directors in respect of Nonemployee Director
+Awards contain all of the provisions applicable to your Award hereunder and no other statements, documents or practices may modify, waive or alter such provisions unless expressly set forth in writing, signed by an authorized officer of the Company
+and delivered to you. </FONT></TD></TR></TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.56.2
+<SEQUENCE>3
+<FILENAME>dex10562.htm
+<DESCRIPTION>FORM OF RESTRICTED STOCK
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form of Restricted Stock</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.56.2 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>2004 Genworth Financial, Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Omnibus Incentive Plan </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Restricted Stock Unit Award Agreement </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I><U>U.S. Award Agreement</U> </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dear [RSU Grantee]: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Congratulations on your selection as a Participant in the 2004 Genworth Financial, Inc. Omnibus Incentive Plan (the &#147;<U>Plan</U>&#148;). This Award Agreement and the Plan together govern your rights under this
+Award and set forth all of the conditions and limitations affecting such rights. Unless the context otherwise requires, capitalized terms used in this Award Agreement shall have the meanings ascribed to them in the Plan. If there is any
+inconsistency between the terms of this Award Agreement and the terms of the Plan, the Plan&#146;s terms shall supersede and replace the conflicting terms of this Award Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>1.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Grant</U>.</B> You are hereby granted Restricted Stock Units (&#147;<U>RSUs</U>&#148;) [with Dividend Equivalents]. Each RSU entitles you to receive from the Company
+[(i)] one Share for which the restrictions set forth in paragraph 3 lapse in accordance with their terms, [and (ii) quarterly cash payments equivalent to the dividend paid to shareholders of the Company&#146;s Class A common stock, each] in
+accordance with the terms of this Award Agreement, the Plan, and any rules and procedures adopted by the Committee. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a.</B> <B><U>Grant Date</U></B><B>.</B> [Grant Date.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b.</B> <B><U>Number of RSUs</U></B>. [Number of RSUs.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c.</B> <B><U>Value of RSUs on Grant Date</U>.</B> [Value.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>d. <U>Restriction Lapse Dates</U>.</B> The RSUs shall not provide you with any rights or interests therein until the restrictions lapse on such RSUs.
+[Restriction Lapse Dates.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>[2.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Dividend Equivalents</U></B>. Until your service with the Company and its Affiliates is terminated for any reason, or until such time as the restrictions lapse,
+whichever occurs first, the Company will pay you a cash amount equal to the number of RSUs subject to restriction times the per Share quarterly dividend payments made to shareholders of the Company&#146;s Class A common stock, with such payments to
+be made reasonably promptly after the payment date of each quarterly dividend.] </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>3.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Restrictions</U></B><B>.</B> Restrictions on the number of RSUs specified in this Award Agreement will lapse on the designated restriction lapse dates only if you have
+been continuously in the service of the Company or one of its Affiliates through such dates. The Committee may, in circumstances determined in its sole discretion, provide for the lapse of such restrictions at earlier dates. [Notwithstanding the
+foregoing, if you have RSUs that are specially designated to provide a death benefit, as provided herein, restrictions will immediately lapse upon your termination of service with the Company and its Affiliates by reason of your death, provided that
+you have been continuously in the service of the Company or one of its Affiliates through such date of death.] Any RSUs for which the restrictions do not lapse in accordance with the terms in this paragraph 3 shall be cancelled.
+</FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Change of Control</U></B>. Upon the occurrence of a Change of Control in which the Successor Entity fails to Assume and Maintain this Award of RSUs, section 13.1 of the
+Plan shall not apply to the RSUs unless the Committee shall determine otherwise. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Nontransferability</U></B><B>.</B> During the period of restriction, the RSUs awarded pursuant to this Award Agreement may not be sold, transferred, pledged, assigned,
+or otherwise alienated or hypothecated (&#147;<U>Transfer</U>&#148;), other than by will or by the laws of descent and distribution, except as provided in the Plan. If any prohibited Transfer, whether voluntary or involuntary, of the RSUs is
+attempted to be made, or if any attachment, execution, garnishment, or lien shall be attempted to be issued against or placed upon the RSUs, your right to such RSUs shall be immediately forfeited to the Company, and this Award Agreement shall be
+null and void. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Requirements of Law</U></B><B>. </B>The granting of the RSUs and the issuance of Shares under the Plan shall be subject to all applicable laws, rules and regulations,
+and to such approvals by any governmental agencies or national securities exchanges as may be required. The RSUs shall be null and void to the extent the grant of RSUs or the lapse of restrictions thereon is prohibited under the laws of the country
+of your residence. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Administration</U></B><B>.</B> This Award Agreement and your rights hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from
+time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or
+appropriate to the administration of the Plan and this Award Agreement, all of which shall be binding upon you, the Participant. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Continuation of Employment</U></B><B>.</B> This Award Agreement shall not confer upon you any right to continuation of employment by the Company or any of its
+Affiliates, nor shall this Award Agreement interfere in any way with the Company&#146;s or any of its Affiliate&#146;s right to terminate your employment at any time. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>9.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Plan; Prospectus and Related Documents</U></B><B>. <U></U></B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. </B>A copy of the Plan will be furnished upon written or oral request made to the Human Resources Department, Genworth Financial, Inc., 6620 W.
+Broad Street, Richmond, VA 23230, or telephone (804) 281-6000. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman"
+SIZE="2"><B>b. </B>As required by applicable securities laws, the Company is delivering to you a prospectus in connection with this Award, which delivery is being made electronically. You can access the prospectus on the Company&#146;s intranet via
+the following web address: <U>http://welcometo.genworth.net/PlanProspectus</U>. The prospectus includes the Company&#146;s prospectus, filed on May 25, 2004, pursuant to Rule 424(b) under the Securities Act of 1933, as amended, which can also be
+accessed at the foregoing web address. A paper copy of the prospectus may also be obtained without charge by contacting the Human Resources Department at the address or telephone number listed above. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c. </B>You are hereby notified that in the future the Company will
+deliver to you electronically a copy of the Company&#146;s Annual Report to Stockholders for each fiscal year, as well as copies of all other reports, proxy statements and other communications distributed to the Company&#146;s stockholders. Each of
+the documents referenced in this subparagraph c. may be accessed by going to the Company&#146;s website at <U>www.genworth.com</U> and clicking on &#147;Investor Info&#148; and then &#147;SEC Filings&#148; (or, if the </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">Company changes its web site, by accessing such other web site address(es) containing investor
+information to which the Company may direct you in the future) and will be deemed delivered to you upon posting or filing by the Company. Upon written or oral request, paper copies of these documents (other than certain exhibits) may also be
+obtained by contacting the Company&#146;s Human Resources Department at the address or telephone number listed above or by contacting the Investor Relations Department, Genworth Financial, Inc., 6620 W. Broad Street, Richmond, VA 23230, or telephone
+(804) 281-6000. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>10.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Amendment, Modification, Suspension, and Termination</U></B><B>.</B> The Board of Directors shall have the right at any time in its sole discretion, subject to certain
+restrictions, to alter, amend, modify, suspend, or terminate the Plan in whole or in part, and the Committee shall have the right at any time in its sole discretion to alter, amend, modify, suspend or terminate the terms and conditions of any Award;
+<I>provided</I>, <I>however</I>, that no such action shall adversely affect in any material way your Award without your written consent. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>11.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Applicable Law</U></B><B>.</B> The validity, construction, interpretation, and enforceability of this Award Agreement shall be determined and governed by the laws of
+the State of Delaware without giving effect to the principles of conflicts of law. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>12.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Entire Agreement</U></B><B>.</B> This Award Agreement, the Plan, and the rules and procedures adopted by the Committee contain all of the provisions applicable to the
+RSUs and no other statements, documents or practices may modify, waive or alter such provisions unless expressly set forth in writing, signed by an authorized officer of the Company and delivered to you. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>13.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Agreement to Participate</U></B><B>.</B> If you do not wish to participate in the Plan and be subject to the provisions of this Award Agreement, please contact the
+Human Resources Department, Genworth Financial, Inc., 6620 W. Broad Street, Richmond, VA 23230, or at (804) 281-6000, within thirty (30) days of receipt of this Award Agreement. If you do not respond within thirty (30) days of receipt of this Award
+Agreement, the Award Agreement is deemed accepted. If you choose to participate in the Plan, you agree to abide by all of the governing terms and provisions of the Plan and this Award Agreement. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">Additionally, by agreeing to participate, you acknowledge that you have
+reviewed the Plan and this Award Agreement, and you fully understand all of your rights under the Plan and this Award Agreement, the Company&#146;s remedies if you violate the terms of this Award Agreement, and all of the terms and conditions which
+may limit your eligibility to retain and receive the RSUs and/or Shares issued pursuant to the Plan and this Award Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Please refer any questions you may have regarding your RSUs grant to your local Human Resources Manager. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>This document constitutes part of a prospectus covering securities that have been registered under the Securities Act
+of 1933. </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.56.3
+<SEQUENCE>4
+<FILENAME>dex10563.htm
+<DESCRIPTION>FORM OF STOCK OPTION
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form of Stock Option</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.56.3 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>2004 Genworth Financial, Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Omnibus Incentive Plan </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Stock Option Award Agreement </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I><U>U.S. Award Agreement</U> </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dear [Optionee]: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Congratulations on your selection as a Participant in the 2004 Genworth Financial, Inc. Omnibus Incentive Plan (the &#147;<U>Plan</U>&#148;). This Award Agreement and the Plan together govern your rights under this
+Award and set forth all of the conditions and limitations affecting such rights. Unless the context otherwise requires, capitalized terms used in this Award Agreement shall have the meanings ascribed to them in the Plan. If there is any
+inconsistency between the terms of this Award Agreement and the terms of the Plan, the Plan&#146;s terms shall supersede and replace the conflicting terms of this Award Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>1.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Grant</U></B><B>.</B> You are hereby granted Stock Options. The Stock Options are nonqualified stock options. Each Stock Option entitles you to purchase from the
+Company one Share at the exercise price per Stock Option set forth below and in accordance with the terms and conditions of this Award Agreement, the Plan, and any rules and procedures adopted by the Committee. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. <U>Grant Date</U>.</B> [Grant Date.] </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b. <U>Number of Stock Options</U>.</B> [Number of Options.] </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c. <U>Exercise Price per Stock Option</U>.</B> [Exercise Price.]
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>d. <U>Vesting Dates</U>. </B>The Stock Options shall not
+provide you with any rights or interests therein until the Stock Options vest and become exercisable. [Vesting Dates.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>e. <U>Expiration Date(s)</U>.</B> [Expiration Date(s).] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>2.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Vesting, Exercisability and Expiration Date</U></B><B>.</B> The Stock Options shall vest and become exercisable only on and after the vesting dates, and shall expire on
+the expiration date, except as follows: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a.
+<U>Employment Termination Due to Death</U>.</B> If your service with the Company and its Affiliates terminates as a result of your death, then any unvested Stock Options as of the date of your death shall immediately vest and become exercisable upon
+such death, and any unexercised Stock Options shall expire on the later of (i) the expiration date or (ii) twenty-four (24) months after the date of your death. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b. <U>Employment Termination Due to Transfer of Business to Successor Employer</U>.</B> If your service with the Company
+and its Affiliates terminates as a result of employment by a successor employer to which the Company has transferred a business operation, then any unvested Stock Options shall continue to vest and become exercisable in accordance with the vesting
+dates, and any vested and unexercised Stock Options shall expire on the earlier of (i) five (5) years after the date of such termination of </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">service or (ii) the expiration date; <I>provided</I>, <I>however</I>, that if you die less than
+twenty-four (24) months before the earlier of such dates, then any unvested Stock Options as of the date of your death shall immediately vest and become exercisable upon such death, and any unexercised Stock Options shall not expire until
+twenty-four (24) months after the date of your death. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c.
+<U>Employment Termination Less Than One Year After Grant Date</U>.</B> If your service with the Company and its Affiliates terminates for any reason other than death or due to the transfer of a business operation of the Company to a successor
+employer before the first anniversary of the grant date, then the Stock Options, whether or not vested and exercisable as of the date of such termination, shall immediately expire upon such termination. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>d. <U>Employment Termination More Than One Year After Grant Date</U>.</B>
+If, on or after the first anniversary of the grant date, your service with the Company and its Affiliates terminates as a result of any of the reasons set forth below, each as defined below or determined in accordance with rules adopted by the
+Committee, then the vesting dates and expiration date shall be automatically adjusted as provided below: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(i)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Termination for Retirement or Total Disability</U></B><B>.</B> If (a) your service with the Company and its Affiliates terminates as a result of your voluntary
+resignation on or after you have attained age sixty (60) and accumulated five (5) or more years of combined and continuous service with the Company, General Electric Company and any of their Affiliates, or (b) your service with the Company and its
+Affiliates terminates as a result of your Disability, then any unvested Stock Options as of the date of such termination shall immediately vest and become exercisable upon such termination, and any unexercised Stock Options shall expire on the
+expiration date; <I>provided</I>, <I>however</I>, that if you die less than twenty-four (24) months before the expiration date, then any unexercised Stock Options shall not expire until twenty-four (24) months after the date of your death. For
+purposes of this Award Agreement, &#147;<U>Disability</U>&#148; shall mean a permanent disability that would make you eligible for benefits under the long-term disability program maintained by the Company or any of its Affiliates (without regard to
+any time period during which the disabling condition must exist) or in the absence of any such program, such meaning as the Committee shall determine. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(ii)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Voluntary Termination or Termination for Cause</U></B><B>.</B> If your service with the Company and its Affiliates terminates as a result of your voluntary termination
+prior to your attainment of age sixty (60) and accumulation of five (5) or more years of combined and continuous service with the Company, General Electric Company and any of their Affiliates, or termination for Cause, then the Stock Options,
+whether or not vested and exercisable as of the date of such termination, shall immediately expire upon such termination. For purposes of this Award Agreement, &#147;<U>Cause</U>&#148; shall mean (i) your willful and continued failure to
+substantially perform your duties with the Company and its Affiliates (other than any such failure resulting from your Disability); (ii) your willful engagement in conduct (other than conduct covered under clause (i) above) which is injurious to the
+Company and/or its Affiliates, monetarily or otherwise; or (iii) your violation of material Company or Affiliate policy, or your breach of noncompetition, confidentiality, or other restrictive covenant with respect to the Company or any of its
+Affiliates, that applies to you; <I>provided</I>, <I>however</I>, that for purposes of clauses (i) and (ii) of this definition, no act, or failure to act, on your part shall be deemed &#147;willful&#148; unless done, or omitted to be done, by you
+not in good faith and without reasonable belief that the act, or failure to act, was in the best interests of the Company and/or its Affiliates. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(iii)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Termination for Layoff</U></B><B>.</B> If your service with the Company and its Affiliates terminates as a result of a Layoff, then the Stock Options covered by the
+first installment of this Award Agreement shall immediately vest and become exercisable on the date of such termination if they are not already vested and exercisable, and any vested and unexercised Stock Options as of the date of such termination
+shall expire on the earlier of (i) one (1) year after the date of such termination of service or (ii) the expiration date; <I>provided</I>, <I>however</I>, that if you die before the earlier of such dates, then vested and unexercised Stock Options
+as of the date of such termination shall not expire until twenty-four (24) months after the date of your death; and <I>provided</I>, <I>further</I>, that in no event shall the Stock Options covered by the second or later installments of this Award
+Agreement vest and become exercisable if they were not vested and exercisable as of the date of such termination of service. For purposes of this Award Agreement, &#147;<U>Layoff</U>&#148; shall mean a job loss due to any reduction in the work force
+of indefinite duration. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(iv)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Termination Due to Other Reasons</U></B><B>.</B> If your service with the Company and its Affiliates terminates for any other reason, and you and the Company have not
+entered into a written agreement explicitly providing otherwise in accordance with rules and procedures adopted by the Committee, then any unvested Stock Options as of the date of such termination shall immediately expire upon such termination, and
+vested and unexercised Stock Options as of the date of such termination shall expire on the earlier of (i) three (3) months after the date of such termination of service or (ii) the expiration date; <I>provided</I>, <I>however</I>, that if you die
+before the earlier of such dates, then any vested and unexercised Stock Options as of the date of such termination shall not expire until twenty-four (24) months after the date of your death. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>3.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Change of Control</U></B><B>.</B> Notwithstanding anything herein to the contrary, unless otherwise specifically prohibited under applicable laws or by the rules and
+regulations of any governing governmental agencies or stock exchange on which the Shares are listed: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. </B>Upon the occurrence of a Change of Control in which the Successor Entity fails to Assume and Maintain this Award of Stock Options, the Stock
+Options shall fully vest and become exercisable as of the effective date of the Change of Control; an amount determined below shall be distributed or paid to you within thirty (30) days following the effective date of the Change of Control in cash,
+Shares, other securities, or any combination, as determined by the Committee; and the Stock Options shall thereafter terminate. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b. </B>If a Change of Control occurs and the Successor Entity Assumes and Maintains this Award of Stock Options, and if your service with the Company
+and its Affiliates is terminated by the Company or one of its Affiliates without Cause (other than such termination resulting from your death or Disability) or by you for Good Reason within twelve (12) months following the effective date of the
+Change of Control, then the Stock Options shall fully vest and become exercisable as of the date of such termination of service; an amount determined below shall be distributed or paid to you within thirty (30) days following the date of such
+termination of service in cash, Shares, other securities, or any combination, as determined by the Committee; and the Stock Options shall thereafter terminate. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">The amount distributed or paid to you pursuant to this paragraph 3 shall equal the excess of the Fair
+Market Value of one Share over the Stock Option exercise price, with such excess multiplied by the number of such Stock Options, as of (i) the effective date of the Change of Control in the case of subparagraph a. above or (ii) the date of such
+termination of service in the case of subparagraph b. above. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman"
+SIZE="2">For purposes of this Award Agreement, &#147;<U>Good Reason</U>&#148; shall mean any reduction in the aggregate value of your compensation (including base salary and bonus), or a substantial reduction in the aggregate value of benefits
+provided to you; <I>provided</I>, <I>however</I>, that Company-initiated across-the-board reductions in compensation or benefits affecting substantially all employees shall alone not be considered Good Reason. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Method of Exercise</U></B><B>. </B>You, or your representative upon your death, may exercise the vested portion Stock Options at any time prior to the expiration of
+such Stock Options. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. <U>How to
+Exercise</U>. </B>The Stock Options hereby granted shall be exercised by written notice to the Vice President-Compensation and Benefits, or by such other means as the Committee shall prescribe. At or before issuance by the Company of the Shares to
+you pursuant to exercise of the Stock Options, you shall either (i) make payment to the Company of an amount equal to the exercise price of such Shares in United States dollars, or the equivalent thereof acceptable to the Company, or (ii) subject to
+the approval of the Committee, you may be permitted to exercise pursuant to a broker-assisted &#147;cashless exercise&#148; procedure, as permitted under the Federal Reserve Board&#146;s Regulation T, subject to securities law restrictions, or (iii)
+by any other means which the Committee, in its sole discretion, determines to be consistent with the Plan&#146;s purpose and applicable law. Under a &#147;cashless exercise,&#148; you would receive the net number of Shares after taking into account
+both the exercise price and any required tax withholding. No fractional Shares shall be issued or delivered. Fractional Shares shall be paid out in cash. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b. <U>Who Can Exercise</U>. </B>Except as provided in the Plan, during your lifetime, the Stock Options shall be exercisable only by you. No assignment
+or transfer of the Stock Options, whether voluntary or involuntary, by operation of law or otherwise, except by will or the laws of descent and distribution or as otherwise required by applicable law, shall vest in the assignee or transferee any
+interest whatsoever. Upon your death, your estate (or the beneficiary that receives the Stock Options under your will) may exercise the vested Stock Options. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c. <U>Tax Withholding</U>.</B> The Company shall have the power and the right to deduct or withhold, or require you or your beneficiary to remit to
+the Company, an amount sufficient to satisfy federal, state, and local taxes, domestic or foreign, required by law or regulation to be withheld with respect to any taxable event arising as a result of this Award Agreement. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>d. <U>Share Withholding</U>.</B> With respect to withholding required
+upon any taxable event arising as a result of the Stock Options granted hereunder, you may elect, subject to the approval of the Committee, to satisfy the withholding requirement, in whole or in part, by having the Company withhold Shares having a
+Fair Market Value on the date the tax is to be determined equal to the minimum statutory total tax which could be withheld on the transaction. All such elections shall be irrevocable, made in writing, signed, and shall be subject to any restrictions
+or limitations that the Committee, in its sole discretion, deems appropriate. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Nontransferability</U></B><B>.</B> The Stock Options awarded pursuant to this Award Agreement may not be sold, transferred, pledged, assigned, or otherwise alienated or
+hypothecated (&#147;<U>Transfer</U>&#148;), other than by will or by the laws of descent and distribution, except as provided in the Plan. If any prohibited Transfer, whether voluntary or involuntary, of the Stock Options is attempted to be made, or
+if any attachment, execution, garnishment, or lien shall be attempted to be issued against or placed upon the Stock Options, your right to such Stock Options shall be immediately forfeited to the Company, and this Award Agreement shall be null and
+void. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Requirements of Law</U></B><B>. </B>The granting of the Stock Options and the issuance of Shares under the Plan shall be subject to all applicable laws, rules and
+regulations, and to such approvals by any governmental agencies or national securities exchanges as may be required. The Stock Options shall be null and void to the extent the grant of the Stock Options or exercise thereof is prohibited under the
+laws of the country of your residence. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Administration</U></B><B>.</B> This Award Agreement and your rights hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from
+time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or
+appropriate to the administration of the Plan and this Award Agreement, all of which shall be binding upon you, the Participant. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Continuation of Employment</U></B><B>.</B> This Award Agreement shall not confer upon you any right to continuation of employment by the Company or any of its
+Affiliates, nor shall this Award Agreement interfere in any way with the Company&#146;s or any of its Affiliate&#146;s right to terminate your employment at any time. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>9.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Plan; Prospectus and Related Documents</U></B><B>. <U></U></B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. </B>A copy of the Plan will be furnished upon written or oral request made to the Human Resources Department, Genworth Financial, Inc., 6620 W.
+Broad Street, Richmond, VA 23230, or telephone (804) 281-6000. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman"
+SIZE="2"><B>b. </B>As required by applicable securities laws, the Company is delivering to you a prospectus in connection with this Award, which delivery is being made electronically. You can access the prospectus on the Company&#146;s intranet via
+the following web address: <U>http://welcometo.genworth.net/PlanProspectus</U>. The prospectus includes the Company&#146;s prospectus, filed on May 25, 2004, pursuant to Rule 424(b) under the Securities Act of 1933, as amended, which can also be
+accessed at the foregoing web address. A paper copy of the prospectus may also be obtained without charge by contacting the Human Resources Department at the address or telephone number listed above. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c. </B>You are hereby notified that in the future the Company will
+deliver to you electronically a copy of the Company&#146;s Annual Report to Stockholders for each fiscal year, as well as copies of all other reports, proxy statements and other communications distributed to the Company&#146;s stockholders. Each of
+the documents referenced in this subparagraph c. may be accessed by going to the Company&#146;s website at <U>www.genworth.com</U> and clicking on &#147;Investor Info&#148; and then &#147;SEC Filings&#148; (or, if the Company changes its web site,
+by accessing such other web site address(es) containing investor information to which the Company may direct you in the future) and will be deemed delivered to you upon posting or filing by the Company. Upon written or oral request, paper copies of
+these documents (other than certain exhibits) may also be obtained by contacting the Company&#146;s Human Resources Department at the address or </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">telephone number listed above or by contacting the Investor Relations Department, Genworth Financial,
+Inc., 6620 W. Broad Street, Richmond, VA 23230, or telephone (804) 281-6000. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>10.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Amendment, Modification, Suspension, and Termination</U></B><B>.</B> The Board of Directors shall have the right at any time in its sole discretion, subject to certain
+restrictions, to alter, amend, modify, suspend, or terminate the Plan in whole or in part, and the Committee shall have the right at any time in its sole discretion to alter, amend, modify, suspend or terminate the terms and conditions of any Award;
+<I>provided</I>, <I>however</I>, that no such action shall adversely affect in any material way your Award without your written consent. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>11.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Applicable Law</U></B><B>.</B> The validity, construction, interpretation, and enforceability of this Award Agreement shall be determined and governed by the laws of
+the State of Delaware without giving effect to the principles of conflicts of law. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>12.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Entire Agreement</U></B><B>.</B> This Award Agreement, the Plan, and the rules and procedures adopted by the Committee contain all of the provisions applicable to the
+Stock Options and no other statements, documents or practices may modify, waive or alter such provisions unless expressly set forth in writing, signed by an authorized officer of the Company and delivered to you. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>13.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Agreement to Participate</U></B><B>.</B> If you do not wish to participate in the Plan and be subject to the provisions of this Award Agreement, please contact the
+Human Resources Department, Genworth Financial, Inc., 6620 W. Broad Street, Richmond, VA 23230, or at (804) 281-6000, within thirty (30) days of receipt of this Award Agreement. If you do not respond within thirty (30) days of receipt of this Award
+Agreement, the Award Agreement is deemed accepted. If you choose to participate in the Plan, you agree to abide by all of the governing terms and provisions of the Plan and this Award Agreement. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">Additionally, by agreeing to participate, you acknowledge that you have
+reviewed the Plan and this Award Agreement, and you fully understand all of your rights under the Plan and this Award Agreement, the Company&#146;s remedies if you violate the terms of this Award Agreement, and all of the terms and conditions which
+may limit your eligibility to retain and receive the Stock Options and/or Shares issued pursuant to the Plan and this Award Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Please refer any questions you may have regarding your Stock Options grant to your local Human Resources Manager. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>This document constitutes part of a prospectus covering securities that
+have been registered </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>under the Securities Act of 1933. </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">6 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.56.4
+<SEQUENCE>5
+<FILENAME>dex10564.htm
+<DESCRIPTION>FORM OF STOCK APPRECIATION RIGHTS
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form of Stock Appreciation Rights</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.56.4 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>2004 Genworth Financial, Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Omnibus Incentive Plan </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Stock Appreciation Rights Award Agreement </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I><U>U.S. Award Agreement</U> </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dear [SAR Grantee]: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Congratulations on your selection as a Participant in the 2004 Genworth Financial, Inc. Omnibus Incentive Plan (the &#147;<U>Plan</U>&#148;). This Award Agreement and the Plan together govern your rights under this
+Award and set forth all of the conditions and limitations affecting such rights. Unless the context otherwise requires, capitalized terms used in this Award Agreement shall have the meanings ascribed to them in the Plan. If there is any
+inconsistency between the terms of this Award Agreement and the terms of the Plan, the Plan&#146;s terms shall supersede and replace the conflicting terms of this Award Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>1.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Grant</U></B><B>.</B> You are hereby granted Stock Appreciation Rights (&#147;<U>SARs</U>&#148;). Each SAR entitles you to receive from the Company an amount equal to
+the difference between the SAR exercise price and the Fair Market Value of one Share on the date the SAR is exercised. Further, the amount of such difference, multiplied by the number of SARs exercised, shall be payable and delivered in Shares, all
+in accordance with the terms and conditions of this Award Agreement, the Plan, and any rules and procedures adopted by the Committee. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. <U>Grant Date</U>.</B> [Grant Date.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b. <U>Number of SARs</U>.</B> [Number of SARs.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c. <U>SAR Exercise Price</U>.</B> [Exercise Price.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>d. <U>Vesting Dates</U>. </B>The SARs shall not provide you with any rights or interests therein until the SARs vest and become exercisable. [Vesting
+Dates.] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>e. <U>Expiration Date</U>.</B> [Expiration Date.]
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>2.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Vesting, Exercisability and Expiration Date</U></B><B>.</B> The SARs shall vest and become exercisable only on and after the vesting dates, and shall expire on the
+expiration date, except as follows: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a.
+<U>Employment Termination Due to Death</U>.</B> If your service with the Company and its Affiliates terminates as a result of your death, then any unvested SARs as of the date of your death shall immediately vest and become exercisable upon such
+death, and any unexercised SARs shall expire on the later of (i) the expiration date or (ii) twenty-four (24) months after the date of your death. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b. <U>Employment Termination Due to Transfer of Business to Successor Employer</U>.</B> If your service with the Company and its Affiliates terminates
+as a result of employment by a successor employer to which the Company has transferred a business operation, then any unvested SARs shall continue to vest and become exercisable in accordance with the vesting dates, and any vested and unexercised
+SARs shall expire on the earlier of (i) five (5) years after the date of such termination of service or (ii) the expiration date; <I>provided</I>, <I>however</I>, that if you die less than twenty-four (24) months </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">before the earlier of such dates, then any unvested SARs as of the date of your death shall immediately
+vest and become exercisable upon such death, and any unexercised SARs shall not expire until twenty-four (24) months after the date of your death. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c. <U>Employment Termination Less Than One Year After Grant Date</U>.</B> If your service with the Company and its Affiliates terminates for any reason
+other than death or due to the transfer of a business operation of the Company to a successor employer before the first anniversary of the grant date, then the SARs shall immediately expire upon such termination. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>d. <U>Employment Termination More Than One Year After Grant Date</U>.</B>
+If, on or after the first anniversary of the grant date, your service with the Company and its Affiliates terminates as a result of any of the reasons set forth below, each as defined below or determined in accordance with rules adopted by the
+Committee, then the vesting dates and expiration date shall be automatically adjusted as provided below: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(i)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Termination for Retirement or Total Disability</U></B><B>.</B> If (a) your service with the Company and its Affiliates terminates as a result of your voluntary
+resignation on or after you have attained age sixty (60) and accumulated five (5) or more years of combined and continuous service with the Company, General Electric Company and any of their Affiliates, or (b) your service with the Company and its
+Affiliates terminates as a result of your Disability, then any unvested SARs as of the date of such termination shall immediately vest and become exercisable upon such termination, and any unexercised SARs shall expire on the expiration date;
+<I>provided</I>, <I>however</I>, that if you die less than twenty-four (24) months before the expiration date, then any unexercised SARs shall not expire until twenty-four (24) months after the date of your death. For purposes of this Award
+Agreement, &#147;<U>Disability</U>&#148; shall mean a permanent disability that would make you eligible for benefits under the long-term disability program maintained by the Company or any of its Affiliates (without regard to any time period during
+which the disabling condition must exist) or in the absence of any such program, such meaning as the Committee shall determine. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(ii)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Voluntary Termination or Termination for Cause</U></B><B>.</B> If your service with the Company and its Affiliates terminates as a result of your voluntary termination
+prior to your attainment of age sixty (60) and accumulation of five (5) or more years of combined and continuous service with the Company, General Electric Company and any of their Affiliates, or termination for Cause, then the SARs, whether or not
+vested and exercisable as of the date of such termination, shall immediately expire upon such termination. For purposes of this Award Agreement, &#147;<U>Cause</U>&#148; shall mean (i) your willful and continued failure to substantially perform your
+duties with the Company and its Affiliates (other than any such failure resulting from your Disability; (ii) your willful engagement in conduct (other than conduct covered under clause (i) above) which is injurious to the Company and/or its
+Affiliates, monetarily or otherwise; or (iii) your violation of material Company or Affiliate policy, or your breach of noncompetition, confidentiality, or other restrictive covenant with respect to the Company or any of its Affiliates, that applies
+to you; <I>provided</I>, <I>however</I>, that for purposes of clauses (i) and (ii) of this definition, no act, or failure to act, on your part shall be deemed &#147;willful&#148; unless done, or omitted to be done, by you not in good faith and
+without reasonable belief that the act, or failure to act, was in the best interests of the Company and/or its Affiliates. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(iii)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Termination for Layoff</U></B><B>.</B> If your service with the Company and its Affiliates terminates as a result of a Layoff, then any unvested SARs as of the date of
+such termination shall immediately expire upon such termination, and any vested and unexercised SARs as of the date of such termination shall expire on the earlier of (i) one (1) year after the date of such termination of service or (ii) the
+expiration date; <I>provided</I>, <I>however</I>, that if you die before the earlier of such dates, then the vested and unexercised SARs as of the date of such termination shall not expire until twenty-four (24) months after the date of your death.
+For purposes of this Award Agreement, &#147;<U>Layoff</U>&#148; shall mean a job loss due to any reduction in the work force of indefinite duration. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(iv)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Termination Due to Other Reasons</U></B><B>.</B> If your service with the Company and its Affiliates terminates for any other reason, and you and the Company have not
+entered into a written agreement explicitly providing otherwise in accordance with rules and procedures adopted by the Committee, then any unvested SARs as of the date of such termination shall immediately expire upon such termination, and any
+vested and unexercised SARs as of the date of such termination shall expire on the earlier of (i) three (3) months after the date of such termination of service or (ii) the expiration date; <I>provided</I>, <I>however</I>, that if you die before the
+earlier of such dates, then any vested and unexercised SARs as of the date of such termination shall not expire until twenty-four (24) months after the date of your death. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>3.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Change of Control</U></B><B>.</B> Notwithstanding anything herein to the contrary, unless otherwise specifically prohibited under applicable laws or by the rules and
+regulations of any governing governmental agencies or stock exchange on which the Shares are listed: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. </B>Upon the occurrence of a Change of Control in which the Successor Entity fails to Assume and Maintain this Award of SARs, the SARs shall fully
+vest and become exercisable as of the effective date of the Change of Control; an amount determined below shall be distributed or paid to you within thirty (30) days following the effective date of the Change of Control in cash, Shares, other
+securities, or any combination, as determined by the Committee; and the SARs shall thereafter terminate. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b. </B>If a Change of Control occurs and the Successor Entity Assumes and Maintains this Award of SARs, and if your service with the Company and its
+Affiliates is terminated by the Company or one of its Affiliates without Cause (other than such termination resulting from your death or Disability) or by you for Good Reason within twelve (12) months following the effective date of the Change of
+Control, then the SARs shall fully vest and become exercisable as of the date of such termination of service; an amount determined below shall be distributed or paid to you within thirty (30) days following the date of such termination of service in
+cash, Shares, other securities, or any combination, as determined by the Committee; and the SARs shall thereafter terminate. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">The amount to be distributed or paid to you pursuant to this paragraph 3 shall be equal to the excess of the Fair Market Value of one Share over the SAR
+exercise price, with such excess multiplied by the number of such SARs, as of (i) the effective date of the Change of Control in the case of subparagraph a. above or (ii) the date of such termination of service in the case of subparagraph b. above.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">For purposes of this Award Agreement, &#147;<U>Good
+Reason</U>&#148; shall mean any reduction in the aggregate value of your compensation (including base salary and bonus), or a substantial reduction in the aggregate value of benefits provided to you; <I>provided</I>, <I>however</I>, that
+Company-initiated across-the-board reductions in compensation or benefits affecting substantially all employees shall alone not be considered Good Reason. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>4.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Method of Exercise</U></B><B>. </B>You, or your representative upon your death, may exercise the vested SARs at any time prior to the expiration of such SARs.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. <U>How to Exercise</U>. </B>The SARs
+hereby granted shall be exercised by written notice to the Vice President-Compensation and Benefits, specifying the number of SARs you then desire to exercise and how any applicable tax withholding will be satisfied, or by such other means as the
+Committee shall prescribe. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">As soon as practicable after
+receipt of such written notification, the Company shall issue or transfer to you, the number of Shares with respect to which such SARs shall be so exercised. Upon receipt of applicable withholding taxes, the Company shall deliver to you a
+certificate or certificates, or evidence of book entry Shares. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman"
+SIZE="2">No fractional Shares shall be issued or delivered. Fractional Shares shall be paid out in cash. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>b. <U>Who Can Exercise</U>. </B>Except as provided in the Plan, during your lifetime, the SARs shall be exercisable only by you. No assignment or
+transfer of the SARs, whether voluntary or involuntary, by operation of law or otherwise, except by will or the laws of descent and distribution or as otherwise required by applicable law, shall vest in the assignee or transferee any interest
+whatsoever. Upon your death, your estate (or the beneficiary that receives the SARs under your will) may exercise the vested SARs. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c. <U>Tax Withholding</U>.</B> The Company shall have the power and the right to deduct or withhold, or require you or your beneficiary to remit to the
+Company, an amount sufficient to satisfy federal, state, and local taxes, domestic or foreign, required by law or regulation to be withheld with respect to any taxable event arising as a result of this Award Agreement. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>d. <U>Share Withholding</U>.</B> With respect to withholding required
+upon any taxable event arising as a result of the SARs granted hereunder, you may elect, subject to the approval of the Committee, to satisfy the withholding requirement, in whole or in part, by having the Company withhold Shares having a Fair
+Market Value on the date the tax is to be determined equal to the minimum statutory total tax which could be withheld on the transaction. All such elections shall be irrevocable, made in writing, signed, and shall be subject to any restrictions or
+limitations that the Committee, in its sole discretion, deems appropriate. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>5.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Nontransferability</U></B><B>.</B> The SARs awarded pursuant to this Award Agreement may not be sold, transferred, pledged, assigned, or otherwise alienated or
+hypothecated (&#147;<U>Transfer</U>&#148;), other than by will or by the laws of descent and distribution, except as provided in the Plan. If any prohibited Transfer, whether voluntary or involuntary, of the SARs is attempted to be made, or if any
+attachment, execution, garnishment, or lien shall be attempted to be issued against or placed upon the SARs, your right to such SARs shall be immediately forfeited to the Company, and this Award Agreement shall be null and void.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>6.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Requirements of Law</U></B><B>. </B>The granting of the SARs and the issuance of Shares under the Plan shall be subject to all applicable laws, rules and regulations,
+and to such approvals by any governmental agencies or national securities exchanges as may be required. The SARs shall be null and void to the extent the grant of the SARs or exercise thereof is prohibited under the laws of the country of your
+residence. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>7.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Administration</U></B><B>.</B> This Award Agreement and your rights hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from
+time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or
+appropriate to the administration of the Plan and this Award Agreement, all of which shall be binding upon you, the Participant. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>8.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Continuation of Employment</U></B><B>.</B> This Award Agreement shall not confer upon you any right to continuation of employment by the Company or any of its
+Affiliates, nor shall this Award Agreement interfere in any way with the Company&#146;s or any of its Affiliate&#146;s right to terminate your employment at any time. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>9.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B><U>Plan; Prospectus and Related Documents.</U></B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>a. </B>A copy of the Plan will be furnished upon written or oral request made to the Human Resources Department, Genworth Financial, Inc., 6620 W.
+Broad Street, Richmond, VA 23230, or telephone (804) 281-6000. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman"
+SIZE="2"><B>b. </B>As required by applicable securities laws, the Company is delivering to you a prospectus in connection with this Award, which delivery is being made electronically. You can access the prospectus on the Company&#146;s intranet via
+the following web address: <U>http://welcometo.genworth.net/PlanProspectus</U>. The prospectus includes the Company&#146;s prospectus, filed on May 25, 2004, pursuant to Rule 424(b) under the Securities Act of 1933, as amended, which can also be
+accessed at the foregoing web address. A paper copy of the prospectus may also be obtained without charge by contacting the Human Resources Department at the address or telephone number listed above. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2"><B>c. </B>You are hereby notified that in the future the Company will
+deliver to you electronically a copy of the Company&#146;s Annual Report to Stockholders for each fiscal year, as well as copies of all other reports, proxy statements and other communications distributed to the Company&#146;s stockholders. Each of
+the documents referenced in this subparagraph c. may be accessed by going to the Company&#146;s website at <U>www.genworth.com</U> and clicking on &#147;Investor Info&#148; and then &#147;SEC Filings&#148; (or, if the Company changes its web site,
+by accessing such other web site address(es) containing investor information to which the Company may direct you in the future) and will be deemed delivered to you upon posting or filing by the Company. Upon written or oral request, paper copies of
+these documents (other than certain exhibits) may also be obtained by contacting the Company&#146;s Human Resources Department at the address or telephone number listed above or by contacting the Investor Relations Department, Genworth Financial,
+Inc., 6620 W. Broad Street, Richmond, VA 23230, or telephone (804) 281-6000. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>10.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Amendment, Modification, Suspension, and Termination</U></B>. The Board of Directors shall have the right at any time in its sole discretion, subject to certain
+restrictions, to alter, amend, modify, suspend, or terminate the Plan in whole or in part, and the Committee shall have the right at any time in its sole discretion to alter, amend, modify, suspend or terminate the terms and conditions of any Award;
+<I>provided</I>, <I>however</I>, that no such action shall adversely affect in any material way your Award without your written consent. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>11.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Applicable Law</U></B><B>.</B> The validity, construction, interpretation, and enforceability of this Award Agreement shall be determined and governed by the laws of
+the State of Delaware without giving effect to the principles of conflicts of law. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>12.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Entire Agreement</U></B><B>.</B> This Award Agreement, the Plan, and the rules and procedures adopted by the Committee contain all of the provisions applicable to the
+SARs and no other statements, documents or practices may modify, waive or alter such provisions unless expressly set forth in writing, signed by an authorized officer of the Company and delivered to you. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>13.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B></B><B><U>Agreement to Participate</U></B><B>.</B> If you do not wish to participate in the Plan and be subject to the provisions of this Award Agreement, please contact the
+Human Resources Department, Genworth Financial, Inc., 6620 W. Broad Street, Richmond, VA 23230, or at (804) 281-6000, within thirty (30) days of receipt of this Award Agreement. If you do not respond within thirty (30) days of receipt of this Award
+Agreement, the Award Agreement is deemed accepted. If you choose to participate in the Plan, you agree to abide by all of the governing terms and provisions of the Plan and this Award Agreement. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:4%"><FONT FACE="Times New Roman" SIZE="2">Additionally, by agreeing to participate, you acknowledge that you have
+reviewed the Plan and this Award Agreement, and you fully understand all of your rights under the Plan and this Award Agreement, the Company&#146;s remedies if you violate the terms of this Award Agreement, and all of the terms and conditions which
+may limit your eligibility to retain and receive the SARs and/or Shares issued pursuant to the Plan and this Award Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Please refer any questions you may have regarding your SAR grant to your local Human Resources Manager. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>This document constitutes part of a prospectus covering securities that have been registered under the Securities Act
+of 1933. </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">6 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

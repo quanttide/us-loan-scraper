@@ -1,0 +1,201 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IM8ZHNHBcitoO3UGIHZvYEVjU6dTJrhf3oi/tWEi6n9AMBgb61BC1nk58iD+JuaN
+ FghbPI3eSVVuQkeJNjz5UQ==
+
+<SEC-DOCUMENT>0000914317-04-004514.txt : 20041222
+<SEC-HEADER>0000914317-04-004514.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222142501
+ACCESSION NUMBER:		0000914317-04-004514
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EAST PENN FINANCIAL CORP
+		CENTRAL INDEX KEY:			0001220483
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50330
+		FILM NUMBER:		041220307
+
+	MAIL ADDRESS:	
+		STREET 1:		731 CHESTNUT STREET
+		CITY:			EMMAUS
+		STATE:			PA
+		ZIP:			18049
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k-64582_eastpenn.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+</HEAD>
+
+<BODY><P align=center><FONT size=2>UNITED STATES </FONT><BR><FONT size=2>SECURITIES AND EXCHANGE COMMISSION </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Default" -->
+<P align=center><FONT size=2>Washington, D.C. 20549 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Center Rule" FSL="Default" -->
+<P align=center>_________________ </P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H4 align=center>FORM 8-K </H4>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H4 align=center>CURRENT REPORT </H4>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Project" -->
+<H1 align=center><FONT size=2>Pursuant to Section 13 or 15(d) </FONT><BR>
+<FONT size=2>of the Securities Exchange Act of 1934 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Center Rule" FSL="Default" -->
+<P align=center>_________________ </P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+<P align=center><FONT size=2>Date of Report (Date of earliest event reported): <B>December 15, 2004</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Project" -->
+<P align=center><FONT size=4><B>East Penn Financial Corporation</B></FONT><BR><FONT size=2>(Exact name of registrant as specified in its charter) </FONT></P>
+
+<TABLE cellSpacing=0 cellPadding=0 width="80%" align=center>
+<TR vAlign=bottom>
+<TH align=center></TH>
+<TH align=center></TH>
+<TH align=center></TH></TR>
+<TR vAlign=top>
+<TD align=center width="40%"><FONT face="Times New Roman, Times, Serif" size=2><U><B>Pennsylvania</B></U><BR>(State or other jurisdiction <BR>of incorporation) </FONT></TD>
+<TD align=center width="20%"><FONT face="Times New Roman, Times, Serif" size=2><U><B>0-50330 </B></U><BR>(Commission <BR>File Number) </FONT></TD>
+<TD align=center width="40%"><FONT face="Times New Roman, Times, Serif" size=2><U><B>65-1172823 </B></U><BR>(IRS Employer <BR>Identification No.) </FONT></TD></TR>
+</TABLE>
+
+<BR>
+<TABLE WIDTH="60%" CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER">
+<TR VALIGN="BOTTOM">
+     <TH ALIGN="CENTER"></TH>
+     <TH ALIGN="CENTER"></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="55%" ALIGN="CENTER"> <FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>731 Chestnut Street, Emmaus, PA </B></U><BR>
+(Address of principal executive offices) </FONT>
+</TD>
+     <TD WIDTH="45%" ALIGN="CENTER"> <FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>18049 </B></U><BR>
+(Zip Code) </FONT>
+</TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=2><I>Registrant&#146;s telephone number, including area code: <B></B></I><B><U>610-965-5959</U></B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<I>see</I> General Instruction A.2. below): </FONT></P>
+
+
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="WINGDINGS" SIZE="2">&#168;</FONT>&nbsp;&nbsp;<FONT face="Times New Roman, Times, Serif" size=2>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></P>
+
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="WINGDINGS" SIZE="2">&#168;</FONT>&nbsp;&nbsp;<FONT face="Times New Roman, Times, Serif" size=2>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></P>
+
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="WINGDINGS" SIZE="2">&#168;</FONT>&nbsp;&nbsp;<FONT face="Times New Roman, Times, Serif" size=2>Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></P>
+
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="WINGDINGS" SIZE="2">&#168;</FONT>&nbsp;&nbsp;<FONT face="Times New Roman, Times, Serif" size=2>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P>
+
+
+
+
+
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=2></FONT></P><HR SIZE=5 COLOR=GRAY STYLE="page-break-after:always">
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Project" -->
+<H1 align=center><FONT size=2>East Penn Financial Corporation </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P align=center><FONT size=2>CURRENT REPORT ON FORM 8-K </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P align=left><FONT size=2>Item 8.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other Events </FONT></P>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR vAlign=top>
+<TD width="7%">&nbsp;</TD>
+<TD width="93%"><FONT face="Times New Roman, Times, Serif" size=2>On December 15, 2004, the Stock Option Administration
+Committee of the Board of Directors of East Penn Financial Corporation approved the granting of a total of 30,000 options to employees
+ under the 1999 Stock Incentive Plan. The options are expected to be granted on or about December 29, 2004. </FONT></TD></TR>
+</TABLE>
+
+
+
+
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=2></FONT></P><HR SIZE=5 COLOR=GRAY STYLE="page-break-after:always">
+
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Sub 3 Left-TNR" FSL="Project" -->
+<P align=center><FONT size=2><I>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</I><B>SIGNATURE</B></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+
+<P><FONT size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR vAlign=bottom>
+<TH></TH>
+<TH></TH></TR>
+<TR vAlign=top>
+<TD width="60%"><FONT size=2><BR><BR><BR><BR><BR>Date: <B>December 22, 2004</B><BR><BR><BR></FONT></TD>
+<TD width="40%"><FONT size=2><B>East Penn Financial Corporation </B><BR><BR><BR><BR><BR>BY: <U>/s/ Theresa M. Wasko </U><BR><BR>Name:&nbsp;&nbsp; Theresa M. Wasko <BR>Title:&nbsp;&nbsp;&nbsp;&nbsp; Treasurer &amp; Chief Financial Officer </FONT></TD></TR>
+</TABLE>
+
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=2></FONT></P><HR SIZE=5 COLOR=GRAY>
+
+
+
+
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

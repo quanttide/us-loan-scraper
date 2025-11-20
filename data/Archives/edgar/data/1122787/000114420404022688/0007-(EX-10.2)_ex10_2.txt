@@ -1,0 +1,367 @@
+
+                                                                    Exhibit 10.2
+
+                     LOAN MODIFICATION AND CONSENT AGREEMENT
+
+         This Loan Modification and Consent Agreement is entered into as of
+December __, 2004 by and among Roxio, Inc. ("Roxio") whose address is 9044
+Melrose Avenue, Los Angeles, California, 90069, Napster, LLC ("Napster", and
+together with Roxio, "Borrower") whose address is 9044 Melrose Avenue, Los
+Angeles, California 90069, and Silicon Valley Bank ("Bank") whose address is
+3003 Tasman Drive, Santa Clara, California 95054.
+
+A. Among other indebtedness which may be owing by Borrower to Bank, Borrower is
+indebted to Bank pursuant to, among other documents, a Loan and Security
+Agreement, dated March 25, 2004, (as may be amended from time to time, the "Loan
+Agreement"). The Loan Agreement provides for, among other things, a revolving
+line of credit in the original principal amount of Fifteen Million Dollars
+($15,000,000) and subsequently increased to Seventeen Million Dollars
+($17,000,000) (the "Revolving Facility").
+
+B. Repayment of the Indebtedness is secured by the Collateral as described in
+the Loan Agreement and the Intellectual Property Security Agreement.
+Additionally, repayment of the Indebtedness was guaranteed by Napster pursuant
+to an Unconditional Guaranty dated March 25, 2004 (the "Guaranty") and the
+obligations under the Guaranty were secured by an Intellectual Property Security
+Agreement (the "Napster Intellectual Property Security Agreement") dated March
+25, 2004 between Bank and Napster.
+
+C. Borrowers have requested that Bank (i) extend the maturity date of the
+Revolving Facility to December 15, 2006, (ii) add Napster, LLC as a co-Borrower
+under the Loan Agreement, (iii) consent to the sale of assets by Roxio to Sonic
+Solutions pursuant to that certain Asset Purchase Agreement to be entered into
+between Roxio and Sonic Solutions (which Asset Purchase Agreement, in the form
+provided to Bank as of the date hereof is hereinafter referred to as the
+"Purchase Agreement"), (iv) release Bank's security interest in all assets being
+sold by Roxio to Sonic Solutions pursuant to the Purchase Agreement, and (v)
+make such other changes to the Loan Agreement all as more fully set forth
+herein,
+
+D. Defined terms used but not otherwise defined herein shall have the same
+meanings as in the Loan Agreement. Hereinafter, (i) all indebtedness owing by
+Borrower to Bank shall be referred to as the "Indebtedness", (ii) the
+above-described security documents and guaranties, together with all other
+documents securing repayment of the Indebtedness shall be referred to
+hereinafter as the "Security Documents" and (iii) the Security Documents,
+together with all other documents evidencing or securing the Indebtedness shall
+be referred to as the "Existing Loan Documents".
+
+1. DESCRIPTION OF CHANGE IN TERMS.
+
+         A. From and after the date hereof, Section 6.2(b) and (c) of the Loan
+Agreement are hereby amended and restated in their entirety as follows:
+
+
+         (b) Borrower will deliver to Bank aged listings of accounts receivable
+and accounts payable, which aged listings of accounts receivable and accounts
+payable shall be due to Bank (a) within thirty (30) days after the last day of
+each month if all Borrower's aggregate unrestricted cash is $40,000,000 or less,
+or (b) within thirty (30) days after the last day of each calendar quarter if
+all Borrowers' aggregate unrestricted cash exceeds $40,000,000.
+
+
+         (c) Borrower will deliver to Bank a Compliance Certificate signed by a
+Responsible Officer in the form of Exhibit C; which Compliance Certificate shall
+be due to Bank (a) within thirty (30) days after the last day of each month if
+all Borrowers' aggregate unrestricted cash is $40,000,000 or less, or (b) within
+thirty (30) days after the last day of each calendar quarter if all Borrowers'
+unrestricted cash exceeds $40,000,000.
+
+
+
+
+<PAGE>
+
+         B. From and after the date hereof, the Section 6.7 of the Loan
+Agreement is hereby amended and restated in its entirety as follows:
+
+         6.7 FINANCIAL COVENANTS. Borrower will maintain as of the last day of
+each month (provided, however that the covenants set forth below shall be
+measured on the last day of each calendar quarter at all times that Borrower's
+unrestricted cash exceeds $40,000,000):
+
+         (a) TANGIBLE NET WORTH. An Aggregate Tangible Net Worth of at least
+$45,000,000.
+
+         (b) LIQUIDITY COVERAGE. A ratio of unrestricted cash, cash equivalents
+and short-term and long-term marketable securities, plus ten percent (10%) of
+Net Accounts Receivable divided by the aggregate Obligations of not less than
+2.00 to 1.00.
+
+         C. From and after the date hereof, the following definition set forth
+in Section 13.1 (Definitions) of the Loan Agreement is hereby amended and
+restated in its entirety as follows:
+
+             "REVOLVING MATURITY DATE" is December 15, 2006.
+
+2. PAYMENT OF LOAN FEE. Borrower shall pay to Bank a fully earned, nonrefundable
+loan restructuring fee in the amount of Twenty Thousand Dollars ($20,000) (the
+"Loan Fee") plus all out-of-pocket expenses, including, but not limited to fees
+and expenses of Bank's counsel.
+
+3. WAIVER REGARDING FILING OF TAX RETURN. Borrower has notified Bank that
+Borrower will not be able to timely file its Federal tax return due December 31,
+2004 (the "Applicable Tax Return") and has requested that Bank waive the
+requirement. Notwithstanding anything to contrary contained in the Loan
+Documents, Bank hereby waives the requirement that Borrower timely files the
+Applicable Tax Return; provided, however that Borrower hereby agrees to file the
+Applicable Tax Return on or before January 31, 2005. Bank's agreement to waive
+the requirement of the timely filing of the Applicable Tax Return pursuant to
+this Agreement shall in no way obligate Bank to make any future modifications to
+the Loan Agreement or to waive Borrower's compliance with any other terms of the
+Loan Documents, and shall not limit or impair Bank's right to demand strict
+performance of all other terms and covenants as of any date.
+
+4. CONSENT TO SALE OF ASSETS. Subject to the terms and conditions contained
+herein, Bank hereby consents to the sale of the Acquired Assets by Roxio, Inc to
+Sonic Solutions pursuant to the Purchase Agreement.
+
+5. RELEASE OF SECURITY INTEREST IN ASSETS TO BE SOLD. Subject to the terms and
+conditions contained herein, Bank hereby consents to the release of its security
+interests in the Acquired Assets being sold by Roxio to Sonic Solutions pursuant
+to the Purchase Agreement.
+
+6. Compliance Certificate. From and after the effective date hereof, Exhibit C
+(Compliance Certificate) of the Loan Agreement shall be deleted in its entirety
+and replace with Exhibit C attached hereto.
+
+7. CONSISTENT CHANGES. The Existing Loan Documents are hereby amended wherever
+necessary to reflect the changes described above.
+
+8. NO DEFENSES OF BORROWER. Borrower (and each guarantor and pledgor signing
+below) agrees that, as of the date hereof, it has no defenses against the
+obligations to pay any amounts under the Indebtedness. The Borrower acknowledges
+and warrants that Bank has acted in good faith and has conducted in a
+commercially reasonable manner its relationships with Borrower in connection
+with this Agreement and in connection with the Loan Documents, including the
+Loan Agreement and the Indebtedness, the Borrower hereby waives and releases any
+claims to the contrary.
+
+9. WAIVER AND RELEASE OF CLAIMS.
+
+                                       2
+<PAGE>
+
+         (a) Borrower ("Releasing Party") hereby releases, acquits, and
+discharges Bank and Bank's employees, agents, representative, consultants,
+attorneys, fiduciaries, servants, officers, directors, partners, predecessors,
+successors and assigns, subsidiary corporations, parent corporations, and
+related corporate divisions (all of the foregoing hereinafter called the
+"Released Parties"), from all actions and causes of action, judgments,
+executions, suits, debts, claims, demands, liabilities, obligations, damages,
+and expenses of any and every character, known or unknown, direct and/or
+indirect, at law or in equity, of whatsoever kind or nature, whether heretofore
+or hereafter arising, for or because of any matter or things done, omitted or
+suffered to be done by any of the Released Parties prior to and including the
+date of execution hereof, and in any way directly or indirectly arising out of
+or in any way connect to this Agreement and the Existing Loan Documents,
+including, but not limited to, claims relating to any settlement negotiation
+(all of the foregoing hereinafter called the "Released Matters"). Each Releasing
+Party acknowledges that the agreements in this section are intended to be in
+full satisfaction of all or any alleged injuries or damages arising in
+connection with the Released Matters.
+
+         (b) Releasing Party acknowledges that it has not relied, in executing
+the release set forth in this section, upon any representations, warranties, or
+conditions by Bank or any other entity except as are specifically set forth in
+this Agreement.
+
+         (c) Nothing contained herein shall be construed at any time as an
+admission by Bank of any liability to Borrower or any other entity.
+
+         (d) Releasing Party warrants to Bank that it has not purported to
+transfer, assign, or otherwise convey any right, title or interest of such
+Releasing Party in any Released Matter to any other entity, and that the
+foregoing constitutes a full and complete release of all Released Matters.
+
+10. CONTINUING VALIDITY. Borrower (and each guarantor and pledgor signing below)
+understands and agrees that in modifying the existing Indebtedness, Bank is
+relying upon Borrower's representations, warranties, and agreements, as set
+forth in the Existing Loan Documents. Except as expressly modified pursuant to
+this Agreement, the terms of the Existing Loan Documents remain unchanged and in
+full force and effect. Bank's agreement to modifications to the existing
+Indebtedness pursuant to this Agreement in no way shall obligate Bank to make
+any future modifications to the Indebtedness. Nothing in this Agreement shall
+constitute a satisfaction of the Indebtedness. It is the intention of Bank and
+Borrower to retain as liable parties all makers and endorsers of Existing Loan
+Documents, unless the party is expressly released by Bank in writing. No maker,
+endorser, or guarantor will be released by virtue of this Agreement. The terms
+of this paragraph apply not only to this Agreement, but also to all subsequent
+loan modification agreements.
+
+11 INTEGRATION. This Agreement, together with the Existing Loan Documents,
+constitutes the entire agreement and understanding among the parties relating to
+the subject matter hereof, and supersedes all prior and contemporaneous
+proposals, negotiations, agreements, and understandings relating to the subject
+matter. In entering into this Agreement, Borrower acknowledges that it is
+relying on no statement, representation, warranty, covenant, or agreement of any
+kind made by the Bank or any employee or agent of Bank, except for the
+agreements of Bank set forth herein. No modification, rescission, waiver,
+release, or amendment of any provision of this Agreement shall be made, except
+by a written agreement signed by Bank and Borrower.
+
+12. GOVERNING LAW, HEADINGS. This Agreement is one of the Loan Documents defined
+in the Loan Agreement and shall be governed and construed in accordance with the
+laws of the State of California. The headings and captions in this Agreement are
+for the convenience of the parties only and are not a part of this Agreement.
+
+13. CONDITIONS. The effectiveness of this Loan Modification Agreement is
+conditioned upon the following:
+
+                                       3
+<PAGE>
+
+         a. Borrower's payment of the Loan Fee;
+
+         b. delivery to Bank of a fully executed Joinder Agreement acceptable to
+Bank, for the addition of Napster as a co-borrower under the Loan Documents;
+
+         c. Delivery to Bank of a fully executed Intellectual Property Security
+Agreement providing Bank a security interest in Napster's Intellectual Property
+as security for Napster's obligations under the Loan Documents; and
+
+         d. Delivery to Bank of resolutions (acceptable to Bank) adopted by
+Roxio and Napster with respect to the transactions described herein.
+
+
+
+                         [signatures on following page]
+
+
+                                       4
+<PAGE>
+
+
+
+         This Agreement is executed as of the date first written above.
+
+BORROWER:                                       BANK:
+
+ROXIO, INC.                                     SILICON VALLEY BANK
+
+
+By:                                             By:
+     ----------------------------                    ---------------------------
+Name:                                           Name:
+       --------------------------                      -------------------------
+Title:                                          Title:
+        -------------------------                       ------------------------
+
+
+NAPSTER, LLC
+
+
+By:                              ,
+     ----------------------------
+Manager/Member
+
+
+By:
+     ----------------------------
+Name:
+       --------------------------
+Title:
+        -------------------------
+
+                                       5
+<PAGE>
+
+
+
+                                    EXHIBIT C
+                             COMPLIANCE CERTIFICATE
+
+TO:               SILICON VALLEY BANK
+                  3003 Tasman Drive
+                  Santa Clara, CA 95054
+
+FROM:             ROXIO, INC. and NAPSTER, LLC
+
+         The undersigned authorized officer of ROXIO, INC. and NAPSTER, LLC
+(together "Borrower") certifies that under the terms and conditions of the Loan
+and Security Agreement between Borrower and Bank (the "Agreement"), (i) Borrower
+is in complete compliance for the period ending _______________ with all
+required covenants except as noted below and (ii) all representations and
+warranties in the Agreement are true and correct on this date. Attached are the
+required documents supporting the certification. In addition, the undersigned
+authorized officer of Borrower certifies that Borrower and each Subsidiary (i)
+has timely filed all required tax returns and paid, or made adequate provision
+to pay, all material taxes, except those being contested in good faith with
+adequate reserves under GAAP and (ii) does not have any legal actions pending or
+threatened against Borrower or any Subsidiary in which an adverse decision could
+reasonably be expected to cause a Material Adverse Change for Borrower which
+Borrower has not previously notified in writing to Bank. The Officer certifies
+that these are prepared in accordance with Generally Accepted Accounting
+Principles (GAAP) consistently applied from one period to the next except as
+explained in an accompanying letter or footnotes. The Officer acknowledges that
+no borrowings may be requested at any time or date of determination that
+Borrower is not in compliance with any of the terms of the Agreement, and that
+compliance is determined not just at the date this certificate is delivered.
+
+PLEASE INDICATE COMPLIANCE STATUS BY CIRCLING YES/NO UNDER "COMPLIES" COLUMN.
+
+<TABLE>
+<CAPTION>
+REPORTING COVENANT                                            REQUIRED                            COMPLIES
+<S>                                                           <C>
+Monthly financial statements*                                 Monthly within 30 days              Yes     No
+Compliance Certificate**   Monthly/Quarterly within 30 days   Yes               No
+Quarterly financial statements (10Q)                          Within 5 days after filing          Yes     No
+Annual (Audited) (10K)                                        Within 5 days after filing          Yes     No
+A/R & A/P Agings**                                            Monthly/Quarterly within 30 days    Yes     No
+Business Forecast                                             Within 45 days after year end       Yes     No
+
+*Unless Borrower's unrestricted cash exceeds $40,000,000
+**Monthly if Borrower's unrestricted cash is $40,000,000 or less; quarterly if Borrower's unrestricted cash
+- ------------------------------------------------------------------------------------------------------------
+exceeds $40,000,000
+
+FINANCIAL COVENANT                                            REQUIRED           ACTUAL           COMPLIES
+
+Maintain on a Monthly Basis (quarterly if unrestricted cash exceeds
+$40,000,000):
+  Minimum Tangible Net Worth                                  $45,000,000        $________        Yes     No
+  Minimum Liquidity Coverage                                  2.00:1.00          _____:1.00       Yes     No
+
+Have there been updates to Borrower's intellectual property, if appropriate?     Yes / No
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+<S>                                                             <C>
+COMMENTS REGARDING EXCEPTIONS:  See Attached.                   ----------------------------------------------------
+                                                                                    BANK USE ONLY
+
+Sincerely,                                                      Received by:
+                                                                             ---------------------------------------
+                                                                                  AUTHORIZED SIGNER
+Roxio, Inc.
+                                                                Date:
+- -----------------------------------------                             ----------------------------------------------
+SIGNATURE
+                                                                Verified:
+- -----------------------------------------                                 ------------------------------------------
+TITLE                                                                             AUTHORIZED SIGNER
+                                                                Date:
+- -----------------------------------------                             ----------------------------------------------
+DATE
+                                                                Compliance Status:                        Yes     No
+                                                                ----------------------------------------------------
+Napster, LLC
+
+By:                                      ,
+   ---------------------------------------
+Manager/Member
+
+- -----------------------------------------
+SIGNATURE
+
+- -----------------------------------------
+TITLE
+
+- -----------------------------------------
+DATE
+</TABLE>
+

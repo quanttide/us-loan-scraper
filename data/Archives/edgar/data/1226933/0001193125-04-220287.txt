@@ -1,0 +1,1344 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ECdQXA0cH1yKlgRUSOmxPAxGckRAL+wVIwFl/LDxvY51LZre41vYBdUvXKYOSyFV
+ +iG3G2SJddJnFRrcl3SuLw==
+
+<SEC-DOCUMENT>0001193125-04-220287.txt : 20041228
+<SEC-HEADER>0001193125-04-220287.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228171850
+ACCESSION NUMBER:		0001193125-04-220287
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Termination of a Material Definitive Agreement
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUMP CASINO FUNDING INC
+		CENTRAL INDEX KEY:			0001226933
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-104916-07
+		FILM NUMBER:		041229103
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 BROADWALK
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUMP CASINO HOLDINGS LLC
+		CENTRAL INDEX KEY:			0001226932
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-104916
+		FILM NUMBER:		041229104
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 BROADWALK
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUMP ATLANTIC CITY ASSOCIATES
+		CENTRAL INDEX KEY:			0000897729
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				223213714
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-00643
+		FILM NUMBER:		041229108
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2500 BOARDWAY
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+		BUSINESS PHONE:		6094416060
+
+	MAIL ADDRESS:	
+		STREET 1:		2500 BOARDWAY
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRUMP PLAZA HOLDING ASSOCIATES
+		DATE OF NAME CHANGE:	19930223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUMP ATLANTIC CITY FUNDING INC
+		CENTRAL INDEX KEY:			0001006918
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				223418939
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-00643-02
+		FILM NUMBER:		041229107
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MISSISSIPPI AVE & THE BOARDWALK
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+		BUSINESS PHONE:		6094416060
+
+	MAIL ADDRESS:	
+		STREET 1:		MISSISSIPPI AVE & THE BOARDWALK
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THCR ATLANTIC CITY FUNDING INC
+		DATE OF NAME CHANGE:	19960131
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUMP ATLANTIC CITY FUNDING II INC
+		CENTRAL INDEX KEY:			0001052517
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				223550202
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-43979-03
+		FILM NUMBER:		041229106
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2500 BOARDWALK
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+		BUSINESS PHONE:		6094416060
+
+	MAIL ADDRESS:	
+		STREET 1:		2500 BOARDWALK
+		CITY:			ATLATNIC CITY
+		STATE:			NJ
+		ZIP:			08401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUMP ATLANTIC CITY FUNDING III INC
+		CENTRAL INDEX KEY:			0001052519
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				223550203
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-43975-03
+		FILM NUMBER:		041229105
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2500 BOARDWALK
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+		BUSINESS PHONE:		6094416060
+
+	MAIL ADDRESS:	
+		STREET 1:		2500 BOARDWALK
+		CITY:			ATLATNIC CITY
+		STATE:			NJ
+		ZIP:			08401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUMP HOTELS & CASINO RESORTS INC
+		CENTRAL INDEX KEY:			0000943320
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		IRS NUMBER:				133818402
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13794
+		FILM NUMBER:		041229109
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 BOARDWALK
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+		BUSINESS PHONE:		6094496515
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 BOARDWALK
+		CITY:			ATLANTIC CITY
+		STATE:			NJ
+		ZIP:			08401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE
+COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="3"><B>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report (Date of earliest event reported): </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>December 22, 2004
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>TRUMP HOTELS &amp; CASINO RESORTS, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1-13794</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>13-3818402</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 Boardwalk at Virginia Avenue</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Atlantic City, New Jersey</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>08401</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>609-449-6515
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>TRUMP ATLANTIC CITY ASSOCIATES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>New Jersey</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>333-00643</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>22-3213714</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 Boardwalk at Virginia Avenue</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Atlantic City, New Jersey</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>08401</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>609-449-6515
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>TRUMP ATLANTIC CITY FUNDING, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>333-00643</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>22-3418939</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 Boardwalk at Virginia Avenue</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Atlantic City, New Jersey</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>08401</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>609-449-6515
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>TRUMP ATLANTIC CITY FUNDING II, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>333-43979</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>22-3550202</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 Boardwalk at Virginia Avenue</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Atlantic City, New Jersey</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>08401</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>609-449-6515
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>TRUMP ATLANTIC CITY FUNDING III, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>333-43975</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>22-3550203</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 Boardwalk at Virginia Avenue</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Atlantic City, New Jersey</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>08401</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>609-449-6515
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>TRUMP CASINO HOLDINGS, LLC </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>333-104916</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>45-0475879</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>C/O Trump Hotels &amp; Casino Resorts Holdings, L.P.</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 Boardwalk at Virginia Avenue</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Atlantic City, New
+Jersey</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>08401</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>609-449-6515
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>TRUMP CASINO FUNDING, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>333-104916</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>45-0475877</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>C/O Trump Hotels &amp; Casino Resorts Holdings, L.P.</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 Boardwalk at Virginia Avenue</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Atlantic City, New
+Jersey</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>08401</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>609-449-6515
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Registrant&#146;s telephone number, including area code) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 1.01. Entry into a Material Definitive Agreement. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On December 22, 2004, THCR Management Services, LLC (&#147;THCR Management
+Services&#148;) and Trump Hotels &amp; Casino Resorts Development Company, LLC (&#147;THCR Development&#148;), subsidiaries of Trump Hotels &amp; Casino Resorts, Inc. (the &#147;Company&#148;), entered into that certain memorandum of understanding,
+dated as of December 20, 2004 (the &#147;Memorandum of Understanding&#148;), with the Twenty-Nine Palms Band of Luiseno Mission Indians of California, a federally recognized Native American tribe (the &#147;Tribe&#148;), and Twenty-Nine Palms
+Enterprises Corporation, an entity wholly-owned by the Tribe (&#147;Enterprises&#148;), regarding (i) the Gaming Facility Development and Construction Agreement, dated April 27, 2000, among the Tribe, Enterprises and THCR Development, as amended
+(the &#147;Development Agreement&#148;), (ii) the Amended and Restated Gaming Facility Management Agreement, dated March 28, 2002, among the Tribe, Enterprises and THCR Management Services (the &#147;Management Agreement&#148;), and (iii) the
+Trademark License Agreement, dated April 2000, between the Tribe and Trump Hotels &amp; Casino Resorts Holdings, L.P., a limited partnership of which the Company is the sole general partner (&#147;THCR Holdings&#148;), as amended (the &#147;License
+Agreement,&#148; together with the Development Agreement and the Management Agreement, the &#147;Agreements&#148;). </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the Memorandum of Understanding, the Agreements will be terminated, subject to payment by the Tribe and Enterprises, of (i) all management
+fees earned by THCR Management Services for services rendered under the Management Agreement through December 31, 2004, and (ii) a fee of $6 million. The termination of the Agreements is subject to certain terms and conditions outlined in the
+Memorandum of Understanding, which is attached as Exhibit 99.1 hereto. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item
+1.02. Termination of a Material Definitive Agreement. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">As
+discussed in Item 1.01 above, the Memorandum of Understanding provides for the termination of the Agreements, subject to certain terms and conditions, including the payment of certain fees. THCR Management Services operates the Tribe&#146;s casino,
+Trump 29 Casino, pursuant to the Management Agreement, and THCR Holdings licenses the &#147;Trump&#148; name for use at such facility under the License Agreement. As disclosed in the Quarterly Report on Form 10-Q for the period ended September 30,
+2004 of the Company filed with the Securities and Exchange Commission (the &#147;Commission&#148;), a hearing was held regarding the renewal of THCR Management Services&#146; gaming license with the gaming commission of the Tribe in the fourth
+quarter of 2004. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The descriptions of the Memorandum of
+Understanding and Agreements in Items 1.01 and 1.02, and the transactions contemplated thereby, are qualified in their entirety by reference to such documents. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 7.01. Regulation FD Disclosure. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The information set forth under this Item 7.01, &#147;Regulation FD Disclosure,&#148; including Exhibit 99.2 attached hereto, shall not be deemed
+&#147;filed&#148; for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as shall be expressly set forth
+by specific reference in such filing. Attached as Exhibit 99.2 hereto is a press release, dated December 27, 2004, issued by the Company. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Cautionary Statement Regarding Forward-Looking Statements </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The Private Securities Litigation Reform Act of 1995 provides a &#147;safe harbor&#148; for forward-looking statements so long as those statements are
+identified as forward-looking and are accompanied by meaningful cautionary statements identifying important factors that could cause actual results to differ materially from those projected in such statements. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The information contained herein includes statements reflecting assumptions,
+expectations, projections, intentions or beliefs about future events that are intended as &#147;forward-looking statements&#148; within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange
+Act of 1934, as amended. The forward-looking statements made herein are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. All statements included herein, other than statements
+of historical fact, that address activities, events or developments that the Company expects, believes or anticipates will or may occur in the future are forward-looking statements. These forward-looking statements involve known and unknown risks,
+uncertainties and other factors that may cause the Company&#146;s actual results, performance and achievements, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such
+forward-looking statements. This can occur as a result of inaccurate assumptions or as a consequence of known or unknown risks and uncertainties. You can identify these statements by the fact that they do not relate strictly to historical or current
+facts. They use words such as &#147;anticipate,&#148; &#147;estimate,&#148; &#147;intend,&#148; &#147;plan,&#148; &#147;project,&#148; &#147;forecast,&#148; &#147;may,&#148; &#147;predict,&#148; &#147;target,&#148; &#147;potential,&#148;
+&#147;proposed,&#148; &#147;contemplated,&#148; &#147;will,&#148; &#147;should,&#148; &#147;could,&#148; &#147;would,&#148; &#147;expect&#148; and other words of similar meaning. Any or all of the forward-looking statements may turn out to be wrong.
+They can be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other factors. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">These risks, uncertainties and other factors include the following factors as well as other factors
+described from time to time in the Company&#146;s reports filed with the Commission, including the Company&#146;s ability to confirm and consummate the Memorandum of Understanding or documents filed with the bankruptcy court in connection with the
+Company&#146;s plan of reorganization (the &#147;Plan&#148;) (or any significant delay with respect thereto); the Company&#146;s alternatives in the event the bankruptcy court does not grant final approval of such documents; the Company&#146;s
+ability to negotiate and execute definitive transaction documents in connection with the Plan, and perform its obligations thereunder; the ability of the parties to the Memorandum of Understanding to satisfy the terms and conditions thereof,
+including obtaining approvals of third parties and the bankruptcy court; the Company&#146;s ability to obtain the required consents of noteholders and other constituencies necessary to implement the Plan; bankruptcy court approval of the
+Company&#146;s filings and motions prosecuted by it from time to time; potential challenges to the Plan by an equity committee or creditors&#146; committee that may be formed with respect to the Company&#146;s chapter 11 cases; risks associated with
+third parties seeking and obtaining court approval to terminate or shorten the exclusivity period for the Company to propose and confirm the Plan, or for the appointment of a chapter 11 trustee or to convert the cases to a chapter 7 case; the impact
+of the Plan on the Company&#146;s operations going forward, including the impact on the Company&#146;s ability to negotiate favorable terms with suppliers, customers, landlords and others; the adverse effect on the Company&#146;s liquidity and
+operating performance due to the loss of revenues from the Management Agreement, and other adverse effects resulting from the termination of the Agreements; the Company&#146;s alternatives if the Plan is not consummated, including undertaking
+transactions that may have unforeseeable consequences to the holders of the Company&#146;s common stock and the debt of its subsidiaries; the Company&#146;s preparation and submission of an application to have its new common stock listed on the New
+York Stock Exchange or other national securities exchange if the Company is successful in its efforts to consummate the Plan, and the Company&#146;s ability to obtain such a listing; the consummation of the Company&#146;s strategic alternatives with
+respect to its financial situation and capital structure, including the potential sale of one or more of its casino properties; the ability of the Company to continue as a going concern; the Company&#146;s ability to maintain contracts that are
+critical to its operations; potential adverse developments with respect to the Company&#146;s liquidity or results of operations; the ability to fund and execute the Company&#146;s business plan; the ability to attract, retain and compensate key
+executives and associates; the ability of the Company to attract and retain customers; licenses and approvals under applicable laws and regulations, including gaming laws and regulations; changes in the competitive climate in which the Company
+operates; or a broad downturn in the economy as a whole. Accordingly, the forward-looking statements contained herein may not be realized and may differ significantly from the Company&#146;s actual results. In addition, there may be other factors
+that could cause the Company&#146;s actual results to be materially different from the results referenced, expressed or implied, in the forward-looking statements. Many of these factors will be important in determining the Company&#146;s actual
+future results. Consequently, no forward-looking statement can be guaranteed. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">All forward-looking statements contained herein, and all subsequent written and oral forward-looking statements attributable to the Company or persons acting on the Company&#146;s behalf are qualified in their
+entirety by this cautionary statement. Forward-looking statements speak only as of the date they are made, and the Company disclaims any obligation to update any forward-looking statements, including the information contained herein, to reflect
+events or circumstances after the date hereof, except as otherwise required by applicable law. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>Item 9.01. Financial Statements and Exhibits. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(c)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exhibits </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT><BR><HR WIDTH="63" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Memorandum of Understanding, dated as of December 20, 2004, among THCR Management Services, LLC, Trump Hotels &amp; Casino Resorts Development Company, LLC, the Twenty-Nine Palms Band of Luiseno
+Mission Indians of California and the Twenty-Nine Palms Enterprises Corporation</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release of Trump Hotels &amp; Casino Resorts, Inc., dated December 27, 2004</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">SIGNATURES </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, each of the registrants has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">TRUMP HOTELS &amp; CASINO RESORTS, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ John P. Burke</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">John P. Burke</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Executive Vice President and</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Corporate Treasurer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dated: December 28, 2004
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+<DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">TRUMP ATLANTIC CITY ASSOCIATES</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">TRUMP ATLANTIC CITY HOLDING, INC.,</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">its Managing
+General Partner</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ John P. Burke</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">John P. Burke</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">Vice President and Treasurer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dated: December 28, 2004
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">TRUMP ATLANTIC CITY FUNDING, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ John P. Burke</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">John P. Burke</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Treasurer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dated: December 28, 2004
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">TRUMP ATLANTIC CITY FUNDING II, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ John P. Burke</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">John P. Burke</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Treasurer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dated: December 28, 2004
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">TRUMP ATLANTIC CITY FUNDING III, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ John P. Burke</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">John P. Burke</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Treasurer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dated: December 28, 2004
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">TRUMP CASINO HOLDINGS, LLC</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ John P. Burke</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">John P. Burke</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Executive Vice President</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(Duly Authorized Officer and Principal Financial</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">and Accounting Officer)</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dated: December 28, 2004
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">TRUMP CASINO FUNDING, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ John P. Burke</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">John P. Burke</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Executive Vice President</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(Duly Authorized Officer and Principal Financial</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">and Accounting Officer)</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dated: December 28, 2004
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT><BR><HR WIDTH="63" SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Memorandum of Understanding, dated as of December 20, 2004, among THCR Management Services, LLC, Trump Hotels &amp; Casino Resorts Development Company, LLC, the Twenty-Nine Palms Band of
+Luiseno Mission Indians of California and the Twenty-Nine Palms Enterprises Corporation</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release of Trump Hotels &amp; Casino Resorts, Inc., dated December 27, 2004</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>MEMORANDUM OF UNDERSTANDING
+<TEXT>
+<HTML><HEAD>
+<TITLE>Memorandum of Understanding</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Memorandum of Understanding, dated as of December 20, 2004 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>THCR M<SMALL>ANAGEMENT</SMALL>
+S<SMALL>ERVICES</SMALL>, LLC </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>T<SMALL>RUMP</SMALL> H<SMALL>OTELS</SMALL> &amp; C<SMALL>ASINO</SMALL> R<SMALL>ESORTS</SMALL>
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>D<SMALL>EVELOPMENT</SMALL> C<SMALL>OMPANY</SMALL>, LLC </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1000 B<SMALL>OARDWALK</SMALL> </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>A<SMALL>TLANTIC</SMALL> C<SMALL>ITY</SMALL>,
+N<SMALL>EW</SMALL> J<SMALL>ERSEY</SMALL> 08401 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">December 20,
+2004 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dean Mike, Chairman </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Twenty-Nine Palms Band of Luiseno Mission Indians of California </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">46-200
+Harrison Place </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Coachella, California 92236 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dean Mike, Chairman </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Twenty-Nine Palms Enterprises Corporation </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">46-200 Harrison Place </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Coachella, California 92236 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dear Mr. Chairman: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">Please accept this Memorandum of Understanding (this &#147;Memorandum&#148;) setting forth the agreements that have been
+reached as between THCR Management Services, LLC and Trump Hotels &amp; Casino Resorts Development Company, LLC (collectively, &#147;Trump&#148;) and the Twenty-Nine Palms Band of Luiseno Mission Indians of California (the &#147;29 Palms&#148;) and
+the Twenty-Nine Palms Enterprises Corporation (&#147;Enterprises,&#148; and together with the 29 Palms, collectively, the &#147;Tribe&#148;) regarding (i) the Gaming Facility Development and Construction Agreement dated April 27, 2000, as amended by
+the First Amendment to Gaming Facility Development Construction Agreement dated March 28, 2002 (as so amended, the &#147;Development Agreement&#148;), (ii) the Amended and Restated Gaming Facility Management Agreement dated March 28, 2002 (the
+&#147;Management Agreement&#148;) and (iii) the Trademark License Agreement dated April 2000, as amended by the First Amendment to Trademark License Agreement dated March 28, 2002 (as so amended, the &#147;License Agreement&#148;). Capitalized terms
+used in this Memorandum and not otherwise defined herein shall have the meanings assigned to such terms in the Management Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">1. <U>General Agreements</U>. We have agreed to the following with respect to the Management Agreement and Development Agreement: </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">A. Subject to the receipt by Trump of the payments described in the
+following sentence, the Management Agreement and Development Agreement shall be deemed terminated and of no further force or effect as of the &#147;Termination Date,&#148; as defined below, without any further act or agreement on the part of Trump
+or the Tribe, and notwithstanding any provision of any such agreement otherwise purporting to survive termination. On the Termination Date, and as a further condition to such termination, the Tribe will pay to Trump (i) all Management Fees earned by
+Trump pursuant to the Management Agreement for management services rendered through December 31, 2004 and (ii) a termination fee in the amount of Six Million ($6,000,000.00) Dollars. The payments to be made pursuant to the </FONT>
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px">
+<FONT FACE="Times New Roman" SIZE="2">preceding sentence shall be in full satisfaction of any and all amounts which may be due to Trump from the Tribe under the Management Agreement, Development
+Agreement and License Agreement or any other agreement which may have been executed between the parties prior to the effective date of this Memorandum. Such payments shall be made by the Tribe to Trump by wire transfer to the account of Trump set
+forth on <B>Exhibit A</B> hereto without offset or set-off of any kind. In the event the Termination Date occurs after December 31, 2004, Trump shall continue to provide management services to the Tribe in accordance with the Management Agreement,
+and on the Termination Date the Tribe shall pay to Trump the Management Fee and termination fee provided in this Paragraph, but no Management Fee shall be due for services for the period January 1, 2005 through the Termination Date. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">B. The parties acknowledge and agree that upon termination of the Management
+Agreement, the License Agreement shall terminate in accordance with its terms. Following the Termination Date, Trump shall, at Trump&#146;s cost, be responsible for removing from the Facility all signage and other materials that use the name
+&#147;Trump&#148; or other marks licensed to the Tribe pursuant to the License Agreement. The Tribe shall provide to Trump all necessary access to the Facility in order to allow Trump to accomplish the removal of signage and other materials bearing
+the Trump marks. Trump shall have no obligation to replace any such signage or materials removed from the Facility. Such signage and materials shall be removed within ninety (90) days of the Termination Date. Trump shall turn over to the Tribe
+within ninety (90) days of the date of the Termination Date all materials, drawings, plans, memoranda and the like related to the design, development and/or construction of the Facility (and hotel/spa plans, to the extent doing so would not violate
+any proprietary rights of the Worth Group, PC), as well as any materials in its possession concerning meetings with the City of Coachella regarding sewer/water services and/or improvements to Dillon Road. Trump shall remove all signage and materials
+with the oversight of Enterprises management designated by the Tribe to minimize, to the extent possible, damage to the Facility and/or disruption of operations. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">C. Upon the execution of this Memorandum, Trump and the Tribe shall jointly issue the press release attached hereto as
+<B>Exhibit B</B> (the &#147;Press Release&#148;) announcing the termination of the Management Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">D. Attached hereto as <B>Exhibits C</B> and <B>D</B> are releases and non-disparagement agreements as between Trump and the Tribe (&#147;Releases&#148;).
+The Releases will be executed in duplicate originals by all parties thereto simultaneously with the execution of this Memorandum. The original, executed Releases in favor of the Tribe shall be held in escrow by Gary Kovall, as counsel for the Tribe,
+and the original, executed Release in favor of Trump shall be held in escrow by counsel for Trump. Counsel for each of the Tribe and Trump are hereby authorized to deliver all original Releases to their respective clients upon the Termination Date.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">E. Attached hereto as <B>Exhibit E</B> is a letter of
+reference from the Tribe regarding Trump (the &#147;Reference&#148;). Five (5) originals of the Reference will be executed by the Tribe simultaneously with the execution of this Memorandum, and held in escrow by counsel for Trump. Counsel for Trump
+is hereby authorized to deliver the original References to Trump upon the Termination Date. In addition, in the event any members or representatives of any other tribe contacts either the Tribe or Enterprises regarding Trump, the Tribe or
+Enterprises will, as its sole response to such contact, provide to such members or representatives a copy of the Reference. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">F. Following the Termination Date, Trump agrees to reimburse the Tribe for the amount, if any, paid by
+the Tribe in order to settle such portion of the Software Claim, as hereinafter defined, which the Tribe can reasonably establish is attributable to the actions of a Management Employee, as hereinafter defined, knowingly installing or using
+unlicensed software on a computer or computers at the Facility. The &#147;Software Claim&#148; shall mean the claim currently being asserted by Christie, Parker Hale, LLP on behalf of Microsoft Corporation, CPH Ref. B771:100.105. &#147;Management
+Employee&#148; shall mean any employee of Enterprises hired at the Facility after April 22, 2002, the commencement of management services by Trump under the Management Agreement. The Tribe agrees to continue to defend the Software Claim in good
+faith using Patrick Madamba, Jr., Esq. of Philadelphia, PA as counsel in such defense. Reimbursement shall include payment of such portion of a settlement amount attributable to the action of a Management Employee, payment for reasonable
+attorneys&#146; fees or payment for such portion of any judgment which may be entered against the Tribe attributable to the action of a Management Employee because the Software Claim could not be settled. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">2. <U>Termination Date</U>. The Termination Date shall be the date upon which
+all of the following shall have occurred: (i) The United States Bankruptcy Court for the District of New Jersey shall have entered an order in Case Nos. 04-46905 and 04-46909 (collectively, the &#147;Cases&#148;), in form and content reasonably
+acceptable to the Tribe, approving this Memorandum and the Termination of the Management Agreement and Development Agreement pursuant hereto, and such other documents related to same, including, but not limited to, the Releases attached hereto as
+<B>Exhibits C and D</B> (&#147;Bankruptcy Court Approval&#148;), and such Bankruptcy Court Approval shall not be subject to stay; (ii) the Tribe shall have obtained from the &#147;Lenders&#148; under the May 14, 2004 Loan Agreement (the &#147;Loan
+Agreement&#148;) between the Tribe, certain Lenders referred to therein, National City Bank of Michigan/Illinois, as Administrative Agent and KeyBank, N.A., as Syndication Agent, a waiver of the provisions of Section 6.19 of such Loan Agreement and
+a termination of the May 14, 2004 Subordination Agreement made by Trump in favor of National City Bank of Michigan/Illinois, as Administrative Agent, in connection with such Loan Agreement (collectively, &#147;Lender Approval&#148;), each in form
+reasonably acceptable to the Tribe and Trump; and (iii) the Twenty Nine Palms Gaming Commission shall have duly adopted a resolution withdrawing the September 29, 2004 Record of Decision and issuing to Trump a license effective for a period of one
+(1) year from the issuance date enabling Trump to continue to manage the Facility, such license to contain conditions as the Commission may reasonably impose or apply after discussion with Trump and deliberations therefor. Trump shall prepare for
+filing a motion to approve this Memorandum, as well as all related documents, with the Bankruptcy Court within five (5) business days of execution of this Memorandum by the Tribe and provide to the Tribe&#146;s counsel copies of such motion,
+including all pleadings, proposed orders and other materials to be filed with the Bankruptcy Court in connection with the approval of this Memorandum. Tribe and its counsel shall have the right to review and reasonably approve all such pleadings,
+proposed orders and other materials prior to their submission to the Bankruptcy Court. Trump agrees to file such motion within three (3) business days of approval by the Tribe and its counsel, and use its best efforts to obtain Bankruptcy Court
+Approval as set forth in this Paragraph at the hearing in the Cases scheduled for January 21, 2005. In the event the Bankruptcy Court requests Trump to prepare a form of order other than the form of order submitted with the motion, Trump shall
+provide a copy of such new form of order to the Tribe for its approval prior to submission to the Bankruptcy Court. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">3. <U>Termination of Memorandum</U>. This Memorandum is a binding legal agreement effective upon complete
+execution hereof. However, in the event the Termination Date has not occurred on or before January 22, 2005, this Memorandum shall be automatically terminated and of no further force or effect; provided, however, Trump agrees on behalf of itself and
+its affiliates that if the Termination Date has not occurred and this Memorandum terminates pursuant to this paragraph, then Trump will not object to any proof of claim filed by the Tribe asserting a claim arising under the Management Agreement on
+the basis of such proof of claim being filed after the bar date established in the Cases so long as such proof of claim is filed within thirty (30) days after the date on which this Memorandum terminates in accordance with this paragraph.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">4. <U>Representations, Warranties and Covenants</U>.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">A. The 29 Palms represents, warrants and covenants as
+follows: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(1) The 29 Palms is a federally recognized Indian
+tribe designated by the United States Department of the Interior as the Twenty-Nine Palms Band of Luiseno Mission Indians of California, and the General Council, the Spokesman (generally referred to as the Tribal &#147;Chairman&#148;) and the
+Secretary-Treasurer of the 29 Palms together comprise the governing body of the 29 Palms and the sole authorized representatives to contract on behalf of the 29 Palms. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(2) This Memorandum does not violate or conflict with any charter, constitution, rule, precept or order of the 29 Palms, or
+any agreement, letter of understanding or letter of intent that the 29 Palms may have entered into with any other party; <U>provided</U>, <U>however</U>, the termination of the Management Agreement does require the approval, pursuant to Section 6.19
+of the Loan Agreement, which approval the 29 Palms will secure prior to execution of this Memorandum. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(3) This Memorandum constitutes the legal, valid and binding obligation of the 29 Palms, enforceable against the 29 Palms in accordance with its terms.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">B. Enterprises represents, warrants and covenants as follows:
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(1) Enterprises&#146; execution, delivery and performance of
+this Memorandum and all the instruments and agreements executed in connection with this Memorandum have been properly authorized by Enterprises and do not require further corporate approval. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(2) This Memorandum has been properly executed and constitutes
+Enterprises&#146; legal, valid and binding obligations, enforceable against Enterprises in accordance with its terms. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(3) The execution and delivery of this Memorandum by Enterprises does not, and the performance by Enterprises of the obligations to be performed by
+Enterprises hereunder will not, conflict with, violate or constitute a default under the organizational documents of Enterprises or any agreement to which Enterprises is a party; <U>provided</U>, <U>however</U>, the termination of the Management
+Agreement does require the approval, pursuant to Section 6.19 of the Loan Agreement, which approval Enterprises will secure prior to execution of this Memorandum. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">C. Trump represents, warrants and covenants as follows: </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(1) Trump is a limited liability company duly organized, validly existing
+and in good standing under the laws of the State of Delaware, and has all requisite power and authority to conduct its business as now conducted. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(2) The execution, delivery and performance by it of this Memorandum and the consummation of the transactions contemplated thereby do not and will not
+violate or conflict with any provision of the charter documents or by-laws of Trump, or, subject to Lender Approval, any other agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:17%"><FONT FACE="Times New Roman" SIZE="2">(3) This Memorandum has been duly executed and delivered by Trump and, subject to Bankruptcy Court Approval and Lender Approval, constitutes the legal,
+valid and binding obligation of Trump enforceable against it in accordance with its terms. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT
+FACE="Times New Roman" SIZE="2">5. <U>Successors and Assigns</U>. The rights and obligations under this Memorandum are not assignable by the Tribe and are not assignable by Trump other than to an entity controlled by, controlling or under common
+control with Trump, as long as Trump is not released from its obligations under this Memorandum. This Memorandum and the other documents executed in connection herewith shall be binding on the debtors and debtors in possession in the Cases and any
+Chapter 7 or Chapter 11 trustee appointed in the Cases and shall survive the confirmation of a plan of reorganization and shall bind each reorganized debtor party hereto and all successors thereto under such plan of reorganization. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">6. <U>Confidentiality</U>. The parties acknowledge that confidential
+information has been delivered by each to the other and that the confidential information constitutes valuable trade secrets, and may include, but not be limited to, information regarding the parties&#146; organization, financial matters, marketing
+and development plans, budget or other information of a proprietary nature. The parties shall use such confidential information solely in accordance with and in furtherance of this Memorandum, and each will not disclose, or permit to be disclosed,
+the other&#146;s information, directly or indirectly, to any third party without the other&#146;s prior written consent. Trump acknowledges and agrees that nothing contained in this Paragraph 6 is intended to restrict or limit the Tribe&#146;s
+ability to use organization, financial, marketing, and development plans, budget and other information regarding the Tribe&#146;s casino and which is in the possession Enterprises as of the date hereof, even if such information was developed by
+Trump. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">7. <U>Arbitration; Limited Waiver of Sovereign
+Immunity</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">A. In the event of any disagreement or dispute
+between the parties arising from or regarding the interpretation or enforcement of this Memorandum or any rights, remedies or obligations arising hereunder, the matter shall be resolved exclusively by binding arbitration to be conducted in Los
+Angeles, California pursuant to the Rules of the Judicial Arbitration Mediation Service. Neither the submission of this Memorandum and related documents to the Bankruptcy Court nor the review and approval by the Tribe of any pleadings or </FONT>
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px">
+<FONT FACE="Times New Roman" SIZE="2">other filings in connection with the approval of this Memorandum by the Bankruptcy Court shall constitute an agreement by the Tribe to submit to the
+jurisdiction of such Court. The parties agree that the arbitrator shall have the power to fashion equitable remedies and to grant preliminary and permanent injunctive relief, award damages, and impose sanctions to the extent deemed appropriate by
+the arbitrator. The decision and rulings of the arbitrator shall be final and binding, and shall not be subject to review by any court, regardless of alleged errors of law or alleged mistakes of fact. Judgment upon the award or rulings of the
+arbitrators may be entered in any court having jurisdiction thereof pursuant to California Code of Civil Procedure Section 1285 <I>et seq</I>. The prevailing party in any arbitration shall be entitled to its reasonable attorneys fees and costs,
+including expert fees, incurred in the arbitration and any action to compel arbitration or enforce an arbitral award. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">B. The parties agree that, should a dispute arise, they will mutually agree upon the selection of an appropriate arbitrator from the members of the
+Judicial Arbitration Mediation Service in accordance with the Rules of the Judicial Arbitration Mediation Service. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">C. The Tribe and Enterprises do hereby expressly grant a limited waiver of their sovereign immunity and hereby submit to the jurisdiction of the Federal
+District Court for the Central District of California, the United States Circuit Court of Appeals for the Ninth Circuit, and the United States Supreme Court, or such court of the State of California as may have subject matter jurisdiction, for the
+purposes of compelling arbitration in the event either party refuses to arbitrate and the enforcement of any decision of the arbitrator. The Tribe and Enterprises agree to take any and all steps necessary to confer upon any such court for the
+purposes set forth in this Paragraph personal and subject matter jurisdiction within the limited waiver of sovereign immunity agreed to in this Paragraph. The Tribe hereby waives any requirement that disputes hereunder be submitted to any court,
+agency or instrumentality of the Tribe, or that Trump is otherwise required to exhaust tribal remedies. Attached hereto as <B>Exhibits F</B> and <B>G</B> are duly adopted resolutions of the General Council of the 29 Palms and the Board of Directors
+of Enterprises authorizing the execution, delivery and performance by the Tribe of this Memorandum and confirming the waiver of sovereign immunity set forth in this Paragraph. Upon the request of Trump, the Tribe will obtain resolutions of the
+General Council of the 29 Palms and the Board of Directors of Enterprises ratifying the execution and delivery of this Memorandum and the exhibits hereto, and the waivers of sovereign immunity contained therein, in form reasonably acceptable to
+Trump, and deliver such ratifying resolutions to Trump prior to the Termination Date. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT
+FACE="Times New Roman" SIZE="2">E. The waiver granted by the Tribe under this Paragraph is strictly limited to disputes or disagreements arising under this Memorandum and shall not extend to any other agreement. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">8. <U>Notices</U>. Any notice, demand or other communication required or permitted to be given hereunder,
+shall be in writing and shall be personally served or sent by registered or certified mail, postage prepaid, return receipt requested, or by a nationally recognized overnight courier service, or by facsimile transmission, addressed to the party to
+be so notified as follows (or to such other address or person as either party or person entitled to notice may, by notice to the other in accordance herewith, specify): </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="75%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">If&nbsp;to&nbsp;the&nbsp;Tribe&nbsp;or&nbsp;Enterprises,&nbsp;to:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Dean Mike, Chairman</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Twenty-Nine Palms Band of Luiseno Mission Indians of California</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">46-200 Harrison Place</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Coachella CA 92236</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">with a copy to:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Gary Kovall, Esq.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">22411 Canyon Club Drive</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Canyon Lake CA 92587</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">If to Trump, to:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Robert M. Pickus</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Executive Vice President and General Counsel</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Trump Hotels &amp; Casino Resorts, Inc.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">1000 Boardwalk</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Atlantic City NJ 08401</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">with a copy to:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Peter Michael Laughlin, Esq.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Graham, Curtin &amp; Sheridan</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">4 Headquarters Plaza</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">PO Box 1991</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Morristown NJ 07962-1991</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">and to:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Dennis J. Whittlesey, Esq.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">JacksonKelly PLLC</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">2401 Pennsylvania Avenue, NW</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Suite 400</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Washington DC 20037</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Unless otherwise specified, notices
+shall be deemed given when received. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">9. <U>No Oral
+Modification</U>. This Memorandum may not be modified or amended orally, and only an agreement in writing executed by the party against whom such modification or amendment is sought to be enforced shall be effective. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">10. <U>Integration</U>. This Memorandum contains the entire agreement between
+the parties hereto relating to the subject matter hereof and is intended to be an integration of all prior agreements, conditions or undertakings between the parties hereto relating to the subject matter hereof. Except as expressly set forth herein,
+there are no promises, agreements, conditions, undertakings, warranties or representations, oral or written, expressed or implied, between the parties. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">11. <U>Governing Law</U>. This Memorandum shall be governed by and construed in accordance with the laws of the State of California and, to the extent
+necessary, the Indian Gaming Regulatory Act, 25 U.S.C. &#167; 2701, <I>et seq.</I> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2">[Signature page follows] </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">12. <U>Counterparts</U>. This Memorandum shall not be effective until executed by all parties hereto, and
+may be executed in any number of counterparts, each of which shall be deemed an original, and all such counterparts when taken together shall constitute but one and the same instrument. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Very truly yours,</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">THCR M<SMALL>ANAGEMENT</SMALL> S<SMALL>ERVICES</SMALL>, LLC</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">T<SMALL>RUMP</SMALL> H<SMALL>OTELS</SMALL> &amp; C<SMALL>ASINO</SMALL> R<SMALL>ESORTS</SMALL></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;D<SMALL>EVELOPMENT</SMALL> C<SMALL>OMPANY</SMALL>, LLC,</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">as Debtors and Debtors in Possession</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;/<SMALL>S</SMALL>/&nbsp;&nbsp;R<SMALL>OBERT</SMALL> M.
+P<SMALL>ICKUS</SMALL></FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Robert M. Pickus</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Executive Vice President</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><I>Agreed to and Accepted:</I></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">T<SMALL>WENTY</SMALL>-N<SMALL>INE</SMALL> P<SMALL>ALMS</SMALL> B<SMALL>AND</SMALL> O<SMALL>F</SMALL>
+L<SMALL>UISENO</SMALL></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;M<SMALL>ISSION</SMALL> I<SMALL>NDIANS</SMALL> <SMALL>OF</SMALL>
+C<SMALL>ALIFORNIA</SMALL></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;/<SMALL>S</SMALL>/&nbsp;&nbsp;D<SMALL>EAN</SMALL>
+M<SMALL>IKE</SMALL></FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Dean Mike, Chairman</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">T<SMALL>WENTY</SMALL>-N<SMALL>INE</SMALL> P<SMALL>ALMS</SMALL> E<SMALL>NTERPRISES</SMALL>
+C<SMALL>ORPORATION</SMALL></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;/<SMALL>S</SMALL>/&nbsp;&nbsp;D<SMALL>EAN</SMALL>
+M<SMALL>IKE</SMALL></FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Dean Mike, Chairman</FONT></P></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>dex992.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.2 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Press Release, dated December 27, 2004 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>NEWS RELEASE </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="83%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>FOR:</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Trump Hotels &amp; Casino Resorts, Inc. (OTCBB: DJTCQ.OB)</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>CONTACT:</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Scott C. Butera, President and Chief Operating Officer, (212) 891-1500</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>FOR&nbsp;RELEASE:</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Monday, December 27, 2004, 4:00 (EST)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>TRUMP TRANSFERS
+MANAGEMENT OF TRUMP 29 CASINO TO TRIBE </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>NEW YORK, NY
+&#151; </B>Trump Hotels &amp; Casino Resorts, Inc. (OTCBB:DJTCQ.OB) (<B><I>&#147;THCR&#148;</I></B> or the <B><I>&#147;Company&#148;</I></B>) announced today that it has reached an agreement with the Twenty-Nine Palms Band of Luiseno Mission Indians
+of California (the <B><I>&#147;Tribe&#148;</I></B>) to transfer the Company&#146;s management agreement (the <B><I>&#147;Management Agreement&#148;</I></B>) to the Tribe. Pursuant to the Management Agreement, the Company has managed the day-to-day
+operations of the Tribe&#146;s casino in Coachella, California under the &#147;Trump 29 Casino&#148; name. The Tribe has agreed to pay the Company a transfer fee of $6.0 million dollars. The transfer agreement is subject to certain court and
+regulatory approvals. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Since the commencement of the Management
+Agreement in April 2002, the Tribe&#146;s casino has shown significant increases in its operating performance. The Tribe and the Company have mutually agreed to transfer the Management Agreement to the Tribe based on their belief in the Tribe&#146;s
+ability to manage the property on its own. Donald J. Trump, the Chairman and Chief Executive Officer of the Company, commented on the transfer, &#147;Our development and operating expertise has made Trump 29 Casino a great gaming destination in the
+Palm Springs area. We are proud of what we have done together with the Tribe, starting with the financing and development of the property and culminating in the record breaking results. It&#146;s now time for the Tribe to assume management
+responsibility. The goals set by the National Indian Gaming Commission have certainly been met. I wish Chairman Dean Mike and the entire Tribe continued success with the casino.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Chairman Dean Mike of the Tribe added, &#147;The Tribe is grateful to Mr. Trump and his management team
+for their role in bringing our casino to its current operating level. We have a good foundation for our operations and the Tribe looks forward to growing the business.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I><U>About the Company</U>: </I></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">THCR, through its wholly owned subsidiaries, owns and operates four properties and manages one property under the Trump brand name. THCR&#146;s assets
+include Trump Taj Mahal Casino Resort and Trump Plaza Hotel and Casino, located on the Boardwalk in Atlantic City, New Jersey, Trump Marina Hotel Casino, located in Atlantic City&#146;s Marina District, and the Trump Casino Hotel, a riverboat casino
+located in Gary, Indiana. Together, the properties comprise approximately 371,300 square feet of gaming space and 3,180 hotel rooms and suites. The Company is the sole vehicle through which Donald J. Trump conducts gaming activities and strives to
+provide customers with outstanding casino resort and entertainment experiences consistent with the Donald J. Trump standard of excellence. THCR is separate and distinct from Mr. Trump&#146;s real estate and other holdings. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>PSLRA Safe Harbor for Forward-Looking Statements </I></B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>and Additional Available Information </I></B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The Private Securities Litigation Reform Act of 1995 provides a &#147;safe
+harbor&#148; for forward-looking statements so long as those statements are identified as forward-looking and are accompanied by meaningful cautionary statements identifying important factors that could cause actual results to differ materially from
+those projected in such statements. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">All statements, trend
+analysis and other information contained in this release relative to THCR&#146;s or its subsidiaries&#146; performance, trends in THCR&#146;s or its subsidiaries&#146; operations or financial results, plans, expectations, estimates and beliefs, as
+well as other statements including words such as &#147;anticipate,&#148; &#147;believe,&#148; &#147;plan,&#148; &#147;estimate,&#148; &#147;expect,&#148; &#147;intend,&#148; &#147;will,&#148; &#147;could&#148; and other similar expressions,
+constitute forward-looking statements under the Private Securities Litigation Reform Act of 1995. In connection with certain forward-looking statements contained in this release and those that may be made in the future by or on behalf of THCR, THCR
+notes that there are various factors that could cause actual results to differ materially from those set forth in any such forward-looking statements. The forward-looking statements contained in this release were prepared by management and are
+qualified by, and subject to, significant business, economic, competitive, regulatory and other uncertainties and contingencies (including those pertaining to the currently proposed restructuring), all of which are difficult or impossible to predict
+and many of which are beyond the control of THCR. Accordingly, there can be no assurance that the forward-looking statements contained in this release will be realized or that actual results will not be significantly higher or lower. The
+forward-looking statements in this release reflect the opinion of the Company&#146;s management </FONT>
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px">
+<FONT FACE="Times New Roman" SIZE="2">as of the date of this release. Readers are hereby advised that developments subsequent to this release are likely to cause these statements to become
+outdated with the passage of time or other factors beyond the control of the Company. This Company does not intend, however, to update the guidance provided herein prior to its next release or unless otherwise required to do so. Readers of this
+release should consider these facts in evaluating the information contained herein. In addition, the business and operations of THCR are subject to substantial risks, including, but not limited to risks relating to liquidity and cash flows, which
+increase the uncertainty inherent in the forward-looking statements contained in this release. The inclusion of the forward-looking statements contained in this release should not be regarded as a representation by THCR or any other person that the
+forward-looking statements contained in the release will be achieved. In light of the foregoing, readers of this release are cautioned not to place undue reliance on the forward-looking statements contained herein. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Additional information concerning the potential risk factors that could
+affect the Company&#146;s future performance are described from time to time in the Company&#146;s periodic reports filed with the SEC, including, but not limited to, the Company&#146;s Annual Reports on Form 10-K and Quarterly Reports on Form 10-Q.
+These reports may be viewed free of charge on the SEC&#146;s website, www.sec.gov, or on the Company&#146;s website, www.trumpcasinos.com. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>### </I></B></FONT></P>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

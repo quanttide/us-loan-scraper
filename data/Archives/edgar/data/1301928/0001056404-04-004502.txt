@@ -1,0 +1,1109 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EkN3rKGstzMHg4zXVNiAwVptWc0AoYgpsBlzM19QOw4oXLC6FEUiUI1u6Uxz/24s
+ SYMqH4O7MAzmxXrbwX+reg==
+
+<SEC-DOCUMENT>0001056404-04-004502.txt : 20041223
+<SEC-HEADER>0001056404-04-004502.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223083546
+ACCESSION NUMBER:		0001056404-04-004502
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Banc of America Funding Corp. Mortgage Pass-Through Certificates Series 2004-A
+		CENTRAL INDEX KEY:			0001301928
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-109285-03
+		FILM NUMBER:		041222429
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NORWEST BANK MINNESOTA N A
+		STREET 2:		11000 BROKEN LAND PARKWAY
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21044
+		BUSINESS PHONE:		4108842000
+
+	MAIL ADDRESS:	
+		STREET 1:		NATIONSBANK CORPORATE CENTER
+		STREET 2:		NC1-007-11-07
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>baf0400a_dec.txt
+<DESCRIPTION>DECEMBER 8-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington D. C. 20549
+
+
+                                     FORM 8-K
+
+                                  CURRENT REPORT
+      Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+       Date of Report (Date of earliest event reported):  December 20, 2004
+
+                       BANC OF AMERICA FUNDING CORPORATION
+             Mortgage Pass-Through Certificates, Series 2004-A Trust
+              (Exact name of registrant as specified in its charter)
+
+New York (governing law of            333-109285-03
+Pooling and Servicing Agreement)      (Commission         54-6636498
+(State or other                       File Number)        54-6636499
+jurisdiction                                              IRS EIN
+of Incorporation)
+
+
+
+       c/o Wells Fargo Bank, N.A.
+       9062 Old Annapolis Road
+       Columbia, MD                                         21045
+       (Address of principal executive offices)             (Zip Code)
+
+       Registrant's telephone number, including area code:  (410) 884-2000
+
+       (Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions (see General Instruction A.2. below):
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act
+    (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+    (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+    Exchange Act(17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+    Exchange Act(17 CFR 240.13e-4(c))
+
+
+ITEM 8.01  Other Events
+
+ On December 20, 2004 a distribution was made to holders of BANC OF AMERICA
+ FUNDING CORPORATION, Mortgage Pass-Through Certificates, Series 2004-A Trust.
+
+
+ITEM 9.01  Financial Statements and Exhibits
+
+      (c)  Exhibits
+
+
+           Exhibit Number               Description
+           EX-99.1                      Monthly report distributed to holders of
+                                        Mortgage Pass-Through Certificates,
+                                        Series 2004-A Trust, relating to the
+                                        December 20, 2004 distribution.
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+
+
+                       BANC OF AMERICA FUNDING CORPORATION
+             Mortgage Pass-Through Certificates, Series 2004-A Trust
+                                   (Registrant)
+
+              By:    Wells Fargo Bank, N.A. as Securities Administrator
+              By:   /s/   Beth Belfield as Assistant Vice President
+              By:    Beth Belfield as Assistant Vice President
+              Date:  12/22/2004
+
+                                INDEX TO EXHIBITS
+
+Exhibit Number            Description
+EX-99.1                   Monthly report distributed to holders of Mortgage
+                          Pass-Through Certificates, Series 2004-A Trust,
+                          relating to the December 20, 2004 distribution.
+
+
+
+
+                   EX-99.1
+
+<TABLE>
+<CAPTION>
+Banc of America Funding Corporation
+Mortgage Pass-Through Certificates
+
+
+Record Date:             11/30/2004
+Distribution Date:       12/20/2004
+
+
+Banc of America Funding Corporation
+Mortgage Pass-Through Certificates
+Series 2004-A
+
+
+Contact: Customer Service - CTSLink
+         Wells Fargo Bank, N.A.
+         Securities Administration Services
+         7485 New Horizon Way
+         Frederick, MD 21703
+         Telephone: (301) 815-6600
+         Fax:       (301) 815-6660
+
+
+
+
+
+
+
+                                          Certificateholder Distribution Summary
+
+                             Certificate    Certificate                  Beginning
+                             Class          Pass-Through               Certificate           Interest          Principal
+Class             CUSIP      Description    Rate                            Balance       Distribution       Distribution
+
+<s>          <c>             <c>            <c>                <c>                <c>                <c>
+     1-A1        06051GAV1              SEN             5.03974%      29,834,733.32         125,299.41         203,209.81
+     1-A2        06051GAW9              SEN             5.03974%         844,466.79           3,546.58           5,751.82
+     1-A3        06051GAX7              SEN             5.03974%      97,102,545.09         407,809.64         661,383.15
+     1-A4        06051GAY5              SEN             5.03974%       7,590,921.26          31,880.22          51,703.15
+     1-AR        06051GAZ2              SEN             5.03763%               0.00               0.13               0.00
+     1-ALR       06051GBA6              SEN             5.03763%               0.00               0.00               0.00
+     2-A1        06051GBB4              SEN             4.55819%     177,371,751.32         673,744.63         694,108.59
+     3-A1        06051GBC2              SEN             5.06616%      34,952,615.94         147,562.85       2,225,410.61
+     4-A1        06051GBD0              SEN             5.87173%     164,703,338.35         805,910.72      11,466,313.87
+     5-A1        06051GBE8              SEN             3.71844%      18,212,407.53          56,434.83          30,981.28
+      B-1        06051GBF5              SUB             5.13288%       9,159,732.36          39,179.81           9,627.03
+      B-2        06051GBG3              SUB             5.13288%       3,052,579.50          13,057.09           3,208.31
+      B-3        06051GBH1              SUB             5.13288%       1,527,286.67           6,532.81           1,605.20
+      B-4        06051GBJ7              SUB             5.13288%       1,526,289.75           6,528.55           1,604.16
+      B-5        06051GBK4              SUB             5.13288%         915,175.70           3,914.57             961.87
+      B-6        06051GBL2              SUB             5.13288%         611,307.46           2,614.80             642.49
+Totals                                                               547,405,151.04       2,324,016.64      15,356,511.34
+</TABLE>
+<TABLE>
+<CAPTION>
+
+                     Certificateholder Distribution Summary (continued)
+
+                          Current             Ending                            Cumulative
+                         Realized        Certificate              Total           Realized
+Class                         Loss            Balance       Distribution             Losses
+
+<s>            <c>               <c>                <c>                <c>
+1-A1                          0.00      29,631,523.51         328,509.22               0.00
+1-A2                          0.00         838,714.97           9,298.40               0.00
+1-A3                          0.00      96,441,161.94       1,069,192.79               0.00
+1-A4                          0.00       7,539,218.11          83,583.37               0.00
+1-AR                          0.00               0.00               0.13               0.00
+1-ALR                         0.00               0.00               0.00               0.00
+2-A1                          0.00     176,677,642.73       1,367,853.22               0.00
+3-A1                          0.00      32,727,205.33       2,372,973.46               0.00
+4-A1                          0.00     153,237,024.48      12,272,224.59               0.00
+5-A1                          0.00      18,181,426.25          87,416.11               0.00
+B-1                           0.00       9,150,105.32          48,806.84               0.00
+B-2                           0.00       3,049,371.19          16,265.40               0.00
+B-3                           0.00       1,525,681.47           8,138.01               0.00
+B-4                           0.00       1,524,685.59           8,132.71               0.00
+B-5                           0.00         914,213.83           4,876.44               0.00
+B-6                           0.00         610,664.96           3,257.29               0.00
+Totals                        0.00     532,048,639.68      17,680,527.98               0.00
+<FN>
+All distributions required by the Pooling and Servicing Agreement have been calculated by the
+Certificate Administrator on behalf of the Trustee.
+
+
+
+
+</FN>
+</TABLE>
+<TABLE>
+<CAPTION>
+
+                                                Principal Distribution Statement
+
+                         Original            Beginning          Scheduled       Unscheduled
+                             Face          Certificate          Principal         Principal                        Realized
+Class                       Amount              Balance       Distribution      Distribution        Accretion       Loss (1)
+
+<s>            <c>               <c>                  <c>                <c>               <c>              <c>
+1-A1                 32,150,000.00        29,834,733.32          34,831.37        168,378.44             0.00           0.00
+1-A2                    910,000.00           844,466.79             985.90          4,765.92             0.00           0.00
+1-A3                104,638,000.00        97,102,545.09         113,365.01        548,018.14             0.00           0.00
+1-A4                  8,180,000.00         7,590,921.26           8,862.23         42,840.92             0.00           0.00
+1-AR                         50.00                 0.00               0.00              0.00             0.00           0.00
+1-ALR                        50.00                 0.00               0.00              0.00             0.00           0.00
+2-A1                180,149,000.00       177,371,751.32          94,898.85        599,209.74             0.00           0.00
+3-A1                 39,106,000.00        34,952,615.94          43,306.56      2,182,104.05             0.00           0.00
+4-A1                207,075,000.00       164,703,338.35         216,634.95     11,249,678.92             0.00           0.00
+5-A1                 23,378,000.00        18,212,407.53          30,124.62            856.66             0.00           0.00
+B-1                   9,188,000.00         9,159,732.36           9,627.03              0.00             0.00           0.00
+B-2                   3,062,000.00         3,052,579.50           3,208.31              0.00             0.00           0.00
+B-3                   1,532,000.00         1,527,286.67           1,605.20              0.00             0.00           0.00
+B-4                   1,531,000.00         1,526,289.75           1,604.16              0.00             0.00           0.00
+B-5                     918,000.00           915,175.70             961.87              0.00             0.00           0.00
+B-6                     613,194.00           611,307.46             642.49              0.00             0.00           0.00
+Totals              612,430,294.00       547,405,151.04         560,658.55     14,795,852.79             0.00           0.00
+<FN>
+(1) Amount Does Not Include Excess Special Hazard, Bankruptcy, or Fraud Losses Unless Otherwise Disclosed.
+    Please Refer to the Prospectus Supplement for a Full Description.
+
+</FN>
+</TABLE>
+ <TABLE>
+ <CAPTION>
+
+                         Principal Distribution Statement (continued)
+
+                             Total               Ending           Ending               Total
+                         Principal          Certificate      Certificate           Principal
+ Class                    Reduction              Balance       Percentage        Distribution
+
+ <s>            <c>               <c>                  <c>              <c>
+ 1-A1                    203,209.81        29,631,523.51       0.92166481          203,209.81
+ 1-A2                      5,751.82           838,714.97       0.92166480            5,751.82
+ 1-A3                    661,383.15        96,441,161.94       0.92166481          661,383.15
+ 1-A4                     51,703.15         7,539,218.11       0.92166481           51,703.15
+ 1-AR                          0.00                 0.00       0.00000000                0.00
+ 1-ALR                         0.00                 0.00       0.00000000                0.00
+ 2-A1                    694,108.59       176,677,642.73       0.98073063          694,108.59
+ 3-A1                  2,225,410.61        32,727,205.33       0.83688450        2,225,410.61
+ 4-A1                 11,466,313.87       153,237,024.48       0.74000736       11,466,313.87
+ 5-A1                     30,981.28        18,181,426.25       0.77771521           30,981.28
+ B-1                       9,627.03         9,150,105.32       0.99587563            9,627.03
+ B-2                       3,208.31         3,049,371.19       0.99587563            3,208.31
+ B-3                       1,605.20         1,525,681.47       0.99587563            1,605.20
+ B-4                       1,604.16         1,524,685.59       0.99587563            1,604.16
+ B-5                         961.87           914,213.83       0.99587563              961.87
+ B-6                         642.49           610,664.96       0.99587563              642.49
+
+ Totals               15,356,511.34       532,048,639.68       0.86874971       15,356,511.34
+ </TABLE>
+<TABLE>
+<CAPTION>
+
+                                     Principal Distribution Factors Statement
+
+                             Original          Beginning         Scheduled        Unscheduled
+                                 Face        Certificate         Principal          Principal
+Class (2)                       Amount            Balance      Distribution       Distribution          Accretion
+
+
+ <s>           <c>                   <c>                <c>               <c>                <c>
+1-A1                     32,150,000.00       927.98548429        1.08340187         5.23727652         0.00000000
+1-A2                        910,000.00       927.98548352        1.08340659         5.23727473         0.00000000
+1-A3                    104,638,000.00       927.98548415        1.08340192         5.23727652         0.00000000
+1-A4                      8,180,000.00       927.98548411        1.08340220         5.23727628         0.00000000
+1-AR                             50.00         0.00000000        0.00000000         0.00000000         0.00000000
+1-ALR                            50.00         0.00000000        0.00000000         0.00000000         0.00000000
+2-A1                    180,149,000.00       984.58360202        0.52677978         3.32618965         0.00000000
+3-A1                     39,106,000.00       893.79164169        1.10741472        55.79972511         0.00000000
+4-A1                    207,075,000.00       795.38012000        1.04616661        54.32659143         0.00000000
+5-A1                     23,378,000.00       779.04044529        1.28858842         0.03664385         0.00000000
+B-1                       9,188,000.00       996.92341750        1.04778298         0.00000000         0.00000000
+B-2                       3,062,000.00       996.92341607        1.04778250         0.00000000         0.00000000
+B-3                       1,532,000.00       996.92341384        1.04778068         0.00000000         0.00000000
+B-4                       1,531,000.00       996.92341607        1.04778576         0.00000000         0.00000000
+B-5                         918,000.00       996.92342048        1.04778867         0.00000000         0.00000000
+B-6                         613,194.00       996.92342065        1.04777607         0.00000000         0.00000000
+<FN>
+(2)  All Classes are Per $1,000 Denomination.
+</FN>
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+
+                             Principal Distribution Factors Statement (continued)
+
+                                               Total             Ending            Ending              Total
+                         Realized          Principal        Certificate       Certificate          Principal
+Class                     Loss (3)          Reduction            Balance        Percentage       Distribution
+
+<s>            <c>               <c>                <c>                <c>               <c>
+1-A1                    0.00000000         6.32067838       921.66480591        0.92166481         6.32067838
+1-A2                    0.00000000         6.32068132       921.66480220        0.92166480         6.32068132
+1-A3                    0.00000000         6.32067843       921.66480571        0.92166481         6.32067843
+1-A4                    0.00000000         6.32067848       921.66480562        0.92166481         6.32067848
+1-AR                    0.00000000         0.00000000         0.00000000        0.00000000         0.00000000
+1-ALR                   0.00000000         0.00000000         0.00000000        0.00000000         0.00000000
+2-A1                    0.00000000         3.85296943       980.73063259        0.98073063         3.85296943
+3-A1                    0.00000000        56.90713983       836.88450187        0.83688450        56.90713983
+4-A1                    0.00000000        55.37275803       740.00736197        0.74000736        55.37275803
+5-A1                    0.00000000         1.32523227       777.71521302        0.77771521         1.32523227
+B-1                     0.00000000         1.04778298       995.87563343        0.99587563         1.04778298
+B-2                     0.00000000         1.04778250       995.87563357        0.99587563         1.04778250
+B-3                     0.00000000         1.04778068       995.87563316        0.99587563         1.04778068
+B-4                     0.00000000         1.04778576       995.87563031        0.99587563         1.04778576
+B-5                     0.00000000         1.04778867       995.87563181        0.99587563         1.04778867
+B-6                     0.00000000         1.04777607       995.87562827        0.99587563         1.04777607
+<FN>
+(3) Amount Does Not Include Excess Special Hazard, Bankruptcy, or Fraud Losses
+    Unless Otherwise Disclosed.
+    Please Refer to the Prospectus Supplement for a Full Description.
+</FN>
+</TABLE>
+
+
+
+
+
+<TABLE>
+<CAPTION>
+
+                                                Interest Distribution Statement
+
+                                                            Beginning                           Payment of
+                         Original          Current       Certificate/            Current            Unpaid            Current
+                             Face      Certificate           Notional            Accrued          Interest           Interest
+Class                       Amount             Rate            Balance           Interest         Shortfall          Shortfall
+
+<s>            <c>               <c>              <c>                <c>                <c>               <c>
+
+1-A1                 32,150,000.00         5.03974%      29,834,733.32         125,299.41              0.00               0.00
+1-A2                    910,000.00         5.03974%         844,466.79           3,546.58              0.00               0.00
+1-A3                104,638,000.00         5.03974%      97,102,545.09         407,809.64              0.00               0.00
+1-A4                  8,180,000.00         5.03974%       7,590,921.26          31,880.22              0.00               0.00
+1-AR                         50.00         5.03763%               0.00               0.00              0.00               0.00
+1-ALR                        50.00         5.03763%               0.00               0.00              0.00               0.00
+2-A1                180,149,000.00         4.55819%     177,371,751.32         673,744.63              0.00               0.00
+3-A1                 39,106,000.00         5.06616%      34,952,615.94         147,562.85              0.00               0.00
+4-A1                207,075,000.00         5.87173%     164,703,338.35         805,910.72              0.00               0.00
+5-A1                 23,378,000.00         3.71844%      18,212,407.53          56,434.83              0.00               0.00
+B-1                   9,188,000.00         5.13288%       9,159,732.36          39,179.81              0.00               0.00
+B-2                   3,062,000.00         5.13288%       3,052,579.50          13,057.09              0.00               0.00
+B-3                   1,532,000.00         5.13288%       1,527,286.67           6,532.81              0.00               0.00
+B-4                   1,531,000.00         5.13288%       1,526,289.75           6,528.55              0.00               0.00
+B-5                     918,000.00         5.13288%         915,175.70           3,914.57              0.00               0.00
+B-6                     613,194.00         5.13288%         611,307.46           2,614.80              0.00               0.00
+Totals              612,430,294.00                                           2,324,016.51              0.00               0.00
+
+</TABLE>
+<TABLE>
+<CAPTION>
+
+                                    Interest Distribution Statement (continued)
+
+                                                                                  Remaining                Ending
+                    Non-Supported                                   Total            Unpaid          Certificate/
+                         Interest           Realized             Interest          Interest              Notional
+Class                    Shortfall         Losses (4)         Distribution         Shortfall               Balance
+
+
+<s>            <c>               <c>                <c>                  <c>                 <c>
+1-A1                          0.00               0.00           125,299.41              0.00         29,631,523.51
+1-A2                          0.00               0.00             3,546.58              0.00            838,714.97
+1-A3                          0.00               0.00           407,809.64              0.00         96,441,161.94
+1-A4                          0.00               0.00            31,880.22              0.00          7,539,218.11
+1-AR                          0.00               0.00                 0.13              0.00                  0.00
+1-ALR                         0.00               0.00                 0.00              0.00                  0.00
+2-A1                          0.00               0.00           673,744.63              0.00        176,677,642.73
+3-A1                          0.00               0.00           147,562.85              0.00         32,727,205.33
+4-A1                          0.00               0.00           805,910.72              0.00        153,237,024.48
+5-A1                          0.00               0.00            56,434.83              0.00         18,181,426.25
+B-1                           0.00               0.00            39,179.81              0.00          9,150,105.32
+B-2                           0.00               0.00            13,057.09              0.00          3,049,371.19
+B-3                           0.00               0.00             6,532.81              0.00          1,525,681.47
+B-4                           0.00               0.00             6,528.55              0.00          1,524,685.59
+B-5                           0.00               0.00             3,914.57              0.00            914,213.83
+B-6                           0.00               0.00             2,614.80              0.00            610,664.96
+Totals                        0.00               0.00         2,324,016.64              0.00
+<FN>
+(4) Amount Does Not Include Excess Special Hazard, Bankruptcy, or Fraud Losses Unless Otherwise Disclosed.
+    Please Refer to the Prospectus Supplement for a Full Description.
+
+
+</FN>
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                             Interest Distribution Factors Statement
+
+                                                              Beginning                           Payment of
+                           Original          Current       Certificate/           Current             Unpaid            Current
+                               Face      Certificate           Notional           Accrued          Interest            Interest
+Class (5)                     Amount             Rate            Balance          Interest          Shortfall          Shortfall
+
+
+<s>           <c>                  <c>              <c>                <c>               <c>                <c>
+1-A1                   32,150,000.00         5.03974%       927.98548429        3.89733779         0.00000000         0.00000000
+1-A2                      910,000.00         5.03974%       927.98548352        3.89734066         0.00000000         0.00000000
+1-A3                  104,638,000.00         5.03974%       927.98548415        3.89733787         0.00000000         0.00000000
+1-A4                    8,180,000.00         5.03974%       927.98548411        3.89733741         0.00000000         0.00000000
+1-AR                           50.00         5.03763%         0.00000000        0.00000000         0.00000000         0.00000000
+1-ALR                          50.00         5.03763%         0.00000000        0.00000000         0.00000000         0.00000000
+2-A1                  180,149,000.00         4.55819%       984.58360202        3.73992989         0.00000000         0.00000000
+3-A1                   39,106,000.00         5.06616%       893.79164169        3.77340689         0.00000000         0.00000000
+4-A1                  207,075,000.00         5.87173%       795.38012000        3.89187840         0.00000000         0.00000000
+5-A1                   23,378,000.00         3.71844%       779.04044529        2.41401446         0.00000000         0.00000000
+B-1                     9,188,000.00         5.13288%       996.92341750        4.26423705         0.00000000         0.00000000
+B-2                     3,062,000.00         5.13288%       996.92341607        4.26423579         0.00000000         0.00000000
+B-3                     1,532,000.00         5.13288%       996.92341384        4.26423629         0.00000000         0.00000000
+B-4                     1,531,000.00         5.13288%       996.92341607        4.26423906         0.00000000         0.00000000
+B-5                       918,000.00         5.13288%       996.92342048        4.26423747         0.00000000         0.00000000
+B-6                       613,194.00         5.13288%       996.92342065        4.26422959         0.00000000         0.00000000
+<FN>
+
+(5)  All Classes are Per $1,000 Denomination.
+
+</FN>
+
+</TABLE>
+<TABLE>
+<CAPTION>
+                              Interest Distribution Factors Statement (continued)
+
+                                                                                Remaining             Ending
+                    Non-Supported                                 Total            Unpaid       Certificate/
+                         Interest           Realized           Interest          Interest           Notional
+Class                    Shortfall         Losses (6)       Distribution         Shortfall            Balance
+
+
+<s>            <c>               <c>                <c>                <c>            <c>
+1-A1                    0.00000000         0.00000000         3.89733779        0.00000000       921.66480591
+1-A2                    0.00000000         0.00000000         3.89734066        0.00000000       921.66480220
+1-A3                    0.00000000         0.00000000         3.89733787        0.00000000       921.66480571
+1-A4                    0.00000000         0.00000000         3.89733741        0.00000000       921.66480562
+1-AR                    0.00000000         0.00000000         2.60000000        0.00000000         0.00000000
+1-ALR                   0.00000000         0.00000000         0.00000000        0.00000000         0.00000000
+2-A1                    0.00000000         0.00000000         3.73992989        0.00000000       980.73063259
+3-A1                    0.00000000         0.00000000         3.77340689        0.00000000       836.88450187
+4-A1                    0.00000000         0.00000000         3.89187840        0.00000000       740.00736197
+5-A1                    0.00000000         0.00000000         2.41401446        0.00000000       777.71521302
+B-1                     0.00000000         0.00000000         4.26423705        0.00000000       995.87563343
+B-2                     0.00000000         0.00000000         4.26423579        0.00000000       995.87563357
+B-3                     0.00000000         0.00000000         4.26423629        0.00000000       995.87563316
+B-4                     0.00000000         0.00000000         4.26423906        0.00000000       995.87563031
+B-5                     0.00000000         0.00000000         4.26423747        0.00000000       995.87563181
+B-6                     0.00000000         0.00000000         4.26422959        0.00000000       995.87562827
+<FN>
+(6) Amount Does Not Include Excess Special Hazard, Bankruptcy,or Fraud Losses Unless
+    Otherwise Disclosed. Please Refer to the Prospectus Supplement for a Full Description.
+</FN>
+</TABLE>
+
+
+
+
+<TABLE>
+<CAPTION>
+
+                                         CERTIFICATEHOLDER ACCOUNT STATEMENT
+                                                 CERTIFICATE ACCOUNT
+
+<s>                                                                                      <c>
+Beginning Balance                                                                                              0.00
+Deposits
+     Payments of Interest and Principal                                                               17,817,367.18
+     Liquidations, Insurance Proceeds, Reserve Funds                                                           0.00
+     Proceeds from Repurchased Loans                                                                           0.00
+     Other Amounts (Servicer Advances)                                                                         0.00
+     Realized Loss (Gains, Subsequent Expenses & Recoveries)                                                   0.00
+     Prepayment Penalties                                                                                      0.00
+Total Deposits                                                                                        17,817,367.18
+
+Withdrawals
+     Reimbursement for Servicer Advances                                                                       0.00
+     Payment of Service Fee                                                                              136,839.20
+     Payment of Interest and Principal                                                                17,680,527.98
+Total Withdrawals (Pool Distribution Amount)                                                          17,817,367.18
+
+Ending Balance                                                                                                 0.00
+</TABLE>
+<TABLE>
+<CAPTION>
+
+                                      PREPAYMENT/CURTAILMENT INTEREST SHORTFALL
+<s>                                                                                       <c>
+Total Prepayment/Curtailment Interest Shortfall                                                                0.00
+Servicing Fee Support                                                                                          0.00
+Non-Supported Prepayment/Curtailment Interest Shortfall                                                        0.00
+
+
+</TABLE>
+<TABLE>
+<CAPTION>
+
+                                                   SERVICING FEES
+<s>                                                                                       <c>
+
+Gross Servicing Fee                                                                                      135,014.51
+Certificate Administration Fee                                                                             1,824.69
+Trustee Fee                                                                                                    0.00
+Supported Prepayment/Curtailment Interest Shortfall                                                            0.00
+Net Servicing Fee                                                                                        136,839.20
+
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                  LOAN STATUS STRATIFICATION/CREDIT ENHANCEMENT STATEMENT
+                                                     DELINQUENCY STATUS
+
+         DELINQUENT               BANKRUPTCY             FORECLOSURE             REO                     Total
+
+<s>          <c>                    <c>                     <c>                     <c>                     <c>
+
+          No of Loans             No of Loans            No of Loans             No of Loans             No of Loans
+          Principal Balance       Principal Balance      Principal Balance       Principal Balance       Principal Balance
+0-29 Days                         0                      0                       0                       0
+                                  0.00                   0.00                    0.00                    0.00
+
+30 Days   4                       0                      0                       0                       4
+          1,573,987.76            0.00                   0.00                    0.00                    1,573,987.76
+
+60 Days   1                       0                      0                       0                       1
+          133,562.59              0.00                   0.00                    0.00                    133,562.59
+
+90 Days   0                       0                      0                       0                       0
+          0.00                    0.00                   0.00                    0.00                    0.00
+
+120 Days  0                       0                      0                       0                       0
+          0.00                    0.00                   0.00                    0.00                    0.00
+
+150 Days  0                       0                      0                       0                       0
+          0.00                    0.00                   0.00                    0.00                    0.00
+
+180+ Days 0                       0                      0                       0                       0
+          0.00                    0.00                   0.00                    0.00                    0.00
+
+Totals    5                       0                      0                       0                       5
+          1,707,550.35            0.00                   0.00                    0.00                    1,707,550.35
+
+
+          No of Loans             No of Loans            No of Loans             No of Loans             No of Loans
+          Principal Balance       Principal Balance      Principal Balance       Principal Balance       Principal Balance
+0-29 Days                         0.000000%              0.000000%               0.000000%               0.000000%
+                                  0.000000%              0.000000%               0.000000%               0.000000%
+
+30 Days   0.334728%               0.000000%              0.000000%               0.000000%               0.334728%
+          0.295606%               0.000000%              0.000000%               0.000000%               0.295606%
+
+60 Days   0.083682%               0.000000%              0.000000%               0.000000%               0.083682%
+          0.025084%               0.000000%              0.000000%               0.000000%               0.025084%
+
+90 Days   0.000000%               0.000000%              0.000000%               0.000000%               0.000000%
+          0.000000%               0.000000%              0.000000%               0.000000%               0.000000%
+
+120 Days  0.000000%               0.000000%              0.000000%               0.000000%               0.000000%
+          0.000000%               0.000000%              0.000000%               0.000000%               0.000000%
+
+150 Days  0.000000%               0.000000%              0.000000%               0.000000%               0.000000%
+          0.000000%               0.000000%              0.000000%               0.000000%               0.000000%
+
+180+ Days 0.000000%               0.000000%              0.000000%               0.000000%               0.000000%
+          0.000000%               0.000000%              0.000000%               0.000000%               0.000000%
+
+Totals    0.418410%               0.000000%              0.000000%               0.000000%               0.418410%
+          0.320690%               0.000000%              0.000000%               0.000000%               0.320690%
+
+</TABLE>
+ <TABLE>
+ <CAPTION>
+                                                  Delinquency Status By Groups
+
+                         DELINQUENT           BANKRUPTCY            FORECLOSURE          REO                  Total
+ <s>                     <C>                  <C>                   <C>                  <C>                  <C>
+ 1                       No of Loans          No of Loans           No of Loans          No of Loans          No of Loans
+                         Principal Balance    Principal Balance     Principal Balance    Principal Balance    Principal Balance
+
+ 0-29 Days                                    0                     0                    0                    0
+                                              0.00                  0.00                 0.00                 0.00
+
+ 30 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 60 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 90 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 120 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 150 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 180 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ Totals                  0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+
+
+ 0-29 Days                                    0.000000%             0.000000%            0.000000%            0.000000%
+                                              0.000000%             0.000000%            0.000000%            0.000000%
+
+ 30 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 60 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 90 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 120 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 150 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 180 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ Totals                  0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+
+<CAPTION>
+                         DELINQUENT           BANKRUPTCY            FORECLOSURE          REO                  Total
+ <s>                     <C>                  <C>                   <C>                  <C>                  <C>
+ 2                       No of Loans          No of Loans           No of Loans          No of Loans          No of Loans
+                         Principal Balance    Principal Balance     Principal Balance    Principal Balance    Principal Balance
+
+ 0-29 Days                                    0                     0                    0                    0
+                                              0.00                  0.00                 0.00                 0.00
+
+ 30 Days                 2                    0                     0                    0                    2
+                         846,549.18           0.00                  0.00                 0.00                 846,549.18
+
+ 60 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 90 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 120 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 150 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 180 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ Totals                  2                    0                     0                    0                    2
+                         846,549.18           0.00                  0.00                 0.00                 846,549.18
+
+
+
+ 0-29 Days                                    0.000000%             0.000000%            0.000000%            0.000000%
+                                              0.000000%             0.000000%            0.000000%            0.000000%
+
+ 30 Days                 0.471698%            0.000000%             0.000000%            0.000000%            0.471698%
+                         0.465569%            0.000000%             0.000000%            0.000000%            0.465569%
+
+ 60 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 90 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 120 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 150 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 180 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ Totals                  0.471698%            0.000000%             0.000000%            0.000000%            0.471698%
+                         0.465569%            0.000000%             0.000000%            0.000000%            0.465569%
+
+<CAPTION>
+
+                         DELINQUENT           BANKRUPTCY            FORECLOSURE          REO                  Total
+ <s>                     <C>                  <C>                   <C>                  <C>                  <C>
+ 3                       No of Loans          No of Loans           No of Loans          No of Loans          No of Loans
+                         Principal Balance    Principal Balance     Principal Balance    Principal Balance    Principal Balance
+
+ 0-29 Days                                    0                     0                    0                    0
+                                              0.00                  0.00                 0.00                 0.00
+
+ 30 Days                 1                    0                     0                    0                    1
+                         85,889.75            0.00                  0.00                 0.00                 85,889.75
+
+ 60 Days                 1                    0                     0                    0                    1
+                         133,562.59           0.00                  0.00                 0.00                 133,562.59
+
+ 90 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 120 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 150 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 180 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ Totals                  2                    0                     0                    0                    2
+                         219,452.34           0.00                  0.00                 0.00                 219,452.34
+
+
+
+ 0-29 Days                                    0.000000%             0.000000%            0.000000%            0.000000%
+                                              0.000000%             0.000000%            0.000000%            0.000000%
+
+ 30 Days                 0.714286%            0.000000%             0.000000%            0.000000%            0.714286%
+                         0.253627%            0.000000%             0.000000%            0.000000%            0.253627%
+
+ 60 Days                 0.714286%            0.000000%             0.000000%            0.000000%            0.714286%
+                         0.394403%            0.000000%             0.000000%            0.000000%            0.394403%
+
+ 90 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 120 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 150 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 180 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ Totals                  1.428571%            0.000000%             0.000000%            0.000000%            1.428571%
+                         0.648030%            0.000000%             0.000000%            0.000000%            0.648030%
+
+<CAPTION>
+
+                         DELINQUENT           BANKRUPTCY            FORECLOSURE          REO                  Total
+ <s>                     <C>                  <C>                   <C>                  <C>                  <C>
+ 4                       No of Loans          No of Loans           No of Loans          No of Loans          No of Loans
+                         Principal Balance    Principal Balance     Principal Balance    Principal Balance    Principal Balance
+
+ 0-29 Days                                    0                     0                    0                    0
+                                              0.00                  0.00                 0.00                 0.00
+
+ 30 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 60 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 90 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 120 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 150 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 180 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ Totals                  0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+
+
+ 0-29 Days                                    0.000000%             0.000000%            0.000000%            0.000000%
+                                              0.000000%             0.000000%            0.000000%            0.000000%
+
+ 30 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 60 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 90 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 120 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 150 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 180 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ Totals                  0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+<CAPTION>
+
+                         DELINQUENT           BANKRUPTCY            FORECLOSURE          REO                  Total
+ <s>                     <C>                  <C>                   <C>                  <C>                  <C>
+ 5                       No of Loans          No of Loans           No of Loans          No of Loans          No of Loans
+                         Principal Balance    Principal Balance     Principal Balance    Principal Balance    Principal Balance
+
+ 0-29 Days                                    0                     0                    0                    0
+                                              0.00                  0.00                 0.00                 0.00
+
+ 30 Days                 1                    0                     0                    0                    1
+                         641,548.83           0.00                  0.00                 0.00                 641,548.83
+
+ 60 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 90 Days                 0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 120 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 150 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ 180 Days                0                    0                     0                    0                    0
+                         0.00                 0.00                  0.00                 0.00                 0.00
+
+ Totals                  1                    0                     0                    0                    1
+                         641,548.83           0.00                  0.00                 0.00                 641,548.83
+
+
+
+ 0-29 Days                                    0.000000%             0.000000%            0.000000%            0.000000%
+                                              0.000000%             0.000000%            0.000000%            0.000000%
+
+ 30 Days                 2.631579%            0.000000%             0.000000%            0.000000%            2.631579%
+                         3.400549%            0.000000%             0.000000%            0.000000%            3.400549%
+
+ 60 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 90 Days                 0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 120 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 150 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ 180 Days                0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+                         0.000000%            0.000000%             0.000000%            0.000000%            0.000000%
+
+ Totals                  2.631579%            0.000000%             0.000000%            0.000000%            2.631579%
+                         3.400549%            0.000000%             0.000000%            0.000000%            3.400549%
+
+
+
+ </TABLE>
+
+<TABLE>
+<CAPTION>
+
+                                               OTHER INFORMATION
+
+<s>                                                                                 <c>
+Current Period Class A Insufficient Funds                                                                  0.00
+Principal Balance of Contaminated Properties                                                               0.00
+Periodic Advance                                                                                       7,215.93
+
+</TABLE>
+
+
+
+
+
+
+ <TABLE>
+ <CAPTION>
+
+                                     COLLATERAL STATEMENT
+ <S>                                                                                <C>
+ Collateral Description                                                    Mixed Fixed & Arm
+ Weighted Average Gross Coupon                                                     5.394591%
+ Weighted Average Net Coupon                                                       5.098617%
+ Weighted Average Pass-Through Rate                                                5.094617%
+ Weighted Average Maturity (Stepdown Calculation)                                        342
+
+ Beginning Scheduled Collateral Loan Count                                             1,229
+ Number Of Loans Paid In Full                                                             34
+ Ending Scheduled Collateral Loan Count                                                1,195
+
+ Beginning Scheduled Collateral Balance                                       547,405,151.43
+ Ending Scheduled Collateral Balance                                          532,048,640.09
+ Ending Actual Collateral Balance at 30-Nov-2004                              532,461,914.46
+
+ Monthly P &I Constant                                                          3,021,514.28
+ Special Servicing Fee                                                                  0.00
+ Prepayment Penalties                                                                   0.00
+ Realized Loss Amount                                                                   0.00
+ Cumulative Realized Loss                                                               0.00
+ Scheduled Principal                                                              560,658.55
+ Unscheduled Principal                                                         14,795,852.79
+ </TABLE>
+ <TABLE>
+ <CAPTION>
+             <S>                                          <C>
+
+
+ </TABLE>
+   <TABLE>
+   <CAPTION>
+
+                             Miscellaneous Reporting
+   <S>                                                        <C>
+   Total Senior %                                                  96.932369%
+   Aggregate Subordinate %                                          3.067631%
+
+   </TABLE>
+<TABLE>
+<CAPTION>
+                        Group Level Collateral Statement
+<S>                                                   <C>
+Group                                                         1                                2                                3
+Collateral Description                        Fixed 15/30 & ARM                Fixed 15/30 & ARM                Fixed 15/30 & ARM
+Weighted Average Coupon Rate                           5.293740                         4.937187                         5.320155
+Weighted Average Net Rate                              5.043740                         4.562187                         5.070155
+Weighted Average Maturity                                   355                              352                              350
+Beginning Loan Count                                        241                              425                              145
+Loans Paid In Full                                            1                                1                                5
+Ending Loan Count                                           240                              424                              140
+Beginning Scheduled Balance                      139,483,861.62                   182,458,536.39                    36,054,812.46
+Ending scheduled Balance                         138,557,013.97                   181,761,706.23                    33,828,036.22
+Record Date                                          11/30/2004                       11/30/2004                       11/30/2004
+Principal And Interest Constant                      778,170.27                       848,313.74                       204,519.84
+Scheduled Principal                                  162,844.23                        97,620.42                        44,672.19
+Unscheduled Principal                                764,003.42                       599,209.74                     2,182,104.05
+Scheduled Interest                                   615,326.04                       750,693.32                       159,847.65
+Servicing Fees                                        29,059.14                        57,018.29                         7,511.42
+Master Servicing Fees                                      0.00                             0.00                             0.00
+Trustee Fee                                                0.00                             0.00                             0.00
+FRY Amount                                                 0.00                             0.00                             0.00
+Special Hazard Fee                                         0.00                             0.00                             0.00
+Other Fee                                                464.95                           608.20                           120.18
+Pool Insurance Fee                                         0.00                             0.00                             0.00
+Spread Fee 1                                               0.00                             0.00                             0.00
+Spread Fee 2                                               0.00                             0.00                             0.00
+Spread Fee 3                                               0.00                             0.00                             0.00
+Net Interest                                         585,801.95                       693,066.83                       152,216.05
+Realized Loss Amount                                       0.00                             0.00                             0.00
+Cumulative Realized Loss                                   0.00                             0.00                             0.00
+Percentage of Cumulative Losses                          0.0000                           0.0000                           0.0000
+Prepayment Penalties                                       0.00                             0.00                             0.00
+Special Servicing Fee                                      0.00                             0.00                             0.00
+Pass-Through Rate                                      5.039740                         4.558187                         5.066155
+</TABLE>
+<TABLE>
+<CAPTION>
+                      Group Level Collateral Statement
+<S>                                                   <C>
+Group                                                         4                                 5                            Total
+Collateral Description                        Fixed 15/30 & ARM                 Fixed 15/30 & ARM                Mixed Fixed & Arm
+Weighted Average Coupon Rate                           6.125726                          4.097443                         5.394591
+Weighted Average Net Rate                              5.875726                          3.722443                         5.098617
+Weighted Average Maturity                                   324                               336                              342
+Beginning Loan Count                                        380                                38                            1,229
+Loans Paid In Full                                           27                                 0                               34
+Ending Loan Count                                           353                                38                            1,195
+Beginning Scheduled Balance                      170,537,471.13                     18,870,469.83                   547,405,151.43
+Ending scheduled Balance                         159,063,483.60                     18,838,400.07                   532,048,640.09
+Record Date                                          11/30/2004                        11/30/2004                       11/30/2004
+Principal And Interest Constant                    1,094,863.44                         95,646.99                     3,021,514.28
+Scheduled Principal                                  224,308.61                         31,213.10                       560,658.55
+Unscheduled Principal                             11,249,678.92                            856.66                    14,795,852.79
+Scheduled Interest                                   870,554.83                         64,433.89                     2,460,855.73
+Servicing Fees                                        35,528.64                          5,897.02                       135,014.51
+Master Servicing Fees                                      0.00                              0.00                             0.00
+Trustee Fee                                                0.00                              0.00                             0.00
+FRY Amount                                                 0.00                              0.00                             0.00
+Special Hazard Fee                                         0.00                              0.00                             0.00
+Other Fee                                                568.46                             62.90                         1,824.69
+Pool Insurance Fee                                         0.00                              0.00                             0.00
+Spread Fee 1                                               0.00                              0.00                             0.00
+Spread Fee 2                                               0.00                              0.00                             0.00
+Spread Fee 3                                               0.00                              0.00                             0.00
+Net Interest                                         834,457.73                         58,473.97                     2,324,016.53
+Realized Loss Amount                                       0.00                              0.00                             0.00
+Cumulative Realized Loss                                   0.00                              0.00                             0.00
+Percentage of Cumulative Losses                          0.0000                            0.0000                           0.0000
+Prepayment Penalties                                       0.00                              0.00                             0.00
+Special Servicing Fee                                      0.00                              0.00                             0.00
+Pass-Through Rate                                      5.871726                          3.718443                         5.094617
+</TABLE>
+  <TABLE>
+  <CAPTION>
+                                       Miscellaneous Reporting
+
+  <S>          <S>                                                                <C>
+  Group 1
+               CPR                                                                        6.385626%
+               Senior %                                                                  97.052566%
+               Senior Prepay %                                                          100.000000%
+               Subordinate %                                                              2.947434%
+               Subordinate Prepay %                                                       0.000000%
+               Recovery Amount                                                                 0.00
+  Group 2
+               CPR                                                                        3.872530%
+               Senior %                                                                  97.212087%
+               Senior Prepay %                                                          100.000000%
+               Subordinate %                                                              2.787913%
+               Subordinate Prepay %                                                       0.000000%
+               Recovery Amount                                                                 0.00
+  Group 3
+               CPR                                                                       52.769376%
+               Senior %                                                                  96.942998%
+               Senior Prepay %                                                          100.000000%
+               Subordinate %                                                              3.057002%
+               Subordinate Prepay %                                                       0.000000%
+               Recovery Amount                                                                 0.00
+
+  </TABLE>
+  <TABLE>
+  <CAPTION>
+                                       Miscellaneous Reporting
+
+  <S>          <S>                                                                <C>
+  Group 4
+               CPR                                                                       55.957971%
+               Senior %                                                                  96.578973%
+               Senior Prepay %                                                          100.000000%
+               Subordinate %                                                              3.421027%
+               Subordinate Prepay %                                                       0.000000%
+               Recovery Amount                                                                 0.00
+  Group 5
+               CPR                                                                        0.054553%
+               Senior %                                                                  96.512740%
+               Senior Prepay %                                                          100.000000%
+               Subordinate %                                                              3.487260%
+               Subordinate Prepay %                                                       0.000000%
+               Recovery Amount                                                                 0.00
+
+  </TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

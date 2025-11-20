@@ -1,0 +1,480 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JUma/aH1ymempPwHylFZCXwKfUDI4cwAYrgpxza+66Gtb4j5wb4IOFJndFJ3aSsg
+ 1Mh+8/sLH0j1DVcLJjipKA==
+
+<SEC-DOCUMENT>0001104659-04-040744.txt : 20041222
+<SEC-HEADER>0001104659-04-040744.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041221215052
+ACCESSION NUMBER:		0001104659-04-040744
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JOSTENS HOLDING CORP
+		CENTRAL INDEX KEY:			0001277021
+		STANDARD INDUSTRIAL CLASSIFICATION:	JEWELRY, PRECIOUS METAL [3911]
+		IRS NUMBER:				200019713
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-112055
+		FILM NUMBER:		041219033
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5501 AMERICAN BLVD WEST
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55437
+		BUSINESS PHONE:		9528303300
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04-15229_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US" link="blue" vlink="purple">
+
+<div style="font-family:Times New Roman;">
+
+<div style="border:none;border-top:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;color:windowtext;margin:0in 0in .0001pt;padding:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE
+COMMISSION</font></b></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, DC 20549</font></b></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="1" width="25%" noshade color="black" align="center">
+
+</font></div>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM 8-K</font></b></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT<br>
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></b></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of
+earliest event reported):&#160; <b><font style="font-weight:bold;">December 21, 2004</font></b></font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">JOSTENS
+HOLDING CORP.</font></b></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant
+as specified in its charter)</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">DELAWARE</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.72%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="31%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">333-112055</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.68%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.52%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">90-0207875</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other
+  jurisdiction</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.72%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.68%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.52%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">of incorporation)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.72%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">File Number)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.68%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.52%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Identification No.)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.72%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.68%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.52%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:48.76%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">5501
+  American Boulevard West <br>
+  Minneapolis, Minnesota</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.48%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="48%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:48.76%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">55432</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:48.76%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal
+  executive offices)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.48%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:48.76%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Zip Code)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.72%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.68%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.52%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan="7" valign="bottom" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone
+  number, including area code: <b><font style="font-weight:bold;">(952) 830-3300</font></b></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.72%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" colspan="3" valign="bottom" style="padding:0in 0in 0in 0in;width:31.54%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.68%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="bottom" style="padding:0in 0in 0in 0in;width:31.52%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan="7" valign="bottom" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Not
+  Applicable</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="100%" colspan="7" valign="bottom" style="padding:0in 0in 0in 0in;width:100.0%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Former name or former
+  address, if changed since last report)</font></p>
+  </td>
+ </tr>
+ <tr height="0">
+  <td width="236" style="border:none;"></td>
+  <td width="20" style="border:none;"></td>
+  <td width="108" style="border:none;"></td>
+  <td width="19" style="border:none;"></td>
+  <td width="109" style="border:none;"></td>
+  <td width="20" style="border:none;"></td>
+  <td width="236" style="border:none;"></td>
+ </tr>
+</table>
+
+</div>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:</font></p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Written communications pursuant to Rule 425
+under the Securities Act (17 CFR 230.425)</p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Soliciting material pursuant to Rule 14a-12
+under the Exchange Act (17 CFR 240.14a-12)</p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Pre-commencement communications pursuant to
+Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Pre-commencement communications pursuant to
+Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</p>
+
+<div style="border:none;border-bottom:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;color:windowtext;margin:0in 0in .0001pt .25in;padding:0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p style="color:windowtext;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\gpearmon\04-15229-1\task259979\15229-1-ba.htm',USER='gpearmo',CD='Dec 21 20:27 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:-1.0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item
+1.01</font></b><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font face="Times New Roman" style="font-weight:bold;">Entry Into A Material Definitive Agreement</font></b></p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="layout-grid-mode:both;">On December 21, 2004, Jostens IH Corp. (the &#147;Company&#148;),
+a wholly-owned subsidiary of Jostens Holding Corp., entered into the First
+Amendment (the &#147;First Amendment&#148;) to the Credit Agreement, dated as of October
+4, 2004 (as amended by the First Amendment, the &#147;Credit Agreement&#148;), among the
+Company, as Borrower, Jostens Canada Ltd., as Canadian Borrower, Jostens
+Secondary Holdings Corp., as Guarantor, the lenders from time to time party
+thereto, Credit Suisse First Boston, as Administrative Agent, and Credit Suisse
+First Boston Toronto Branch, as Canadian Administrative Agent.&#160; The First Amendment provides for $870.0
+million of new tranche C term loans, the proceeds of which were used to repay
+in full the outstanding borrowings under the tranche B term loans.&#160; The Company effectively reduced the interest
+rate on the tranche B term loans by 25 basis points by refinancing the tranche
+B term loans with new tranche C term loans and did not incur any additional
+borrowings under the First Amendment.</font></p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:-1.0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item
+2.03</font></b><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font face="Times New Roman" style="font-weight:bold;">Creation of a Direct Financial Obligation or
+an Obligation Under Off-Balance Sheet Arrangements</font></b></p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; On
+December 21, 2004, the Company entered into the First Amendment to borrow
+$870.0 million of new tranche C term loans as described above under Item
+1.01.&#160; The proceeds from the new tranche
+C term loans were used to repay in full the outstanding borrowings under the
+tranche B term loans.&#160; The Company&#146;s and
+Jostens Canada Ltd.&#146;s aggregate borrowings under the Credit Agreement, as
+amended by the First Amendment, consist of $1,020.0 million of term loans, as
+well as approximately $8.1 million of loans outstanding under the Canadian
+portion of the $250.0 million revolving credit facility.&#160; The interest rate per year on the tranche C
+term loans is ABR plus 1.25% or Adjusted LIBOR plus 2.25%, subject to a
+step-down determined by reference to a performance test, as compared to ABR
+plus 1.50% or Adjusted LIBOR plus 2.50% on the tranche B term loans that were
+refinanced.&#160; The tranche C term loans
+will amortize on a semi-annual basis commencing on July 1, 2005 and mature on
+October 4, 2011, with amortization prior to the maturity date to be at nominal
+percentages.&#160; The tranche C term loans
+are also subject (with certain exceptions) to a 1% prepayment premium if such
+loans are voluntarily prepaid in full on or prior to December 21, 2005 with the
+proceeds of new bank loans bearing interest at a lower rate than, but otherwise
+having substantially the same terms as, the tranche C term loans. All other
+terms of the Credit Agreement remain substantially the same as they were prior
+to the First Amendment.</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+<div style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\gpearmon\04-15229-1\task259979\15229-1-ba.htm',USER='gpearmo',CD='Dec 21 20:27 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style="color:windowtext;margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="57%" valign="top" style="padding:0in .7pt 0in .7pt;width:57.38%;">
+  <p style="color:windowtext;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="42%" valign="top" style="padding:0in .7pt 0in .7pt;width:42.62%;">
+  <p style="color:windowtext;margin:0in 0in .0001pt .15in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">JOSTENS
+  HOLDING CORP.</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="57%" valign="top" style="padding:0in .7pt 0in .7pt;width:57.38%;">
+  <p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="42%" valign="top" style="padding:0in .7pt 0in .7pt;width:42.62%;">
+  <p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="57%" valign="top" style="padding:0in .7pt 0in .7pt;width:57.38%;">
+  <p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="42%" valign="top" style="padding:0in .7pt 0in .7pt;width:42.62%;">
+  <p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="57%" valign="top" style="padding:0in .7pt 0in .7pt;width:57.38%;">
+  <p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: December 21, 2004</font></p>
+  </td>
+  <td width="42%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:42.62%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/&nbsp;&nbsp;&nbsp;Paul
+  B. Carousso</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="57%" valign="top" style="padding:0in .7pt 0in .7pt;width:57.38%;">
+  <p style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="42%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:42.62%;">
+  <p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Paul B. Carousso</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="57%" valign="top" style="padding:0in .7pt 0in .7pt;width:57.38%;">
+  <h5 align="left" style="color:windowtext;font-style:italic;font-weight:normal;letter-spacing:-.15pt;margin:0in 0in .0001pt;page-break-after:auto;text-align:left;text-indent:0in;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;letter-spacing:0pt;">&nbsp;</font></i></h5>
+  </td>
+  <td width="42%" valign="top" style="padding:0in .7pt 0in .7pt;width:42.62%;">
+  <h5 style="color:windowtext;font-style:italic;font-weight:normal;letter-spacing:-.15pt;margin:0in 0in .0001pt;page-break-after:auto;text-align:center;text-indent:0in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;letter-spacing:0pt;">Vice President, Finance</font></i></h5>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="color:windowtext;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+<div style="color:windowtext;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\gpearmon\04-15229-1\task259979\15229-1-ba.htm',USER='gpearmo',CD='Dec 21 20:27 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

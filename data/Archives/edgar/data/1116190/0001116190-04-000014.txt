@@ -1,0 +1,1335 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UaryYQsgGgbFqaSD3Y8KzqENPSiODhrTUNA4YR/SbdPGuXFa/kdk59jTH0odyBZg
+ zs+HPzudmL9tiD14jTIX3Q==
+
+<SEC-DOCUMENT>0001116190-04-000014.txt : 20041228
+<SEC-HEADER>0001116190-04-000014.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228133150
+ACCESSION NUMBER:		0001116190-04-000014
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041217
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOUSEHOLD AUTOMOTIVE TRUST V SERIES 2000 2
+		CENTRAL INDEX KEY:			0001116190
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-84129-02
+		FILM NUMBER:		041228084
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2700 SANDERS RD
+		CITY:			PROSPECT HEIGHTS
+		STATE:			IL
+		ZIP:			60070
+		BUSINESS PHONE:		8475645000
+
+	MAIL ADDRESS:	
+		STREET 1:		2700 SANDERS RD
+		CITY:			PROSPECT HEIGHTS
+		STATE:			IL
+		ZIP:			60070
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>auto20002.htm
+<TEXT>
+<HTML>
+<HEAD>
+
+<TITLE>SECURITIES AND EXCHANGE COMMISSION</TITLE>
+</HEAD>
+<BODY>
+
+<FONT SIZE=2></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=636>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">UNITED STATES</P>
+<P ALIGN="CENTER">SECURITIES AND EXCHANGE COMMISSION</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<FONT SIZE=3><P ALIGN="CENTER">Washington, D.C. 20549<BR>
+</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<B><P ALIGN="CENTER">FORM 8-K<BR>
+</B></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<B><P ALIGN="CENTER">CURRENT REPORT</B></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<B><P ALIGN="CENTER">Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934<BR>
+</B></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P>Date of Report (Date of earliest event reported):<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 17, 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">HOUSEHOLD AUTOMOTIVE TRUST V, SERIES 2000-2</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">(Exact name of registrant as specified in its charter)<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HSBC FINANCE CORPORATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>(Master Servicer of the Trust)<BR>
+(Exact name as specified in Master Servicer's charter)<BR>
+</TD>
+</TR>
+<TR><TD WIDTH="35%" VALIGN="TOP" COLSPAN=4>
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delaware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P ALIGN="CENTER">(State or other jurisdiction of incorporation of Master Servicer)<BR>
+</TD>
+<TD WIDTH="32%" VALIGN="TOP">
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;333-84129-02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P ALIGN="CENTER">(Commission File Numbers)</TD>
+<TD WIDTH="34%" VALIGN="TOP" COLSPAN=2>
+<U><P ALIGN="CENTER">Not Applicable<BR>
+</U>(IRS Employer Identification Number of Registrant)</TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" COLSPAN=6>
+<U><P>&nbsp;&nbsp;&nbsp;2700 Sanders Road, Prospect Heights, Illinois&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>(Address of principal executive offices of Master Servicer)<U> </U></TD>
+<TD WIDTH="27%" VALIGN="TOP">
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60070&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>(Zip Code)<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P>Master Servicer's telephone number, including area code <U>847/564-5000</U></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+<TD WIDTH="27%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">Not Applicable</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">(Former name or former address, if changed since last report.)</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+
+<P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.below):</P>
+
+<P>[  ]  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+
+<P>[  ]  Solicitation material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+
+<P>[  ]  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act </P>
+<P>(17 CFR 240.14d-2(b))</P>
+
+<P>[  ]  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act </P>
+<P>(17 CFR 240.13e-4(c))</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">- Page 1 -</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P>Item 9.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FINANCIAL STATEMENTS AND EXHIBITS<BR>
+</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>
+<P>(c)&nbsp;&nbsp;&nbsp;<U>Exhibits<BR>
+</U></TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>
+<P>99</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=5>
+<P ALIGN="JUSTIFY">Monthly Master Servicer's Certificate to Trustee dated December 17, 2004 pursuant to Section 4.9 of the Master Sale and Servicing Agreement dated as of June 1, 2000 (the "Sale and Servicing Agreement") by and among Household Automotive Trust V, as Issuer, Household Auto Receivables Corporation, as Seller, Household Finance Corporation, as Master Servicer, and Wells Fargo Bank Minnesota, National Association, as Indenture Trustee with respect to the Series 2000-2 Notes.</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">SIGNATURE<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the Master Servicer has duly caused this report to be signed on behalf of the undersigned hereunto duly authorized.</P>
+<P ALIGN="JUSTIFY"></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="86%" VALIGN="TOP" COLSPAN=6>
+<P>HSBC FINANCE CORPORATION,<BR>
+as Master Servicer of and on behalf of the <BR>
+<U>HOUSEHOLD AUTOMOTIVE TRUST V, SERIES 2000-2</U><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Registrant)</TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="86%" VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="86%" VALIGN="TOP" COLSPAN=6>
+<P>By:&nbsp;&nbsp;<U>/s/ P. D. Schwartz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patrick D. Schwartz<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Authorized Representative<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P>Dated:&nbsp;<U>December 27, 2004</U></TD>
+</TR>
+<TR><TD WIDTH="21%" VALIGN="TOP" COLSPAN=3>&nbsp;</TD>
+<TD WIDTH="79%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">EXHIBIT INDEX</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>
+<P>Exhibit<BR>
+<U>Number&nbsp;&nbsp;&nbsp;</U></TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=5>
+<P><BR>
+<U>Exhibit<BR>
+</U></TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>
+<P>99</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=5>
+<P ALIGN="JUSTIFY">Monthly Master Servicer's Certificate to Trustee dated December 17, 2004 pursuant to Section 4.9 of the Master Sale and Servicing Agreement dated as of June 1, 2000 (the "Sale and Servicing Agreement") by and among Household Automotive Trust V, as Issuer, Household Auto Receivables Corporation, as Seller, Household Finance Corporation, as Master Servicer, and Wells Fargo Bank Minnesota, National Association, as Indenture Trustee with respect to the Series 2000-2 Notes.</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=7>
+<P ALIGN="CENTER">- Page 2 - </TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>xauto20002.htm
+<TEXT>
+<HTML>
+<HEAD>
+
+<TITLE>MASTER SERVICER'S CERTIFICATE</TITLE>
+</HEAD>
+<BODY>
+
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=2 WIDTH=626>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">MASTER SERVICER'S CERTIFICATE</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">(Delivered pursuant to Section 4.9</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">of the Master Sale and Servicing Agreement)</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">HSBC FINANCE CORPORATION,</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">    Master Servicer</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">HOUSEHOLD AUTO RECEIVABLES CORPORATION</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">HOUSEHOLD AUTOMOTIVE TRUST V</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">Class A Notes, Series 2000-2</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>1.   This Certificate relates to the Distribution Date occurring on</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">December 17, 2004</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>2.  Series 2000-2 Information</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(a)  The amount of Collected Funds with respect to the Collection Period was equal to  </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$6,850,622.93 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(b)  The amount of Available Funds with respect to the Collection Period was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$6,850,622.93 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(c)  The  Liquidated Receivables for the Collection Period was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$1,136,411.05 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(d)  Net Liquidation Proceeds for the Collection Period was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$455,444.63 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(e)  The principal balance of Series 2000-2 Receivables at the beginning</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>        of the Collection Period was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$88,890,271.12 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(f)  The principal balance of Series 2000-2 Receivables on the last day</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>        of the Collection Period was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$82,541,884.14 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(g)  The aggregate outstanding  balance of the Series 2000-2 Receivables which were one</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>        payment delinquent as of the close of business on the last day of the</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>        Collection Period with respect to such Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$11,564,996.17 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(h)  The aggregate outstanding  balance of the Series 2000-2 Receivables which were two</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>        payments delinquent as of the close of business on the last day of the </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>        Collection Period with respect to such Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$4,781,740.12 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(i)  The aggregate outstanding  balance of the Series 2000-2 Receivables which were three or</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>        more payments delinquent as of the close of business on the last day of the</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>        Collection Period with respect to such Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$3,475,359.38 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(j)  The aggregate outstanding  balance of the Receivables which have been repossessed</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$1,212,748.28 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(k)  The Base Servicing Fee paid on the Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$222,225.68 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(l)  The Class A Monthly Principal Distributable Amount for the</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>       Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$3,709,173.51 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(m)  The Additional Class A Principal Distributable Amount for the Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$133,392.75 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(n)  The Class A Principal Distributable Amount for the Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$3,842,566.26 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(o)  The Principal Amount Available for the Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$6,303,452.30 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(p)  The Aggregate Note Principal Balance as of the prior payment date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$74,085,474.83 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(q)  The Aggregate Optimal Note Principal Balance was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$70,376,301.32 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(r)  The Aggregate Note Principal Balance as of the payment date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$70,242,908.57 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(s)  The Targeted Credit Enhancement Amount was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$31,365,915.97 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(t)  The Targeted Credit Enhancement Amount as a percentage of the Pool</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>       Balance on the Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">38.000000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(u)  The Targeted Reserve Account Balance was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$19,200,333.15 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(v)  The Reserve Account Deposit Amount for the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(w)  The Maximum Reserve Account Deposit Amount for the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(x)  The Reserve Account Shortfall for the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(y)  The amount on deposit in the Reserve Account after distributions was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$19,200,333.15 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(z)  The amount on deposit in the Reserve Account as a percentage of the Pool</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>       Balance on the Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">23.261322%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(aa)  The Targeted Overcollateralization Amount was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$12,165,582.82 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(ab)   The ending overcollateralization was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$12,298,975.57 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(ac)  The ending overcollateralization as a percentage of the Pool Balance on the </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>       Distribution Date was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">14.900285%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(ad)  The Weighed Average Coupon (WAC) was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">15.810900%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(ae)  The Weighed Average Remaining Maturity (WAM) was equal to</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                                        13 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>3.  Noteholder Information</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(a) Class A-1</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>A.   Information Regarding Distributions</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.   Total Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.   Principal Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.   Interest Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>B.  Calculation of Class A-1 Interest Due</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.   Class A-1 related Note Rate</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">6.812500%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.   Class A-1 principal balance - beginning of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.   Accrual convention</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">Actual/360</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   4.   Days in Interest Period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                                        30 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   5.   Class A-1 interest due</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   6.   Class A-1 interest paid</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   7.   Class A Interest Carryover Shortfall with respect to Class A-1</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   8.   Class A-1 unpaid interest with respect to the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>C.  Calculation of Class A-1 principal balance</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.  Class A-1 principal balance - beginning of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.  Class A-1 principal - amount due </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.  Class A-1 principal - amount paid </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   4.  Class A-1 principal balance - end of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   5.  Class A Principal Carryover Shortfall with respect to Class A-1</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   6.  Class A-1 unpaid principal with respect to the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   7.  Class A-1 Notes as a percentage of the total Notes outstanding on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   8.  Class A-1 Notes as a percentage of the Pool Balance on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(b) Class A-2</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>A.   Information Regarding Distributions</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.   Total Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.   Principal Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.   Interest Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>B.  Calculation of Class A-2 Interest Due</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.    Class A-2 related Note Rate</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">7.210000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.   Class A-2 principal balance - beginning of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.   Accrual convention</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">30/360</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   4.   Days in Interest Period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                                        30 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   5.   Class A-2 interest due</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   6.   Class A-2 interest paid</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   7.   Class A Interest Carryover Shortfall with respect to Class A-2</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   8.   Class A-2 unpaid interest with respect to the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>C.  Calculation of Class A-2 principal balance</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.  Class A-2 principal balance - beginning of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.  Class A-2 principal - amount due </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.  Class A-2 principal - amount paid </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   4.  Class A-2 principal balance - end of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   5.  Class A Principal Carryover Shortfall with respect to Class A-2</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   6.  Class A-2 unpaid principal with respect to the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   7.  Class A-2 Notes as a percentage of the total Notes outstanding on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.000000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   8.  Class A-2 Notes as a percentage of the Pool Balance on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.000000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   9.  Class A-1 and A-2 Notes as a percentage of the Pool Balance on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.000000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(c) Class A-3</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>A.   Information Regarding Distributions</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.   Total Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.   Principal Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.   Interest Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>B.  Calculation of Class A-3 Interest Due</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.    Class A-3 related Note Rate</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">7.340000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.    Class A-3 principal balance - beginning of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.    Accrual convention</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">30/360</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   4.   Class A-3 interest due</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   5.   Class A-3 interest paid</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   6.   Class A Interest Carryover Shortfall with respect to Class A-3</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   7.   Class A-3 unpaid interest with respect to the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>C.  Calculation of Class A-3 principal balance</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.  Class A-3 principal balance - beginning of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.  Class A-3 principal - amount due </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.  Class A-3 principal - amount paid </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   4.  Class A-3 principal balance - end of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   5.  Class A Principal Carryover Shortfall with respect to Class A-3</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   6.  Class A-3 unpaid principal with respect to the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   7.  Class A-3 Notes as a percentage of the total Notes outstanding on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.000000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   8.  Class A-3 Notes as a percentage of the Pool Balance on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.000000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   9.  Class A-1, A-2 and A-3 Notes as a percentage of the Pool Balance on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.000000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(d) Class A-4</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>A.   Information Regarding Distributions</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.   Total Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$23.48 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.   Principal Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$20.97 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.   Interest Distribution per $1,000 </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$2.50 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>B.  Calculation of Class A-4 Interest Due</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.    Class A-4 related Note Rate</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">7.430000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.    Class A-4 principal balance - beginning of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$74,085,474.83 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.    Accrual convention</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">30/360</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   4.   Class A-4 interest due</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$458,712.56 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   5.   Class A-4 interest paid</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$458,712.56 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   6.   Class A Interest Carryover Shortfall with respect to Class A-4</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   7.   Class A-4 unpaid interest with respect to the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>C.  Calculation of Class A-4 principal balance</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   1.  Class A-4 principal balance - beginning of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$74,085,474.83 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   2.  Class A-4 principal - amount due </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$3,842,566.26 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   3.  Class A-4 principal - amount paid </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$3,842,566.26 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   4.  Class A-4 principal balance - end of period</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$70,242,908.57 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   5.  Class A Principal Carryover Shortfall with respect to Class A-4</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   6.  Class A-4 unpaid principal with respect to the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">$0.00 </FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   7.  Class A-4. Notes as a percentage of the total Notes outstanding on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">100.000000%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   8.  Class A-4 Notes as a percentage of the Pool Balance on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">85.099715%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>   9.  Class A-1, A-2, A-3 and A-4 Notes as a percentage of the Pool Balance on the Distribution Date</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">85.099715%</FONT></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>MASTER SERVICER'S CERTIFICATE</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(Delivered pursuant to Section 4.9</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>of the Master Sale and Servicing Agreement)</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>HSBC FINANCE CORPORATION,</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>    Master Servicer</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>HOUSEHOLD AUTO RECEIVABLES CORPORATION</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>HOUSEHOLD AUTOMOTIVE TRUST V</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Class A Notes, Series 2000-2</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>     The undersigned, a duly authorized representative of HSBC Finance</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Corporation, as Master Servicer (the "Servicer"), pursuant to the amended and restated</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Master Sale and Servicing Agreement, dated as of June 1, 2000, by and among the </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Servicer, Household Automotive Trust V, as issuer (the "issuer"), Household Auto</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Receivables Corporation, as Seller (the "Seller"), Wells Fargo Bank Minnesota, N.A.</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>(successor to Norwest Bank Minnesota, NA), as IndentureTrustee (the "Indenture Trustee")</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>and Wilmington Trust Company, as Owner Trustee, does hereby certify with respect</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>to the information set forth below as follows:</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>1.   Capitalized terms used in this Certificate shall have the respective meanings set forth</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>       in the Master Sale and Servicing Agreement and Series 2000-2 Supplement, dated as of</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>       June 1, 2000, by and among the Servicer, issuer, Seller, Indenture Trustee and </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>       Wilmington Trust Company, as Owner Trustee.</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>2.   HSBC Finance Corporation was, as of the date hereof, the Servicer</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      under the Master Sale and Servicing Agreement.</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>3.   The undersigned was a Servicing Officer.</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>4.  This Certificate relates to the Distribution Date occurring on December 17, 2004</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>5.  As of the date hereof, to the best knowledge of the undersigned,  the Servicer has </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      performed in all material respects all its obligations under the Master Sale and Servicing</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      Agreement through the Collection Period with respect to such Distribution Date or, if there</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      has been a default in the performance of any such obligation, has set forth in detail (i) the</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      nature of such default, (ii) the action taken by the Seller and Servicer, if any, to remedy such</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      default and (iii) the current status of each such default.</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>6.  As of the date hereof, to the best knowledge of the undersigned, no lien has been placed</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>     on any of the Series 2000-2 Receivables other than pursuant to the Basic Documents</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>     (or if there was a lien, such lien consists of: ______________________).</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>7.  The amounts specified to be deposited into and withdrawn from the Collection Account,</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      as well as the amounts specified to be paid to the issuer, the Servicer, the Noteholders and</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      the Certficateholder are all in accordance with the requirements of the Master Sale and</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>      Servicing Agreement.</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>IN WITNESS WHEREOF, the undersigned has duly executed and delivered this Certificate this </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">December 16, 2004</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>HSBC FINANCE CORPORATION</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>as Servicer</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>By:   /s/      Dennis Mickey                                                                                     </FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Title:         Servicing Officer</FONT></TD>
+<TD WIDTH="27%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Courier New" SIZE=2></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

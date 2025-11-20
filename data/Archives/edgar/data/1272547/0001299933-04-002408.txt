@@ -1,0 +1,752 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ENaR/Pg7nTdp3o3M8j0AMIxJbsui4l8Hy5QbYna2H7jRDtNixDfuly1+m7y4c0/3
+ SfGGMDTW0aes3nKq45d24w==
+
+<SEC-DOCUMENT>0001299933-04-002408.txt : 20041222
+<SEC-HEADER>0001299933-04-002408.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222113310
+ACCESSION NUMBER:		0001299933-04-002408
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FREESCALE SEMICONDUCTOR INC
+		CENTRAL INDEX KEY:			0001272547
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				200443182
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32241
+		FILM NUMBER:		041219565
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6501 WILLIAM CANNON DRIVE
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78735
+		BUSINESS PHONE:		5128952000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPS SPINCO INC
+		DATE OF NAME CHANGE:	20040213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FREESCALE SEMICONDUCTOR INC
+		DATE OF NAME CHANGE:	20040213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPS SPINCO INC
+		DATE OF NAME CHANGE:	20031210
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htm_2343.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- CoverPageHeader start -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> Freescale Semiconductor, Inc. (Form: 8-K) </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P>
+<!-- CoverPageHeader end --><!-- CoverPageTitle START -->
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<HR NOSHADE>
+<P>
+<P ALIGN="CENTER">
+<FONT SIZE="4">
+		UNITED STATES<BR>
+	SECURITIES AND EXCHANGE COMMISSION
+</FONT>
+<BR>
+<FONT SIZE="2">
+	WASHINGTON, D.C. 20549
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="5">
+	FORM 8-K
+</FONT>
+<FONT SIZE="2">
+
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="3">
+	CURRENT REPORT
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+</FONT>
+</P>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Date of Report (Date of Earliest Event Reported):
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	December 21, 2004
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<BR>
+</CENTER>
+<!-- CoverPageTitle END --><!-- CoverPageRegistrant START -->
+<P ALIGN="CENTER"><!-- -->
+<FONT SIZE="6">
+	Freescale Semiconductor, Inc.
+</FONT>
+<FONT SIZE="2">
+<BR>__________________________________________<BR>
+	(Exact name of registrant as specified in its charter)
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Delaware
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	001-32241
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	20-0443182
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________________<BR>
+	(State or other jurisdiction
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________<BR>
+	(Commission
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+______________<BR>
+	(I.R.S. Employer
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	of incorporation)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	File Number)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Identification No.)
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	6501 William Cannon Drive West, Austin, Texas
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	78735
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_________________________________<BR>
+	(Address of principal executive offices)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+___________<BR>
+	(Zip Code)
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Registrant&#146;s telephone number, including area code:
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	512.895.2000
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Not Applicable
+<BR>______________________________________________<BR>
+	Former name or former address, if changed since last report
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+<!-- CoverPageRegistrant END --><P><FONT SIZE="2">
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:</FONT>
+</P>
+<P><FONT SIZE="2">
+[&nbsp;&nbsp;]&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))<br>
+</P></FONT><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 5.02. Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+On December 22, 2004, Freescale Semiconductor, Inc. (the "Company") issued a press release announcing the election of Antonio M. Perez to the Company&#x2019;s Board of Directors.   A copy of our press release dated December 22, 2004 is attached as Exhibit 99.1 to this report.  <br><br>
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 9.01. Financial Statements and Exhibits.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+99.1  Press release of Freescale Semiconductor, Inc., dated December 22, 2004.
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><P ALIGN="LEFT" STYLE="FONT-SIZE: 10PT"></P><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- SignatureHeader START -->
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+<B>
+	SIGNATURES
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+	Pursuant to the requirements of the Securities Exchange Act of 1934, the
+	registrant has duly caused this report to be signed on its behalf by the
+	undersigned hereunto duly authorized.
+</FONT>
+</P>
+<!-- SignatureHeader END --><!-- Signature START -->
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="19%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="43%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD COLSPAN="3" VALIGN="TOP" ALIGN="LEFT">
+<FONT SIZE="2">
+	Freescale Semiconductor, Inc.
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	December 22, 2004
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	By:
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	/s/ John D. Torres
+</I>
+<BR>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<HR SIZE="1" NOSHADE>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Name: John D. Torres
+</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Title: Senior Vice President, General Counsel and Secretary
+</I>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<!-- Signature END --><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><P ALIGN="CENTER">
+<FONT SIZE="2">
+	Exhibit&nbsp;Index
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+<TD WIDTH="77%">
+	&nbsp;
+</TD>
+</TR>
+
+<BR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Exhibit No.
+</B>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Description
+</B>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="CENTER">
+<HR SIZE="1" NOSHADE>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="CENTER">
+<HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+</TD>
+</TR>
+
+
+
+
+
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP" WIDTH="8%" nowrap>
+<FONT SIZE="2">
+<DIV ALIGN="LEFT">
+	99.1
+</DIV>
+</FONT>
+</TD>
+<TD WIDTH="15%">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+<FONT SIZE="2">
+Press release of Freescale Semiconductor, Inc., dated December 22, 2004.
+</FONT>
+</TD>
+</TR></TABLE></CENTER><!-- HTMLFooter START -->
+</BODY>
+</HTML>
+<!-- HTMLFooter END -->
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> EX-99.1 </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+<!-- <DIV align="center" style="width: 99%; background: black; padding: 1px; height: 100%"> -->
+<!-- <DIV align="center" style="width: 100%; background: white; padding: 5px; height: 100%">  -->
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 16pt"><B>Freescale elects Kodak&#146;s Antonio Perez to Board of Directors</B></FONT>
+
+
+<P align="left" style="font-size: 16pt"><FONT style="font-size: 12pt">AUSTIN, Texas &#150; Dec. 22, 2004 &#150; Freescale Semiconductor, Inc. (NYSE: FSL) has elected Antonio
+M. Perez, president and chief operating officer of Eastman Kodak Company, to its Board of
+Directors, effective immediately.</FONT>
+
+
+<P align="left" style="font-size: 12pt">In addition to his responsibilities overseeing the day-to-day operations of Kodak, Perez serves on
+the company&#146;s Board of Directors. He previously spent 25&nbsp;years with Hewlett-Packard Company, where
+he served as president of its Consumer Business, president of its inkjet imaging business,
+corporate vice president and a member of HP&#146;s Executive Council. He also held a variety of
+positions in research and development, sales, manufacturing, marketing and management with HP, both
+in Europe and the U.S.
+
+
+<P align="left" style="font-size: 12pt">A native of Spain, he studied electronic engineering, marketing and business in Spain and France.
+
+
+<P align="left" style="font-size: 12pt">&#147;Antonio Perez brings an exceptional understanding of consumer electronics and a global perspective
+to our Board,&#148; said Michel Mayer, Freescale chairman and CEO. &#147;We look forward to tapping his
+experience and knowledge.&#148;
+
+
+<P align="left" style="font-size: 12pt"><B>About Freescale Semiconductor</B>
+<BR>
+Freescale Semiconductor, Inc. (NYSE:FSL, FSL.B) is a global leader in the design and manufacture of
+embedded semiconductors for the automotive, consumer, industrial, networking and wireless markets.
+Freescale became a publicly traded company in July&nbsp;2004 after more than 50&nbsp;years as part of
+Motorola, Inc. The company is based in Austin, Texas, and has design, research and development,
+manufacturing or sales operations in more than 30 countries. Freescale, a member of the S&#038;P 500&#174;,
+is one of the world&#146;s largest semiconductor companies.
+<BR>
+<U>www.freescale.com</U>
+
+
+<P align="left" style="font-size: 12pt"># # #
+
+
+<P align="left" style="font-size: 12pt"><B>Contact:</B>
+<BR>
+Tim Doke
+<BR>
+Freescale Corporate Communication
+<BR>
+&#043;1 (512)&nbsp;895-6854
+<BR>
+<U>tim.doke@freescale.com</U>
+
+
+<P align="left" style="font-size: 12pt">Freescale&#153; and the Freescale logo are trademarks of Freescale Semiconductor Inc. All other product
+or service names are the property of their respective owners. &#169; Freescale Semiconductor Inc. 2004.
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+<!-- </DIV> -->
+<!-- </DIV> -->
+</BODY>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

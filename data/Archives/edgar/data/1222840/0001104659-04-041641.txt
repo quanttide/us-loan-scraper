@@ -1,0 +1,2412 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KQRpyzD9QuJFm2MLvZgO4rvIH+TkhAlub7jr/UwVPgQHksQ6oQEnGRcfTS1DEeII
+ hppn8oAdDYMVFUmkFPQ2Tg==
+
+<SEC-DOCUMENT>0001104659-04-041641.txt : 20041230
+<SEC-HEADER>0001104659-04-041641.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230171113
+ACCESSION NUMBER:		0001104659-04-041641
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041228
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INLAND WESTERN RETAIL REAL ESTATE TRUST INC
+		CENTRAL INDEX KEY:			0001222840
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				421579325
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-103799
+		FILM NUMBER:		041234768
+
+	MAIL ADDRESS:	
+		STREET 1:		2901 BUTTERFIELD RD
+		CITY:			OAK BROOK
+		STATE:			IL
+		ZIP:			60523
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04-11519_38k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div>
+
+<div style="border:none;border-top:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington,
+D.C.&#160; 20549</font></b></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM 8-K</font></b></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 or 15(d) of the
+Securities Exchange Act of 1934</font></b></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="border:none;font-size:10.0pt;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Date
+of Report: December&nbsp;28, 2004<br>
+</font></b><font face="Times New Roman">(Date
+of earliest event reported)<br><br></font></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">Inland Western Retail Real Estate Trust, Inc.</font></b></p>
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of
+registrant as specified in the charter)<br><br></font></p>
+
+</div>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="35%" valign="top" style="padding:0in 0in 0in 0in;width:35.2%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Maryland</font></b></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.6%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">333-103799</font></b></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0in 0in 0in 0in;width:33.22%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">42-1579325</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="35%" valign="top" style="padding:0in 0in 0in 0in;width:35.2%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other
+  jurisdiction of<br>
+  incorporation)</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.6%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File No.)</font></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0in 0in 0in 0in;width:33.22%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer
+  Identification No.)</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2901 Butterfield Road<br>
+Oak Brook, Illinois 60523</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of Principal
+Executive Offices)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(630) 218-8000</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Registrant&#146;s telephone
+number including area code)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Not Applicable</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Former name or former
+address, if changed since last report)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check
+the appropriate box below if the Form 8-K filing in intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following
+provisions:</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font face="Times New Roman">&nbsp;&nbsp;Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font face="Times New Roman">&nbsp;&nbsp;Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font face="Times New Roman">&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font face="Times New Roman">&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</font></p>
+
+<div style="border:none;border-bottom:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-ba.htm',USER='rsampath',CD='Dec 31 02:55 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Section&nbsp;1 -</font></b><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font face="Times New Roman" style="font-weight:bold;">Registrant&#146;s Business and Operations</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 1.01</font></b><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font face="Times New Roman" style="font-weight:bold;">Entry into a Material Definitive Agreement.</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On
+December&nbsp;28, 2004, the advisory agreement between Inland Western Retail
+Real Estate Trust, Inc. (the &#147;Company&#148;)&#160;
+and Inland Western Retail Real Estate Advisory Services, Inc. (the &#147;Business
+Manager/Advisor&#148;) was amended and restated.&#160;
+The Business Manager/Advisor is owned by the Company&#146;s sponsor, and all
+of the Company&#146;s agreements and arrangements with the Business Manager/Advisor and
+its affiliates, including those relating to compensation, are not the result of
+arm&#146;s length negotiations but the Company believes that the fee it pays is
+equal to or less than the fee that would be payable to an unaffiliated
+third-party providing such service.&#160; The
+advisory agreement was amended and restated to include an initial term of one
+year instead of three years. &#160;The amended
+and restated advisory agreement is attached to this Form 8-K as Exhibit 99.1
+and is incorporated into this filing in its entirety.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Section&nbsp;9.01 -</font></b><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font face="Times New Roman" style="font-weight:bold;">Financial Statements and Exhibits</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01(c)</font></b><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font face="Times New Roman" style="font-weight:bold;">Financial Statements and Exhibits.</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="9%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:9.16%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit No.</font></b></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.66%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="88%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:88.16%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="9%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:9.16%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.66%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="88%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:88.16%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.16%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.66%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="88%" valign="top" style="padding:0in 0in 0in 0in;width:88.16%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Amended
+  and Restated Advisory Agreement, dated as of December&nbsp;28, 2004, between
+  Inland Western Retail Real Estate Trust, Inc. and Inland Western Retail Real
+  Estate Advisory Services, Inc.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-ba.htm',USER='rsampath',CD='Dec 31 02:55 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURE</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="91%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:91.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;&nbsp;INLAND
+  WESTERN RETAIL REAL ESTATE TRUST, INC.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="91%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:91.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="50%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt 20.0pt;text-indent:-10.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Lori J. Foust</font></p>
+  </td>
+  <td width="41%" valign="top" style="padding:0in 0in 0in 0in;width:41.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="91%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:91.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;&nbsp;Lori
+  J. Foust</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="91%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:91.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;&nbsp;Principal
+  Accounting Officer</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date:</font></p>
+  </td>
+  <td width="91%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:91.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;&nbsp;December&nbsp;30,
+  2004</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-ba.htm',USER='rsampath',CD='Dec 31 02:55 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT INDEX</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="9%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:9.84%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit No.</font></b></p>
+  </td>
+  <td width="5%" valign="bottom" style="padding:0in 0in 0in 0in;width:5.58%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="84%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:84.58%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="9%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:9.84%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="84%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:84.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.84%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="84%" valign="top" style="padding:0in 0in 0in 0in;width:84.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Amended and Restated Advisory Agreement, dated as of December&nbsp;28,
+  2004, between Inland Western Retail Real Estate Trust, Inc. and Inland
+  Western Retail Real Estate Advisory Services, Inc.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+<p align="center" style="font-weight:normal;margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-ba.htm',USER='rsampath',CD='Dec 31 02:55 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a04-11519_3ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div style="font-family:Times New Roman;">
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit 99.1</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt 1.5in;text-align:center;text-indent:-1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">AMENDED
+AND RESTATED<br>
+<u>ADVISORY AGREEMENT</u></font></b></p>
+
+<p style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This AMENDED AND RESTATED
+ADVISORY AGREEMENT (this &#147;Agreement&#148;) is made as of December 28, 2004 between
+Inland Western Retail Real Estate Trust, Inc., a Maryland corporation (the &#147;Company&#148;),
+and Inland Western Retail Real Estate Advisory Services, Inc., an Illinois
+corporation (the &#147;Advisor&#148;).</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">W I T
+N E S S E T H:</font></p>
+
+<p style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">WHEREAS, the Company and the Advisor have agreed to
+enter into this Agreement to cause the Advisor to provide certain services with
+respect to the Property (as defined below) on behalf of the Company; and</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">NOW, THEREFORE, in consideration of the mutual
+covenants herein set forth, the parties hereto agree as follows:</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">1.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">DEFINITIONS.&#160; As used herein, the following terms shall
+have the meanings set forth below:</font></h1>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Acquisition
+Expenses&#148; means expenses related to the Company&#146;s selection, evaluation and
+acquisition of, and investment in, properties, whether or not acquired or made,
+including but not limited to legal fees and expenses, travel and communications
+expenses, cost of appraisals and surveys, nonrefundable option payments on
+property not acquired, accounting fees and expenses, computer use related
+expenses, architectural and engineering reports, environmental and asbestos
+audits, title insurance and escrow fees, loan fees or points or any fee of a
+similar nature, however designated, and personnel and miscellaneous expenses
+related to the selection and acquisition of properties. Acquisition Expenses
+will accrue and be paid on Properties purchased with the Gross Offering
+Proceeds and proceeds of Shares sold via the Company&#146;s Distribution
+Reinvestment Program, as well as on the entire purchase price of all Properties
+including any acquisition financing related thereto.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Advisor
+Asset Management Fee&#148; means an amount equal to 1% of the Average Invested
+Assets.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Affiliate&#148;
+means, with respect to any other Person: (i) any Person directly or indirectly
+owning, controlling or holding, with the power to vote 10% or more of the
+outstanding voting securities of such other Person; (ii) any Person 10% or more
+of whose outstanding voting securities are directly or indirectly owned,
+controlled or held, with the power to vote, by such other Person; (iii) any
+Person directly or indirectly controlling, controlled by or under common
+control with such other Person; (iv) any executive officer, director, trustee
+or general partner of such other Person; and (v) any legal entity for which
+such Person acts as an executive officer, director, trustee or general partner.</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">d)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Affiliated
+Directors&#148; means those Directors of the Company who are affiliated with the
+Company or its Affiliates.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">e)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Articles
+of Incorporation&#148; means the Articles of Incorporation of the Company, as
+amended from time to time.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">f)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Average
+Invested Assets&#148; means, for any period, the average of the aggregate Book Value
+of the assets of the Company invested, directly or indirectly, in equity
+interests and in loans secured by real estate, before reserves for depreciation
+or bad debts or other similar noncash reserves, computed by taking the average
+of such values at the end of each month during such period.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">g)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Board
+of Directors&#148; means the board of directors of the Company.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">h)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Book
+Value&#148; of an asset means the value of such asset on the books of the Company,
+before allowance for depreciation or amortization.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">i)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Code&#148;
+means the Internal Revenue Code of 1986, as amended.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">j)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Company
+Fixed Assets&#148; means the real estate, together with the buildings, leasehold
+interests, improvements, equipment, furniture, fixtures and personal property
+associated therewith, used by the Company in the conduct of its business.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">k)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Competitive
+Real Estate Commission&#148; means the real estate or brokerage commission paid for
+the purchase or sale of a Property which is reasonable, customary and
+competitive in light of the size, type and location of such Property.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">l)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Contract
+Price for the Property&#148; means the amount actually paid or allocated to the
+purchase, development, construction or improvement of a Property exclusive of
+Acquisition Expenses.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">m)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Cumulative
+Return&#148; means a cumulative, non-compounded return, equal to 6% per annum on
+Invested Capital commencing upon acceptance of the investor&#146;s subscription.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">n)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Current
+Return&#148; means a noncumulative, noncompounded return, equal to 7% per annum on
+Invested Capital.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">o)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Fiscal
+Year&#148; means any period for which any income tax return is submitted by the
+Company to the Internal Revenue Service and which is treated by the Internal
+Revenue Service as a reporting period.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">p)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Gross
+Dollars Invested in Properties&#148; means the amount actually paid or allocated to
+the purchase, development, construction or improvement of Properties acquired
+by the Company.</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">q)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Gross
+Offering Proceeds&#148; means the total proceeds from the sale of the 250,000,000
+Shares offered on &#147;best efforts&#148; basis during the public offering period before
+deductions for Offering Expenses. For purposes of calculating Gross Offering
+Proceeds, the purchase price for all Shares, including those for which volume
+discounts apply, shall be deemed to be $10 per Share. Unless specifically
+included, Gross Offering Proceeds does not include the total proceeds from the
+sale of up to 20,000,000 Shares under the Company&#146;s Distribution Reinvestment
+Program during the public offering period, the purchase price for which shall
+be $9.50 per Share;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">r)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Gross
+Revenues From Properties&#148; means all cash receipts derived from the operation of
+Company Fixed Assets.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">s)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Incentive
+Advisory Fee&#148; means an amount equal to 15% of the net proceeds from the sale of
+a Property after the Stockholders have first received: (i) their Cumulative
+Return; and (ii) a return of their Invested Capital.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">t)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Independent
+Directors&#148; means the Directors of the Company who: (i) are not affiliated and
+have not been affiliated within the two years prior to their becoming an
+Independent Director, directly or indirectly, with the Company, the Sponsor or
+the Advisor, whether by ownership of, ownership interest in, employment by, any
+material business or professional relationship with, or as an officer or
+director of the Company, the Sponsor, the Advisor or any of their Affiliates;
+(ii) do not serve as a director for more than two other REITs organized by the
+Company or the Advisor or advised by the Advisor; and (iii) perform no other
+services for the Company, except as Directors. For this purpose, an indirect
+relationship shall include circumstances in which a member of the immediate
+family of a Director has one of the foregoing relationships with the Company,
+the Sponsor or the Advisor or any of their Affiliates. For purposes of
+determining whether or not the business or professional relationship is
+material, the aggregate gross revenue derived by the prospective Independent
+Director from the Company, the Sponsor, the Advisor and their Affiliates shall
+be deemed material PER SE if it exceeds five percent of the prospective
+Independent Director&#146;s: (i) annual gross revenue, derived from all sources,
+during either of the last two years; or (ii) net worth, on a fair market value
+basis.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">u)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Invested
+Capital&#148; means the original issue price paid for the Shares reduced by prior
+distributions from the sale or financing of the Company&#146;s Properties.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">v)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;IREIC&#148;
+means Inland Real Estate Investment Corporation, which is a wholly-owned
+subsidiary of The Inland Group, Inc. The Advisor is a wholly owned subsidiary
+of IREIC. IREIC is the Sponsor of the Company.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">w)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;IWRREAI&#148;
+means Inland Western Retail Real Estate Acquisitions, Inc.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">x)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Management
+Agent&#148; means an entity which provides property rental, leasing, operation and
+management services to the Company. The Management Agent is</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Inland Southeast Property Management Corp., an Affiliate
+of the Advisor, or anyone which succeeds it in such capacity.</font></h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">y)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Net
+Income&#148; means, for any period, total revenues applicable to such period, less
+the expenses applicable to such period other than additions to or allowances
+for reserves for depreciation, amortization or bad debts or other similar
+noncash reserves; provided, however, that Net Income shall not include the gain
+from the sale of the Company&#146;s assets.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">z)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Offering&#148;
+means the offering of Shares of the Company pursuant to the Prospectus.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">aa)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Offering
+Expenses&#148; means all those expenses incurred by and to be paid from the assets
+of the Company in connection with and in preparing the Company for registration
+and subsequently offering and distributing Shares to the public, including, but
+not limited to, total underwriting and brokerage discounts and commissions
+(including fees and expenses of underwriters and their accountants and
+attorneys paid by the Company), expenses for printing, engraving, mailing,
+salaries of the Company&#146;s employees while engaged in sales activity, charges of
+transfer agents, registrars, trustees, escrow holders, depositaries, experts,
+expenses of qualification of the sale of the securities under federal and state
+laws, including taxes and fees, and accountants&#146; and attorneys&#146; fees and
+expenses.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">bb)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Person&#148;
+means any individual, corporation, business trust, estate, trust, partnership,
+limited liability company, association, two or more persons having a joint or
+common interest, or any other legal or commercial entity.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">cc)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Primary
+Geographical Area of Investment&#148; of the Company means the states west of the
+Mississippi River in the United States.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">dd)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Property&#148;
+or &#147;Properties&#148; means any, or all, respectively, of the real property and
+improvements thereon owned or to be owned by the Company, directly or
+indirectly.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ee)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Property
+Disposition Fee&#148; means a real estate disposition fee, payable (under certain
+conditions) to the Advisor and its Affiliates upon the sale of the Company&#146;s
+Property in an amount equal to the lesser of: (i) 3% of the contracted for
+sales price of the Property; or&#160; (ii) 50%
+of the commission paid to third parties which is reasonable, customary and
+competitive in light of the size, type and location of such Property.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ff)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Property
+Management Fee&#148; means any fee paid to an Affiliate or third party as
+compensation for management of the Company&#146;s Properties. The Property
+Management Fee shall be equal to not more than 90% of the fee which would be
+payable to an unrelated party providing such services, which fee shall
+initially be 4.5% of the gross revenues from the Properties.</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">gg)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Prospectus&#148;
+means the final prospectus of the Company in connection with the registration
+of Shares filed with the Securities and Exchange Commission on Form S-11, as
+amended and supplemented.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">hh)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Real
+Property&#148; means improved and unimproved land, improvements, furniture and
+fixtures located on or used in connection with, land and any interest in any of
+the foregoing, including an interest in air and subterranean or mineral rights.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ii)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;REIT&#148;
+means a real estate investment trust as defined in Sections 856 through 860 of
+the Code.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">jj)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Retail
+Center&#148; means real estate primarily improved for use as retail establishments,
+principally multi-tenant shopping centers.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">kk)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160; </font></b>&#147;Shares&#148;
+means the shares of common stock, par value $.001 per share, of the Company,
+and &#147;Share&#148; means one of those Shares.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ll)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Shopping
+Center&#148; means a group of commercial establishments planned, developed, owned and
+managed as a unit related in location, size and type of shops to the trade area
+the unit serves. It provides on-site parking in definite relationship to the
+types and sizes of stores.&#148;Sponsor&#148; means IREIC.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">mm)&nbsp;</font></b>&#147;Stockholders&#148;
+means holders of Shares.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">nn)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160; </font></b>&#147;Total
+Operating Expenses&#148; means the aggregate expenses of every character paid or
+incurred by the Company as determined under generally accepted accounting
+principles, including Advisor Asset Management Fees, but excluding:</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">i)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>the
+expenses of raising capital such as Offering Expenses, legal, audit,
+accounting, underwriting, brokerage, listing, registration and other fees,
+printing and other such expenses, and taxes incurred in connection with the
+issuance, distribution, transfer, registration and stock exchange listing of
+the Shares;</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ii)</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>interest
+payments;</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">iii)</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>taxes;</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">iv)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>noncash
+expenditures such as depreciation, amortization and bad debt reserves;</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">v)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>the
+Incentive Advisory Fee payable to the Advisor; and</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">vi)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Acquisition
+Expenses, real estate commissions on resale of Real Property and other expenses
+connected with the acquisition, disposition and ownership of real estate
+interests, mortgage loans or other property (such as the costs of foreclosure,
+insurance premiums, legal services, maintenance, repair and improvement of Real
+Property).</h3>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">2.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">DUTIES OF ADVISOR.&#160; The Advisor shall consult with the Company
+and shall, at the request of the Board of Directors or the officers of the
+Company, furnish advice and recommendations with respect to all aspects of the
+business and affairs of the Company. In general, the Advisor shall inform the
+Board of Directors of factors which come to its attention which would influence
+the policies of the Company. Subject to the supervision of the Board of
+Directors and consistent with the provisions of the Articles of Incorporation,
+the Advisor shall use its best efforts to:</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Present
+to the Company a continuing and suitable real estate investment program and
+opportunities to make investments in Real Properties consistent with the
+investment policies of the Company and the investment program adopted by the
+Board of Directors and in effect at the time and furnish the Company with
+advice with respect to the making, acquisition, holding and disposition of
+investments and commitments therefor. In presenting investment opportunities
+hereunder, the Advisor shall comply with, and be subject to, the provisions of
+that certain Property Acquisition Service Agreement, dated the date hereof,
+among IWRREAI, the Advisor, and the Company (the &#147;Property Acquisition Service
+Agreement&#148;), as the same may be amended from time to time. To the extent
+possible, the resolution of conflicting investment opportunities between the
+Company and other investment entities advised or managed by the Advisor and its
+Affiliates for a prospective investment opportunity (a &#147;Proposed Property&#148;)
+will be resolved by giving priority to the Company, provided that the Proposed
+Property meets the acquisition criteria of the Company. The Property
+Acquisition Service Agreement grants the Company the first opportunity to
+purchase such Proposed Property which is placed under contract by IREAI, the
+Advisor or its Affiliates, provided the Company is able to close the purchase of
+the Proposed Property within 60 days.&#160;
+Other factors which may be considered in connection with evaluating the
+suitability of the Proposed Property for investment include:</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">i)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>the
+effect of the acquisition on the diversification of each entity&#146;s portfolio;
+(ii) the amount of funds available for investment;</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ii)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>cash
+flow; and</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">iii)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>the
+estimated income tax effects of the purchase and subsequent disposition. The
+Independent Directors of the Company must, by a majority vote, approve all
+actions by the Advisor or its Affiliates which present potential conflicts with
+the Company as set forth in the Property Acquisition Service Agreement.</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 117.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Manage
+the Company&#146;s day-to-day investment operations, subject to the final paragraph
+of this Section 2, to effect the investment program adopted by the Board of
+Directors and perform or supervise the performance of such other administrative
+functions necessary in connection with the management of the Company as may be
+agreed upon by the Advisor and the Company;</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='6',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Serve
+as the Company&#146;s investment advisor, subject to the final paragraph of this
+Section 2, in connection with policy decisions to be made by the Board of
+Directors and, as requested, furnish reports to the Board of Directors and
+provide research, economic and statistical data in connection with the Company&#146;s
+investments and investment policies;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">d)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>On
+behalf of the Company, investigate, select and conduct relations with lenders,
+consultants, accountants, brokers, property managers, attorneys, underwriters,
+appraisers, insurers, corporate fiduciaries, banks, builders and developers,
+sellers and buyers of investments and persons acting in any other capacity
+specified by the Company from time to time, and enter into contracts with,
+retain and supervise services performed by such parties in connection with
+investments which have been or may be acquired or disposed of by the Company;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">e)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Cooperate
+with the Management Agent in connection with property management services and
+other activities relating to the Company&#146;s assets as the Advisor shall deem
+appropriate in the particular circumstances, subject to the requirement that
+the Advisor or the Management Agent, as the case may be, qualifies as an &#147;independent
+contractor&#148; as that phrase is used in connection with applicable laws, rules
+and regulations affecting REITs that own Real Property;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">f)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Upon
+request of the Company, act, or obtain the services of others to act, as
+attorney-in-fact or agent of the Company in making, acquiring and disposing of
+investments, disbursing, and collecting the funds, paying the debts and
+fulfilling the obligations of the Company and handling, prosecuting and
+settling any claims of the Company, including foreclosing and otherwise
+enforcing mortgage and other liens and security interests securing investments;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">g)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Assist
+in negotiations on behalf of the Company with investment banking firms and
+other institutions or investors for public or private sales of securities of
+the Company or for other financing on behalf of the Company, but in no event in
+such a way that the Advisor shall be acting as a broker, dealer, underwriter or
+investment advisor in securities of or for the Company;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">h)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Maintain,
+with respect to any Real Property and to the extent available, title insurance
+or other assurance of title and customary fire, casualty and public liability
+insurance;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">i)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Upon
+request of the Board of Directors, and subject to the final paragraph of this
+Section 2, invest and reinvest any money of the Company;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">j)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Supervise
+the preparation and filing and distribution of returns and reports to
+governmental agencies and to investors and act on behalf of the Company in
+connection with investor relations;</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">7</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='7',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">k)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Provide
+office space, equipment and personnel as required for the performance of the
+foregoing services as Advisor;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">l)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Advise
+the Company of the operating results of the Company properties, to cause the
+Manager to prepare on a timely basis, and to review, for such properties
+operating budgets, maintenance and improvement schedules, one, three and five
+year projections of operating results and such other reports as may be
+appropriate;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">m)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>As
+requested by the Company, make reports to the Company of its performance of the
+foregoing services and furnish advice and recommendations with respect to other
+aspects of the business of the Company;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">n)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Prepare
+on behalf of the Company all reports and returns required by the Securities and
+Exchange Commission, Internal Revenue Service and other state or federal
+governmental agencies;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">o)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Undertake
+and perform all services or other activities necessary and proper to carry out
+the investment objectives of the Company; and</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">p)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Undertake
+communications with Stockholders in accordance with applicable law and the
+Articles of Incorporation, provided, however, that Affiliates of the Advisor
+have no obligations to the Company other than as expressly stated herein, and
+the Advisor and its Affiliates have no obligations to present to the Company
+any specific investment opportunity except as described in the Prospectus. In
+providing advice and services as provided in subparagraphs (a) through (p)
+above of this Section 2, the Advisor shall not (i) engage in any activity which
+would require it to be registered as an &#147;Investment Advisor,&#148; as that term is
+defined in the Investment Advisors Act of 1940 OR in any state securities law
+or (ii) cause the Company to make such investments as would cause the Company
+to become an &#147;Investment Company,&#148; as that term is defined in the Investment
+Company Act of 1940.</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">3.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">NO PARTNERSHIP OR JOINT
+VENTURE.&#160; The Company and the Advisor are
+not, and shall not be deemed to be, partners or joint venturers with each
+other.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">4.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">RECORDS.&#160; The Advisor shall maintain appropriate books
+of account and records relating to services performed hereunder, which shall be
+accessible for inspection by the Company at any time during ordinary business
+hours.</font></h1>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">8</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='8',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">5.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">REIT QUALIFICATIONS.&#160; Notwithstanding any other provision of this
+Agreement to the contrary, the Advisor shall refrain from any action which, in
+its reasonable judgment or in any judgment of the Board of Directors of which
+the Advisor has written notice, would adversely affect the qualification of the
+Company as a REIT under the Code or which would violate any law, rule or
+regulation of any governmental body or agency having jurisdiction over the
+Company or its securities, or which would otherwise not be permitted by the Articles
+of Incorporation. If any such action is ordered by the Board of Directors, the
+Advisor shall promptly notify the Board of Directors of the Advisor&#146;s judgment
+that such action would adversely affect such status or violate any such law,
+rule or regulation or the Articles of Incorporation and shall refrain from
+taking such action pending further clarification or instruction from the Board
+of Directors.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">6.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">BANK ACCOUNTS.&#160; At the direction of the Board of Directors,
+the Advisor may establish and maintain bank accounts in the name of the
+Company, and may collect and deposit into and disburse from such accounts
+moneys on behalf of the Company, upon such terms and conditions as the Board of
+Directors may approve, provided that no funds in any such account shall be
+commingled with funds of the Advisor. The Advisor shall from time to time, as
+the Company may require, render appropriate accountings of such collections,
+deposits and disbursements to the Board of Directors and to the auditors of the
+Company.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">7.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">FIDELITY BOND.&#160; The Advisor shall not be required to obtain
+or maintain a fidelity bond in connection with the performance of its services
+hereunder.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">8.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">INFORMATION FURNISHED
+ADVISOR.&#160; The Board of Directors will
+keep the Advisor informed in writing concerning the investment and financing
+policies of the Company. The Board of Directors shall notify the Advisor
+promptly in writing of its intention to make any investments or to sell or
+dispose of any existing investments. The Company shall furnish the Advisor with
+a certified copy of all financial statements, a signed copy of each report
+prepared by independent certified public accountants, and such other
+information with regard to its affairs as the Advisor may reasonably request.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">9.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">COMPENSATION.&#160; The Advisor and its Affiliates shall be paid
+for services rendered by the Advisor under this Agreement as follows:</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Acquisition
+Expenses, for the expenses attendant to Property acquisitions, in an aggregate
+amount not in excess of 0.5% of (i) the Gross Offering Proceeds, and (ii) the
+gross proceeds from the sale of up to 20,000,000 Shares pursuant to the Company&#146;s
+Distribution Reinvestment Program, PROVIDED THAT the Acquisition Expenses
+respecting any specific Property acquired by the Company shall not exceed 6% of
+the gross purchase price of that Property;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>An
+Advisor Asset Management Fee of not more than 1% of the Average Invested
+Assets. This fee will be payable quarterly in an amount equal to one fourth of
+1% of the Average Invested Assets of the Company as of the last day of the
+immediately preceding quarter. For any year in which the Company qualifies as a
+REIT, the Advisor may be required to reimburse the Company certain sums as
+described in Section 14;</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">9</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='9',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Reimbursement
+for the cost to the Advisor and its Affiliates for:</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">i)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>the
+cost to the Advisor or its Affiliates of goods and services used for and by the
+Company and obtained from unaffiliated parties; and</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-9.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ii)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>administrative
+services related thereto. &#147;Administrative Services&#148; include ministerial
+services such as typing, record keeping, preparation and dissemination of
+Company reports, preparation and maintenance of records regarding Stockholders,
+record keeping and administration of the Company&#146;s Distribution Reinvestment
+and Share Repurchase Programs, preparation and dissemination of responses to
+Stockholder inquiries and other communications with Stockholders and any other
+record keeping required for Company purposes. Such reimbursements are subject to
+limitations imposed by Sections 10(b) and (c) hereof;</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-9.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">d)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>An
+Incentive Advisory Fee equal to 15% of the remaining proceeds from the sale of
+Real Properties after the Stockholders have first received: (i) their
+Cumulative Return; and (ii) the return of their Invested Capital. At such time
+as the business of the Advisor is acquired by or consolidated into the Company
+pursuant to Section 12 hereof, the Incentive Advisory Fee shall also terminate;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">e)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>A
+Property Disposition Fee, payable upon the sale of a Real Property equal to the
+lesser of: (i) 3% of the contracted for sales price of the Real Property or
+(ii) 50% of the commission paid to third parties which is reasonable, customary
+and competitive in light of the size, type and location of such property (&#147;Competitive
+Real Estate Commission&#148;). The amount paid to the Advisor, when added to the
+sums paid to unaffiliated parties, shall not exceed the lesser of the
+Competitive Real Estate Commission or an amount equal to 6% of the contracted
+for sales price. Payment of such Property Disposition Fee shall be made only if
+the Advisor provides a substantial amount of services in connection with the
+sale of the particular parcel(s) of Real Property; and</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">f)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+compensation and reimbursements paid by the Company to the Advisor and its
+Affiliates shall be approved by a majority of the Directors (including a
+majority of the Independent Directors), as being fair and reasonable to the
+Company and not less favorable to the Company than would be available from an
+unaffiliated source.</h2>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">COMPENSATION FOR
+ADDITIONAL SERVICES, CERTAIN LIMITATIONS.</font></h1>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>If
+the Company shall request the Advisor or its Affiliates to render services for
+the Company other than those required to be rendered by the Advisor hereunder,
+such additional services, if performed, will be compensated separately on terms
+to be agreed upon between such party and the Company from time to time in
+accordance with this Section. The rate of compensation for such services and
+any reimbursements to be paid by the Company to the Advisor and its Affiliates</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='10',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">shall be approved by a
+majority of the Board of Directors, including a majority of the Independent
+Directors, as being fair and reasonable to the Company and not less favorable
+to the Company than would be available from an unaffiliated source.</font></h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>In
+extraordinary circumstances fully justified to the official or agency
+administering the appropriate state securities laws, the Advisor and its
+Affiliates may provide other goods and services to the Company if all of the
+following criteria are met:</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">i)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>the
+goods or services must be necessary to the prudent operation of the Company;</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-9.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ii)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>the
+compensation, price or fee must be equal to the lesser of 90% of the
+compensation, price or fee the Company would be required to pay to independent
+parties who are rendering comparable services or selling or leasing comparable
+goods on competitive terms in the same geographic location, or 90% of the
+compensation, price or fee charged by the Advisor or its Affiliates for
+rendering comparable services or selling or leasing comparable goods on
+competitive terms; and</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-9.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h3 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">iii)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>if
+at least 95% of gross revenues attributable to the business of rendering such
+services or selling or leasing such goods are derived from persons other than
+Affiliates, the compensation, price or fee charged by an unaffiliated person
+who is rendering comparable services or selling or leasing comparable goods
+must be on competitive terms in the same geographic location. Extraordinary
+circumstances shall be presumed only when there is an emergency situation
+requiring immediate action by the Advisor or its Affiliates and the goods or
+services are not immediately available from unaffiliated parties. Services
+which may be performed in such extraordinary circumstances include emergency
+maintenance of Company properties, janitorial and other related services due to
+strikes or lockouts, emergency tenant evictions and repair services which
+require immediate action, as well as operating and releasing properties with
+respect to which the leases are in default or have been terminated.</h3>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-9.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h3>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Permitted
+reimbursements shall include salaries and related salary expenses for
+nonsupervisory services which could be performed directly for the Company by
+independent parties such as legal, accounting, transfer agent, data processing
+and duplication. The Advisor believes that the employees of the Advisor and its
+Affiliates who may perform services for the Company for which reimbursement is
+allowed pursuant to Section 10(b) or 10(c), will have the experience and
+educational background, in their respective fields of expertise, appropriate
+for the performance of any such services.</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">11</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='11',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">11.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">STATEMENTS.&#160; The Advisor shall furnish to the Company not
+later than the 10th day of each calendar quarter, beginning with the second
+calendar quarter of the term of this Agreement, a statement showing the
+computation of any Advisor Asset Management Fee payable to it during such
+quarter under Section 9 hereof. The Advisor shall furnish to the Company not
+later than the 30th day following the end of each Fiscal Year, a statement
+showing a computation of: (i) the Incentive Advisory Fee, if any, payable in
+respect of such Fiscal Year under Section 9 hereof; and (ii) the fees or other
+compensation payable to the Advisor or an Affiliate of the Advisor with respect
+to such Fiscal Year under Sections 9 and 10 hereof. The final settlement or
+compensation payable under Sections 9 and 10 hereof for each Fiscal Year shall
+be subject to adjustments in accordance with, and upon completion of, the
+annual audit of the Company&#146;s financial statements.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">12.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">BUSINESS COMBINATION OF
+THE COMPANY AND THE ADVISOR.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>From
+and after September 15, 2008, the Company shall have the right, but not the
+obligation, to acquire the entire business, affairs, operations and assets of
+the Advisor (collectively, the &#147;Advisor&#146;s Business&#148;) in whatever form agreed
+upon between the Company and the Advisor (a &#147;Business Combination&#148;), as set
+forth in writing between them (&#147;Merger Agreement&#148;). If the Company desires to
+acquire the Advisor&#146;s Business in a Business Combination, the Company shall
+send a written notice to the Advisor to that effect (&#147;Election Notice&#148;).&#160; Any agreement with respect to a Business
+Combination shall contain provisions providing for: (i) the termination of this
+Agreement and all Advisory Agreements entered into pursuant hereto and the
+release or waiver of all fees payable by the Company to the Advisor under the
+Advisory Agreements (except for the payment of fees due and payable under the
+Advisory Agreements for services rendered by the Advisor up to and until the
+consummation of the Business Combination); and (ii)&nbsp;the issuance of a
+certain number of shares of common stock of the Company as determined below
+(the &#147;Shares&#148;) to be issued to the Advisor, or its stockholders, members or
+other equity holders, as the case may be, in connection with the Business
+Combination. The Advisor represents to the Company that the Advisor has
+obtained the consent of its board of directors and its shareholders to a
+Business Combination with the Company and that Advisor will obtain similar
+consents from any future shareholders, members or other equity holders of the
+Advisor.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+number of Shares to be issued by the Company to the Advisor or its
+shareholders, members or other equity holders as the case may be, shall be
+determined as follows: The net income of the Advisor for the calendar month
+immediately preceding the month in which the Merger Agreement is executed, as
+determined by an independent audit conducted in accordance with generally
+accepted auditing standards, shall be annualized (the &#147;Annual Net Income&#148;). The
+Annual Net Income shall then be multiplied by ninety percent (90%) and then
+divided by the &#147;Funds from Operations per Weighted Average Share&#148; of the
+Company.&#160; &#147;Funds from Operations per
+Weighted Average Share&#148; shall be equal to the annualized Funds from Operations,
+on the basis of four (4) times the Funds from Operations for the fiscal quarter
+immediately preceding the</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">12</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='12',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">month in which the Merger Agreement is executed, per
+weighted average Share of the Company for such quarter as stated in the
+quarterly report on Form 10-Q of the Company given to its shareholders for such
+quarter.&#160; The resulting quotient shall
+constitute the number of Shares to be issued by the Company to the Advisor or
+its shareholders, members or other equity holders as the case may be, with
+delivery thereof and the closing of the Business Combination to occur within
+ninety (90) days after the date the Election Notice is given to Advisor.&#160; Any such transaction will occur, if at all,
+only if the Board of Directors of the Company obtains a fairness opinion from
+an investment banking or valuation firm to the effect that the consideration to
+be paid for the Business Combination is fair, from a financial point of view,
+to the Company.</font></h3>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">13.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">EXPENSES OF THE
+COMPANY.&#160; The Company shall pay all of
+its expenses and shall reimburse the Advisor for its expenses as provided in
+Sections 9 and 10 hereof and, without limiting the generality of the foregoing,
+it is agreed that the following expenses of the Company shall be paid by the
+Company:</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>To
+the extent the Advisor is not expressly required to pay such expenses pursuant
+to this Agreement, salaries and other employment expenses of the personnel
+employed by the Company, Directors&#146; fees and expenses incurred in attending
+Directors meetings, travel and other expenses incurred by Directors, officers
+and employees of the Company and the cost of Directors&#146; liability insurance;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+cost of borrowed moneys;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>All
+taxes applicable to the Company;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">d)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Legal,
+accounting, auditing, underwriting, brokerage, listing, registration and other
+expenses and taxes incurred in connection with the organization or termination
+of the Company, the issuance, distribution, transfer, registration and stock
+exchange or quotation system listing of the Company&#146;s securities;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">e)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Fees
+and expenses paid to advisors, independent contractors, the Management Agent,
+consultants, managers and other agents employed directly by the Company or by
+the Advisor at the Company&#146;s request for the account of the Company or by
+Affiliates of the Advisor, as provided above;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">f)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Expenses
+in connection with the acquisition, disposition, leasing and ownership of
+investments, including to the extent not paid by others, but not limited to,
+legal fees and other expenses of professional services, maintenance, repair and
+improvement of property and brokerage and sales commissions, expenses of
+maintaining and managing Real Property equity interests (including the fees and
+charges of the Management Agent);</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">g)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>All
+insurance costs incurred in connection with the Company;</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">13</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='13',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">h)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Expenses
+connected with payments of dividends or interest or distributions in cash or in
+any form made or caused to be made by the Board of Directors to holders of
+securities of the Company;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">i)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>All
+expenses connected with communications to holders of securities of the Company
+and the other bookkeeping and clerical work necessary in maintaining relations
+with holders of securities and in complying with the continuous reporting and
+other requirements of governmental bodies or agencies, including the cost of
+printing and mailing certificates for securities and proxy solicitation
+materials and reports to holders of the Company&#146;s securities;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">j)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Transfer
+agent and registrar&#146;s fees and charges; and</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">k)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Expenses
+relating to any office or office facilities maintained by the Company separate
+from the office or offices of the Advisor.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">14.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">REIMBURSEMENT BY
+ADVISOR.&#160; The Advisor shall be obligated
+to reimburse the Company in the following circumstances:</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>On
+or before the 15th day after the completion of the annual audit of the Company&#146;s
+financial statements for each Fiscal Year, the Advisor will reimburse the
+Company for the amounts, if any, (i) by which the Total Operating Expenses
+(including the Advisor Asset Management Fee) of the Company for such Fiscal
+Year exceeded the greater of: (a) 2% of the total of the Company&#146;s Average
+Invested Assets for such Fiscal Year; or (b) 25% of the Net Income for such
+Fiscal Year; PLUS (ii) equal to any deficit between the total amount of
+distributions to Stockholders for such Fiscal Year and the Current Return;
+provided, however, that the Company may instead permit such reimbursements to
+be effected by a reduction in the amount of the monthly payments of
+compensation under Section 9(a) hereof during the balance of the Fiscal Year
+next following the Fiscal Year with respect to which such reimbursement is to
+be made; and provided, further, that only so much of such excess specified in
+clause (i) of this paragraph&#160; (a) need be
+reimbursed as the Board of Directors, including a majority of the Independent
+Directors of the Company, shall determine should justifiably be reimbursed in
+light of such unanticipated, unusual or nonrecurring factors as may have
+occurred within 60 days after the end of an fiscal quarter of the Company for
+which Total Operating Expenses&#160; (for the
+12 months then ended) exceeded 2% of Average Invested Assets or 25% of Net
+Income, whichever is greater, and there shall be sent to the Stockholders a
+written disclosure of such fact, together with an explanation of the factors
+the Independent Directors considered in arriving at the conclusion that such
+higher Total Operating Expenses were justified.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>If
+the aggregate of all Offering Expenses attendant to the Offering (including
+Selling Commissions and the Marketing Contribution and Due Diligence Expense
+Allowance) should exceed 15% of the Gross Offering Proceeds OR if the aggregate
+of all Offering Expenses (excluding any Selling Commissions)</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">14</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='14',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">should exceed 5.5% of the Gross Offering Proceeds, the
+Advisor shall pay directly and/or cause its Affiliates to pay directly any such
+excess Offering Expenses incurred by the Company and the Company will have no
+liability for such excess expenses.</font></h3>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">15.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">OTHER ACTIVITIES OF THE
+ADVISOR.&#160; Nothing herein contained shall
+prevent the Advisor or an Affiliate of the Advisor from engaging in any other
+business or activity including the rendering of services and investment advice with
+respect to real estate investment opportunities to any other person or entity
+and the management of other investments (including the investments of the
+Advisor and its Affiliates).</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">Directors, officers, employees and agents of the
+Advisor or of Affiliates of the Advisor may serve as Directors, trustees,
+officers, employees or agents of the Company, but shall receive no compensation
+(other than reimbursement for expenses) from the Company for such service.</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">16.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">TERM; TERMINATION OF
+AGREEMENT.&#160; This Agreement shall have an
+initial term of one year and, thereafter, will continue in force for successive
+one year renewals with the mutual consent of the parties including an
+affirmative vote of a majority of the Independent Directors. Each extension
+shall be executed in writing by both parties hereto before the expiration of
+this Agreement or of any extension thereof.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">Notwithstanding any other provision of the Agreement
+to the contrary, either the Company or the Advisor may terminate this
+Agreement, or any extension hereof, or the parties by mutual consent or a
+majority of the Independent Directors may do so, in each case upon 60 days
+written notice without cause or penalty. In the event of the termination of the
+Agreement, the Advisor will cooperate with the Company and take all reasonable
+steps requested to assist the Board of Directors in making an orderly
+transition of the advisory function.</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">This Agreement shall terminate upon the consummation
+of a business combination involving the Advisor and the Company as described in
+Section 12.</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">If this Agreement is terminated pursuant to this
+Section, such termination shall be without any further liability or obligation
+of either party to the other, except as provided in Section 19.</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">If this Agreement is terminated for any reason other
+than a business combination involving the Advisor and the Company as described
+in Section 12, all obligations of the Advisor and its Affiliates to offer
+Property to the Company for purchase, as described in Section 2(a), shall also
+terminate.</font></b></h1>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">15</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='15',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">17.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">ASSIGNMENTS.&#160; The Company may terminate this Agreement in
+the event of its assignment by the Advisor except an assignment to a successor
+organization which acquires substantially all of the property and carries on
+the affairs of the Advisor, provided that following such assignment the persons
+who controlled the operations of the Advisor immediately prior thereto all
+control the operations of the successor organization, including the performance
+of its duties under this Agreement; however, if at any time subsequent to such
+assignment such persons shall cease to control the operations of the successor
+organization, the Company may thereupon terminate this Agreement. This
+Agreement shall not be assignable by the Company without the consent of the
+Advisor, except in the case of assignment by the Company to a corporation,
+trust or other organization which is a successor to the Company. Any assignment
+of this Agreement shall bind the assignee hereunder in the same manner as the
+assignor is bound hereunder.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">18.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">DEFAULT, BANKRUPTCY,
+ETC.&#160; At the option solely of the
+Company, this Agreement shall be terminated immediately upon written notice of
+termination from the Board of Directors to the Advisor if any of the following
+events occurs:</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+Advisor violates any provisions of this Agreement and after notice of such
+violation shall not cure such default within 30 days; or</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>A
+court of competent jurisdiction enters a decree or order for relief in respect
+of the Advisor in any involuntary case under the applicable bankruptcy,
+insolvency or other similar law now or hereafter in effect, or appoints a
+receiver liquidator, assignee, custodian, trustee, sequestrator (or similar
+official) of the Advisor or for any substantial part of its property or orders
+the winding up or liquidation of the Advisor&#146;s affairs; or</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+Advisor commences a voluntary case under any applicable bankruptcy, insolvency
+or other similar law now or hereafter in effect, or consents to the entry of an
+order for relief in an involuntary case under any such law, or consents to the
+appointment of or taking possession by a receiver, liquidator, assignee,
+custodian, trustee, sequestrator (or similar official) of the Advisor or for
+any substantial part of its property, or makes any general assignment for the
+benefit of creditors, or fails generally to pay its debts as they become due.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">The Advisor agrees that if any of the events
+specified in subsections(b) and (c) of this Section 18 occur, it will give
+written notice thereof to the Company within seven days after the occurrence of
+such event.</font></b></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">19.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">ACTION UPON
+TERMINATION.&#160; The Advisor shall not be
+entitled to compensation after the date of termination of this Agreement for
+further services hereunder, but shall be paid all compensation accruing to the
+date of termination. Subject to the provisions of Section 12, the Advisor shall
+forthwith upon a termination caused by factors other than the listing for
+trading of the Shares on a national stock exchange or market:</font></h1>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">16</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='16',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Pay
+over to the Company all moneys collected and held for the account of the
+Company pursuant to this Agreement, after deducting any accrued compensation
+and reimbursement for its expenses to which it is then entitled;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Deliver
+to the Board of Directors a full accounting, including a statement showing all
+payments collected by it and a statement of all money held by it, covering the
+period following the date of the last accounting furnished to the Board of
+Directors;</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Deliver
+to the Board of Directors all property and documents of the Company then in the
+custody of the Advisor; and</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">d)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Cooperate
+with the Company and take all reasonable steps requested by the Company to
+assist the Board of Directors in making an orderly transition of the Advisory
+function.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">20.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">CHANGE OF NAME.&#160; The Company recognizes that the name and mark
+&#147;Inland&#148; have established prestige and goodwill and have acquired valuable
+secondary meanings in the real estate and related industries and in the mind of
+the public. The Company desires to associate itself with and benefit from the &#147;Inland&#148;
+name, and in consideration of the grant by the Advisor and its Affiliates of a
+perpetual royalty free license to the Company (which license has been
+authorized), subject to the conditions set forth in this Section 20, to use the
+name and mark &#147;Inland&#148; in connection with a real estate investment trust
+throughout the United States, its territories and possessions, the Company agrees
+that:</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+value of the &#147;Inland&#148; name cannot be reasonably and adequately compensated for
+in damages in action at law and unauthorized use of the &#147;Inland&#148; name will
+cause irreparable injury and damage to the Advisor and its Affiliates. The
+Advisor or its Affiliates shall be entitled as a matter of right to injunctive
+relief to prevent the use of the &#147;Inland&#148; name by the Company in the event of
+the circumstances described in Subsection (d) below.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+Company agrees to use the &#147;Inland&#148; name and mark in a manner which will protect
+the right of the Advisor and its Affiliates therein and such use shall be as
+licensee for the account and benefit of the Advisor and its Affiliates. To the
+extent any rights in the name or mark &#147;Inland&#148; are deemed to accrue to the
+Company, the Company hereby assigns any and all such rights to the Advisor and
+its Affiliates at such time as they may be deemed to accrue.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>Nothing
+contained in this Agreement shall be construed an assignment or grant to the
+Company of any right, title or interest in or to the name or mark &#147;Inland&#148; or
+any other trademarks, trade names or related service marks, insignias, logos,
+designs and color schemes, it being understood that all rights relating thereto
+are reserved by the Advisor and its Affiliates, except for the license
+hereunder to the Company of the rights to use the name or mark as specifically
+and expressly provided herein. The Company agrees to cooperate fully and in
+good faith with the Advisor and its Affiliates, at the expense of the Advisor
+and its Affiliates, in</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">17</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='17',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">securing and preserving the rights of the Advisor and
+its Affiliates in and to the name and mark &#147;Inland&#148; and to assist the Advisor
+and its Affiliates in executing and causing to be recorded such documents as
+may be necessary or desirable to evidence, protect and implement the rights of
+the Advisor and its Affiliates pursuant to this Agreement.</font></h3>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">d)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>At
+such time as the Advisor is no longer providing services to the Company pursuant
+to this Agreement for some reason other than the consummation of a business
+combination described in Section 12, the Board of Directors will upon the
+request of the Advisor and its Affiliates, promptly cause the name of the
+Company to be changed in perpetuity to a name which does not include any
+reference to the name &#147;Inland&#148; or any successor thereof. Without limiting the
+generality of the foregoing, upon termination of this Agreement by either party
+for some reason other than the consummation of a business combination described
+in Section 12, the Board of Directors will promptly cause the name of the
+Company to be changed in perpetuity to a name which does not include any
+references to the name &#147;Inland&#148; or any successor thereof.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">21.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">AMENDMENTS.&#160; This Agreement shall not be amended, changed,
+modified, terminated or discharged in whole or in part except by an instrument
+in writing signed by both parties hereto, or their respective successors or
+assigns, or otherwise provided herein.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">22.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">SUCCESSORS AND
+ASSIGNS.&#160; This Agreement shall bind any
+successors or assigns of the parties hereto as herein provided.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">23.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">GOVERNING LAW.&#160; The provisions of this Agreement shall be
+governed, construed and interpreted in accordance with the laws of the State of
+Illinois as at the time in effect.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">24.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">LIABILITY AND
+INDEMNIFICATION.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">a)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+Company shall, to the fullest extent permitted by Maryland statutory or
+decisional law, as amended or interpreted, and, without limiting the generality
+of the foregoing, in accordance with Section 2418 of the General Corporation
+Law of Maryland, indemnify and pay or reimburse reasonable expenses to the
+Advisor and its Affiliates, provided, that: (i) the Advisor or other party
+seeking indemnification has determined, in good faith, that the course of
+conduct which caused the loss or liability was in the best interests of the
+Company; (ii) the Advisor or other person seeking indemnification was acting on
+behalf of or performing services on the part of the Company; (iii) such
+liability or loss was not the result of negligence or misconduct on the part of
+the indemnified party; and (iv) such indemnification or agreement to be held
+harmless is recoverable only out of the assets of the Company and not from the
+Stockholders thereof.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">b)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+Company shall not indemnify the Advisor or its Affiliates for losses,
+liabilities or expenses arising from or out of an alleged violation of federal
+or state securities laws by such party unless one or more of the following</h2>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">18</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='18',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h3 style="font-weight:normal;margin:0in 0in .0001pt 81.35pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">conditions are met: (i) there has been a successful
+adjudication on the merits of each count involving alleged securities law
+violations as to the particular indemnitee; (ii) such claims have been
+dismissed with prejudice on the merits by a court of competent jurisdiction as
+to the particular indemnitee; or (iii) a court of competent jurisdiction
+approves a settlement of the claims and finds that indemnification of the
+settlement and related costs should be made and the court considering the
+request has been advised of the position of the Securities and Exchange
+Commission and the published opinions of any state securities regulatory
+authority in which securities of the Company were offered and sold with respect
+to the availability or propriety of indemnification for securities law
+violations.</font></h3>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h2 style="font-size:10.0pt;font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c)</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b>The
+Company may advance amounts to persons entitled to indemnification hereunder
+for legal and other expenses and costs incurred as a result of any legal action
+for which indemnification is being sought only if all of the following
+conditions are satisfied: (i) the legal action relates to acts or omissions
+with respect to the performance of duties or services by the indemnified part
+for or on behalf of the Company; (ii) the legal action is initiated by a third
+party and a court of competent jurisdiction specifically approves such
+advancement; and&#160; (iii) the indemnified
+party receiving such advances undertakes to repay the advanced funds to the
+Company, together with the applicable legal rate of interest thereon, in any
+case(s) in which such party is found not to be entitled to indemnification.</h2>
+
+<h2 style="font-weight:normal;margin:0in 0in .0001pt 81.0pt;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></h2>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">25.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">NOTICES.&#160; Any notice, report or other communication
+required or permitted to be given hereunder shall be in writing unless some
+other method of giving such notice, report or other communication is accepted
+by the party to whom it is given and shall be given by being delivered at the
+following addresses of the parties hereto:</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The
+Company and/or the Board of Directors:</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Inland
+Western Retail Real Estate Trust, Inc.</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2901
+Butterfield Road</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Oak
+Brook, Illinois 60523</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Attention:
+Ms. Roberta S. Matlin, Vice President</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The
+Advisor:</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Inland
+Western Retail Real Estate Advisory Services, Inc.</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2901
+Butterfield Road</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Oak
+Brook, Illinois 60523</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Attention:
+President</font></p>
+
+<p align="left" style="margin:0in 0in .0001pt 1.0in;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:normal;">Either party may at any time give notice in writing
+to the other party of a change of its address for the purpose of this Section
+25.</font></b></h1>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">19</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='19',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">26.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">CONFLICTS OF INTEREST AND
+FIDUCIARY DUTIES TO THE COMPANY AND TO THE COMPANY&#146;S STOCKHOLDERS.&#160; The Company and the Advisor recognize that
+their relationship is subject to various conflicts of interest as set forth in
+the Prospectus. The Advisor, on behalf of itself and its Affiliates, acknowledges
+that the Advisor and its Affiliates have fiduciary duties to the Company and to
+the Company&#146;s Stockholders. The Advisor, on behalf of itself and its
+Affiliates, represents and agrees (i) that the Advisor and its Affiliates will
+endeavor to balance the interests of the Company with the interests of the
+Advisor and its Affiliates in making any determination where a conflict of
+interest exists between the Company and the Advisor or its Affiliates; and (ii)
+that the actions and decisions of the Advisor and its Affiliates under this
+Agreement (including but not limited to actions and decisions in connection
+with the purchase of Properties for the Company) will be made in the manner
+most favorable to the Company and to the Company&#146;s Stockholders, so as not to
+breach their respective fiduciary duties to the Company and to the Company&#146;s
+Stockholders.</font></h1>
+
+<h1 style="font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></h1>
+
+<h1 style="font-size:10.0pt;font-weight:bold;margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">27.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="font-weight:normal;">HEADINGS.&#160; The section headings hereof have been
+inserted for convenience of reference only and shall not be construed to affect
+the meaning, construction or effect of this Agreement.</font></h1>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">[REMAINDER OF PAGE
+INTENTIONALLY LEFT BLANK]</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">20</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='20',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">IN WITNESS
+WHEREOF, the undersigned have executed this First Amended and Restated Advisory
+Agreement as of the date first above written.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">COMPANY:</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">INLAND WESTERN RETAIL REAL ESTATE TRUST, INC.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="39%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:39.54%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By: /s/ Roberta S. Matlin</font></p>
+  </td>
+  <td width="47%" valign="top" style="padding:0in 0in 0in 0in;width:47.5%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title: Vice President - Administration</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ADVISOR:</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">INLAND WESTERN RETAIL REAL ESTATE ADVISORY SERVICES, INC.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="39%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:39.54%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By: /s/ Robert D. Parks</font></p>
+  </td>
+  <td width="47%" valign="top" style="padding:0in 0in 0in 0in;width:47.5%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.96%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="87%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:87.04%;">
+  <p align="left" style="margin:0in 0in .0001pt;text-align:left;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title: President</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">21</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='21',FILE='C:\JMS\rsampat\04-11519-3\task265848\11519-3-mm.htm',USER='rsampath',CD='Dec 31 03:00 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

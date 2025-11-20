@@ -1,0 +1,806 @@
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                   ----------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+       Date of Report (Date of earliest event reported): December 20, 2004
+
+                         CHARDAN CHINA ACQUISITION CORP.
+               (Exact Name of Registrant as Specified in Charter)
+
+          Delaware                    000-50604                 20-0456115
+          --------                    ---------                 ----------
+(State or Other Jurisdiction         (Commission               (IRS Employer
+      of Incorporation)              File Number)            Identification No.)
+
+625 Broadway, Suite 1111, San Diego, California                    92101
+- -----------------------------------------------                    -----
+  (Address of Principal Executive Offices)                       (Zip Code)
+
+Registrant's telephone number, including area code: (858) 847-9000
+
+                                 Not Applicable
+                                 --------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+|_|   Written communications pursuant to Rule 425 under the Securities Act (17
+      CFR 230.425)
+
+|_|   Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+      240.14a-12)
+
+|_|   Pre-commencement communications pursuant to Rule 14d-2(b) under the
+      Exchange Act (17 CFR 240.14d-2(b))
+
+|_|   Pre-commencement communications pursuant to Rule 13e-4(c) under the
+      Exchange Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+Item 1.01. Entry into a Material Definitive Agreement
+
+General; Structure of Acquisition
+
+      On December 20, 2004, Chardan China Acquisition Corp. ("CCAC") entered
+into a Stock Purchase Agreement ("Purchase Agreement") with State Harvest
+Holdings Limited, a British Virgin Islands corporation ("Origin"), and all the
+stockholders of Origin ("Origin stockholders") for CCAC's acquisition of Origin.
+Origin is a BVI holding company formed for the purpose of owning, as of the
+closing, four Chinese companies engaged in the production and sale of
+agricultural corn, cotton and rice seeds. The operating companies are Beijing
+Origin Seed Limited, Changchun Origin Seed Technical Development Limited and
+Henan Origin Cotton Technology Development Limited (these three companies are
+referred to as the "Chinese Operating Subsidiaries"), and the technology -
+intellectual property holding and licensing company is Beiging Origin State
+Harvest Biotechnology Limited ("Origin Biotechnology").
+
+      For the acquisition, CCAC will form its own wholly-owned subsidiary under
+the laws of the British Virgin Islands, under the name Origin Agritech Limited
+("Agritech"), and at the time of the closing, CCAC will merge with and into
+Agritech for the purpose of redomestication out of the United States to secure
+future tax benefits. This redomestication merger will be achieved by a
+one-for-one exchange of all the outstanding common stock of CCAC for common
+stock of Agritech and the assumption of all the rights and obligations of CCAC
+by Agritech, including assumption of the outstanding warrants of CCAC on the
+same terms as they currently exist. Then, Agritech immediately will acquire all
+the common stock of Origin by the issuance of shares and payment of cash
+consideration as described below, making it a wholly owned subsidiary.
+Additionally, at the closing, the Chinese parties to the Purchase Agreement will
+execute various stock consignment agreements assigning to Origin their rights in
+the Chinese Operating Subsidiaries so that they will become the equivalent of
+subsidiaries of Origin under Chinese law. Beijing Origin Seed Limited will be
+97.96% owned with Henan Agriculture University holding the remaining 2.04%,
+Henan Origin Cotton Technology Development Limited will be 97.96% owned with the
+remaining 2.04% owned by an individual, and Changchun Origin Seed Technical
+Development Limited and Origin Biotechnology will be 100% owned. The three
+Chinese Operating Companies will also execute Technology Service Agreements with
+Origin Biotechnology for the assignment, holding and management of the
+technology and intellectual property of the seeds and their production.
+
+      The current management of Origin and the Chinese Subsidiaries, led by Dr.
+Han Gengchen and Messrs. Yang Yasheng and Yuan Liang, will become the executive
+officers of Agritech and will continue to operate the Chinese companies. These
+persons will also become three of the nine-person board of directors of
+Agritech. Kerry Propper, a current director and an officer of CCAC, also will be
+a director of Agritech. Dr. Han and Messrs Yang and Yuan will enter into a
+voting agreement with Agritech and Mr. Propper for their commitment to take such
+action as is necessary to nominate and elect Mr. Propper and a designee of his
+as directors of Agritech for three years after the closing. Of the remaining
+four director positions two will be filled upon the recommendation the Chinese
+parties and two will be jointly determined, but consideration will be made in
+meeting the requirements of having directors who are both independent and
+financially sophisticated.
+
+
+                                       2
+<PAGE>
+
+      The transaction is expected to be consummated in the second fiscal quarter
+of 2005, after the required approval by CCAC stockholders, as discussed herein.
+
+Purchase Price
+
+      At the closing, the Origin stockholders and their designees, subject to
+adjustments and certain holdbacks, will be paid an aggregate of $10,000,000 in
+cash and issued an aggregate of 10,200,000 shares of Agritech common stock for
+all the outstanding common stock of Origin. Of the cash portion of the purchase
+price, $250,000 will be held back for one year by Agritech to secure certain
+indemnification obligations of the Origin stockholders.
+
+      As additional purchase price, Agritech will pay to the Origin stockholders
+and their designees, up to an aggregate of $15,000,000 in the event that any of
+the following occurs during any fiscal year of Agritech after the closing date
+until December 31, 2008 (or June 30, 2009 if the fiscal year is changed to a
+July 1 - June 30 fiscal year):
+
+      A. If Agritech receives at least $40,000,000 in gross proceeds in
+additional financing (i) as a result of the call of the outstanding public
+warrants assumed by Agritech at the closing; (ii) upon Agritech's successful
+completion of a secondary offering; or (iii) the private investment into
+Agritech by a strategic investor ("Financing Adjustment"); or
+
+      B. If Agritech generates a net positive cash flow of not less than
+$2,000,000 on a consolidated basis in any fiscal year after the closing
+("Earnings Adjustment"), the Origin stockholders and their designees will be
+entitled to receive 75% of the net positive cash flow up to a maximum of
+$7,500,000 per fiscal year; provided however, that the board of directors of the
+surviving corporation, solely on the basis of a proposal by Dr. Han, as a
+director, may reduce the amount to be paid in any one year.
+
+      In the event that both an Earnings Adjustment and a Financing Adjustment
+occurs, the maximum aggregate amount to be paid to the Origin stockholders from
+one or both adjustments is $15,000,000.
+
+      As further additional purchase price, certain Origin stockholders and
+their designees will be issued, on an all or none basis per year, an aggregate
+of 1,500,000 shares of common stock of Agritech, if on a consolidated basis,
+Agritech has or exceeds after-tax profits (excluding after-tax operating profits
+from any subsequent acquisition for securities that have a dilutive effect and
+before the expenses of this transaction and director and employee option
+expense) in the following amounts for the indicated 12-month periods ending June
+30:
+
+                 Year ending June 30,                After Tax Profit
+                 --------------------                ----------------
+                        2006                           $11,000,000
+                        2007                           $16,000,000
+                        2008                           $21,000,000
+                        2009                           $29,000,000
+
+
+                                       3
+<PAGE>
+
+Representations and Warranties
+
+      The Purchase Agreement contains representations and warranties of each of
+the CCAC, Origin and the Origin stockholders relating to, among other things,
+(a) proper corporate organization and similar corporate matters, (b) capital
+structure of each constituent company, (c) the authorization, performance and
+enforceability of the Purchase Agreement, (d) licenses and permits, (e) taxes,
+(f) accredited investor status, (g) absence of undisclosed liabilities, (h)
+holding of leases and ownership of other properties, including intellectual
+property, (i) accounts receivable, (j) inventory, (k) contracts, (l) title and
+condition of assets, (m) absence of certain changes, (n) employee matters, (o)
+compliance with applicable laws, (p) absence of litigation, (q) compliance with
+applicable provisions of securities laws, including past and transaction-related
+filings. The Origin Stockholders have represented and warranted that they own
+all the stock of Origin.
+
+Covenants
+
+      Each of the CCAC, Origin and the Origin stockholders has agreed to
+continue to operate their respective businesses in the ordinary course prior to
+the closing. In addition, CCAC will pursue this transaction and take the actions
+necessary to redomesticate at the time of the closing. Origin and the Origin
+subsidiaries will pursue this transaction and take the actions necessary to
+reorganize so that at the closing there will be a parent holding corporation
+formed under British Virgin Islands law with four subsidiaries formed and
+operating under the law of the Peoples Republic of China ("PRC") law.
+
+      Additional material covenants under the Purchase Agreement include:
+
+      (i)   Obtaining all necessary approvals, including shareholder and
+            governmental approvals for redomestication in the BVI by CCAC and
+            for reorganization of the Chinese Operating Subsidiaries and Origin
+            Biotechnology under PRC law;
+
+      (ii)  Origin and each Origin subsidiary must maintain insurance polices
+            providing insurance coverage for its business and its assets in the
+            amounts and against the risks as are commercially reasonable for the
+            businesses and risks covered;
+
+      (iii) The Origin stockholders must protect confidential information and
+            maintain the confidentiality of Origin and the Chinese Operating
+            Subsidiaries proprietary information and they must not compete with
+            the business of Origin, without the written consent of Origin,
+            anywhere in the PRC, Hong Kong and Taiwan;
+
+      (iv)  Until the closing neither the Origin stockholders nor Origin nor any
+            Origin subsidiary shall solicit or initiate proposals from, provide
+            information to or hold discussions with any party, enter into any
+            agreement or understanding, providing for any acquisition of any
+            capital stock of Origin and any Origin subsidiary or any part of
+            their respective assets or businesses;
+
+
+                                       4
+<PAGE>
+
+      (v)   Until the closing, the Origin stockholders and their affiliates,
+            directly or indirectly, will not engage in any transactions
+            involving the securities of CCAC;
+
+      (vi)  For three years after the closing, Origin, the Origin stockholders
+            and Agritech will use their best efforts to nominate Kerry Propper
+            and one additional person for election as directors;
+
+      (vii) After the closing of the transaction, Agritech shall be responsible
+            for payment of a $1,000,000 capital contribution for Beijing Origin
+            State Harvest Biotechnology Limited, as required by PRC law, and to
+            the extent that such capital is paid by Dr. Han, take action to
+            fully reimburse him for any advances of the capital contribution.
+
+Conditions to Closing
+
+      A.    General Conditions
+
+      Consummation of the transaction is conditioned on the stockholders of
+CCAC, at a meeting called for these purposes, (i) approving the Purchase
+Agreement and related transactions, (ii) approving the merger of CCAC into
+Agritech for the purpose of corporate redomestication in the BVI, which will
+include retention of the Agritech name and an increase in the authorized capital
+of the current company, and (iii) electing directors of Agritech. The
+stockholders will also be asked to adopt a stock option and award plan, but the
+transaction is not dependent on the approval of this plan.
+
+      The matter of the Purchase Agreement and the related transactions will
+require approval by the holders of a majority of the common stock of CCAC, all
+of which will be described in the CCAC proxy statement. The holders of the
+common stock of CCAC issued prior to its initial public offering ("IPO"),
+including such shares held by the current officers and directors of CCAC
+("Non-Public Shares"), have agreed to vote in the matter of the Purchase
+Agreement as the majority of the shares sold in the IPO ("Public Shares") are
+voted. Additionally, if holders owning 20% or more of the Public Shares vote
+against the transaction and exercise their right to convert their Public Shares
+into a pro-rata portion of the funds held in trust by CCAC, then the transaction
+contemplated by the Purchase Agreement cannot be approved. The approval of the
+redomestication and corresponding differences in the charters of CCAC and
+Agritech will require a vote of a majority of the outstanding common stock of
+CCAC. The approval of the stock plan will require the approval of the majority
+of the holders of CCAC common stock present at the meeting. The directors are
+elected by a plurality of the shares of common stock of CCAC outstanding.
+
+      In addition, the Purchase Agreement is conditioned upon (i) no order,
+stay, judgment or decree issued by any governmental authority preventing,
+restraining or prohibiting in whole or in part, the consummation of the
+transactions contemplated in the Purchase Agreement, (ii) execution and delivery
+to each party of each of the various transaction documents, (iii) delivery by
+each party to the other party of a certificate to the effect that the
+representations and warranties of each party are true and correct in all
+material respects as of the closing and all covenants
+
+
+                                       5
+<PAGE>
+
+contained in the Purchase Agreement have been materially complied with by each
+party, and (iv) receipt of necessary consents and approvals by third parties and
+completing necessary proceedings. B. Origin and Origin Stockholder Conditions to
+Closing
+
+      The obligations of Origin and each Origin stockholder to consummate the
+transactions contemplated by the Purchase Agreement also are conditioned upon
+each of the following, among other things: (i) Agritech will be an existing
+company under the laws of the British Virgin Islands; (ii) Origin shall have
+entered into, effective as of the closing, the employment agreements with the
+key executives, Dr. Han and Messrs. Yuan and Yung, the forms of which are
+exhibits to the Purchase Agreement; and (iii) Disbursement of funds held in the
+trust account maintained for CCAC.
+
+      C.    CCAC's Conditions to Closing
+
+         The obligation of CCAC to consummate the transactions contemplated by
+the Purchase Agreement also are conditioned upon each of the following, among
+other things:
+
+      (i)   The Origin Stockholders shall have delivered the Origin stock;
+
+      (ii)  The Stock Consignment Agreements and Technology Services Agreements
+            will be executed and delivered;
+
+      (iii) At the closing, there shall have been no material adverse change in
+            the assets, liabilities, financial condition or prospects of Origin,
+            the Origin subsidiaries or its business from that shown or reflected
+            in the financial statements of Origin at September 30, 2004 and as
+            to be described in the CCAC proxy statement, and between the date of
+            the Purchase Agreement and the closing date, there shall not have
+            occurred an event which, in the reasonable opinion of CCAC would
+            have a material adverse effect on Origin or the subsidiaries of
+            Origin;
+
+      (iv)  At the closing, Origin and the Origin subsidiaries, on a
+            consolidated basis immediately prior to closing, will have not less
+            than US $10,000,000 in cash assets and will have short and long term
+            debt only to the extent arising in the ordinary course of business;
+
+      (v)   The information about Origin and its subsidiaries and its management
+            provided for inclusion in the CCAC proxy statement at the time of
+            its distribution and at the closing, will accurately reflect the
+            business, Origin, the
+
+
+                                       6
+<PAGE>
+
+            Origin subsidiaries and the Origin stockholders, and not contain any
+            untrue statement of a material fact or omission;
+
+      (vi)  Each of Dr. Han and Messrs. Yang and Yuan will have entered into the
+            employment agreements with Origin; and
+
+      (vii) Each of Dr. Han and Messrs. Yang and Yuan will have entered into the
+            form of voting agreement which is an exhibit to the Purchase
+            Agreement that provides for them to vote all of the shares of
+            Agritech over which they have direct or beneficial ownership and
+            voting authority in favor of Kerry Propper and one of Mr. Propper's
+            designees as directors of Agritech for a period of three years after
+            the closing.
+
+Indemnification
+
+      The Origin Stockholders shall indemnify and hold harmless Agritech for any
+damages, whether as a result of any third party claim or otherwise, and which
+arise from or in connection with the breach of representations and warranties
+and agreements and covenants of Origin, the Origin subsidiaries or the Origin
+Stockholders. Agritech shall indemnify and hold harmless each Origin stockholder
+from and against and shall reimburse each Origin stockholder for any damages,
+whether as a result of any third party claim or otherwise, and which arise from
+or in connection with the breach of representations and warranties and
+agreements and covenants of CCAC, which will be assumed by Agritech upon the
+redomestication merger. Claims may be asserted once the damages exceed $50,000.
+Any indemnification payments shall be deemed to be an adjustment to the purchase
+price. There will be withheld $250,000 from the initial payment of $10,000,000
+to be paid to the Origin Stockholders at the closing, for a period of 12 months,
+to be available to satisfy, in whole or part, any claim under the
+indemnification obligations of the Origin Stockholders.
+
+      The determination to assert a claim for indemnification against the Origin
+stockholders for the benefit of Agritech will be determined by an independent
+committee of the board of directors of Agritech. The independent committee of
+the board of directors will consist of two persons, as selected by the board of
+directors, none of whom is an officer or employee of Agritech and its
+subsidiaries or is the direct or beneficial owner of 5% or more of the voting
+capital stock of Agritech.
+
+Termination
+
+      The Purchase Agreement may be terminated at any time, but not later than
+the closing as follows:
+
+      (i)   By mutual written consent of CCAC and Origin;
+
+
+                                       7
+<PAGE>
+
+      (ii)  By either party if the other party amends a schedule and such
+            amendment or supplement reflects a material adverse change in the
+            condition, operations or prospects of its business; (iii) By either
+            party if the closing has not occurred by May 31, 2005 (unless such
+            terminating party is in breach of any of its material covenants,
+            representations or warranties);
+
+      (iv)  By either party if the other party has breached any of its covenants
+            or representations and warranties in any material respect and has
+            not cured its breach within 10 business days of the notice of an
+            intent to terminate, provided that the terminating party is itself
+            not in breach;
+
+      (v)   By Origin, if the board of directors of CCAC (or any committee
+            thereof) shall have failed to recommend or withdraw or modify in a
+            manner adverse to Origin its approval or recommendation of the
+            Purchase Agreement and any of the transactions contemplated thereby;
+
+      (vi)  By CCAC if its board of directors shall have determined in good
+            faith, based upon the advice of outside legal counsel, that failure
+            to terminate the Purchase Agreement is reasonably likely to result
+            in the board of directors breaching its fiduciary duties to
+            stockholders by reason of the pendency of an unsolicited, bona fide
+            written proposal for a superior transaction; or
+
+      (vii) By either party if, at the CCAC stockholder meeting, the Purchase
+            Agreement and the transactions contemplated thereby shall fail to be
+            approved and adopted by the affirmative vote of the holders of
+            CCAC's common stock, or 20% or more of the Public Shares request
+            conversion of their shares into the pro rata portion of the trust
+            fund in accordance with the CCAC certificate of incorporation.
+
+      If the Purchase Agreement is terminated by CCAC for material breach of a
+covenant, representation or warranty or material amendment to a schedule of
+Origin, the Origin subsidiaries or Origin stockholders, then the Origin
+stockholders will pay CCAC $1,000,000 upon termination of the Purchase Agreement
+in lieu of any other right or remedy that the CCAC may have against the other
+parties to the Purchase Agreement for such breach. If the Purchase Agreement is
+terminated by Origin for a material breach of a covenant, representation or
+warranty or material amendment to a schedule of CCAC, or because the board of
+directors of CCAC fails to recommend or withdraws or modifies its approval or
+recommendation of approval of the Purchase Agreement, then Richard Propper,
+Kerry Propper, Jiangnan Huang, Li Zhang, Dan Beharry and Steven Urback (pro rata
+in relation to their initial ownership in CCAC) will pay Origin $1,000,000 upon
+termination of the Purchase Agreement in lieu of any other right or remedy that
+Origin may have against the other parties to the Purchase Agreement for such
+breach. The Origin entities have no right to damages from CCAC or Agritech and
+they have no right to any amount held in the trust fund, and they have agreed
+not to make any claim against CCAC and Agritech that would adversely affect the
+business, operations or prospects of CCAC and Agritech or the amount of the
+funds held in the trust fund.
+
+
+                                       8
+<PAGE>
+
+Employment Agreements
+
+      Each of Dr. Han Gengchen and Messrs. Yuan Liang and Yung Yasheng will
+enter into a three-year employment agreement with Origin. Dr. Han will be
+employed as the chief executive officer, Mr. Yuan will be the executive vice
+chairman and Mr. Yang will be president and chief operating officer. The
+agreements will provide for an annual salary of $250,000 and a discretionary
+cash bonus based on growth in CCAC's per-share value, achievement of growth and
+business targets, satisfaction of company capital requirements and other
+criteria, as the compensation committee determines. The executives will be
+entitled to insurance benefits, five weeks vacation, a car and reimbursement of
+business expenses and, if necessary, relocation expenses. The agreements will be
+terminable by Origin for death, disability and cause. The executive may
+terminate for good reason, which includes CCAC's breach, the executive not being
+a member of the board of directors, and change of control. In the event of
+termination for good reason, the executive will receive two years compensation
+and benefits. The agreements contain provisions for the protection of
+confidential information and a three-year-after employment non-competition
+period within the PRC. In the Purchase Agreement, there is an additional
+non-competition agreement applicable to these persons for the greater of five
+years after consummation or two years after employment that includes Hong Kong
+and Taiwan, in addition to the PRC.
+
+Item 7.01 Regulation FD Disclosure
+
+Overview of Origin
+
+      Origin is one of the premier players in China's seed industry. It
+specializes in the research, development, production, sale and distribution of
+agricultural crop seeds. Origin's primary concentration is on hybrid corn seed,
+but it is in the process of expanding into the development and sale of
+cottonseed and hybrid rice seed.
+
+      Origin was founded in December 1997, with headquarters in Beijing.
+Currently, Origin has over four hundred employees. It has four subsidiaries, one
+of which is a technology holding corporation to hold and manage its intellectual
+property. Origin operates through several branches in locations in Beijing,
+Hebei, Gansu, Henan, Liaoning, Jilin, and Sichuan. As Origin expands, it plans
+to locate additional production facilities, sales offices and research stations
+strategically throughout China in the main corn, cotton, and rice agricultural
+belts.
+
+Leading Market Position
+
+      Although Origin has only a six-year history in the Chinese seed industry,
+many of its business practices have become benchmarks for other Chinese seed
+companies. Origin's executives have global business experience and access to
+global resources through their previous industry, educational and research ties.
+Origin employs a team of internationally educated and experienced managers and
+researchers. Its in-house research and development team is one of the most
+efficient in the Chinese corn seed industry and has already developed many of
+its own hybrid lines and established a rich product development pipeline.
+
+
+                                       9
+<PAGE>
+
+      Origin is recognized for the quality of its hybrid corn seeds and
+efficient sales network. As a result of these factors and its 24/7 service, its
+seeds command a premium price in the seed market. Origin believes that it
+currently has the largest processing capability, largest company-run seed
+production base and most advanced equipment in the Chinese seed industry.
+Furthermore, it is the only Chinese seed company that provides post-sale
+technical service, which serves to bolster its relationship with its customer
+base.
+
+      The seed industry in China has significant time and expense barriers to
+entry. It generally takes between eight and ten years to develop and sell
+proprietary hybrid seeds in China. First, prior to initiating government
+licensing and testing procedures, a company seeking to sell seed must develop
+environment specific hybrid products appropriate for a given regional market, a
+process that can last as long as four to six years. Second, the company must be
+granted two licenses, a process which takes at least one year. Third, the
+company must submit seeds for government testing, which lasts at least three
+years, and then it must wait until the following growing season to begin sales.
+Once this process is completed, a new company must build brand recognition and a
+sales and service network in order to reach the market.
+
+Origin Represents a Consolidation Opportunity in a Fragmented Market
+
+      The vast majority of the global hybrid seed market is controlled by
+Monsanto, Pioneer and Sygenta; however, there is no market leader in China at
+this time. The Chinese seed market is extremely fragmented, and the top five
+companies control less than 25% of the market. In 2003, Origin had approximately
+a 3% market share and in the first nine months of 2004, Origin had a 3.75%
+market share, and it is among these top five companies. The remaining 75% of the
+Chinese market is spread among approximately 5,000 local seed producers that
+sell only to local farmers. These companies, in general, are poorly run and have
+no motivation to expand geographically. Their product is generally neither
+uniform nor up to international standards. Origin believes that, in the future,
+it is likely that these companies will discontinue seed production and become
+distributors for one of the larger, better capitalized and quality oriented seed
+companies, like Origin.
+
+Origin Has Seasoned Management Team
+
+      The Chairman and CEO, Dr. Han, received his PhD in Plant Breeding and
+Cytogenetics from Iowa State University and has over twenty years experience in
+the seed industry. He worked for the International Maize and Wheat Improvement
+Center (CIMMYT) in Mexico from 1987 to 1990, and Pioneer Hi-bred International
+Inc., in the Philippines and Taiwan, from 1990 to 1996. Dr. Han's concentration
+is in the research and development of corn seed and general management of the
+Origin seed business.
+
+      The President and Chief Operating Officer, Mr. Yang, has over fifteen
+years of experience in marketing and selling corn products in China. He studied
+molecular biology at the University of Maryland in the US, and served as an
+officer in the Fujian provincial government where he specialized in the areas of
+technology, medicine and education. Since Mr. Yang joined Origin sales revenues
+have increased rapidly, from RMB28MM (US$3.5 million) in 1998 to nearly RMB300MM
+(US$38 million) in 2003.
+
+
+                                       10
+<PAGE>
+
+      The company's executive vice chairman is Mr. Yuan, who has been with the
+company since 1997. Mr. Yuan received his Bachelor and Master degrees in
+Mechanical Engineering from Shanghai Jiao Tong University. One of the other
+companies with which Mr. Yuan is affiliated as a director with Fujian
+Co-development Company, which is listed on the Hong Kong exchange.
+
+      Origin currently has 32 research and development specialists, 142 sales
+people, 59 administrative staff, and 183 technicians in the production plants.
+
+Production of the High Quality Hybrid Seeds
+
+      Origin believes that it maintains the strictest seed quality control
+system in China. It was the first Chinese seed company to gain ISO9001-2000
+certification. To continue its position as a quality producer, the company
+consistently expends approximately5% of its gross income resources on research
+and development. Also, the company established its own stable of seed production
+bases in Gansu and Inner Mongolia by providing seed-producing farmers with
+technical training and strict field quality control practices. Origin believes
+that it has the largest processing capability and utilizes the most advanced
+equipment in China, which helps to guarantee a high quality of hybrid seeds. By
+employing these practices, Origin believes that it has achieved a product
+quality on par with, if not superior to, that of its foreign counterparts.
+
+      Origin has very close relationships with the top academic research
+institutions in China, including the Chinese Academy of Science, China
+Agricultural Academy of Science, Beijing Agricultural Academy of Science, Henan
+Agricultural University and Liaoning Agricultural Academy. Origin has cooperated
+with these institutions through contractual research, partnering relationships
+and by joint-licensing various varieties of their hybrid seeds. One of Origin's
+subsidiaries is 2.04% owned by Henan University.
+
+      The development of the science of genetics has permitted the creation of
+new species of corn, rice and cotton, rather than just new varieties.
+Genetically modified (GM) corn, soybean and cotton have been widely used in the
+United States and many other countries to guard against insect damage and to
+increase yields. The future potential for GM corn and rice in China is
+astounding. Since receiving Chinese government approval, GM cotton is now
+planted by nearly 70% of Chinese cotton farmers to guard against bore damage.
+Because the Chinese market has widely accepted GM cotton, and the Ministry of
+Agriculture is beginning to promote GM rice seed, Origin believes that GM
+products will eventually be fully promoted and accepted in the Chinese market.
+
+      In response to these developments, Origin initiated its own biotech
+program in 2000, and it is cooperating with the Chinese Academy of Science,
+China Agricultural University, China Agricultural Academy of Science and Beijing
+Agricultural Academy of Science on gene research. Origin's strategy is to ensure
+that the technology will be ready when the market is ready.
+
+
+                                       11
+<PAGE>
+
+National Marketing and Distributors
+
+      Origin has its own sales organization of 142 persons that oversee all
+aspects of the distribution and retail sale network and promote the company
+sales to the expanding distribution chain.
+
+      Origin has established a stable, nationwide distribution network with over
+1,200 first-level distributors and over 20,000 second-level distributors and
+some retailers. The distributors in turn sell to the retailers and retailers
+sell to the farmers, of which there are over 200 million end-user corn farmers
+in China. This distribution network covers almost all the provinces of China,
+excluding only Qinghai and Tibet. The top five provinces in terms of sales
+volume are Jilin, Sichuan, Liaoning, Chongqin and Hunan, representing 42.51% of
+Origin's 2003 annual sales volume.
+
+      Generally, there is only one distributor responsible for all sales of
+Origin products in a specific county on an exclusive basis. In order to enforce
+exclusivity and monitor product locations, Origin assigns a code to each
+distributor and marks all packaging sent to the distributor with this code.
+Vigilant monitoring of territory integrity and enforcement of penalties, which
+may include termination of distribution rights, provides stability and
+profitability within the distribution network, ensuring quality services and
+product availability to the end customers. Origin enjoys a very positive
+reputation for its implementation and enforcement of this exclusive distribution
+system.
+
+      All distributors' orders must be paid in full prior to delivery. Advance
+deposit orders account for between 70% and 80% of Origin's sales; the remaining
+20 % to 30% are comprised of spot transactions. Distributors are able to obtain
+discounts by advance deposit during the months of August, September and October.
+At the end of the annual sales season, Origin sets a final sales price that is
+below the suggested retail price. Those distributors who have taken delivery of
+product prior to the set price are refunded the difference, if any, though many
+elect to have Origin retain a portion to count toward their advance deposit for
+the following year.
+
+      Origin maintains very close relationships with its distributors. A
+distributor, once certified, receives many value-added services such as
+management training, sales technical training, marketing information and
+technical support. After-sales service also includes "zero risk storage
+management" for the distributors. This program guarantees that distributors that
+have an overstock of Origin seed will be relieved of their surplus by the
+company's repurchase program. Sales representatives re-allocate surplus
+inventory to other areas of demand. This service speeds-up distributors'
+clearance of stock and reduces both inventory risk and carrying costs. In
+addition to the positive impact on the distribution network and the increased
+assurance that product availability is commensurate with demand, the zero
+overstock program helps insure that end-user seed is of the highest quality and
+within the company-specified shelf life.
+
+      On an annual basis, Origin's sales team assists distributors in writing
+monthly sales plans. These sales plans are then submitted to Origin via
+facsimile 30 days prior to required seed delivery dates. Every year around the
+harvest season, Origin organizes corn production demonstrations in cooperation
+with local villages and seed distributors, to which are invited
+
+
+                                       12
+<PAGE>
+
+farmers and others in the seed distribution chain. At these demonstrations,
+Origin teams show their hybrid corn, explain planting techniques, discuss
+industry best practices and disseminate promotional materials. These marketing
+and production demonstrations help create new demand, not only in each village
+where demonstrations are held, but also in nearby villages, for both the current
+season and for succeeding years.
+
+      The technical department of the company has a 24-hour toll-free number
+available for farmers and distributors, through which they can obtain solutions
+to specific technical problems and issues of seed piracy. If on-site help is
+required, a Technical Assistant will arrive on location within 48 hours of a
+call. Origin also enlists the help of its distributors to provide help and
+advice to the farmer. As a result, Origin provides an unique level of service in
+China which builds brand identity and loyalty and has resulted in improving
+sales.
+
+      Using local TV and radio broadcasts, Origin promotes its brand to over 70%
+of its geographic market, reaching over fourteen million individual farmer
+households. Additionally, Origin publishes a seasonal newspaper, "Origin News,"
+with a distribution to about twenty million farmers in which it addresses
+technical issues, shares success stories and further promotes the Origin brand.
+Origin News is the de facto source of product and technical information for the
+Chinese peasant farmer. Origin maintains a database of over 1,000,000 farmers
+that tracks buying habits and contact information.
+
+      Product and technical service brochures are provided throughout the
+distribution network and prove a valuable tool in promoting the sale of the corn
+seed product and the recognition of the Origin brand. The Origin slogan, "When
+buying seed, quality is paramount -- trust Origin," appears on all promotional
+material, helping to build the brand in all the local markets.
+
+Strong Intellectual Property Portfolio
+
+      One of the strengths of Origin is its portfolio of intellectual property.
+The most important of which is the portfolio of seed hybrids and varieties. In
+addition it has various copyright and trademarks.
+
+      Origin launched its first proprietary product in 2003 after six years of
+research and development. In 2004, Origin delivered four new proprietary
+products to the market. With its research, breeding system and management,
+Origin has been able to introduce forty to fifty new proprietary products into
+the government testing and approval cycle each year in the past and anticipates
+continuing to do so at this pace. If Origin is successful in maintaining this
+flow of new products, this should result in at least three new products being
+approved and available for the market each succeeding year. Currently Origin has
+seven products in the third and last year of the testing and approval cycle,
+sixteen products in the second and twenty-three products in the first. These
+currently ensure new hybrid seeds will be available for release to the market
+each year over the next several years.
+
+      Origin has brought to market twenty-one new varieties of hybrid seed in
+2004, including eighteen varieties of corn and three varieties of cottonseed. Of
+these varieties, four hybrid corn seeds and one hybrid cottonseed were developed
+by Origin's research and development team,
+
+
+                                       13
+<PAGE>
+
+while the remaining sixteen seed products were licensed from independent
+research and development institutions, which have no commercialization ability
+or distribution channels. All licenses are exclusive to Origin with the
+exception of one seed product, Yuyu22. License fees paid to research institutes
+are approximately 5% of the wholesale price, and are normally negotiated against
+total annual sales volume per seed product.
+
+      Seed counterfeiting is widespread in China. In response to this serious
+problem, Origin has devised a user-friendly solution to protect the customer and
+its seed brands. Origin places a unique identifying code on each bag of seed
+that it sells. Farmers can call the technical support line to verify the code,
+ensuring the seed is a genuine Origin product. Operators note each time a code
+is verified, negating the possibility of a counterfeiter repeatedly using the
+same number. Origin receives as many as 6,000 phone calls per day for technical
+assistance and code verification.
+
+      Origin has also sought and achieved court protection of is branded seeds.
+In a recent action against 14 counterfeiters, the first tribunal level ordered a
+cease and desist of infringement of the company seeds and awarded damages. The
+case has been appealed on the issue of the damages. This case is unique in China
+at this time and has demonstrated the widespread support for protecting seed
+production. Origin expects this to have an important impact over the long term
+in protecting its rights and brand identity.
+
+Future Strategy: Entering the Cottonseed and Rice Seed Markets
+
+      China is the largest producer and consumer of cotton in the world. Demand
+for cottonseed in China is approximately 100 million KGs, or about 3 billion RMB
+(US$375 million) annually. In China, rice is planted mainly for human
+consumption. There are about 30 million hectares in use for planting rice in the
+country. Demand for rice seed is about 600 million KGs, or about 6 billion RMB
+(US$750 million) annually. Since the business models for corn, cotton and rice
+production are very similar, and share similar sales channels, part of Origin's
+strategic plan is to participate in the cotton and rice seed business.
+
+      Since its inception in 1998, Origin has been working to develop its own
+hybrid cottonseed. Currently, it has two cotton products in government testing
+programs. After its success with corn seed sales in the Southwest of China (a
+primary agricultural area for rice), Origin decided to enter the rice business
+by taking advantage of its existing sales channels and corporate brand image. To
+facilitate a quick start to this program, Origin will license a hybrid rice seed
+from a partner research institute for resale by the end of this year. In
+addition, Origin plans to produce and sell hybrid rice seed by the end of the
+next growing season.
+
+      Origin also plans, when possible, to acquire some of the smaller
+distribution channels, to consolidate its position in the market and strengthen
+its presence and increase its market share.
+
+
+                                       14
+<PAGE>
+
+Item 9.01. Financial Statements, Pro Forma Financial Information and Exhibits.
+
+      (c)   Exhibits:
+
+            10.1  (To be filed by amendment) Stock Purchase Agreement dated
+                  December 20, 2004 among Chardan China Acquisition Corp., State
+                  Harvest Holdings Limited and all the State Harvest Holdings
+                  Limited stockholders
+
+            99.1  (Filed herewith) Press release dated December 20, 2004
+
+
+                                       15
+<PAGE>
+
+                                    SIGNATURE
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Dated: December 27, 2004                      CHARDAN CHINA ACQUISITION CORP.
+
+                                              By: /s/ Kerry Propper
+                                                  ------------------------------
+                                              Name:  Kerry Propper
+                                              Title: Executive Vice President
+
+
+                                       16
+

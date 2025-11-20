@@ -1,0 +1,219 @@
+
+<PAGE>
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                             ----------------------
+                                    FORM 8-K
+                             ----------------------
+                                 CURRENT REPORT
+
+     PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+      DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): DECEMBER 15, 2004
+
+                                CCO HOLDINGS, LLC
+
+                           CCO HOLDINGS CAPITAL CORP.
+           (Exact name of registrants as specified in their charters)
+
+                                    DELAWARE
+
+                                    DELAWARE
+         (State or Other Jurisdiction of Incorporation or Organization)
+
+<TABLE>
+<S>                                                   <C>
+           333-112593                                               86-1067239
+          333-112593-01                                             20-0257904
+          -------------                                              ----------
+    (Commission File Number)                          (I.R.S. Employer Identification Number)
+</TABLE>
+
+                             12405 POWERSCOURT DRIVE
+                            ST. LOUIS, MISSOURI 63131
+           (Address of principal executive offices including zip code)
+
+                                 (314) 965-0555
+              (Registrants' telephone number, including area code)
+
+                                 NOT APPLICABLE
+          (Former name or former address, if changed since last report)
+
+                             ----------------------
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+[  ] Written communications pursuant to Rule 425 under the Securities Act
+     (17 CFR 230.425)
+
+[  ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+[  ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+[  ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+
+================================================================================
+<PAGE>
+
+
+ITEM 1.01.  ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT.
+
+On December 15, 2004, indirect subsidiaries of Charter Communications, Inc., CCO
+Holdings, LLC (CCO Holdings) and CCO Holdings Capital Corp., (with CCO Holdings,
+the Issuers) issued $550 million Senior Floating Rate Notes due 2010 (the
+Notes). The Notes have a six-year term and have an annual interest rate of LIBOR
+plus 4.125%, reset and payable quarterly.
+
+The Issuers may redeem the notes in whole or in part at the Issuers' option from
+December 15, 2006 until December 14, 2007 for 102% of the principal amount, from
+December 15, 2007 until December 14, 2008 for 101% of the principal amount and
+from and after December 15, 2008, at par, in each case, plus accrued and unpaid
+interest. At any time prior to December 15, 2006, the Issuers may redeem up to
+35% of the Notes in an amount not to exceed the amount of proceeds of one or
+more public equity offerings at a redemption price equal to 100% of the
+principal amount, plus a premium equal to the interest rate per annum applicable
+to the Notes on the date notice of redemption is given, plus accrued and unpaid
+interest, if any, to the redemption date, provided that at least 65% of the
+original aggregate principal amount of the Notes issued remains outstanding
+after the redemption.
+
+The Notes will be unsecured and will rank equally with all the existing and
+future senior unsecured debt of the Issuers and senior to all existing and
+future subordinated debt of the Issuers. The Notes will be effectively
+subordinated to all of secured obligations of the Issuers to the extent of the
+collateral securing those obligations and will be structurally subordinated to
+indebtedness and other liability of the Issuers' subsidiaries.
+
+The Issuers plan to use the net proceeds from the sale of the Notes to pay down
+debt of subsidiaries, which may include paying (but not reducing permanently)
+revolving balances under Charter Communications Operating LLC's credit
+facilities and paying amounts outstanding under their subsidiaries' outstanding
+notes, and for general corporate purposes.
+
+Under the Indenture governing the Notes, the Issuers are restricted in their
+ability to pay dividends on stock or repurchase stock; make investments; borrow
+money; grant liens; sell all or substantially all of their assets or merge with
+or into other companies; use the proceeds from sales of assets and subsidiaries'
+stock; in the case of restricted subsidiaries, create or permit to exist
+dividend or payment restrictions; and engage in certain transactions with
+affiliates.
+
+Upon a change of control, subject to certain conditions and restrictions, the
+Issuers may be required to offer to purchase all of the Notes at a purchase
+price of 101% of their principal amount plus accrued and unpaid interest, if
+any, to the date of the purchase.
+
+Pursuant to the Registration Rights Agreement, the Issuers have agreed to file
+with the SEC within ninety (90) days of the date of issuance a registration
+statement with respect to a registered offer to exchange the notes for notes
+with terms identical in all material respect to the Notes. In addition, the
+Issuers have agreed to use reasonable best efforts to cause the exchange offer
+registration statement to become effective within 210 days after the date of
+issuance; cause the exchange offer to be consummated within 30 business days
+after the effective date of the exchange offer registration statement or longer,
+if required by the federal securities laws; and file a shelf registration
+statement for the resale of the Notes if the Issuers cannot effect an exchange
+offer within the specified time period and in certain other circumstances. If
+the Issuers fail to comply with certain obligations under the registration
+rights agreements, the Issuers will be required to pay special interest to
+holders of Notes.
+
+The Notes were sold to qualified institutional buyers in reliance on Rule 144A
+and outside the United States to non-U.S. persons in reliance on Regulation S.
+The Notes have not been registered under the Securities Act of 1933, as amended
+(the Securities Act), and, unless so registered, may not be offered or sold
+except pursuant to an exemption from, or in a transaction not subject to, the
+registration requirements of the Securities Act and applicable state securities
+laws.
+
+ITEM 2.03. CREATION OF A DIRECT FINANCIAL OBLIGATION OR AN OBLIGATION UNDER AN
+OFF-BALANCE SHEET ARRANGEMENT OR A REGISTRANT.
+
+The information in Item 1.01 of this Form 8-K is hereby incorporated by
+reference to this Item 2.03.
+<PAGE>
+ITEM 9.01.  FINANCIAL STATEMENTS AND EXHIBITS.
+
+The following exhibits are filed pursuant to Item 2.03:
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER        DESCRIPTION
+- ------        -----------
+<S>           <C>
+10.1          Indenture dated as of December 15, 2004 among CCO Holdings, LLC,
+              CCO Holdings Capital Corp. and Wells Fargo Bank, N.A., as
+              trustee. *
+10.2          Exchange and Registration Rights Agreement dated
+              December 15, 2004. *
+99.1          Press release dated December 15, 2004. *
+</TABLE>
+
+     * filed herewith
+<PAGE>
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, CCO
+Holdings, LLC and CCO Holdings Capital Corp. have duly caused this Current
+Report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+                                 CCO HOLDINGS, LLC
+                                 REGISTRANT
+
+                                 By:  CHARTER COMMUNICATIONS, INC., Sole Manager
+
+Dated: December 20, 2004
+
+                                 By: /s/  Paul E. Martin
+                                 Name:    Paul E. Martin
+                                 Title:   Interim Co-Chief Financial Officer,
+                                          Senior Vice President and Corporate
+                                          Controller (Co-Principal
+                                          Financial Officer and
+                                          Principal Accounting Officer)
+
+                                 CCO HOLDINGS CAPITAL CORP.
+                                 REGISTRANT
+
+Dated: December 20, 2004
+
+
+                                 By: /s/  Paul E. Martin
+                                 Name:    Paul E. Martin
+                                 Title:   Interim Co-Chief Financial Officer,
+                                          Senior Vice President and Corporate
+                                          Controller (Co-Principal Financial
+                                          Officer and
+                                          Principal Accounting Officer)
+
+
+<PAGE>
+
+
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER        DESCRIPTION
+- ------        -----------
+<S>           <C>
+10.1          Indenture dated as of December 15, 2004 among CCO Holdings, LLC,
+              CCO Holdings Capital Corp. and Wells Fargo Bank, N.A., as
+              trustee. *
+10.2          Exchange and Registration Rights Agreement dated
+              December 15, 2004. *
+99.1          Press release dated December 15, 2004. *
+</TABLE>
+* filed herewith
+

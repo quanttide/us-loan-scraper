@@ -1,0 +1,1018 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JhbYmmIPcVKDshTNHNc27n/xrORlSNfcprCgsmBIM3ivs3JJs4r/Eu/zJVe/ELw1
+ IU+IzlVj4lvb5sSbqXq7/g==
+
+<SEC-DOCUMENT>0001224608-04-000041.txt : 20041221
+<SEC-HEADER>0001224608-04-000041.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041221085850
+ACCESSION NUMBER:		0001224608-04-000041
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONSECO INC
+		CENTRAL INDEX KEY:			0001224608
+		STANDARD INDUSTRIAL CLASSIFICATION:	ACCIDENT & HEALTH INSURANCE [6321]
+		IRS NUMBER:				753108137
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31792
+		FILM NUMBER:		041215733
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11825 N PENNSYLVANIA ST
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+		BUSINESS PHONE:		3178176100
+
+	MAIL ADDRESS:	
+		STREET 1:		11825 NORTH PENNSYLVANIA STREET
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cnc.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   -----------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                       Pursuant to Section 13 or 15 (d) of
+                       the Securities Exchange Act of 1934
+
+                                   -----------
+
+       Date of Report (Date of earliest event reported): December 20, 2004
+
+
+                                  CONSECO, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+   Delaware                               001-31792               75-3108137
+- ----------------------                 ----------------        --------------
+(State or other                          (Commission          (I.R.S. Employer
+jurisdiction of                          File Number)        Identification No.)
+organization)
+
+11825 North Pennsylvania Street
+        Carmel, Indiana                                             46032
+- --------------------------------------                            ----------
+(Address of principal executive offices)                          (Zip Code)
+
+                                 (317) 817-6100
+                            -------------------------
+              (Registrant's telephone number, including area code)
+
+
+                                 Not Applicable
+                                ----------------
+                        (Former name or former address,
+                          if changed since last report)
+
+
+     Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+     [ ] Written communications pursuant to Rule 425 under the Securities Act
+(17 CFR 230.425)
+
+     [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+     [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))
+
+     [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+Item 5.02.  Departure of Directors or Principal  Officers;  Election of
+            Directors; Appointment of Principal Officers.
+
+     On December 20, 2004, Conseco, Inc. ("Conseco") appointed James E. Hohmann
+as its Executive Vice President and Chief Administrative Officer. Mr. Hohmann,
+age 48, will have responsibility for legal, actuarial, new product development,
+strategic planning and business development functions. Mr. Hohmann entered into
+an employment agreement with Conseco for an initial term ending December 31,
+2008. Pursuant to his employment agreement, Mr. Hohmann will receive a salary of
+$450,000 per year and the opportunity to earn a bonus of up to 200 percent of
+his base salary, with a target bonus equal to 100 percent of his base salary.
+His bonus for 2004 (payable in March 2005) will be $150,000, and he is
+guaranteed a bonus for 2005 of not less than $450,000. In addition, Mr. Hohmann
+is entitled to a cash bonus of $450,000 on January 1, 2005. Mr. Hohmann has been
+granted options to purchase 200,000 shares of Conseco common stock at an
+exercise price of $19.40 per share (the closing sales price of the stock on
+December 20, 2004). The options vest in four equal annual installments beginning
+December 20, 2005. Mr. Hohmann was also awarded 100,000 shares of restricted
+stock, 50 percent of which will vest on December 20, 2006 with the other 50
+percent vesting on December 20, 2007. The employment agreement between Mr.
+Hohmann and Conseco is attached to this Form 8-K as Exhibit 10.16.
+
+     Mr. Hohmann was President and CEO of XL Life and Annuity from 2001 to
+December 2004. At XL, he was responsible for the creation of XL Capital's
+U.S.-based life insurance platform and related businesses, and formed XL Life
+and Annuity Holding. From 1998 to 2001, he was president, financial institutions
+for Zurich Kemper Life and before that was the managing partner of the
+Tillinghast Life Insurance Practice in Chicago for Towers Perrin.
+
+     Attached as Exhibit 99.1 is a copy of a press release issued by Conseco
+announcing the appointment of James E. Hohmann.
+
+
+Item 7.01   Regulation FD Disclosure.
+
+     Attached as Exhibit 99.2 is a copy of a press release issued by Conseco
+announcing the appointment of Anthony B. Zehnder as Executive Vice President,
+Corporate Communications.
+
+
+Item 9.01   Financial Statements and Exhibits.
+
+
+    (c)  Exhibits
+
+         10.16 Employment Agreement dated as of November 29, 2004 between
+               Conseco, Inc. and James E. Hohmann.
+
+
+         99.1  Press release of Conseco, Inc. issued December 20, 2004.
+
+         99.2  Press release of Conseco, Inc. issued December 20, 2004.
+
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, hereunto duly authorized.
+
+                                           CONSECO, INC.
+
+December 20, 2004
+                                           By:  /s/ Eugene M. Bullis
+                                                ------------------------
+                                                Eugene M. Bullis
+                                                  Executive Vice President and
+                                                  Chief Financial Officer
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>hohmannempl.txt
+<DESCRIPTION>EXHIBIT 10.16
+<TEXT>
+                                                                   Exhibit 10.16
+
+
+                              EMPLOYMENT AGREEMENT
+
+     This EMPLOYMENT AGREEMENT, dated as of the 29th day of November, 2004, is
+between Conseco, Inc., a Delaware corporation ("Company"), and James E. Hohmann
+("Executive").
+
+     WHEREAS, the services of Executive and his managerial and professional
+experience are of value to the Company.
+
+     WHEREAS, the Company desires to continue to have the benefit and advantage
+of the services of Executive for an extended period to assist the Company upon
+the terms and conditions set forth herein.
+
+     NOW, THEREFORE, in consideration of the foregoing and the mutual covenants
+contained herein, the receipt and sufficiency of which are hereby acknowledged,
+the parties agree as follows:
+
+     1. Employment. The Company hereby employs Executive and Executive hereby
+accepts employment upon the terms and conditions hereinafter set forth.
+
+     2. Term. The effective date of this agreement (the "Agreement") shall be
+the date set forth above (the "Effective Date"). Subject to the provisions for
+termination as provided in Section 10 hereof, the term of Executive's employment
+under this Agreement shall be the period beginning on the Effective Date and
+ending on December 31, 2008. The term of Executive's employment shall be
+automatically renewed for successive one-year terms on January 1, 2009 and each
+succeeding January 1st unless either party elects not to renew this Agreement by
+serving written notice of such election not to renew on the other party at least
+90 days prior to such January 1st. As used in this Agreement, the "Term" is the
+period ending on December 31, 2008 or, if this Agreement has been renewed, the
+one-year period relating to the last renewal. The Term shall end upon the
+termination of Executive's employment with the Company. The "Initial Term" shall
+be the period beginning on the Effective Date and ending on the earlier of
+December 31, 2008 or the date of Executive's termination of employment with the
+Company.
+
+     3. Duties. During the Term, Executive shall be engaged by the Company in
+the capacity of Executive Vice President and Chief Administrative Officer of the
+Company. Executive shall report to the Chief Executive Officer regarding the
+performance of his duties. As Chief Administrative Officer Executive shall have
+direct responsibility for the following functions: Legal (the General Counsel
+shall report directly to Executive), Actuarial, New Product Development, Closed
+Block, Strategic Planning and Business Development.
+
+     4. Extent of Services. During the Term, subject to the direction and
+control of the Chief Executive Officer of the Company and the board of directors
+of the Company (the "Board"), Executive shall have the power and authority
+commensurate with his executive status and necessary to perform his duties
+hereunder. Executive shall devote his entire employable time, attention and best
+efforts to the business of the Company and, during the Term, shall not, without
+the consent of the Company, be actively engaged in any other business activity,
+whether or not such business activity is pursued for gain, profit or other
+pecuniary advantage; provided, however, that, subject to Section 9 hereof, this
+shall not be construed as preventing Executive
+
+<PAGE>
+
+from serving on boards of professional, community, civic, education, charitable
+and corporate organizations on which he presently serves or may choose to serve
+or investing his assets in such form or manner as will not require any services
+on the part of Executive in the operation of the affairs of the companies in
+which such investments are made (to the extent not in violation of the
+noncompete listed in Section 9 hereof); provided, however, that corporate
+organizations shall be limited to those mutually agreed upon by Executive and
+the Company.
+
+     5. Compensation. During the Term:
+
+          (a) As compensation for services hereunder rendered during the Term
+     hereof, Executive shall receive a base salary ("Base Salary") of Four
+     Hundred Fifty Thousand Dollars ($450,000) per year payable in equal
+     installments in accordance with the Company's payroll procedure for its
+     salaried executives. Salary payments and other payments under this
+     Agreement shall be subject to withholding of taxes and other appropriate
+     and customary amounts. Executive may receive increases in his Base Salary
+     from time to time, based upon his performance, subject to approval of the
+     Board or the Compensation Committee thereof.
+
+          (b) In addition to Base Salary, Executive will have an opportunity to
+     earn a bonus each year as determined by the Board or the Compensation
+     Committee thereof, with a target annual bonus equal to 100% of Executive's
+     Base Salary (the "Target Bonus") and a maximum annual bonus of 200% of his
+     Base Salary with respect to any calendar year, with such bonus payable at
+     such time that other similar payments are made to other Company executives.
+     For purposes of clarification, annual executive bonuses are generally paid
+     in March of the year following the year with respect to which such bonuses
+     are payable, if Executive remains employed with the Company through such
+     date or as otherwise payable under the Company's severance policy for
+     senior officers. Notwithstanding the above, Executive will be awarded a
+     calendar year 2004 performance period bonus of One Hundred and Fifty
+     Thousand Dollars ($150,000) in March of 2005 (the "2004 Bonus") and, for
+     the calendar year 2005 performance period, Executive is guaranteed a
+     minimum bonus equal to the Target Bonus (100% of Executive's Base Salary).
+     However, Executive may be awarded a calendar year 2005 performance bonus
+     greater than the Target Bonus. Performance requirements for Target Bonuses
+     will be based on financial and other objective targets that the Board
+     reasonably believes are reasonably attainable at the time that they are
+     set.
+
+          (c) Executive is entitled to a cash bonus of Four Hundred Fifty
+     Thousand Dollars ($450,000) payable as soon as reasonably practicable on or
+     after January 1, 2005.
+
+          (d) As soon as reasonably practicable after the execution of this
+     Agreement, Executive will receive an initial award of options to purchase
+     200,000 shares of common stock (the "Initial Option Grant") with an
+     exercise price equal to the fair market value on the date of the grant and
+     an initial award of 100,000 shares of restricted stock (the "Initial
+     Restricted Stock Grant"). One hundred percent (100%) of the options will
+     vest over a 4-year period beginning on the date of the grant of the equity
+     awards (the "Grant Date"), with one-fourth vesting on each anniversary of
+     the Grant Date. Fifty percent (50%) of the restricted stock will vest on
+     the second anniversary of the Grant Date, with the other fifty percent
+     (50%) vesting on the third anniversary of the Grant Date. Executive shall
+     also be eligible to participate in and receive future grants under any
+     stock option or
+
+                                       2
+<PAGE>
+
+     equity-based program offered by the Company to executives of similar title
+     and level of responsibility, subject to the discretion of the Board.
+
+     6. Fringe Benefits. During the Term:
+
+          (a) Executive shall be entitled to participate in such existing
+     executive benefit plans and insurance programs offered by the Company, or
+     which it may adopt from time to time, for its executive management or
+     supervisory personnel generally, in accordance with the eligibility
+     requirements for participation therein. Nothing herein shall be construed
+     so as to prevent the Company from modifying or terminating any executive
+     benefit plans or programs, or executive fringe benefits, that it may adopt
+     from time to time.
+
+          (b) Executive shall be entitled to six weeks of vacation with pay each
+     year and will not be eligible for any other paid-time-off program (other
+     than paid holidays).
+
+          (c) Executive may incur reasonable expenses for promoting the
+     Company's business, including expenses for entertainment, travel, and
+     similar items. The Company shall reimburse Executive for all such
+     reasonable expenses upon Executive's periodic presentation of an itemized
+     account of such expenditures. The Company agrees to pay Executive an
+     additional amount to cover the incremental additional income taxes incurred
+     by Executive, if any, with respect to payment or reimbursement of any
+     reasonable business expenses pursuant to this subsection (c).
+
+          (d) In lieu of any insurance on the life of Executive offered by the
+     Company pursuant to Section 6(a) hereof, the Company shall reimburse
+     Executive for up to $5,000 per year for premiums on term life insurance
+     policies on the life of Executive as in effect on the date hereof.
+
+     7. Disability. If Executive shall become physically or mentally disabled
+during the Term to the extent that his ability to perform his duties and
+services hereunder is materially and adversely impaired, his Base Salary, bonus
+and other compensation provided herein shall continue while he remains employed
+by the Company; provided, that if such disability (as confirmed by competent
+medical evidence) continues for at least six (6) consecutive months, the Company
+may terminate Executive's employment hereunder, in which case the Company
+immediately shall pay Executive cash payments equal to (i) his annual Base
+Salary as provided in Section 5(a) hereof to the extent earned but unpaid as of
+the date of termination, (ii) a pro-rata portion of the Target Bonus for the
+year in which his disability occurs plus the Target Bonus for the preceding year
+if his disability occurs after year-end but before such bonuses are paid and
+(iii) the 2004 Bonus and the bonus payable pursuant to Section 5(c) (in each
+case to the extent not already paid). Any options or restricted stock held by
+Executive on the date of termination shall vest only through the date of
+termination according to the normal vesting schedule applicable to such options
+or restricted, except that Executive shall receive additional vesting credit
+with respect to the Initial Option Grant (but not above 100%) as if he had
+remained employed by the Company until the next succeeding anniversary of the
+grant date of the Initial Option Grant described in Section 5(d) and if
+Executive is not vested in any portion of the Initial Restricted Stock Grant,
+25,000 shares of restricted stock under the Initial Restricted Stock Grant shall
+fully vest. No payments or vesting under this paragraph will be made if such
+disability arose primarily from (a) chronic
+
+                                       3
+<PAGE>
+
+use of intoxicants, drugs or narcotics (other than drugs prescribed to Executive
+by a physician and used by Executive for their intended purpose for which they
+had been prescribed) or (b) intentionally self-inflicted injury or intentionally
+self-induced illness.
+
+     8. Disclosure of Information. Executive acknowledges that in and as a
+result of his employment with the Company, he has been and will be making use
+of, acquiring and/or adding to confidential information of the Company and its
+affiliates of a special and unique nature and value. As a material inducement to
+the Company to enter into this Agreement and to pay to Executive the
+compensation stated in Section 5, as well as any additional benefits stated
+herein, Executive covenants and agrees that he shall not, at any time while he
+is employed by the Company or at any time thereafter, directly or indirectly,
+divulge or disclose for any purpose whatsoever, any confidential information
+(whether or not specifically labeled or identified as "confidential
+information"), in any form or medium, that has been obtained by or disclosed to
+him as a result of his employment with the Company and which the Company or any
+of its affiliates has taken appropriate steps to safeguard, except to the extent
+that such confidential information (a) becomes a matter of public record or is
+published in a newspaper, magazine or other periodical available to the general
+public, other than as a result of any act or omission of Executive, (b) is
+required to be disclosed by any law, regulation or order of any court or
+regulatory commission, department or agency, in which event Executive shall give
+prompt notice of such requirement to the Company to enable the Company to seek
+an appropriate protective order or confidential treatment, or (c) must be
+disclosed to enable Executive properly to perform his duties under this
+Agreement. Upon the termination of Executive's employment, Executive shall
+return such information (in whatever form) obtained from or belonging to the
+Company or any of its affiliates which he may have in his possession or control.
+
+     9. Covenants Against Competition and Solicitation. Executive acknowledges
+that the services he is to render to the Company and its affiliates are of a
+special and unusual character, with a unique value to the Company and its
+affiliates, the loss of which cannot adequately be compensated by damages or an
+action at law. In view of the unique value to the Company and its affiliates of
+the services of Executive for which the Company has contracted hereunder,
+because of the confidential information to be obtained by, or disclosed to,
+Executive as set forth in Section 8 above, and as a material inducement to the
+Company to enter into this Agreement and to pay to Executive the compensation
+stated in Section 5 hereof, as well as any additional benefits stated herein,
+and other good and valuable consideration, Executive covenants and agrees that:
+
+          (a) throughout the period Executive remains employed and for two years
+     thereafter, Executive shall not, directly or indirectly, anywhere in the
+     United States of America, (i) solicit or attempt to convert to other
+     insurance carriers or other corporations, persons or other entities
+     providing these same or similar products or services provided by the
+     Company and its affiliates, any customers or policyholders of the Company
+     or any of its affiliates or (ii) solicit for employment or knowingly employ
+     any employee of the Company or any of its affiliates;
+
+          (b) throughout the period Executive remains employed and for one year
+     thereafter, Executive shall not, directly or indirectly, anywhere in the
+     United States of America (i) render any services, as an agent, independent
+     contractor, consultant or otherwise, or become employed or compensated by
+     any other corporation, person or
+
+                                       4
+<PAGE>
+     entity that derives a non-incidental portion of its revenue from the
+     business of selling or providing long-term care or health-related insurance
+     products or services or (ii) in any manner compete with the Company or any
+     of its affiliates with respect to long-term care or health-related
+     insurance lines of business; provided, however, that if Executive resigns,
+     Executive may serve as a consultant (other than with respect to matters
+     relating to long-term care or health insurance products or services) for
+     such companies that the Chief Executive Officer of the Company consents to
+     (such consent shall not be unreasonably withheld where actual competition
+     is not, in the Chief Executive Officer's sole judgment, deemed to be
+     significant or meaningful) and provided further that in the event Executive
+     serves as such a consultant, all severance payments and other ongoing
+     obligations of the Company under this Agreement shall cease; or
+
+          (c) throughout the Initial Term or, if later, the period ending on the
+     first anniversary following the date Executive terminates employment during
+     the Initial Term, Executive shall not, directly or indirectly, anywhere in
+     the United States of America (i) render any services, as an agent,
+     independent contractor, consultant or otherwise, or become employed or
+     compensated by any other corporation, person or entity that derives a
+     non-incidental portion of its revenue from the business of selling or
+     providing annuity, life, or accident insurance products or services or (ii)
+     in any manner compete with the Company or any of its affiliates with
+     respect to annuity, life or accident lines of business that the Company and
+     its affiliates derive more than a non-incidental portion of their revenue
+     from or with respect to which the Company and its affiliates have made a
+     significant investment in; provided, however, that if Executive resigns
+     during the initial Term, Executive may serve as a consultant (other than
+     with respect to matters relating to long-term care or health insurance
+     products or services) for such companies that the Chief Executive Officer
+     of the Company consents to (such consent shall not be unreasonably withheld
+     where actual competition is not, in the Chief Executive Officer's sole
+     judgment, deemed to be significant or meaningful) and provided further that
+     in the event Executive serves as such a consultant, all severance payments
+     and other ongoing obligations of the Company under this Agreement shall
+     cease.
+
+Should any particular covenant or provision of this Section 9 be held
+unreasonable or contrary to public policy for any reason, including, without
+limitation, the time period, geographical area, or scope of activity covered by
+any restrictive covenant or provision, the Company and Executive acknowledge and
+agree that such covenant or provision shall automatically be deemed modified
+such that the contested covenant or provision shall have the closest effect
+permitted by applicable law to the original form and shall be given effect and
+enforced as so modified to whatever extent would be reasonable and enforceable
+under applicable law.
+
+     10. Termination.
+
+          (a) Either the Company or Executive may terminate his employment at
+     any time for any reason upon written notice to the other. The Company may
+     terminate Executive's employment for Just Cause pursuant to Section 10(b)
+     below or in a Control Termination pursuant to Section 10(c) below.
+     Executive's employment shall also terminate (i) upon the death of Executive
+     or (ii) after disability of Executive pursuant to Section 7 hereof.
+
+                                       5
+<PAGE>
+          (b) The Company may terminate Executive's employment at any time for
+     Just Cause. For purposes of this Agreement, "Just Cause" shall mean: (i)
+     (A) a material breach by Executive of this Agreement, (B) a material breach
+     of Executive's duty of loyalty to the Company or its affiliates, or (C)
+     willful malfeasance or fraud or dishonesty of a substantial nature in
+     performing Executive's services on behalf of the Company or its affiliates,
+     which in each case is willful and deliberate on Executive's part and
+     committed in bad faith or without reasonable belief that such breach or
+     action is in the best interests of the Company or its affiliates; (ii)
+     Executive's use of alcohol or drugs (other than drugs prescribed to
+     Executive by a physician and used by Executive for their intended purposes
+     for which they had been prescribed) or other repeated conduct which
+     materially and repeatedly interferes with the performance of his duties
+     hereunder, which materially compromises the integrity or the reputation of
+     the Company or its affiliates, or which results in other substantial
+     economic harm to the Company or its affiliates; (iii) Executive's
+     conviction by a court of law, admission that he is guilty, or entry of a
+     plea of nolo contendere with regard to a felony or other crime involving
+     moral turpitude; (iv) Executive's unscheduled absence from his employment
+     duties other than as a result of illness or disability, for whatever cause,
+     for a period of more than ten (10) consecutive days, without consent from
+     the Company prior to the expiration of the ten (10) day period; or (v)
+     Executive's failure to take action or to abstain from taking action, as
+     directed in writing by a member of the board or a higher ranking executive
+     of the Company, where such failure continues after Executive has been given
+     written notice of such failure and at least five (5) business days
+     thereafter to cure such failure.
+
+     No termination shall be deemed to be a termination by the Company for Just
+Cause if the termination is as a result of Executive refusing to act in a manner
+that would be a violation of applicable law.
+
+     (c) The Company may terminate Executive's employment in a Control
+Termination. A "Control Termination" shall mean any termination by the Company
+(or its successor) of Executive's employment for any reason within six months in
+anticipation of or within two years following a Change in Control of the
+Company.
+
+     The term "Change in Control" shall mean the occurrence of any of the
+     following:
+
+          (i) the acquisition (other than an acquisition in connection with a
+     "Non-Control Transaction") by any "person" (as such term is used in
+     Sections 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended
+     (the "1934 Act")) of "beneficial ownership" (as such term is defined in
+     Rule 13d-3 promulgated under the 1934 Act), directly or indirectly, of
+     securities of the Company or its Ultimate Parent representing 51% or more
+     of the combined voting power of the then outstanding securities of the
+     Company or its Ultimate Parent entitled to vote generally with respect to
+     the election of the board of directors of the Company or its Ultimate
+     Parent; or
+
+          (ii) as a result of or in connection with a tender or exchange offer
+     or contest for election of directors, individual board members of the
+     Company (identified as of the date of commencement of such tender or
+
+                                       6
+<PAGE>
+     exchange offer, or the commencement of such election contest, as the case
+     may be) cease to constitute at least a majority of the board of directors
+     of the Company; or
+
+          (iii) the consummation of a merger, consolidation or reorganization
+     with or into the Company unless (x) the stockholders of the Company
+     immediately before such transaction beneficially own, directly or
+     indirectly, immediately following such transaction securities representing
+     51% or more of the combined voting power of the then outstanding securities
+     entitled to vote generally with respect to the election of the board of
+     directors of the Company (or its successor) or, if applicable, the Ultimate
+     Parent and (y) individual board members of the Company (identified as of
+     the date that a binding agreement providing for such transaction is signed)
+     constitute at least a majority of the board of directors of the Company (or
+     its successor) or, if applicable, the Ultimate Parent (a transaction to
+     which clauses (x) and (y) apply, a "Non-Control Transaction").
+
+     For purposes of this Agreement, "Ultimate Parent" shall mean the parent
+     corporation (or if there is more than one parent corporation, the ultimate
+     parent corporation) that, following a transaction, directly or indirectly
+     beneficially owns a majority of the voting power of the outstanding
+     securities entitled to vote with respect to the election of the board of
+     directors of the Company (or its successor).
+
+          (d) At Executive's option, he may terminate employment with the
+     Company "With Reason" provided one of more of the following conditions are
+     met: (i) his role or duties have been materially diminished by changes in
+     responsibilities or authority; (ii) Executive is required to report to
+     anyone other than the Chief Executive Officer, the Board or the
+     Compensation Committee thereof; (iii) Executive is required to relocate his
+     primary office more than 25 miles from the Merchandise Mart in Chicago,
+     Illinois, without Executive's consent, or (iv) there is a "Change in
+     Control" of the company as defined in Section 10(c) and, following
+     Executive's written request made prior to the Change in Control, the
+     ultimate parent entity or entities directly or indirectly gaining control
+     of a majority of the Company's Board or outstanding securities entitled to
+     vote with respect to the Company's Board fails to affirm and guarantee the
+     Company's current and future obligations under this Agreement.
+
+          (e) Upon termination of Executive's employment with the Company for
+     any reason (whether voluntary or involuntary), Executive shall be deemed to
+     have voluntarily resigned from all positions that Executive may then hold
+     with the Company and any of its affiliates; provided that such deemed
+     resignation shall not adversely affect Executive's rights to compensation
+     or benefits under this Agreement and shall not affect the determination of
+     whether Executive's termination was for Just Cause or With Reason.
+
+     11. Payments Following Termination.
+
+          (a) In the event Executive's employment is terminated by the Company
+     for Just Cause as so defined, upon non-renewal by the Company or Executive
+     or if Executive voluntarily resigns, then the Company immediately shall pay
+     Executive a cash payment of his Base Salary as provided in Section 5(a)
+     hereof that was earned but unpaid as of the date of termination. Any
+     options or restricted stock held by Executive on the date of
+
+                                       7
+<PAGE>
+     termination shall vest only through the date of termination according to
+     the normal vesting schedule applicable to such options or restricted stock,
+     and Executive shall not receive any accelerated or additional vesting of
+     such stock or options on or after such date.
+
+          (b) In the event Executive's employment is terminated by the death of
+     Executive, then the Company shall pay Executive's estate (i) a lump sum of
+     the remaining payments of Base Salary described in Section 5(a) that would
+     have been payable to Executive through the date of death, (ii) a pro-rata
+     portion of the Target Bonus for the year in which his death occurs plus the
+     Target Bonus for the preceding year if his death occurs after year-end but
+     before such bonuses are paid and (iii) the 2004 Bonus and the bonus payable
+     pursuant to Section 5(c) (in each case to the extent not already paid). Any
+     options or restricted stock held by Executive on the date of termination
+     shall vest only through the date of termination according to the normal
+     vesting schedule applicable to such options or restricted stock, except
+     that Executive shall receive additional vesting credit with respect to the
+     Initial Option Grant (but not above 100%) as if he had remained employed by
+     the Company until the next succeeding anniversary of the grant date of the
+     Initial Option Grant described in Section 5(d) and if Executive is not
+     vested in any portion of the Initial Restricted Stock Grant, 25,000 shares
+     of restricted stock under the Initial Restricted Stock Grant shall fully
+     vest.
+
+          (c) In the event that Executive is terminated by the Company without
+     Just Cause (and other than non-renewal, death, disability or a Control
+     Termination) or by Executive With Reason, then the Company shall pay
+     Executive (i) on a basis consistent with the timing of the Company's normal
+     payroll processing, the remaining payments of Base Salary described in
+     Section 5(a) that would have been payable to Executive through the date of
+     his termination of employment, (ii) a pro-rata portion of the Target Bonus
+     for the year in which his termination occurs plus the Target Bonus for the
+     preceding year if his termination occurs after year-end but before such
+     bonuses are paid, (iii) the 2004 Bonus and the bonus payable pursuant to
+     Section 5(c) (in each case to the extent not already paid), and (iv) twelve
+     (12) months of his Base Salary plus Target Bonus (in the form of salary
+     continuation on a pro-rata basis with or without medical and dental
+     benefits, at Executive's election and cost). Any options or restricted
+     stock held by Executive on the date of termination shall vest only through
+     the date of termination according to the normal vesting schedule applicable
+     to such options or restricted stock, except that Executive shall receive
+     additional vesting credit with respect to the Initial Option Grant (but not
+     above 100%) as if he had remained employed by the Company until the next
+     succeeding anniversary of the grant date of the Initial Option Grant
+     described in Section 5(d) and if Executive is not vested in any portion of
+     the Initial Restricted Stock Grant, 25,000 shares of restricted stock under
+     the Initial Restricted Stock Grant shall fully vest.
+
+          (d) In the event that Executive is terminated by the Company (or its
+     successor) in a Control Termination as so defined, then the Company shall
+     pay Executive (i) on a basis consistent with the timing of the Company's
+     normal payroll processing, the remaining payments of Base Salary described
+     in Section 5(a) that would have been payable to Executive through the date
+     of his termination of employment, (ii) a pro-rata portion of the Target
+     Bonus for the year in which his termination occurs plus the Target
+
+                                       8
+<PAGE>
+     Bonus for the preceding year if his termination occurs after year-end but
+     before such bonuses are paid, (iii) the 2004 Bonus and the bonus payable
+     pursuant to Section 5(c) (in each case to the extent not already paid) and
+     (iv) twenty-four (24) months of his Base Salary and Target Bonus (in the
+     form of salary continuation on a pro-rata basis with or without medical and
+     dental benefits, at Executive's election and cost). To the extent that
+     Executive is terminated in a Control Termination that occurs in
+     anticipation of a Change in Control, any options or restricted stock held
+     by Executive shall fully vest, retroactive to the date of termination, upon
+     the occurrence of the Change in Control.
+
+          (e) Notwithstanding anything to the contrary, in the event that
+     Executive's employment terminates, the Company shall pay to Executive, in
+     accordance with its standard payroll practice, Executive's accrued
+     vacation.
+
+          (f) Notwithstanding anything to the contrary, payment of any
+     post-termination moneys or benefits under this Agreement is conditioned
+     upon the execution by Executive of a separation and release agreement, in a
+     form that is consistent in all material respects with the provisions and
+     protections set forth herein and reasonably acceptable to the Company and
+     Executive, and the observation of such waiting or revocation periods, if
+     any, before and after execution of the agreement by Executive as are
+     required by law, such as, for example, the waiting or revocation periods
+     required for a waiver and release to be effective with respect to claims
+     under the Age Discrimination in Employment Act, provided that the Company
+     delivers to Executive such agreement within seven days of the date of his
+     termination.
+
+     12. Change in Control. In the event of a Change in Control, Executive will
+be entitled to the full vesting of any options and restricted stock held by
+Executive on the date of such Change in Control.
+
+     13. Character of Termination Payments. The amounts payable to Executive
+upon any termination of his employment shall be considered severance pay in
+consideration of past services rendered on behalf of the Company and his
+continued service from the date hereof to the date he becomes entitled to such
+payments and shall be the sole amount of severance pay to which Executive is
+entitled from the Company and its affiliates upon termination of his employment.
+Executive shall have no duty to mitigate his damages by seeking other employment
+and, should Executive actually receive compensation from any such other
+employment, the payments required hereunder shall not be reduced or offset by
+any such other compensation.
+
+     14. Representations of the Parties.
+
+          (a) The Company represents and warrants to Executive that (i) this
+     Agreement has been duly authorized, executed and delivered by the Company
+     and constitutes valid and binding obligations of the Company; and (ii) the
+     employment of Executive on the terms and conditions contained in this
+     Agreement will not conflict with, result in a breach or violation of,
+     constitute a default under, or result in the creation or imposition of any
+     lien, charge or encumbrance upon any property or assets of the Company
+     pursuant to: (A) the certificate of formation, (B) the terms of any
+     indenture, contract, lease, mortgage, deed of trust, note, loan agreement
+     or other agreement, obligation, condition, covenant or
+
+                                       9
+<PAGE>
+     instrument to which the Company is a party or bound or to which its
+     property is subject, or (C) any statute, law, rule, regulation, judgment,
+     order or decree applicable to the Company, or any regulatory body,
+     administrative agency, governmental body, arbitrator or other authority
+     having jurisdiction over the Company.
+
+          (b) Executive represents and warrants to the Company that: (i) this
+     Agreement has been duly executed and delivered by Executive and constitutes
+     a valid and binding obligation of Executive; and (ii) neither the execution
+     of this Agreement by Executive nor his employment by the Company on the
+     terms and conditions contained herein will conflict with, result in a
+     breach or violation of, or constitute a default under any agreement,
+     obligation, condition, covenant or instrument to which Executive is a party
+     or bound or to which his property is subject, or any statute, law, rule,
+     regulation, judgment, order or decree applicable to Executive of any court,
+     regulatory body, administrative agency, governmental body, arbitrator or
+     other authority having jurisdiction over Executive or any of his property.
+
+     15. Arbitration of Disputes; Injunctive Relief.
+
+          (a) Except as provided in subsection (b) below, any controversy or
+     claim arising out of or relating to this Agreement or the breach thereof,
+     shall be settled by binding arbitration in the City of Indianapolis,
+     Indiana, in accordance with the laws of the State of Indiana by three
+     arbitrators, one of whom shall be appointed by the Company, one by
+     Executive, and the third of whom shall be appointed by the first two
+     arbitrators. If the first two arbitrators cannot agree on the appointment
+     of a third arbitrator, then the third arbitrator shall be appointed by the
+     Chief Judge of the United States District Court for the Southern District
+     of Indiana. The arbitration shall be conducted in accordance with the rules
+     of the American Arbitration Association, except with respect to the
+     selection of arbitrators, which shall be as provided in this Section.
+     Judgment upon the award rendered by the arbitrators may be entered in any
+     court having jurisdiction thereof. Each party shall pay its own costs and
+     expenses incurred in connection with the enforcement of this Agreement,
+     regardless of the final outcome.
+
+          (b) Executive acknowledges that a breach or threatened breach by
+     Executive of Sections 8 or 9 of this Agreement will give rise to
+     irreparable injury to the Company and that money damages will not be
+     adequate relief for such injury. Notwithstanding paragraph (a) above, the
+     Company and Executive agree that the Company may seek and obtain injunctive
+     relief, including, without limitation, temporary restraining orders,
+     preliminary injunctions and/or permanent injunctions, in a court of proper
+     jurisdiction to restrain or prohibit a breach or threatened breach of
+     Section 8 or 9 of this Agreement. Nothing herein shall be construed as
+     prohibiting the Company from pursuing any other remedies available to the
+     Company for such breach or threatened breach, including the recovery of
+     damages from Executive.
+
+     16. Notices. Any notice required or permitted to be given under this
+Agreement shall be sufficient if in writing and if sent by registered mail to
+his residence, in the case of Executive, or to the business office of its
+General Counsel, in the case of the Company.
+
+                                       10
+<PAGE>
+     17. Waiver of Breach and Severability. The waiver by either party of a
+breach of any provision of this Agreement by the other party shall not operate
+or be construed as a waiver of any subsequent breach by either party. In the
+event any provision of this Agreement is found to be invalid or unenforceable,
+it may be severed from the Agreement, and the remaining provisions of the
+Agreement shall continue to be binding and effective.
+
+     18. Entire Agreement. Other than any equity award agreements entered into
+pursuant to the Conseco, Inc. 2003 Long-Term Equity Incentive Plan or any
+subsequent equity incentive plan. This instrument contains the entire agreement
+of the parties and, as of the Effective Date, supersedes all other obligations
+of the Company and its affiliates under other agreements or otherwise. The
+compensation and benefits to be paid under the terms of this Agreement are in
+lieu of all other compensation or benefits to which Executive is entitled from
+the Company and its affiliates. This Agreement may not be changed orally, but
+only by an instrument in writing signed by the party against whom enforcement of
+any waiver, change, modification, extension or discharge is sought.
+
+     19. Binding Agreement and Governing Law; Assignment Limited. This Agreement
+shall be binding upon and shall inure to the benefit of the parties and their
+lawful successors in interest (including, without limitation, Executive's
+estate, heirs and personal representatives) and, except for issues or matters as
+to which federal law is applicable, shall be construed in accordance with and
+governed by the laws of the State of Indiana. This Agreement is personal to each
+of the parties hereto, and neither party may assign or delegate any of its
+rights or obligations hereunder without the prior written consent of the other.
+
+     20. No Third Party Beneficiaries. The terms and provisions of this
+Agreement are intended solely for the benefit of each party hereto and their
+respective successors or permitted assigns, and it is not intended to confer
+third-party beneficiary rights upon any other person.
+
+     21. Counterparts. This Agreement may be executed in counterparts, each of
+which shall be deemed to be an original, but all of which together shall
+constitute one and the same instrument.
+
+
+                                    * * * * *
+
+                                       11
+<PAGE>
+
+
+
+     IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first above written, effective as of the Effective Date.
+
+
+                                           COMPANY:
+                                           CONSECO, INC.
+
+                                           /s/William S. Kirsch
+                                           -------------------------------------
+                                           William S. Kirsch
+                                           President and Chief Executive Officer
+
+
+                                           EXECUTIVE:
+
+                                           /s/James E. Hohmann
+                                           -------------------------------------
+                                           James E. Hohmann
+
+
+
+
+
+
+
+
+
+
+                                       12
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>hohmann.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+                                                                    Exhibit 99.1
+
+NEWS
+
+For Release          Immediate
+
+
+Contacts             (News Media) Anthony Zehnder, EVP, Corporate Communications
+                     312.396.7086
+                     (Investors) Tammy Hill, SVP, Investor Relations
+                     317.817.2893
+
+
+              Hohmann Joins Conseco as Executive Vice President and
+                          Chief Administrative Officer
+
+Carmel, Indiana, December 20, 2004 - Conseco, Inc. (NYSE:CNO) today announced
+that James E. Hohmann has been named executive vice president and chief
+administrative officer of the company, reporting to Conseco's President and CEO
+William Kirsch.
+
+"We are excited to welcome Jim to Conseco as the company's chief administrative
+officer," Kirsch said. "Jim is a first-class individual who enjoys extensive
+industry experience and a strong track record. Jim will play an important role
+in developing and implementing our strategy to transform the company into an
+industry leader. Personally, I am delighted to have the opportunity to work with
+Jim."
+
+"Conseco is extremely well positioned in customer and product segments
+characterized by exceptional growth and value creation opportunities," Hohmann
+said. "I am very enthusiastic about joining the Conseco team. I believe in
+Conseco's leadership and its mission. I look forward to delivering success as
+part of its leadership team," Hohmann added.
+
+As chief administrative officer, Hohmann will have responsibility for legal,
+actuarial, new product development, strategic planning and business development
+functions. He joins Conseco from XL Life and Annuity, where he was president and
+CEO. At XL, he was responsible for the creation of XL Capital's U.S.- based life
+insurance platform and related businesses, and formed XL Life and Annuity
+Holding. Prior to his tenure at XL, he was president, financial institutions,
+for Zurich Kemper Life, and before that, was managing partner of the Tillinghast
+Life Insurance Practice in Chicago for Towers Perrin.
+
+Hohmann holds a Bachelor of Arts degree from Northwestern University, and an MBA
+from the University of Chicago. He is a Fellow of the Society of Actuaries and
+is a member of the American Academy of Actuaries.
+
+Conseco, Inc.'s insurance companies help protect working American families and
+seniors from financial adversity: Medicare supplement, long-term care, cancer,
+heart/stroke and accident policies protect people against major unplanned
+expenses; annuities and life insurance products help people plan for their
+financial futures. For more information, visit Conseco's web site at
+www.conseco.com.
+
+                                   - # # # # -
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<FILENAME>zehnder.txt
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+                                                                    Exhibit 99.2
+
+
+NEWS
+
+For Release          Immediate
+
+
+Contacts             (News Media) Jim Rosensteele, SVP, Corporate Communications
+                     317.817.4418
+                     (Investors) Tammy Hill, SVP, Investor Relations
+                     317.817.2893
+
+
+   Zehnder joins Conseco as Executive Vice President, Corporate Communications
+
+Carmel, Indiana, December 20, 2004 - Conseco, Inc. (NYSE:CNO) today announced
+the appointment of Anthony B. Zehnder as Executive Vice President, Corporate
+Communications, reporting to Bill Kirsch, Conseco's President and CEO.
+
+"We are excited to welcome Tony to Conseco as head of corporate communications,"
+Kirsch said. "Tony's 23 years of experience in creating and leading successful
+communications programs at major companies will be invaluable as Conseco
+continues its drive for business excellence. Communications will be critical in
+building a performance-based culture inside the company, and Tony's skills will
+be equally important in helping the company strengthen its relationships with
+all our external stakeholders. Personally, I am delighted to have the
+opportunity to work with Tony."
+
+Zehnder comes to Conseco from Lehman Brothers, the New York investment bank,
+where he was a managing director and head of global corporate communications. At
+Lehman, Zehnder created the firm's first global corporate communications
+function, comprising advertising, branding, marketing and media relations in the
+U.S., Europe and Asia, and served on Lehman's Executive Management Committee.
+
+Before Lehman, Zehnder served two years as Executive Director and Head of
+Corporate Communications in the Americas for UBS AG/UBS Warburg, a global
+commercial and investment bank based in New York. He also served seven years as
+a public relations executive with General Electric Company, where he held
+positions as manager of public relations programs for GE, Acting Director,
+Corporate Public Relations and Advertising for GE Capital Services, and head of
+corporate communications for Kidder, Peabody & Company in New York. His
+corporate communications experience also includes work with Shawmut National
+Corporation in Hartford, Conn. and Boston, and First Chicago Corporation in
+Chicago.
+
+Zehnder began his business career as a newspaperman, with nine years as Editor
+for Chronicle Publishing Company, St. Charles, Ill., where he managed editorial
+and print production for four newspapers.
+
+He holds a Bachelor of Arts degree in Psychology from Beloit (Wis.) College, and
+is affiliated with The Public Relations Seminar, The Wisemen Society, and the
+Financial Communications Society.
+
+Conseco, Inc.'s insurance companies help protect working American families and
+seniors from financial adversity: Medicare supplement, long-term care, cancer,
+heart/stroke and accident policies protect people against major unplanned
+expenses; annuities and life insurance products help people plan for their
+financial futures. For more information, visit Conseco's web site at
+www.conseco.com.
+
+                                  - # # # # -
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

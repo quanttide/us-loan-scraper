@@ -1,0 +1,246 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GUvt6HpbqkBz6JmT7Ql1LPltSGsWiEKCGULiBZs4U2GHrI9LtIDedgzhiDowPhk4
+ YFa1AnZUMlSCD/RRXqroyw==
+
+<SEC-DOCUMENT>0001275287-04-000467.txt : 20041223
+<SEC-HEADER>0001275287-04-000467.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223064125
+ACCESSION NUMBER:		0001275287-04-000467
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENDWAVE CORP
+		CENTRAL INDEX KEY:			0001118941
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				954333817
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31635
+		FILM NUMBER:		041222344
+
+	BUSINESS ADDRESS:	
+		STREET 1:		321 SOQUEL WAY
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94086
+		BUSINESS PHONE:		4087377300
+
+	MAIL ADDRESS:	
+		STREET 1:		321 SEQUEL WAY
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94088
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ec1758.txt
+<TEXT>
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+     PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+       Date of Report (Date of earliest event reported): December 23, 2004
+
+                               ENDWAVE CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+                                    DELAWARE
+                 (State or other jurisdiction of incorporation)
+
+       000-31635                                          95-4333817
+ (Commission File No.)                         (IRS Employer Identification No.)
+
+                               776 Palomar Avenue
+                           Sunnyvale, California 94085
+               (Address of principal executive offices) (Zip Code)
+
+        Registrant's telephone number, including area code (408) 522-3100
+
+                                       N/A
+         (Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[ ] Written communications pursuant to Rule 425 under the Securities
+    Act (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange
+    Act (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+    Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+    Exchange Act (17 CFR 240.13e-4(c))
+
+================================================================================
+
+<PAGE>
+
+ITEM 1.01.  ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT.
+
+     On December 13, 2004, Endwave Corporation ("Endwave") signed an amendment
+to a previously-disclosed contract with Nokia Networks ("Nokia"). Specifically,
+the amendment expands the range of frequencies covered by Endwave transceiver
+products to include lower frequency models. As Nokia is currently Endwave's
+largest customer, this contract amendment may be material in that it adds to the
+existing multi-year agreement between the companies, and is expected to result
+in several million dollars worth of revenue to Endwave.
+
+     In accordance with General Instruction B.2 of Form 8-K, the information in
+this Current Report on Form 8-K, including Exhibit 99.1, shall not be deemed
+"filed" for the purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended, or otherwise subject to the liability of that section, nor shall it
+be deemed incorporated by reference in any filing under the Securities Act of
+1933, as amended, except as shall be expressly set forth by specific reference
+in such a filing.
+
+ITEM 9.01.  FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS.
+
+(c) Exhibits:
+
+Exhibit No.    Exhibit Title
+- -----------    ---------------------------------------
+99.1           Press Release issued December 23, 2004.
+
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Company has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                             ENDWAVE CORPORATION
+
+Dated: December 23, 2004                     By:     /s/ Julianne M. Biagini
+                                                     ---------------------------
+                                                     Julianne M. Biagini
+                                             Title:  Senior Vice President and
+                                                     Chief Financial Officer
+
+<PAGE>
+
+INDEX TO EXHIBITS
+
+EXHIBIT NO.    DESCRIPTION
+- -----------    ---------------------------------------
+99.1           Press Release issued December 23, 2004.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ec1758ex991.txt
+<TEXT>
+                                                                    Exhibit 99.1
+
+        ENDWAVE AND NOKIA NETWORKS ANNOUNCE THE EXECUTION OF AN AMENDMENT
+                      TO THE EXISTING MULTI-YEAR AGREEMENT
+
+       Companies Agree to Expand the Frequencies to be Supplied by Endwave
+
+     SUNNYVALE, Calif., Dec. 23 /PRNewswire-FirstCall/ -- Endwave Corporation
+(Nasdaq: ENWV), a leading provider of radio frequency (RF) subsystems for
+carrier-class cellular infrastructure, broadband wireless networks, homeland
+security and defense applications, today announced that it has signed a new
+contract amendment with the Networks division of Nokia, valued at several
+million dollars, which expands the range of frequencies supplied by Endwave. The
+transceivers will be installed in both the Nokia FlexiHopper(TM) and next
+generation Nokia FlexiHopper Plus(TM) microwave radios for use in its cellular
+networks in Europe, Asia and Latin America over the next two years.
+
+     Endwave's transceivers are customized to seamlessly integrate with Nokia's
+FlexiHopper(T)M family of microwave radios, combining the high frequency
+transmit and receive functions of a radio system into one package, which can be
+used for many communication needs in cellular, fixed and dedicated networks.
+
+     "This follow-on agreement expands upon the range of frequencies Endwave
+provides to Nokia and further strengthens our position as a key supplier of
+next-generation cellular broadband wireless subsystems," said Ed Keible,
+President and CEO of Endwave Corporation. "This contract award highlights
+Endwave's ability to extend its world-class technology leadership from the high
+millimeter-wave frequencies all the way down to the lower microwave frequency
+bands that are so critical to cellular network deployments in emerging markets."
+
+     About Endwave
+     Endwave Corporation develops and manufactures radio frequency (RF)
+subsystems for use in high-speed cellular backhaul networks, enterprise access,
+homeland security, defense electronics, commercial radar systems, and other
+broadband applications. These products include integrated transceivers, outdoor
+units, oscillators/synthesizers, high-power cellular switch-combiners, and RF
+modules (amplifiers, frequency multipliers, switches, and up/down-converters).
+Endwave has more than 35 issued patents covering its core technologies including
+semiconductor and proprietary circuit designs. Endwave Corporation is
+headquartered in Sunnyvale, CA, with operations in Diamond Springs, CA; Andover,
+MA; and Lamphun, Thailand. Additional information about the company can be
+accessed from the company's web site at http://www.endwave.com .
+
+     "Safe Harbor" Statement under the Private Securities Litigation Reform Act
+of 1995:
+
+     This press release may contain forward-looking statements within the
+meaning of the Federal securities laws and is subject to the safe harbor created
+thereby. These statements include, but are not limited to, statements regarding
+forecasted future financial results. Actual results could differ materially from
+the forward-looking statements due to many factors, including
+
+<PAGE>
+
+the following: the risks that the integration of acquired business lines,
+products and subsidiaries will fail, products will fail to achieve market
+acceptance, the timing or existence of customer orders, market volatility and
+weakness, customer concentration, delays in the design process, production
+delays or cancellations due to product defects or defects in materials supplied
+by vendors, the length of our sales cycle, our ability to develop, introduce and
+market new products and product enhancements, changes in product mix or
+distribution channels; the demand for wireless networking products and end-user
+products that incorporate wireless technology; competitive technologies; and,
+technological difficulties and resource constraints encountered in developing,
+transitioning and/or introducing new products. Forward-looking statements
+contained in this press release should be considered in light of these factors
+and those factors discussed from time to time in Endwave's public reports filed
+with the Securities and Exchange Commission, such as those discussed under "Risk
+Factors" in Endwave's most recent report on Form 10-K and subsequently filed
+reports on Form 10-Q.
+
+SOURCE  Endwave Corporation
+    -0-                             12/23/2004
+    /CONTACT:  Mark Hebeisen, VP Marketing of Endwave Corporation,
++1-978-686-4400, ext. 105/
+    /Web site:  http://www.endwave.com /
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

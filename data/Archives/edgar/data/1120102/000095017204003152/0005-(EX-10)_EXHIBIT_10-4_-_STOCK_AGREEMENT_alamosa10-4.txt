@@ -1,0 +1,322 @@
+
+
+                                                                  Exhibit 10.4
+
+                             ALAMOSA HOLDINGS, INC.
+                AMENDED & RESTATED 1999 LONG TERM INCENTIVE PLAN
+                      FORM OF RESTRICTED STOCK AGREEMENT
+
+
+Name of Grantee:               ______________
+
+Maximum Number
+Of Shares of
+Restricted Stock:              ______ shares of common stock, $0.01 par value,
+                               of Alamosa Holdings, Inc. ("Shares"), subject to
+                               achievement of Performance Goals.
+
+Maximum Number
+Of Shares of
+Bonus Stock:                   ______ Shares, subject to achievement of
+                               Performance Goals in excess of Expected
+                               Performance.
+
+Per Share Price:               $____
+
+Grant Date:                    _____
+
+Performance Goals:             Minimum Performance - $192,400,000
+                               Expected Performance - $240,500,000
+                               Exceptional Performance - $288,600,000
+
+Vesting Dates Upon
+Which Restrictions
+Lapse:                         ________
+                               ________
+
+
+                                * * * * * * * *
+
+
+                  This Restricted Stock Agreement (this "Agreement") is
+executed and delivered as of the Grant Date by and between Alamosa Holdings,
+Inc. (the "Company") and the Grantee. The Grantee and the Company hereby agree
+as follows:
+
+1.       The Company, pursuant to the Amended and Restated 1999 Long Term
+         Incentive Plan, as amended (the "Plan"), which is incorporated herein
+         by reference, and subject to the terms and conditions thereof, hereby
+         grants to the Grantee the above mentioned Shares of Restricted Stock
+         in exchange for a payment of $___ which represents payment of the par
+         value of the Shares of Restricted Stock.
+
+2.       From the Grant Date until the date on which all restrictions
+         applicable to Shares shall lapse, as indicated above (such period, a
+         "Restricted Period"), the Grantee may not sell, assign, transfer,
+         donate, pledge or otherwise dispose of Shares subject to a Restricted
+         Period. Each certificate representing Restricted Stock shall bear the
+         following legend:
+
+                  On the face of the certificate:
+
+                  "Transfer of this stock is restricted in accordance with
+                  conditions printed on the reverse of this certificate."
+
+                  On the reverse:
+
+                  "The shares of stock evidenced by this certificate are
+                  subject to and transferable only in accordance with that
+                  certain Alamosa Holdings, Inc. 1999 Long Term Incentive Plan,
+                  a copy of which is on file at the principal office of the
+                  Company in Lubbock, Texas. No transfer or pledge of the
+                  shares evidenced hereby may be made except in accordance with
+                  and subject to the provisions of said Plan. By acceptance of
+                  this certificate, any holder, transferee or pledgee hereof
+                  agrees to be bound by all of the provisions of said Plan."
+
+         The Grantee shall be entitled to have such legend removed from such
+         certificate when all restrictions, as described herein, with respect
+         to the Shares of Restricted Stock covered thereby have lapsed.
+
+3.       The Company further grants to the Grantee the right to receive,
+         subject to the terms and conditions hereof, up to an aggregate of
+         _____ shares of the Company's common stock, free of restrictions, if
+         and to the extent the Expected Performance is exceeded (such
+         additional shares, "Bonus Stock"). As a condition to issuance of any
+         earned Bonus Stock, the Grantee shall be obligated to pay to the
+         Company an amount equal to the Per Share Price for each share of such
+         Bonus Stock.
+
+4.       Except as set forth below, the number of Shares of Restricted Stock
+         and Bonus Stock which shall become earned, subject to the vesting
+         restrictions described herein, shall be determined by the Company's
+         Effective Performance in relation to the Performance Goals, in
+         accordance with the following schedule:
+
+<TABLE>
+<CAPTION>
+
+- -------------------------------------------------------------------------------------------------------------
+         Level of Effective Performance              Number of Shares Earned       Number of Bonus Shares
+                                                                                           Earned
+- -------------------------------------------------------------------------------------------------------------
+<S>                                                         <C>                    <C>
+Less than or Equal to Minimum Performance                    0                      0
+- -------------------------------------------------------------------------------------------------------------
+Greater than Minimum Performance up to and
+including Expected Performance
+- -------------------------------------------------------------------------------------------------------------
+Greater than Expected Performance up to and
+including Exceptional Performance
+- -------------------------------------------------------------------------------------------------------------
+Greater than Exceptional Performance
+- -------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+         The Company's Effective Performance shall be calculated by multiplying
+         the Company's Operating Effectiveness Factor (derived from the table
+         on Attachment 1) by the Company's EBITDA, each as determined by the
+         Board of Directors of the Company (the "Board"), with respect to the
+         fiscal year ending on _____.
+
+         (a)      Restricted Stock Pro-rated Vesting. In the event that the
+                  Company's Effective Performance is greater than the Minimum
+                  Performance but equal to or less than the Expected
+                  Performance, the number of Shares of Restricted Stock which
+                  shall become earned, subject to the vesting restrictions
+                  described herein, shall be a number of Shares, rounded to the
+                  nearest whole number, equal to the product of (i) _____
+                  multiplied by (ii) a fraction, not to exceed one, the
+                  numerator of which is the Company's Effective Performance
+                  less the Minimum Performance and the denominator of which is
+                  the Expected Performance less the Minimum Performance. Any
+                  Shares of Restricted Stock that are not earned as of _____ in
+                  accordance with this Section 4 shall be forfeited and
+                  cancelled as of such date, the Per Share Price paid with
+                  respect to such Shares shall be refunded to the Grantee, and
+                  the Grantee shall have no rights with respect to any Shares
+                  of Bonus Stock.
+
+         (b)      Bonus Stock Grants. Subject to Sections 5 and 6 hereof, in
+                  the event that the Company's Effective Performance is greater
+                  than the Expected Performance and equal to or lesser than the
+                  Exceptional Performance, the Company shall issue to Grantee,
+                  subject to the terms hereof, a number of Shares, rounded to
+                  the nearest whole number, equal to the product of (i) _____
+                  multiplied by (ii) a fraction, not to exceed one, the
+                  numerator of which is the Company's Effective Performance
+                  less the Expected Performance and the denominator of which is
+                  the Exceptional Performance less the Expected Performance.
+                  Any Shares of Bonus Stock earned pursuant to this Section
+                  4(b) shall be issued to the Grantee pro rata (rounded to the
+                  nearest whole Share) in accordance with the percentages set
+                  forth on Page 1, under "Vesting Dates Upon Which Restrictions
+                  Lapse."
+
+5.       Except as set forth below, a percentage of the Shares of Restricted
+         Stock and shares of Bonus Stock, if any, earned in accordance with
+         Section 4 shall vest (in the case of Restricted Stock) or shall be
+         issued (in the case of Bonus Stock) on the Vesting Dates, provided the
+         Grantee is employed by, or providing services to, the Company on such
+         applicable Vesting Date. If the Grantee's employment with, or
+         provision of services to, the Company shall terminate for any reason
+         while Shares are subject to a Restricted Period, all Shares held by
+         the Grantee still subject to a Restricted Period (whether or not
+         earned under Section 4 hereof) shall be forfeited upon such
+         termination and the Per Share Price paid with respect to such Shares
+         shall be refunded to the Grantee, provided, however, that all Shares
+         of Restricted Stock shall be deemed earned and all restrictions
+         imposed on the Restricted Stock shall lapse immediately prior to
+         Grantee's termination of employment for "Good Reason" or if the
+         Grantee's employment is terminated by the Company without "Cause" or
+         by reason of the Grantee's death or "Disability" (each as defined in
+         Grantee's employment agreement with the Company entered into effective
+         _____); and provided, further, that no Shares of Bonus Stock shall be
+         deemed earned or vestd in connection with such a termination of
+         employment.
+
+6.       In the event that, prior to ______, 20__, there shall occur a Change
+         of Control, (i) as of immediately prior to such Change of Control, all
+         of the Restricted Shares shall be deemed fully earned at the Expected
+         Performance Level and (ii) as of immediately prior to such Change of
+         Control, the Grantee shall be issued a number of Bonus Stock Shares as
+         follows:
+
+         (a)      If such Change of Control occurs during the first calendar
+                  quarter of 20__, __ Bonus Stock Shares shall be deemed
+                  earned;
+
+         (b)      If such Change of Control occurs during the second calendar
+                  quarter of 20__ and the Effective Performance for the period
+                  from the beginning of 20__ through the end of the first
+                  quarter of 20__ exceeds budgeted EBITDA for such period, a
+                  number of Bonus Stock Shares shall be deemed earned, which
+                  number shall be determined by multiplying (i) ____ by (ii) a
+                  fraction, not to exceed one, the numerator of which is the
+                  Company's Effective Performance for such first quarter
+                  (capped at 120% of budgeted EBITDA for such period) less
+                  budgeted EBITDA for such first quarter and the denominator of
+                  which is 120% of budgeted EBITDA for such first quarter less
+                  budgeted EBITDA for such period;
+
+         (c)      If such Change of Control occurs during the third calendar
+                  quarter of 20__ and the Effective Performance for the period
+                  from the beginning of 20__ through the end of the second
+                  quarter of 20__ exceeds budgeted EBITDA for such period, a
+                  number of Bonus Stock Shares shall be deemed earned, which
+                  number shall be determined by multiplying (i) _____ by (ii) a
+                  fraction, not to exceed one, the numerator of which is the
+                  Company's Effective Performance for such period (capped at
+                  120% of budgeted EBITDA for such period) less budgeted EBITDA
+                  for such period and the denominator of which is 120% of
+                  budgeted EBITDA for such period less budgeted EBITDA for such
+                  period.
+
+         (d)      If such Change of Control occurs during the fourth calendar
+                  quarter of 20__ and the Effective Performance for the period
+                  from the beginning of 20__ through the end of the third
+                  quarter of 20__ exceeds budgeted EBITDA for such period, a
+                  number of Bonus Stock Shares shall be deemed earned, which
+                  number shall be determined by multiplying (i) _____ by (ii) a
+                  fraction, not to exceed one, the numerator of which is the
+                  Company's Effective Performance for such period (capped at
+                  120% of budgeted EBITDA for such period) less budgeted EBITDA
+                  for such period and the denominator of which is 120% of
+                  budgeted EBITDA for such period less budgeted EBITDA for such
+                  period.
+
+7.       During the Restricted Period, the Grantee shall have the right to vote
+         Shares of Restricted Stock and to receive any dividends or
+         distributions paid on such Shares. The Grantee shall have no rights
+         with respect to Bonus Stock until such time as such shares have been
+         issued to the Grantee and the Per Share Price therefor has been paid
+         by the Grantee.
+
+8.       The Shares shall be appropriately adjusted to reflect any stock
+         dividend, stock split, combination or exchange of shares or other
+         change in capitalization with a similar substantive effect upon the
+         Plan or the Restricted Stock. The Board shall have the power and sole
+         discretion to determine the nature and amount of the adjustment to be
+         made, if any. Any adjustment so made shall be final and binding.
+
+9.       The obligation of the Company to deliver any stock under this
+         Agreement is specifically subject to all provisions of the Plan and
+         all applicable laws, rules, regulations and governmental and
+         stockholder approvals.
+
+10.      Any notice by the Grantee to the Company hereunder shall be in writing
+         and shall be deemed duly given only upon receipt thereof by the
+         Company at its principal offices. Any notice by the Company to the
+         Grantee shall be in writing and shall be deemed duly given if mailed
+         to the Grantee at the address last specified to the Company by the
+         Grantee.
+
+11.      The Grantee shall pay to the Company promptly upon request, and in any
+         event at the time the Grantee recognizes taxable income in respect of
+         the Restricted Shares (or if the Grantee makes an election under
+         Section 83(b) of the Internal Revenue Code of 1986, as amended (the
+         "Code"), in connection with such grant), an amount equal to the taxes
+         the Company determines it is required to withhold under applicable tax
+         laws with respect to the Restricted Shares. Such payment shall be made
+         in the form of cash, shares of Common Stock already owned (for at
+         least six months) or otherwise issuable upon the lapse of
+         restrictions, or in a combination of such methods, subject to the
+         terms of the Plan. If Shares otherwise issuable upon vesting of
+         Restricted Stock are used to pay withholding taxes, the value of such
+         shares shall not be in excess of the minimum statutorily required
+         withholding. The Grantee shall promptly notify the Company of any
+         election made pursuant to Section 83(b) of the Code. Grantee
+         acknowledges that it is Grantee's sole responsibility and not the
+         Company's to file timely the election under Section 83(b) of the Code,
+         in the event Grantee desires to make such election.
+
+12.      Grantee hereby grants to the Company a power of attorney to transfer
+         any Shares that are forfeited hereunder and shall execute any
+         documents requested by the Company in connection with such forfeiture
+         and transfer. Grantee agrees that any provisions regarding returns and
+         transfers of stock certificates with respect to forfeited Shares are
+         specifically performable by the Company in a court of equity or law.
+
+13.      This Agreement may be amended or modified at any time only by an
+         instrument in writing signed by each of the parties hereto.
+
+14.      This Agreement shall apply to and bind the Grantee and the Company and
+         their respective permitted assignees and transferees, heirs, legatees,
+         executors, administrators and legal successors.
+
+15.      Neither the grant of Restricted Stock and the Bonus Stock, this
+         Agreement nor any other action taken pursuant to this Agreement shall
+         constitute or be evidence of any agreement or understanding, express
+         or implied, that Grantee has a right to continue to provide services
+         as an officer, director, employee or consultant of the Company for any
+         period of time or at any specific rate of compensation.
+
+16.      The failure of the Company to enforce at any time any provision of
+         this Agreement shall in no way be construed to be a waiver of such
+         provision or of any other provision hereof.
+
+17.      The validity and construction of this Agreement shall be governed by
+         the laws of the State of Delaware (excluding any conflict of law, rule
+         or principle of Delaware law that might refer the governance,
+         construction or interpretation of this Agreement to the laws of
+         another state).
+
+
+                  IN WITNESS WHEREOF, the Company has caused this Agreement to
+be executed by a duly authorized representative and the Grantee has hereunto
+set his hand as of the Grant Date.
+
+
+                                         ALAMOSA HOLDINGS, INC:
+
+
+                                         By:___________________________________
+                                            Name:
+                                            Title:
+
+
+                                            ___________________________________
+                                            Grantee: ___________
+
+
+

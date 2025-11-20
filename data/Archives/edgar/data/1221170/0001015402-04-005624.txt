@@ -1,0 +1,193 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C19Cjxhpi4X7Z6oxQsbenJGmjEBx6QoO2xZ4WgBfDgLz+FbCmQDhT+rw6avM08Pa
+ V3HIeuyg9ZjYTiMV8gS7VQ==
+
+<SEC-DOCUMENT>0001015402-04-005624.txt : 20041229
+<SEC-HEADER>0001015402-04-005624.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229161124
+ACCESSION NUMBER:		0001015402-04-005624
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PERFORMANCE CAPITAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001221170
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				030375751
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50235
+		FILM NUMBER:		041231291
+
+	MAIL ADDRESS:	
+		STREET 1:		222 SOUTH HARBOR BLVD SUITE 400
+		CITY:			ANAHELM
+		STATE:			CA
+		ZIP:			92805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>doc1.txt
+<TEXT>
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C.  20549
+                               __________________
+
+                                    FORM 8-K
+                                 CURRENT REPORT
+     Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+Date of Report (Date of earliest event reported):  DECEMBER 21, 2004
+                                                   -----------------
+
+
+
+                      PERFORMANCE CAPITAL MANAGEMENT, LLC
+                -------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+         CALIFORNIA               0 - 50235                03-0375751
+      -----------------          ------------          -------------------
+      (State or other            (Commission            (I.R.S. Employer
+        Jurisdiction             File Number)          Identification No.)
+      of incorporation)
+
+
+         222 SOUTH HARBOR BLVD., SUITE 400
+        ANAHEIM, CALIFORNIA                                  92805
+        ----------------------------------------          -----------
+        (Address of principal executive offices)          (Zip Code)
+
+
+Registrant's telephone number, including area code:      (714) 502-3780
+                                                        -----------------
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+[ ]      Written communications pursuant to Rule 425 under the Securities Act
+         (17 CFR 230.425)
+
+[ ]      Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+         (17 CFR 240.14a-12)
+
+[ ]      Pre-commencement communications pursuant to Rule 14d-2(b) under the
+         Exchange Act (17 CFR 240.14d-2(b))
+
+[ ]      Pre-commencement communications pursuant to Rule 13e-4(c) under the
+         Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+ITEM 2.03. CREATION OF A DIRECT FINANCIAL OBLIGATION OR AN OBLIGATION UNDER AN
+OFF-BALANCE SHEET ARRANGEMENT OF A REGISTRANT.
+
+We have a credit facility with Varde Investment Partners, L.P. ("Varde"), that
+provides for up to $25 million of capital (counting each dollar loaned on a
+cumulative basis) over a five-year term ending in July 2009. We have previously
+reported our entry into this facility in a Form 8-K filed with the Securities
+and Exchange Commission on July 29, 2004. Please see this Form 8-K filing for
+more information about the Varde agreement generally. On December 21, 2004, our
+wholly-owned subsidiary Matterhorn Financial Services LLC ("Matterhorn")
+borrowed approximately $938,000 under the facility in connection with our
+purchase of certain charged-off loan portfolios. This obligation has a two-year
+term expiring in December 2006 and bears interest at a rate of 12% per annum.
+The timing of payments of principal and interest depends on the collection
+performance of the portfolios Matterhorn purchased using the funds. Varde has a
+first priority security interest in all the assets of Matterhorn securing
+repayment of its loans and payment of its interest in excess profits.
+Performance Capital Management, LLC, our parent operating company, has
+guarantied certain of Matterhorn's operational obligations under the loan
+documents. Varde may exercise its rights under its various security interests if
+an event of default occurs. These rights include demanding the immediate payment
+of all amounts due to Varde, as well as liquidating the collateral. A failure to
+make payments when due, if not cured within five days, is an event of default.
+Other events of default include:
+- -    Material breaches of representations and warranties;
+- -    Uncured breaches of agreements having a material adverse effect;
+- -    Bankruptcy or insolvency of Performance Capital Management or Matterhorn;
+- -    Fraudulent conveyances;
+- -    Defaults in other debt or debt-related agreements;
+- -    Failure to pay judgments when due;
+- -    Material loss or damage to, or unauthorized transfer of, the collateral;
+- -    Change in control of Performance Capital Management;
+- -    Termination of Performance Capital Management as the Servicer under the
+     Servicing Agreement; and
+- -    Breach of Varde's right of first refusal to finance portfolio acquisitions.
+The assets of Matterhorn that provide security for Varde's $938,000 loan (as
+well as other loans previously advanced by Varde) include charged-off loan
+portfolios purchased at a cost of approximately $1.25 million on December 21,
+2004, as well as other portfolios owned by Matterhorn. The fair value of these
+encumbered assets likely exceeds their cost basis because new portfolios
+generally have a fair value in excess of their cost basis. Following this
+borrowing, the remaining availability under the credit facility was
+approximately $23.3 million.
+
+Except for the historical information presented in this document, the matters
+discussed in this Form 8-K or otherwise incorporated by reference into this
+document contain "forward-looking statements" (as such term is defined in the
+Private Securities Litigation Reform Act of 1995). These statements can be
+identified by the use of forward-looking terminology such as "believes,"
+"plans," "expects," "may," "will," "intends," "should," "plan," "assume" or
+"anticipates" or the negative thereof or other variations thereon or comparable
+terminology, or by discussions of strategy that involve risks and
+
+
+<PAGE>
+uncertainties. The safe harbor provisions of Section 21E of the Securities
+Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933,
+as amended, apply to forward-looking statements made by Performance Capital
+Management, LLC. You should not place undue reliance on forward-looking
+statements. Forward-looking statements involve risks and uncertainties. The
+actual results that we achieve may differ materially from any forward-looking
+statements due to such risks and uncertainties. These forward-looking statements
+are based on current expectations, and we assume no obligation to update this
+information. Readers are urged to carefully review and consider the various
+disclosures made by us in this report on Form 8-K and in our other reports filed
+with the Securities and Exchange Commission that attempt to advise interested
+parties of the risks and factors that may affect our business.
+
+                                   SIGNATURES
+                                   ----------
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+                              PERFORMANCE CAPITAL MANAGEMENT, LLC
+
+
+
+DECEMBER 28, 2004                   By:  /s/ David J. Caldwell
+- -----------------                   ------------------------------
+     (Date)                         David J. Caldwell
+                                    Its: Chief Operations Officer
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

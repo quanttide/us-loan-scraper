@@ -1,0 +1,310 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BjBES7djH1DxmGP3WoSOmGVk6Mil1KLgaGx5nclAX34/VAHn+2ZI/wmnWNmZbYl5
+ pCT/ufJuiAFf060RcItJzA==
+
+<SEC-DOCUMENT>0001068238-04-001408.txt : 20041228
+<SEC-HEADER>0001068238-04-001408.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228140331
+ACCESSION NUMBER:		0001068238-04-001408
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRUCTURED OBLIGATIONS CORP SELECT NOTES TRUST LT SER 2003-1
+		CENTRAL INDEX KEY:			0001223444
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32015
+		FILM NUMBER:		041228158
+
+	BUSINESS ADDRESS:	
+		STREET 1:		270 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>aselectnotes2003-18k121504.txt
+<DESCRIPTION>SELECT NOTES TRUST LT 2003-1 8K 12/15/04
+<TEXT>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                         ______________________________
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+     Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+
+
+       Date of Report (Date of earliest event reported): December 15, 2004
+
+
+
+                       Structured Obligations Corporation
+
+             (Exact name of registrant as specified in its charter)
+
+
+Delaware                001-32015               13-3741177
+(State or other         (Commission             (IRS Employer
+jurisdiction of         File                    Identification
+incorporation or        Number)                 Number)
+organization)
+
+           270 Park Avenue, New York, New York          10013
+           ----------------------------------------------------
+           (Address of principal executive offices)  (Zip Code)
+            Registrant's telephone number including area code (212) 834-6000.
+
+      Check the appropriate box below if the Form 8-K filing is intended to
+      simultaneously satisfy the filing obligation of the registrant under any
+      of the following provisions:
+
+      [ ] Written communications pursuant to Rule 425 under the Securities Act
+          (17CFR 230.425)
+      [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+          (17CFR 240.14a-12)
+      [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+          Exchange Act (17CFR 240.14d-2(b))
+      [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+          Exchange Act (17CFR 240.13e-4(c))
+
+
+
+<PAGE>
+
+Section 8 -  Other Events
+
+Item 8.01 Other Events.
+
+      This  current  report  on Form  8-K  relates  to a  distribution  made to
+      holders  of  the  Certificates  issued  by  the  Select  Notes  Trust  LT
+      2003-1.
+
+      Each issuer of an underlying security, or guarantor thereof, or
+      successor thereto, as applicable, which represents ten percent (10%) or
+      more of the aggregate principal amount of all securities held by the
+      trust is subject to the information reporting requirements of the
+      Securities Exchange Act of 1934, as amended (the "Exchange Act").
+      Periodic reports and other information required to be filed pursuant to
+      the Exchange Act, by an issuer of an underlying security, or guarantor
+      thereof, or successor thereto, as applicable, may be inspected and
+      copied at the public reference facilities maintained by the Securities
+      and Exchange Commission (the "Commission") at 450 Fifth Street, N.W.,
+      Washington, D.C. 20549. The Commission also maintains a site on the
+      World Wide Web at "http://www.sec.gov" at which users can view and
+      download copies of reports, proxy and information statements and other
+      information filed electronically through the Electronic Data Gathering,
+      Analysis and Retrieval system. Neither Structured Obligations
+      Corporation nor the trustee has participated in the preparation of such
+      reporting documents, or made any due diligence investigation with
+      respect to the information provided therein. Neither Structured
+      Obligations Corporation nor the trustee has verified the accuracy or
+      completeness of such documents or reports. There can be no assurance
+      that events affecting an issuer of an underlying security, or guarantor
+      thereof, or successor thereto, as applicable, or an underlying security
+      have not occurred or have not yet been publicly disclosed which would
+      affect the accuracy or completeness of the publicly available documents
+      described above.
+
+
+
+Section 9- Financial Statements and Exhibits
+
+Item 9.01 Financial Statements and Exhibits.
+
+(c)  Exhibits:
+
+     1.   Trustee's  Report with respect to the  December 15, 2004  Distribution
+          Date for the Select Notes Trust LT 2003-1
+
+
+                                       2
+<PAGE>
+
+
+                                  SIGNATURES
+
+
+
+
+           Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+
+
+
+
+                                   By:  /s/ Chadwick S. Parson
+                                   ________________________________
+                                   Name:   Chadwick S. Parson
+                                   Title:  Authorized Signatory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+December 22, 2004
+
+
+                                       3
+<PAGE>
+
+EXHIBIT INDEX
+
+
+Exhibit                                                         Page
+
+   1    Trustee's Report with respect to the December 15,        5
+        2004 Distribution Date for the Select Notes Trust
+        LT 2003-1
+
+
+
+
+
+
+                                       4
+<PAGE>
+
+
+                            Exhibit 1
+
+To the
+Holders of:
+Select Notes Trust LT 2003-1
+Long Term Certificates  Series
+2003-1
+*CUSIP:  81619PAA5
+
+U.S. Bank Trust National Association, as Trustee for the Select Notes Trust
+LT 2003-1 (the "Trust"), hereby gives notice with respect to Interest Period
+commencing on the day after November 15, 2004 and including the December 15,
+2004 Interest Distribution Date (the "Interest Period") in respect of the
+December 15, 2004 Interest Distribution Date (the "Interest Distribution
+Date") as follows:
+
+1.   The amount of interest received by the Trust during the Interest
+     Period is as set forth below (each Certificateholder's pro rata
+     portion of this amount is the amount to be included in such
+     Certificateholder's Form 1099).
+                           $458,125.00
+
+   a.   Per certificate held amount of interest income to be
+        included in Form 1099 for the year ending December 31,
+        2004 is set forth below.
+                           $ 8.761235
+
+2.   The total of all interest distributed to Certificate holders
+     during the Interest Period is set forth below.
+                           $263,750.00
+
+3.  Total amount of advances made to the Trustee on   $ 0.00
+    the Interest Distribution Date is
+
+4.  Total amount of advances repaid to the Advancing
+    Party during the Interest Period is                 $194,375.00
+
+
+5.  The net total of repayments made during
+    the Interest Period is                   $194,375.00
+
+
+   a.   The net amount owed by the Trust to the Advancing Party on
+        the Interest Distribution Date is set forth below.
+                           $607,025.00
+
+6.   The total amount of interest expense paid to the Advancing
+     Party on the Interest Distribution Date is set forth below
+     (each Certificateholder's pro rata portion of this amount
+     should be included in a footnote to such Certificateholder's
+     Form 1099 indicating that such amount should constitute
+     investment indebtedness interest, which can be deducted by
+     non-corporate taxpayers to the extent of such net investment
+     income).
+                           $20,000.00
+
+   a.   Per certificate held amount of interest expense to be
+        included in Form 1099 for the year ending December 31, 2004
+        is set forth below.
+                           $ 0.382482
+
+7.   At the close of business on the Interest Distribution Date,
+     there were 52,290 Certificates outstanding.
+
+8.   Payments made on Underlying Securities during the
+     Interest period are as set forth below.
+- -------------------------------------------------------------
+Payment    Description of Underlying   Principal   Interest
+Date       Security
+- -------------------------------------------------------------
+ 12/01/04  Merck & Co., Inc. 5.95%       $ 0.00  $148,750.00
+           Debentures due December 1,
+           2028.
+- -------------------------------------------------------------
+ 12/01/04  Sears Roebuck Acceptance      $ 0.00  $162,500.00
+           Corp. 6.50% Notes due
+           December 1, 2028.
+- -------------------------------------------------------------
+ 11/29/04  International Business        $ 0.00  $146,875.00
+           Machines Corporation 5.875%
+           Debentures due November 29,
+           2032.
+- -------------------------------------------------------------
+
+U.S. Bank Trust National Association, as Trustee
+
+*The Trustee shall not be held responsible for the selection or use of the
+CUSIP number nor is any representation made as to its correctness.  It is
+included solely for the convenience of the Holders.
+
+
+
+
+                                       6
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

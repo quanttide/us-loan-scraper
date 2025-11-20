@@ -1,0 +1,3456 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KUjVzPGkVc3J4dGuD9Jvzy1ks4gdxnxd68D/Ul4fjM03KSg6EKcrWgmg4HTrik5B
+ IWWUDHGPa0/+V7EYSSTKyg==
+
+<SEC-DOCUMENT>0000950172-04-003152.txt : 20041230
+<SEC-HEADER>0000950172-04-003152.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230170620
+ACCESSION NUMBER:		0000950172-04-003152
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALAMOSA HOLDINGS INC
+		CENTRAL INDEX KEY:			0001120102
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				752843707
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16793
+		FILM NUMBER:		041234690
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5225 S LOOP 289
+		CITY:			LUBBOCK
+		STATE:			TX
+		ZIP:			79424
+		BUSINESS PHONE:		8067221100
+
+	MAIL ADDRESS:	
+		STREET 1:		5225 S LOOP 289
+		CITY:			LUBBOCK
+		STATE:			TX
+		ZIP:			79424
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>nyc955349.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, DC 20549
+
+                               _________________
+
+
+                                   FORM 8-K
+
+
+                                CURRENT REPORT
+                    Pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+
+      Date of Report (Date of Earliest Event Reported): December 30, 2004
+
+
+                            Alamosa Holdings, Inc.
+         ------------------------------------------------------------
+              (Exact Name of Registrant as Specified in Charter)
+
+
+         Delaware                      000-32357                75-2890997
+- ----------------------------     ------------------------   -------------------
+(State or Other Jurisdiction     (Commission File Number)   (I.R.S. Employer
+     of Incorporation)                                      Identification No.)
+
+
+                   5225 S. Loop 289, Lubbock, Texas,    79424
+     --------------------------------------------------------------------
+              (Address of Principal Executive Offices) (Zip Code)
+
+
+      Registrant's Telephone Number, Including Area Code: (806) 722-1100
+                                                          ---------------
+
+
+                                Not Applicable
+   ------------------------------------------------------------------------
+         (Former Name or Former Address, if Changed Since Last Report)
+
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of
+the following provisions:
+
+
+|_|  Written communications pursuant to Rule 425 under the Securities Act (17
+     CFR 230.425)
+
+|_|  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+     CFR 240.14a-12)
+
+|_|  Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+|_|  Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+
+Item 1.01 Entry Into a Material Definitive Agreement.
+- ----------------------------------------------------
+
+On December 27, 2004, Alamosa Holdings, Inc., a Delaware corporation
+("Alamosa"), entered into an employment agreement with David E. Sharbutt (the
+"Sharbutt Agreement") that provides for the continuation of Mr. Sharbutt's
+employment as Chief Executive Officer of Alamosa and replaces Mr. Sharbutt's
+existing employment agreement.
+
+The term of Mr. Sharbutt's employment under the Sharbutt Agreement is from
+January 1, 2005 to December 31, 2007, unless otherwise extended. Under the
+Sharbutt Agreement, Mr. Sharbutt will receive an initial base salary of
+$425,000, and will be eligible to receive an annual bonus with an initial
+target of $340,000. In addition, on the first business day of January of each
+year, Alamosa's Compensation Committee will grant Mr. Sharbutt the following
+options, with a per share exercise price equal to the fair market value (as
+defined in Alamosa's Amended and Restated 1999 Long Term Incentive Plan) of a
+share of Alamosa common stock on the date of such grant: 80,000 options in
+2005, 64,000 options in 2006 and 51,200 options in 2007. The form of Executive
+Stock Option Agreement is attached as Exhibit 10.3 and is incorporated herein
+by reference. The Compensation Committee will also grant Mr. Sharbutt the
+following shares of restricted stock in accordance with Alamosa's Amended and
+Restated 1999 Long Term Incentive Plan: 60,000 shares in 2005, 48,000 shares
+in 2006 and 38,400 shares in 2007. The form of Restricted Stock Agreement is
+attached as Exhibit 10.4 and is incorporated herein by reference.
+
+If Mr. Sharbutt's employment is terminated by Alamosa at any time for cause,
+as such term is defined in the Sharbutt Agreement, Mr. Sharbutt will be
+entitled to: (i) his base salary through the date of termination; (ii) payment
+in lieu of any unused vacation; (iii) any earned annual bonus not yet paid;
+(iv) any deferred compensation under any deferred compensation agreement or
+plan then in effect; (v) certain other compensation already vested; and (vi)
+reimbursal of certain expenses. If Mr. Sharbutt's employment terminates due to
+his death or disability, in addition to the above mentioned compensation, Mr.
+Sharbutt will also be entitled to his base salary, at the rate in effect on
+the date of termination, through the end of the month in which the termination
+occurs, and a prorated annual bonus.
+
+If Mr. Sharbutt terminates his employment for good reason, as such term is
+defined in the Sharbutt Agreement, or Mr. Sharbutt's employment is terminated
+by Alamosa without cause, Mr. Sharbutt will be entitled to, in addition to the
+benefits he would receive for termination for cause: (i) an amount equal to
+his base salary at the rate in effect immediately before such termination (or
+three times his base salary if his employment is terminated within twelve
+months following a change in control of Alamosa, as such term is defined in
+the Sharbutt Agreement); (ii) the higher of his target annual bonus or average
+annual bonus earned over the preceding two fiscal years (or, three times such
+amount if the employment is terminated within twelve months following a change
+in control); (iii) a prorated amount of his annual bonus for the year during
+which the termination occurs of at least the product of (x) the annual bonus
+paid for the calendar year preceding the date of termination and (y) the
+fraction of the calendar year of the termination worked by Mr. Sharbutt; and
+(iv) certain other continuing benefits.
+
+The Sharbutt Agreement also contains provisions requiring Mr. Sharbutt to not
+compete with Alamosa or solicit Alamosa's employees, customers or clients for
+a period of one year following termination, or for a period of two years if
+his employment is terminated within twelve months following a change in
+control of Alamosa, and a confidentiality provision.
+
+A copy of the Sharbutt Agreement is attached as Exhibit 10.1 and is
+incorporated herein by reference. The description of the Sharbutt Agreement
+set forth above is qualified in its entirety by reference to the Sharbutt
+Agreement.
+
+On December 27, 2004, Alamosa also entered into an employment agreement with
+Kendall Cowan (the "Cowan Agreement") that provides for the continuation of
+Mr. Cowan's employment as Chief Financial Officer of Alamosa and replaces Mr.
+Cowan's existing employment agreement.
+
+The term of Mr. Cowan's employment under the Cowan Agreement is from January
+1, 2005 to December 31, 2006, unless otherwise extended. Under the Cowan
+Agreement, Mr. Cowan will receive an initial base salary of $400,000, and will
+be eligible to receive an annual bonus with an initial target of $280,000. In
+addition, on the first business day of January of each year, Alamosa's
+Compensation Committee will grant Mr. Cowan the following options, with a per
+share exercise price equal to the fair market value (as defined in Alamosa's
+Amended and Restated 1999 Long Term Incentive Plan) of a share of Alamosa
+common stock on the date of such grant: 50,000 options in 2005 and 40,000
+options in 2006. The form of Executive Stock Option Agreement is attached as
+Exhibit 10.3 and is incorporated herein by reference. The Compensation
+Committee will also grant Mr. Cowan the following shares of restricted stock
+in accordance with Alamosa's Amended and Restated 1999 Long Term Incentive
+Plan: 50,000 shares in 2005 and 40,000 shares in 2006. The form of Restricted
+Stock Agreement is attached as Exhibit 10.4 and is incorporated herein by
+reference.
+
+
+If Mr. Cowan's employment is terminated by Alamosa at any time for cause, as
+such term is defined in the Cowan Agreement, Mr. Cowan will be entitled to:
+(i) his base salary through the date of termination; (ii) payment in lieu of
+any unused vacation; (iii) any earned annual bonus not yet paid; (iv) any
+deferred compensation under any deferred compensation agreement or plan then
+in effect; (v) certain other compensation already vested; and (vi) reimbursal
+of certain expenses. If Mr. Cowan's employment terminates due to his death or
+disability, in addition to the above mentioned compensation, Mr. Cowan will
+also be entitled to his base salary, at the rate in effect on the date of
+termination, through the end of the month in which the termination occurs, and
+a prorated annual bonus.
+
+If Mr. Cowan terminates his employment for good reason, as such term is
+defined in the Cowan Agreement, or Mr. Cowan's employment is terminated by
+Alamosa without cause, Mr. Cowan will be entitled to, in addition to the
+benefits he would receive for termination for cause: (i) an amount equal to
+his base salary at the rate in effect immediately before such termination (or
+three times his base salary if his employment is terminated within twelve
+months following a change in control of Alamosa, as such term is defined in
+the Cowan Agreement); (ii) the higher of his target annual bonus or average
+annual bonus earned over the preceding two fiscal years (or, three times such
+amount if the employment is terminated within twelve months following a change
+in control); (iii) a prorated amount of his annual bonus for the year during
+which the termination occurs of at least the product of (x) the annual bonus
+paid for the calendar year preceding the date of termination and (y) the
+fraction of the calendar year of the termination worked by Mr. Cowan; and (iv)
+certain other continuing benefits.
+
+The Cowan Agreement also contains provisions requiring Mr. Cowan to not
+compete with Alamosa or solicit Alamosa's employees, customers or clients for
+a period of one year following termination, or for a period of two years if
+his employment is terminated within twelve months following a change in
+control of Alamosa, and a confidentiality provision.
+
+A copy of the Cowan Agreement is attached as Exhibit 10.2 and is incorporated
+herein by reference. The description of the Cowan Agreement set forth above is
+qualified in its entirety by reference to the Cowan Agreement.
+
+
+Item 9.01  Financial Statements and Exhibits.
+- ---------------------------------------------
+
+     (c)  Exhibits.
+
+
+Exhibit
+Number                Description
+- -------               -----------
+
+Exhibit 10.1          Employment Agreement, dated as of January 1, 2005, by
+                      and between Alamosa and David E. Sharbutt
+
+Exhibit 10.2          Employment Agreement, dated as of January 1, 2005, by
+                      and between Alamosa and Kendall Cowan
+
+Exhibit 10.3          Form of Executive Stock Option Agreement under Alamosa's
+                      Amended and Restated 1999 Long Term Incentive Plan
+
+Exhibit 10.4          Form of Restricted Stock Agreement under Alamosa's
+                      Amended and Restated 1999 Long Term Incentive Plan
+
+
+<PAGE>
+
+
+                                  SIGNATURES
+
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+Date:   December 30, 2004
+
+
+                                               ALAMOSA HOLDINGS, INC.
+
+
+                                               By: /s/ Kendall W. Cowan
+                                                   ---------------------------
+                                                   Kendall W. Cowan
+                                                   Chief Financial Officer
+
+
+<PAGE>
+
+
+                                 EXHIBIT INDEX
+
+Exhibit
+Number                Description
+- -------               -----------
+
+Exhibit 10.1          Employment Agreement, dated as of January 1, 2005, by
+                      and between Alamosa and David E. Sharbutt
+
+Exhibit 10.2          Employment Agreement, dated as of January 1, 2005, by
+                      and between Alamosa and Kendall Cowan
+
+Exhibit 10.3          Form of Executive Stock Option Agreement under Alamosa's
+                      Amended and Restated 1999 Long Term Incentive Plan
+
+Exhibit 10.4          Form of Restricted Stock Agreement under Alamosa's
+                      Amended and Restated 1999 Long Term Incentive Plan
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>ala10_1.txt
+<DESCRIPTION>EXHIBIT 10.1 - EMPLOYMENT AGREEMENT
+<TEXT>
+
+                                                                  Exhibit 10.1
+
+
+
+                             EMPLOYMENT AGREEMENT
+
+         THIS EMPLOYMENT AGREEMENT (this "Agreement"), made and entered into
+as of January 1, 2005, between Alamosa Holdings, Inc., a Delaware corporation,
+with its principal office located at 5225 S. Loop 289, Lubbock, TX (together
+with its successors and assigns permitted under this Agreement) ("Alamosa"),
+and David E. Sharbutt ("Employee").
+
+                             W I T N E S S E T H:
+
+         WHEREAS, Alamosa and Employee entered into that certain Employment
+Agreement effective as of October 1, 1999 (the "Original Agreement");
+
+         WHEREAS, Alamosa and Employee entered into that certain Employment
+Agreement effective as of October 1, 2002 (the "Amended and Restated
+Agreement");
+
+         WHEREAS, Alamosa and Employee entered into an Amendment No. 1 to the
+Original Agreement effective as of January 1, 2004 (the "Amendment No. 1").
+
+         WHEREAS, Alamosa has determined that it is in the best interests of
+Alamosa and its stockholders to enter into this Agreement amending and
+restating the obligations and duties of both Alamosa and Employee under the
+Original Agreement and any amendments thereto; and
+
+         WHEREAS, Alamosa wishes to assure itself of the continued service of
+Employee for the period hereinafter provided, and Employee is willing to be
+employed by Alamosa for said period, upon the terms and conditions provided in
+this Agreement;
+
+         NOW, THEREFORE, in consideration of the premises and mutual covenants
+contained herein and for other good and valuable consideration, the receipt of
+which is mutually acknowledged, Alamosa and Employee (individually a "Party"
+and together the "Parties") agree as follows:
+
+1.       DEFINITIONS.
+
+         (a) "Affiliate" shall have the meaning set forth in Rule 12b-2
+promulgated under Section 12 of the Exchange Act.
+
+         (b) "Base Salary" shall mean the annual salary provided for in
+Section 3 below, as adjusted from time to time by the Board.
+
+         (c) "Beneficial Owner" shall have the meaning set forth in Rule 13d-3
+under the Exchange Act.
+
+         (d) "Beneficiary" shall mean the person or persons named by Employee
+pursuant to Section 22 below or, in the event that no such person is named and
+survives Employee, his estate.
+
+         (e) "Board" shall mean the Board of Directors of Alamosa.
+
+         (f) "Cause" shall mean:
+
+                  (i) Employee's conviction in a court of law of, or guilty
+         plea or no contest plea to, a felony charge,
+
+                  (ii) willful, substantial and continued failure by Employee
+         to perform his duties under this Agreement,
+
+                  (iii) willful engagement by Employee in conduct that is
+         demonstrably and materially injurious to Alamosa,
+
+                  (iv) a breach by Employee of Section 11 or Section 12 below.
+         For the purposes of clauses (ii) and (iii) of this definition, no act
+         or failure to act on the part of Employee shall be deemed "willful"
+         (x) if caused by Disability or (y) unless done, or omitted to be
+         done, by him not in good faith or without reasonable belief that his
+         act or omission was in the best interests of Alamosa.
+
+         (g) "Change of Control" shall be deemed to have occurred if the event
+set forth in any one of the following paragraphs shall have occurred:
+
+         (i)      any Person is or becomes the Beneficial Owner, directly or
+                  indirectly, of securities of Alamosa (not including in the
+                  securities beneficially owned by such Person any securities
+                  acquired directly from Alamosa or its Affiliates)
+                  representing 25% or more of the combined voting power of
+                  Alamosa's then outstanding securities, excluding any Person
+                  who becomes such a Beneficial Owner in connection with a
+                  transaction described in clause (A) of paragraph (iii)
+                  below; or
+
+         (ii)     the following individuals cease for any reason to constitute
+                  a majority of the number of directors then serving:
+                  individuals who, on the date hereof, constitute the Board
+                  and any new director (other than a director whose initial
+                  assumption of office is in connection with an actual or
+                  threatened election contest, including but not limited to a
+                  consent solicitation, relating to the election of directors
+                  of Alamosa) whose appointment or election by the Board or
+                  nomination for election by Alamosa's stockholders was
+                  approved or recommended by a vote of at least two-thirds
+                  (2/3) of the directors then still in office who either were
+                  directors on the date hereof or whose appointment, election
+                  or nomination for election was previously so approved or
+                  recommended; or
+
+         (iii)    there is consummated a merger or consolidation of Alamosa or
+                  any direct or indirect subsidiary of Alamosa with any other
+                  corporation or other entity, other than (A) a merger or
+                  consolidation (1) which results in the voting securities of
+                  Alamosa outstanding immediately prior to such merger or
+                  consolidation continuing to represent (either by remaining
+                  outstanding or by being converted into voting securities of
+                  the surviving entity or any parent thereof) at least 60% of
+                  the combined voting power of the securities of Alamosa or
+                  such surviving entity or any parent thereof outstanding
+                  immediately after such merger or consolidation and (2) after
+                  which the individuals who comprise the Board immediately
+                  prior thereto constitute at least a majority of the board of
+                  directors of Alamosa, the entity surviving such merger or
+                  consolidation or, if Alamosa or the entity surviving such
+                  merger is then a subsidiary, the ultimate parent thereof, or
+                  (B) a merger or consolidation effected to implement a
+                  recapitalization of Alamosa (or similar transaction) in
+                  which no Person is or becomes the Beneficial Owner, directly
+                  or indirectly, of securities of Alamosa (not including in
+                  the securities Beneficially Owned by such Person any
+                  securities acquired directly from Alamosa or its Affiliates)
+                  representing 25% or more of the combined voting power of
+                  Alamosa 's then outstanding securities; or
+
+         (iv)     the stockholders of Alamosa approve a plan of complete
+                  liquidation or dissolution of Alamosa or there is
+                  consummated an agreement for the sale or disposition by
+                  Alamosa of all or substantially all of Alamosa 's assets,
+                  other than a sale or disposition by Alamosa of all or
+                  substantially all of Alamosa's assets immediately following
+                  which the individuals who comprise the Board immediately
+                  prior thereto constitute at least a majority of the board of
+                  directors of the entity to which such assets are sold or
+                  disposed or any parent thereof.
+
+         Notwithstanding the foregoing, a "Change of Control" shall not be
+deemed to have occurred by virtue of the consummation of any transaction or
+series of integrated transactions immediately following which the record
+holders of the common stock of Alamosa immediately prior to such transaction
+or series of transactions continue to have substantially the same
+proportionate ownership in an entity which owns all or substantially all of
+the assets of Alamosa immediately following such transaction or series of
+transactions.
+
+         (h) "Code" shall mean the Internal Revenue Code of 1986, as from time
+to time amended.
+
+         (i) "Committee" shall mean the Compensation Committee of the Board.
+
+         (j) "Date of Termination" shall mean, with respect to any purported
+termination of Employee's employment during the Term, (i) if Employee's
+employment terminates due to Disability, 30 days after a good faith
+determination of Disability by Alamosa (provided that Employee shall not have
+returned to full-time performance of his duties during such 30-day period),
+(ii) if Employee's employment terminates due to death, the date of death, and
+(iii) if Employee's employment terminates for any other reason, the date
+specified in the Notice of Termination (which shall be not less than 30 days
+after the date of such Notice of Termination).
+
+         (k) "Disability" shall have the meaning set forth in Alamosa's
+long-term disability policy as in effect from time to time.
+
+         (l) "Exchange Act" shall mean the Securities Exchange Act of 1934, as
+amended.
+
+         (m) "Excise Tax" shall mean any excise tax imposed under Section 4999
+of the Code.
+
+         (n) "Good Reason" shall mean the occurrence (without Employee's
+express written consent) of any one of the following acts or omissions by
+Alamosa unless, in the case of any act or omission described in this Section
+1(n), such act or omission is corrected prior to the Date of Termination
+specified in the Notice of Termination in respect thereof:
+
+                  (i) the assignment to Employee of any duties inconsistent
+         with Employee's status as the chief executive officer of Alamosa or a
+         substantial adverse alteration in the nature of Employee's authority,
+         duties or responsibilities, or any other action by Alamosa which
+         results in a diminution in such status, authority, duties or
+         responsibilities (it being understood that a mere change in
+         authority, duties or responsibilities, or any other action by Alamosa
+         will not constitute Good Reason in and of itself unless it results in
+         a substantial adverse alteration or diminution of Employee's
+         authority, duties or responsibilities), excluding for this purpose an
+         isolated, insubstantial and inadvertent action not taken in bad faith
+         and which is remedied by Alamosa promptly after receipt of notice
+         thereof given by Employee;
+
+                  (ii) subject to its obligations to stockholders, the failure
+         by Alamosa to ensure Employee's continued service as a member of the
+         Board and the Chairman thereof;
+
+                  (iii) a reduction by Alamosa in Employee's base salary
+         and/or annual bonus opportunity as in effect on the date hereof or as
+         the same may be increased from time to time, except for
+         across-the-board reductions similarly affecting all senior executives
+         of Alamosa;
+
+                  (iv) the failure by Alamosa to pay to Employee any portion
+         of Employee's current compensation except pursuant to an
+         across-the-board compensation deferral similarly affecting all senior
+         executives of Alamosa;
+
+                  (v) the failure by Alamosa to continue to provide Employee
+         with benefits substantially similar to those enjoyed by Employee
+         under any of Alamosa's savings/retirement, life insurance, medical,
+         health and accident, disability plans or other benefits (including,
+         without limitation, automobile, country club, and vacation benefits)
+         in which Employee was participating at the time, the taking of any
+         action by Alamosa which would directly or indirectly materially
+         reduce any of such benefits or deprive Employee of any material
+         fringe benefit enjoyed by Employee at the time, (including, without
+         limitation, automobile, country club, and vacation benefits);
+
+                  (vi) the relocation of Alamosa's principal offices to a
+         location more than 50 miles from the location of such offices on the
+         date of this Agreement or a requirement that Employee be based
+         anywhere other than at Alamosa's principal offices except for
+         necessary travel on Alamosa's business to an extent substantially
+         consistent with Employee's business travel obligations on the date of
+         this Agreement;
+
+                  (vii) the failure by Alamosa to ensure that Employee will be
+         employed by the ultimate parent of Alamosa in the event of any
+         corporate transaction; or
+
+                  (viii) any determination by Employee after the occurrence of
+         a Change of Control that Good Reason exists (which determination
+         shall be final and conclusive).
+
+         (o) "LSAR" means Employee's right to receive a cash payment in
+respect of the mandatory cancellation of an option equal to the product of (1)
+the excess, if any, of the then fair market value (as determined under the
+LTIP) of a share of Alamosa common stock over the per share exercise price of
+the option and (2) the number of shares of stock subject to the option.
+
+         (p) "LTIP" means Alamosa's Amended and Restated 1999 Long Term
+Incentive Plan, or any successor plan thereto, or any amendment thereof.
+
+         (q) "Notice of Termination" shall mean delivery of written notice by
+one Party and receipt thereof by the other Party in accordance with Section 26
+below, which notice shall indicate the specific termination provision in this
+Agreement relied upon and shall set forth in reasonable detail the facts and
+circumstances claimed to provide a basis for termination of Employee's
+employment hereunder.
+
+         (r) "Person" shall have the meaning given in Section 3(a)(9) of the
+Exchange Act, as modified and used in Sections 13(d) and 14(d) thereof, except
+that such term shall not include (i) Alamosa or any of its subsidiaries, (ii)
+a trustee or other fiduciary holding securities under an employee benefit plan
+of Alamosa or any of its Affiliates, (iii) an underwriter temporarily holding
+securities pursuant to an offering of such securities, or (iv) a corporation
+owned, directly or indirectly, by the stockholders of Alamosa in substantially
+the same proportions as their ownership of stock of Alamosa.
+
+         (s) "Severance Payments" shall have the meaning set forth in Section
+9(d)(ii) below.
+
+         (t) "Tax Counsel" shall have the meaning set forth in Section 10
+below.
+
+         (u) "Term" shall mean the period specified in Section 2(b) below
+during which Employee is employed by Alamosa or any of its Affiliates.
+
+         (v) "Total Payments" shall mean those payments so described in
+Section 10 below.
+
+2.       TERM OF EMPLOYMENT, POSITIONS AND DUTIES.
+
+         (a) Employment of Employee. Alamosa hereby employs Employee, and
+Employee hereby accepts employment with Alamosa, in the position and with the
+duties and responsibilities set forth below and upon such other terms and
+conditions as are hereinafter stated.
+
+         (b) Term of Employment. The Term shall commence on the date of this
+Agreement and shall terminate on December 31, 2007, unless it is sooner
+terminated as provided in Section 9 below or extended by agreement of the
+Parties.
+
+         (c) Title, Duties and Authorities.
+
+                  (i) Until termination of his employment hereunder, Employee
+         shall be employed as Chief Executive Officer of Alamosa, reporting to
+         the Board, with all the authorities and responsibilities that
+         normally accrue to such position of chief executive officer, and
+         shall hold such other titles as the Board may grant. Employee shall
+         receive no additional compensation for serving in any other capacity,
+         such as Chairman of the Board or any similar position.
+
+                  (ii) So long as Employee remains on Alamosa' Board, during
+         the Term Alamosa shall ensure Employee continues as Chairman of the
+         Board.
+
+         (d) Time and Effort.
+
+                  (i) Employee agrees to devote his best efforts and abilities
+         and his full business time and attention to the affairs of Alamosa in
+         order to carry out his duties and responsibilities under this
+         Agreement.
+
+                  (ii) Notwithstanding the foregoing, nothing shall preclude
+         Employee from
+
+                         (A) serving on the boards of (x) a reasonable number
+                  of trade associations and charitable organizations, and (y)
+                  (as defined below) with the prior consent of the Board
+                  (which shall not be unreasonably withheld), any other
+                  business not in Competition with Alamosa,
+
+                         (B) engaging in charitable activities and community
+                  affairs, and
+
+                         (C) managing his personal investments and affairs;
+                  provided, however, that any such activities do not
+                  materially interfere with the proper performance of his
+                  duties and responsibilities specified in Section 2(c) above.
+
+3.       BASE SALARY.
+
+         Employee shall receive from Alamosa an initial Base Salary, payable
+in accordance with the regular payroll practices of Alamosa, of $425,000.
+During the Term, the Board shall review the Base Salary for increase no less
+often than annually.
+
+4.       ANNUAL BONUS.
+
+         Employee shall be eligible to receive an annual bonus, which shall
+have an initial target of $340,000. Payment of the annual bonus (which may, in
+the Committee's discretion, be paid in whole or in part on a quarterly basis)
+shall be based upon the achievement of such performance goals as the Committee
+shall determine based on Alamosa's budget and business plan. No annual bonus
+will be payable unless the Committee determines that at least 75% of the
+performance goals have been achieved. The amount of the annual bonus payable
+shall be determined in accordance with the terms of the applicable Alamosa
+bonus plan, but in no case shall exceed 200% of the target for the annual
+bonus.
+
+5.       LONG-TERM INCENTIVE COMPENSATION.
+
+         During the Term, Employee shall participate in any long-term
+incentive plan or plans that may be established by Alamosa for members of
+Alamosa's senior management generally.
+
+6.       EQUITY GRANTS.
+
+         (a) Annual Option Grants. On the first business day of January of
+each year, the Committee shall grant Employee options according to the
+following schedule: 2005 - 80,000 options, 2006 - 64,000 options and 2007 -
+51,200 options (each an "Option"). With respect to each Option, three percent
+(3%) of the total number of shares subject to such Option shall become vested
+and fully exercisable each month following the date of the grant of such
+Option. All shares subject to each Option will vest and become vested and
+exercisable if Employee's employment terminates pursuant to Section 9(d)
+below. Each Option shall have a per share exercise price equal to the fair
+market value (as defined in the LTIP) of a share of Alamosa common stock on
+the date of grant.
+
+         (b) Incentive Stock Options. All stock options to be granted to
+Employee hereunder shall, to the maximum extent permitted by Section 422 of
+the Code, be intended to qualify as "incentive stock options."
+
+         (c) Employment Required; Other Option Terms. In order to receive any
+option grant pursuant to this Section 6, Employee must be employed by Alamosa
+or one of its Affiliates on the date of grant and any option granted pursuant
+to this Section 6 shall be subject to the terms and conditions of the form of
+Alamosa Executive Stock Option Agreement under the LTIP to the extent such
+agreement is not inconsistent with this Section 6. In addition, except as
+otherwise provided herein or in the Executive Stock Option Agreement, option
+vesting will be subject to Employee's continued employment hereunder.
+
+         (d) Restricted Stock Grant. On the first business date of January of
+each year, the Committee shall grant (subject to the terms of the LTIP and the
+specific terms of a restricted stock agreement substantially in the form
+attached hereto as Exhibit A) Employee shares of restricted stock pursuant to
+the following schedule: 2005- 60,000 shares; 2006 - 48,000 shares; and 2007 -
+38,400 shares.
+
+         (e) LSAR Conversion. Employee acknowledges that immediately prior to
+the occurrence of a "change in ownership or control" (as defined in Prop Reg
+1.280G-1) of Alamosa, each stock option that has been granted to him pursuant
+to this Section 6 that had not yet become vested and exercisable shall
+automatically convert into an LSAR.
+
+7.       EXPENSE REIMBURSEMENT.
+
+         Employee shall be entitled to prompt reimbursement by Alamosa for all
+reasonable out-of-pocket expenses incurred by him during the Term in
+performing services under this Agreement, upon his submission of such accounts
+and records as may be reasonably required by Alamosa.
+
+8.       EMPLOYEE BENEFIT PLANS AND PERQUISITES.
+
+         During the Term, Employee shall be entitled to participate in all
+life insurance, short-term and long-term disability, accident, health
+insurance and savings/retirement plans that are applicable to Alamosa
+employees generally or to the senior executives of Alamosa. Alamosa will also
+reimburse Employee for the cost of the Employee's annual physical exams
+performed during the Term by a physician chosen by Employee. The cost of each
+such exam (including of any tests performed in connection with the physical)
+shall not exceed $5,000.
+
+         In addition, Alamosa will provide at least $5,000,000 term life
+insurance on the life of Employee during the Term. Alamosa shall pay for all
+costs attributable to such coverage. Such life insurance shall be at least ten
+(10) year level premium term life insurance on the life of Employee. Employee
+shall have the right to designate the beneficiary of such policy or policies.
+Should Employee not be insurable, there will be no obligation upon Alamosa to
+provide such life insurance. If Employee's employment terminates during the
+Term of this Agreement or at the termination of Employee's employment pursuant
+to this Agreement, Employee may assume the premium obligations of this policy
+after termination of any continuing coverage provided under Section
+9(d)(ii)(D), in which event Alamosa shall assign all its rights in the policy
+to Employee. In the event Employee desires to assume the premium obligations
+under this policy and at the time of Employee's termination of employment, or
+end of any continuing coverage under Section 9(d)(ii)(D) if later, Alamosa has
+prepaid any premiums on the policy, Employee shall pay to Alamosa the amount
+of any prepayment attributable to any period of coverage after Employee's
+termination of employment, or if later, after the continued coverage period
+required under Section 9(d)(ii)(D) has elapsed.
+
+         Alamosa will reimburse Employee for the cost of professional services
+in the area of financial planning, estate planning and tax planning that are
+incurred during the Term up to an aggregate maximum of $10,000 per annum.
+During the Term, Employee shall be entitled to receive a car allowance and
+reimbursement for club dues and other perquisites consistent with the
+Executive Benefit Policy approved by the Committee.
+
+9.       TERMINATION OF EMPLOYMENT.
+
+         (a) General. Notwithstanding anything to the contrary herein, in the
+event of termination of Employee's employment under this Agreement for any
+reason whatsoever, he, his dependents or Beneficiary, as may be the case,
+shall be entitled to receive (in addition to payments and benefits under, and
+except as specifically provided in, subsections (b) through (e) below as
+applicable):
+
+                  (i) his Base Salary through the Date of Termination;
+
+                  (ii) payment in lieu of any unused vacation, in accordance
+         with Alamosa's vacation policy and applicable laws:
+
+                  (iii) any earned annual bonus not yet paid to him;
+
+                  (iv) any deferred compensation under any deferred
+         compensation agreement or plan then in effect;
+
+                  (v) any other compensation or benefits, including without
+         limitation long-term incentive compensation described in Section 5
+         above, in accordance with Section 6 above and employee benefits under
+         plans described in Section 8 above, that have vested through the Date
+         of Termination or to which he may then be entitled in accordance with
+         the applicable terms of each award or plan; and
+
+                  (vi) reimbursement in accordance with Section 7 above of any
+         business expenses incurred by Employee through the Date of
+         Termination but not yet paid to him and reimbursement of any unpaid
+         expenses incurred pursuant to Section 8 above.
+
+         (b) Termination due to Death or Disability. In the event that
+Employee's employment terminates due to his death or disability, he or his
+Beneficiary, as the case may be, shall be entitled, in addition to the
+compensation and benefits specified in Section 9(a), to:
+
+                  (i) his Base Salary, at the rate in effect on the Date of
+         Termination, through the end of the month in which the termination
+         occurs, and
+
+                  (ii) an annual bonus under Alamosa's annual bonus plan. Such
+         annual bonus shall be prorated to the Date of Termination and shall
+         be paid based on the Board's determination (which shall be made in
+         the Board's sole and absolute discretion) of what annual bonus
+         Employee would likely have received in respect of the year in which
+         the termination occurred.
+
+         (c) Termination by Alamosa for Cause. In the event that Alamosa
+terminates Employee's employment for Cause, he shall be entitled only to the
+compensation and benefits specified in Section 9(a).
+
+         Notwithstanding the foregoing, termination for Cause may not occur
+pursuant to clauses (ii) or (iii) of Section 1(g) above unless and until, with
+the Board's prior approval, Alamosa has delivered to Employee Notice of
+Termination, which shall contain in reasonable detail the facts purporting to
+constitute such nonperformance, act, omission or breach, and afforded him 30
+days thereafter to cure the same (if curable) and/or to respond in writing to
+the Board setting forth his position that his termination for Cause should not
+occur and requesting reconsideration by the Board, in which event (x) the
+effective date of termination of employment shall be deferred until the Board
+has had the opportunity to consider whether such nonperformance, act, omission
+or breach has been cured and to consider any request by Employee for
+reconsideration, and (y) the Board shall thereafter cause a written notice to
+be delivered on its behalf to Employee stating either that it has rescinded
+its determination that his employment is to be terminated for Cause or that
+affirms its determination that his employment is to be terminated for Cause
+and that contains an effective date of termination of employment, which shall
+be not earlier than 15 days after such notice is given. Section 1(n)(i) to the
+contrary notwithstanding, upon delivery to Employee of Notice of Termination
+under this Section 9(c), Employee shall be suspended from all duties and
+responsibilities unless and until the Board rescinds its determination that
+his employment is to be terminated for Cause.
+
+         (d) Termination by Alamosa Without Cause or by Employee for Good
+Reason.
+
+                  (i) Alamosa shall provide Employee 30 days' Notice of
+         Termination of his employment without Cause, and Employee shall
+         provide 30 days' Notice of Termination of his employment for Good
+         Reason.
+
+                  (ii) In the event of termination by Alamosa of Employee's
+         employment without Cause or of termination by Employee of his
+         employment for Good Reason, he shall be entitled, in addition to the
+         compensation and benefits specified in Section 9(a), to the following
+         compensation and benefits (the "Severance Payments"):
+
+                         (A) his Base Salary, at the rate in effect
+                  immediately before such termination (three times his Base
+                  Salary if the Employee's employment terminates within twelve
+                  months following a Change in Control),
+
+                         (B) the higher of the Employee's target annual bonus
+                  or average annual bonus earned over the two preceding fiscal
+                  years (three times such amount if the Employee's employment
+                  terminates within twelve months following a Change in
+                  Control),
+
+                         (C) a prorated amount of Employee's annual bonus for
+                  the year during which his termination occurs, which bonus
+                  shall not be less than the product of (A) the annual bonus
+                  paid to Employee for the calendar year preceding the Date of
+                  Termination that has most recently been paid to Employee and
+                  (B) a fraction, the numerator of which is the number of days
+                  in the current calendar year through the Date of Termination
+                  and the denominator of which is 365;
+
+                         (D) continuing coverage under the life, disability,
+                  accident and health insurance programs for Alamosa employees
+                  generally and under any supplemental programs covering
+                  Alamosa executives, as from time to time in effect, for a
+                  one-year period from such termination or until Employee
+                  becomes eligible for substantially similar coverage under
+                  the employee welfare plans of a new employer, whichever
+                  occurs earlier (for a two year period if the Employee's
+                  employment terminates within twelve months following a
+                  Change in Control) (at the end of the foregoing coverage
+                  period, Employee shall also be entitled to elect coverage
+                  under the Consolidated Omnibus Budget Reconciliation Act of
+                  1985 ); and
+
+                         (E) continuation of all other benefits in effect on
+                  the Date of Termination (including, without limitation,
+                  automobile, country club, vacation and pension benefits, if
+                  applicable) for a one-year period (a two year period if the
+                  Employee's employment terminates within twelve months
+                  following a Change in Control) following such termination or
+                  until Employee becomes eligible for substantially similar
+                  benefits from a new employer, whichever occurs earlier.
+
+                  (iii) The payments specified in Sections 9(d)(ii)(A), (B)
+         and (C) shall be made by Alamosa to Employee in a lump sum in cash
+         within 30 days of the Date of Termination.
+
+                  (iv) Employee's right to terminate his employment for Good
+         Reason shall not be affected by his incapacity due to physical or
+         mental illness. Employee's continued employment shall not constitute
+         consent to, or a waiver of rights with respect to, any act or
+         omission constituting Good Reason.
+
+                  (v) As a condition to receiving the payments and benefits
+         pursuant to this Section 9(d), Employee shall be required to execute
+         (and not revoke) a general release of all claims against Alamosa and
+         its Affiliates. Such release shall be in a form substantially similar
+         to that attached as Exhibit B hereto.
+
+         (e) Voluntary Termination by Employee. Employee shall have the right
+voluntarily to terminate his employment in accordance with Section 1(j) above.
+If he does so, he shall be entitled only to the compensation and benefits
+specified in Section 9(a).
+
+         (f) Cessation of Payments. If, during or after the Term, Employee
+commits a breach of Section 11 or Section 12 below, Alamosa shall have no
+further obligation to make payments to him under this Agreement except as may
+be required in accordance with Section 9(a).
+
+         (g) Resignation from Board. In the event of termination of Employee's
+employment under this Agreement for any reason whatsoever, Employee agrees
+that he will resign from his service as a member of the Board and Chairman
+thereof effective as of his Date of Termination.
+
+         (h) Notice Requirements. Any purported termination of Employee's
+employment that is not effected pursuant to Notice of Termination satisfying
+the requirements of Sections 1(j) and 1(q) and Section 26 shall not be
+effective for purposes of this Agreement.
+
+10.      280G TREATMENT.
+
+         (a) Whether or not Employee becomes entitled to any payments pursuant
+to Section 9(d) hereof, if any of the payments or benefits received or to be
+received by Employee (whether pursuant to the terms of this Agreement or any
+other plan, arrangement or agreement with the Company, any Person whose
+actions result in a Change of Control or any Person affiliated with Alamosa or
+such Person) (all such payments and benefits, excluding the Gross-Up Payment,
+being hereinafter referred to as the "Total Payments") will be subject to the
+Excise Tax, Alamosa shall pay to Employee an additional amount (the "Gross-Up
+Payment") such that the net amount retained by Employee, after deduction of
+any Excise Tax on the Total Payments and any federal, state and local income
+and employment taxes and Excise Tax upon the Gross-Up Payment, shall be equal
+to the Total Payments. The Gross-Up Payment shall be paid to Employee by
+Alamosa within two business days of the day of its calculation.
+
+         (b) For purposes of determining whether any of the Total Payments
+will be subject to the Excise Tax and the amount of such Excise Tax, (i) all
+of the Total Payments shall be treated as "parachute payments" (within the
+meaning of Section 280G(b)(2) of the Code) unless, in the opinion of tax
+counsel ("Tax Counsel") reasonably acceptable to Employee, such payments or
+benefits (in whole or in part) do not constitute parachute payments, including
+by reason of Section 280G(b)(4)(A) of the Code, (ii) all "excess parachute
+payments" within the meaning of Section 280G(b)(l) of the Code shall be
+treated as subject to the Excise Tax unless, in the opinion of Tax Counsel,
+such excess parachute payments (in whole or in part) represent reasonable
+compensation for services actually rendered (within the meaning of Section
+280G(b)(4)(B) of the Code) in excess of the base amount (as defined in Section
+280G(b)(3) of the Code) allocable to such reasonable compensation, or are
+otherwise not subject to the Excise Tax, and (iii) the value of any noncash
+benefits or any deferred payment or benefit shall be determined in accordance
+with the principles of Sections 280G(d)(3) and (4) of the Code. For purposes
+of determining the amount of the Gross-Up Payment, Employee shall be deemed to
+pay federal income tax at the highest marginal rate of federal income taxation
+in the calendar year in which the Gross-Up Payment is to be made and state and
+local income taxes at the highest marginal rate of taxation in the state and
+locality of Employee's residence on the date Employee's employment hereunder
+terminates (or if there is no such termination, then the date on which the
+Gross-Up Payment is calculated for purposes of this Section 10), net of the
+maximum reduction in federal income taxes which could be obtained from
+deduction of such state and local taxes.
+
+         (c) In the event that the Excise Tax is finally determined to be less
+than the amount taken into account hereunder in calculating the Gross-Up
+Payment, Employee shall repay to Alamosa, within five (5) business days
+following the time that the amount of such reduction in the Excise Tax is
+finally determined, the portion of the Gross-Up Payment attributable to such
+reduction plus that portion of the Gross-Up Payment attributable to the Excise
+Tax and federal, state and local income and employment taxes imposed on the
+Gross-Up Payment being repaid by Employee, to the extent that such repayment
+results in a reduction in the Excise Tax and a dollar-for-dollar reduction in
+Employee's taxable income and wages for purposes of federal, state and local
+income and employment taxes, plus interest on the amount of such repayment at
+120% of the rate provided in Section 1274(b)(2)(B) of the Code. In the event
+that the Excise Tax is determined to exceed the amount taken into account
+hereunder in calculating the Gross-Up Payment (including by reason of any
+payment the existence or amount of which cannot be determined at the time of
+the Gross-Up Payment), Alamosa shall make an additional Gross-Up Payment in
+respect of such excess (plus any interest, penalties or additions payable by
+Employee with respect to such excess) within five (5) business days following
+the time that the amount of such excess is finally determined. Employee and
+Alamosa shall each reasonably cooperate with the other in connection with any
+administrative or judicial proceedings concerning the existence or amount of
+liability for Excise Tax with respect to the Total Payments.
+
+         (d) Notwithstanding the foregoing provisions of this Section 10, if
+it shall be determined that Employee is entitled to a Gross-Up Payment, but
+the Total Payments do not exceed 115% of the greatest amount (the "Reduced
+Amount") that could be paid to Employee such that the receipt of Total
+Payments would not give rise to any Excise Tax, then no Gross-Up Payment shall
+be made to Employee and the Total Payments, in the aggregate, shall be reduced
+to the Reduced Amount. If a reduction is required, Employee and Alamosa shall
+determine, after consultation, which payments and or benefits shall be waived,
+reduced or forfeited to accomplish the reduction.
+
+         (e) Upon Employee's request, Alamosa shall provide Employee with a
+written statement setting forth the manner in which calculations were made
+pursuant to this Section 10 including, without limitation, any opinions or
+other advice Alamosa has received from Tax Counsel or other advisors or
+consultants (and any such opinions or advice which are in writing shall be
+attached to the statement).
+
+11.      NON-COMPETITION/NON-SOLICITATION.
+
+         (a) During Employee's employment with Alamosa, Employee shall not
+engage in "Competition" with Alamosa or any Affiliate (collectively, the
+"Company Group"). For purposes of this Agreement, Competition by Employee
+shall mean Employee's engaging in, or otherwise directly or indirectly being
+employed by or acting as a consultant or lender to, or being an agent,
+principal, owner, partner, corporate officer, director, shareholder, member,
+or investor of, or permitting his name to be used in connection with the
+activities of any other business or organization anywhere in the United States
+which competes with the Business of any entity in the Company Group. For these
+purposes, the "Business" is establishing and providing mobile wireless
+communications services, including all aspects of the Business, within the
+"Service Area" as that term is defined in the Schedule of Definitions referred
+to in and incorporated by reference into the Sprint PCS Management Agreements
+dated as of July 10, 1998, December 8, 1998, January 25, 1999, December 6,
+1999 and December 23, 1999 (as they may be amended from time to time) or any
+other similar Sprint Management Agreement to which Alamosa or any of its
+Affiliates may be a party ("the Sprint Agreement"); provided that; it shall
+not be a violation of this sub-paragraph for Employee to become the registered
+or beneficial owner of up to five percent (5%) of any class of the capital
+stock of a competing corporation registered under the Securities Exchange Act
+of 1934, as amended, provided the Employee does not actively participate in
+the business of such corporation until such time as this covenant expires.
+
+         (b) For a period of one year following the termination of Employee's
+employment (two years if Employee's employment terminates under Section 9(d)
+during the Term and within twelve months following a Change of Control),
+whether upon expiration of this Agreement or otherwise, Employee shall not
+engage in Competition, as defined above, in the Service Area or in any area in
+which Alamosa had, as of the date of the expiration of termination of this
+Agreement, a bona fide intention to begin to operate its Business; provided
+that, it shall not be a violation of this sub-paragraph for Employee to (1)
+become the registered or beneficial owner of up to five percent (5%) of any
+class of the capital stock of a competing corporation registered under the
+Securities Exchange Act of 1934, as amended, provided Employee does not
+actively participate in the business of such corporation until such time as
+this covenant expires, (2) commence employment with an employer or provide
+services to an entity who conducts the Business in one or more areas within
+the Service Area so long as such areas do not contain more than 25% of
+Alamosa's subscribers and Employee's services do not primarily relate to the
+Service Area or (3) commence employment with or provide services to a national
+carrier of the Business (e.g., Verizon or AT&T) if Employee's services do not
+primarily relate to the Service Area. Notwithstanding anything to the
+foregoing, it shall not be a violation of this sub-paragraph for an Employee
+to commence employment or provide consulting services to an entity that
+derives more than 80% of its revenues from cellular communications services.
+
+         (c) For a period of one year (two years if Employee's employment
+terminates under Section 9(d) during the Term and within twelve months
+following a Change of Control) after Employee ceases to be employed hereunder,
+whether upon expiration of this Agreement or otherwise, Employee agrees that
+he will not, directly or indirectly, for his benefit or for the benefit of any
+other person, firm or entity, do any of the following:
+
+                  (i) recruit or solicit (other than pursuant to general,
+         non-targeted advertisements) the employment or services of, or hire,
+         in any business enterprise or activity, any person who was employed
+         by an entity in the Company Group upon termination of Employee's
+         employment, or within six (6) months prior thereto;
+
+                  (ii) solicit from any customer or client doing business with
+         an entity in the Company Group as of Employee's termination, business
+         of the same or a similar nature to the business of such entity of the
+         Company Group with such customer or client;
+
+                  (iii) solicit from any potential customer of an entity in
+         the Company Group business of the same or a similar nature to that
+         which has been the subject of a written or oral bid, offer or
+         proposal by such entity of the Company Group, or of substantial
+         preparation with a view to making such a bid, offer or proposal,
+         within six (6) months prior to Employee's termination; or
+
+                  (iv) otherwise knowingly interfere with the business or
+         accounts of any entity in the Company Group.
+
+         (d) Employee acknowledges that the services to be rendered by him
+hereunder are of a special and unique character, which gives this Agreement a
+peculiar value to Alamosa, the loss of which may not be reasonably or
+adequately compensated for by damages in an action at law, and that a breach
+or threatened breach by his of any of the provisions contained in this Section
+11 will cause the Company irreparable injury. Employee therefore agrees that
+in the event of a violation or threatened violation of any of the provisions
+contained in this Section 11, Alamosa or any of its Affiliates shall be
+entitled, in addition to any other right or remedy, to a temporary,
+preliminary and permanent injunction, without the necessity of proving the
+inadequacy of monetary damages or the posting of any bond or security,
+enjoining or restraining Employee from any such violation or threatened
+violations.
+
+         (e) Employee further agrees that due to the confidential nature of
+the information he will possess, the covenants set forth herein are reasonable
+and necessary for the protection of the goodwill or other business interest of
+the Company Group.
+
+         (f) Employee agrees that if a court of competent jurisdiction
+determines that the length of time or any other restriction, or portion
+thereof, set forth in this Section 11 is overly restrictive and unenforceable,
+the court may reduce or modify such restrictions to those which it deems
+reasonable and enforceable under the circumstances, and as so reduced or
+modified, the parties hereto agree that the restrictions of this Section 11
+shall remain in full force and effect. Employee further agrees that if a court
+of competent jurisdiction determines that any provision of this Section 11 is
+invalid or against public policy, the remaining provisions of this Section 11
+and the remainder of this Agreement shall not be affected thereby, and shall
+remain in full force and effect.
+
+12.      CONFIDENTIAL INFORMATION.
+
+         Employee recognizes and acknowledges that he will have access to
+certain information of members of the Company Group and that such information
+is confidential and constitutes valuable, special and unique property of such
+members of the Company Group. The Parties agree that Alamosa has a legitimate
+interest in protecting the Confidential Information, as defined below, and is
+entitled to protection of its interests in the Confidential Information.
+Employee shall not at any time, either during or subsequent to the Term,
+disclose to others, use, copy or permit to be copied, except in pursuance of
+his duties for or on behalf of Alamosa, any Confidential Information of any
+member of the Company Group (regardless of whether developed by Employee)
+without the prior written consent of Alamosa. Employee acknowledges that the
+use or disclosure of the Confidential Information to anyone or any third party
+could cause monetary loss and damages to Alamosa. The Parties further agree
+that in the event of a violation of this covenant against non-use and
+non-disclosure of Confidential Information, Alamosa shall be entitled to a
+recovery of damages from Employee and/or an injunction against Employee for
+the breach or violation or continued breach or violation of this covenant.
+
+         The term "Confidential Information" with respect to any person means
+any secret or confidential information or know-how and shall include, but
+shall not be limited to, the plans, financial and operating information,
+customers, supplier arrangements, contracts, costs, prices, uses, and
+applications of products and services, results of investigations, studies or
+experiments owned or used by such person, and all apparatus, products,
+processes, compositions, samples, formulas, computer programs, computer
+hardware designs, computer firmware designs, and servicing, marketing or
+manufacturing methods and techniques at any time used, developed,
+investigated, made or sold by such person, before or during the term of this
+Agreement, that are not readily available to the public or that are maintained
+as confidential by such person. The Employee shall maintain in confidence any
+Confidential Information of third parties received as a result of his
+employment with the Company in accordance with the Company's obligations to
+such third parties and the policies established by the Company.
+
+13.      DELIVERY OF DOCUMENTS UPON TERMINATION.
+
+         Employee shall deliver to Alamosa or its designee at the termination
+of his employment all correspondence, memoranda, notes, records, drawings,
+sketches, plans, customer lists, product compositions, and other documents and
+all copies thereof, made, composed or received by Employee, solely or jointly
+with others, that are in Employee's possession, custody, or control at
+termination and that are related in any manner to the past, present, or
+anticipated business or any member of the Company Group. In this regard,
+Employee hereby grants and conveys to Alamosa all right, title and interest in
+and to, including without limitation, the right to possess, print, copy, and
+sell or otherwise dispose of, any reports, records, papers, summaries,
+photographs, drawings or other documents, and writings, and copies, abstracts
+or summaries thereof, that may be prepared by the Employee or under his
+direction or that may come into his possession in any way during the term of
+employment with Alamosa that relate in any manner to the past, present or
+anticipated business of any member of the Company Group.
+
+14.      DISPUTES.
+
+         The Parties agree to the following in regard to any disputes between
+them arising under any of the provisions of this Agreement other than the
+provisions of Sections 11 through 13 hereof. Nothing in this Section 14
+applies to or governs disputes arising under Sections 11 through 13 of this
+Agreement.
+
+         (a) MEDIATION. The Parties agree to mediate any dispute arising under
+the applicable provisions of this Agreement. In the event of any such dispute,
+the parties, within thirty (30) days of a written request for mediation, shall
+attend, in good faith, a mediation in order to make a good faith reasonable
+effort to resolve such dispute arising under this Agreement. The Parties shall
+attempt, in good faith, to agree to a mediator. If unable to so agree, the
+Parties, in that event, will move to arbitration as provided in this Agreement
+and there will be no mediation. If this good faith mediation effort fails to
+resolve any dispute arising under this Agreement, the Parties agree to
+arbitrate any dispute arising under this Agreement. This arbitration shall
+occur only after the mediation process described herein.
+
+         (b) ARBITRATION. The Parties agree, on the advice of their counsel,
+and as evidenced by the signatures of the Parties and of their respective
+attorneys, that all questions as to rights and obligations arising under the
+terms of this Agreement are subject to arbitration and such arbitration shall
+be governed by the provisions of the Texas General Arbitration Act (Texas
+Civil Practice and Remedies Code Section 171.001 et seq as it may be amended
+from time to time).
+
+         (c) DEMAND FOR ARBITRATION. If a dispute should arise under this
+Agreement, either Party may within thirty (30) days make a demand for
+arbitration by filing a demand in writing with the other.
+
+         (d) APPOINTMENT OF ARBITRATORS. The Parties to this Agreement may
+agree on one arbitrator, but in the event that they cannot so agree, there
+shall be three arbitrators, one named in writing by each of the Parties within
+thirty (30) days after demand for arbitration is made, and a third to be
+chosen by the two so named. The arbitrators among themselves shall appoint a
+presiding arbitrator. Should either Party fail to timely join in the
+appointment of the arbitrators, the arbitrators shall be appointed in
+accordance with the provisions of Texas Civil Practice and Remedies Code
+Section 171.041.
+
+         (e) HEARING. All arbitration hearings conducted under the terms of
+this Agreement, and all judicial proceedings to enforce any of the provisions
+of this Agreement, shall take place in Lubbock County, Texas. The hearing
+before the arbitrators of the matter to be arbitrated shall be at the time and
+place within that County selected by the arbitrators or if deemed by the
+arbitrators to be more convenient for the parties or more economically
+feasible, may be conducted in any city within the Service Area or within the
+State of Texas.
+
+         (f) ARBITRATION AWARD. If there is only one arbitrator, his or her
+decision shall be binding and conclusive. Similarly, a decision by a panel of
+arbitrators shall also be binding and conclusive. The submission of a dispute
+to the arbitrators and the rendering of their decision shall be a condition
+precedent to any right of legal action on the dispute. A judgment confirming
+the award of the arbitrators may be rendered by any court having jurisdiction;
+or the court may vacate, modify, or correct the award in accordance with the
+provisions of the Texas General Arbitration Act (Texas Civil Practice and
+Remedies Code ss. 171.087 et seq as it may be amended from time to time).
+
+         (g) COSTS OF ARBITRATION. The costs and expenses of arbitration,
+including the fees of the arbitrators but excluding any attorneys' fees, shall
+be advanced by Alamosa, but will ultimately be borne by the losing party or in
+such proportions as the arbitrators shall determine.
+
+         (h) CONDUCT OF ARBITRATION. Any arbitration brought under the terms
+of this Agreement shall be conducted in the following manner:
+
+                  (i) Time Limitations. The Parties agree that the following
+         time limitations shall govern the arbitration proceedings conducted
+         under the terms of this Agreement:
+
+                         (A) Any demand for arbitration must be filed within
+                  thirty (30) days of the date the mediation is deemed
+                  unsuccessful, or thirty (30) days after the date of the
+                  written request for mediation, whichever is later.
+
+                         (B) Each Party must select an arbitrator within
+                  thirty (30) days of receipt of notice that an arbitration
+                  proceeding has commenced. In the event that no such
+                  selection is made, the arbitrator selected by the other
+                  party may conduct the arbitration proceeding without
+                  selecting any other arbitrator.
+
+                         (C) The hearing must be held within sixty (60) days
+                  of the date on which the third arbitrator is selected.
+
+                         (D) Hearing briefs must be submitted no later than
+                  ten (10) days after the hearing.
+
+                         (E) The arbitration award must be made within thirty
+                  (30) days of the receipt of hearing briefs.
+
+                  (ii) Discovery in Arbitration Proceedings. The Parties agree
+         that discovery may be conducted in the course of the arbitration
+         proceeding in accordance with the following provisions:
+
+                         (A) Each Party may notice no more than three (3)
+                  depositions in total, including both witnesses adherent to
+                  the adverse Party and third-party witnesses.
+
+                         (B) Each Party may serve no more than twenty-five
+                  (25) requests for admission on the other party. No requests
+                  may be served within ten (10) days of the date of hearing,
+                  unless the parties otherwise stipulate. All requests for
+                  admission shall be responded to within ten (10) days of
+                  service of the requests, unless the Parties otherwise
+                  stipulate.
+
+                         (C) Each Party may serve no more than fifty (50)
+                  interrogatories on the other Party. No interrogatory shall
+                  contain subparts, or concern more than one topic or subject
+                  of inquiry. Interrogatories may not be phrased so as to
+                  circumvent the effect of this clause. No interrogatories may
+                  be served within ten (10) days of the date of hearing,
+                  unless the parties otherwise stipulate. All interrogatories
+                  shall be responded to within ten (10) days of service of the
+                  interrogatories, unless the Parties otherwise stipulate.
+
+                         (D) Each Party may serve no more than ten (10)
+                  requests for production of documents on the other Party. No
+                  request for production of documents shall contain subparts,
+                  or seek more than one type of document. Requests for
+                  production of documents may not be phrased so as to
+                  circumvent the effect of this clause. Unless the Parties
+                  otherwise stipulate, requests for production of documents
+                  may not be served within ten (10) day of the date of
+                  hearing, and all requests for production of documents shall
+                  be responded to within ten (10) days of service of the
+                  requests.
+
+                         (E) If any Party contends that the other Party has
+                  served discovery requests in a manner not permitted by this
+                  Section, or that the other Party's response to a discovery
+                  request is unsatisfactory, the party may request the
+                  presiding arbitrator to resolve such discovery disputes. The
+                  presiding arbitrator shall prescribe the procedure by which
+                  such disputes are resolved. Any discovery dispute may be
+                  handled by telephone conference among the Parties and the
+                  presiding arbitrator.
+
+15.      WITHHOLDING TAXES.
+
+         All payments to Employee or his Beneficiary shall be subject to
+withholding on account of federal, state and local taxes as required by law.
+If any payment under this Agreement is insufficient to provide the amount of
+such taxes required to be withheld, Alamosa may withhold such taxes from any
+subsequent payment due Employee or his Beneficiary. In the event that all
+payments due are insufficient to provide the required amount of such
+withholding taxes, Employee or his Beneficiary, within five days after written
+notice from Alamosa, shall pay to Alamosa the amount of such withholding taxes
+in excess of the payments due.
+
+16.      INDEMNIFICATION AND LIABILITY INSURANCE. Nothing herein is intended to
+limit Alamosa's indemnification of Employee, and Alamosa shall indemnify him
+to the fullest extent permitted by applicable law consistent with Alamosa's
+Certificate of Incorporation and By-Laws as in effect on the date of this
+Agreement, with respect to any action or failure to act on his part while he
+is (x) an officer, director or employee of Alamosa or any Subsidiary or
+Affiliate or (y) a director or officer of any trade association or business
+enterprise that is not a subsidiary or Affiliate and in which capacity his
+service is at Alamosa's request. To the extent that directors' and officers'
+liability insurance is obtainable on commercially economic terms, Alamosa
+shall cause Employee to be covered, during the Term and after the Term in
+respect of claims arising from any such service during the Term, by such
+insurance on terms no less favorable than the directors' and officers'
+liability insurance maintained by Alamosa as in effect on the date of this
+Agreement in terms of coverage, limits and reimbursement of defense costs. In
+any period during which such insurance coverage is not obtainable on
+commercially economic terms, Alamosa shall cause Employee to be covered by as
+much of such insurance as may be obtained for the largest premium paid by
+Alamosa for such an insurance policy in effect during the Term.
+
+17.      ASSIGNABILITY, SUCCESSORS, BINDING AGREEMENT.
+
+         (a) In addition to any obligations imposed by law upon any successor
+to Alamosa, Alamosa will use its best efforts to persuade any successor
+(whether direct or indirect, by purchase, merger, consolidation or otherwise)
+to all or substantially all of the business and/or assets of Alamosa to
+expressly assume and agree to perform this Agreement in the same manner and to
+the same extent that Alamosa would be required to perform it if no such
+succession had taken place. Failure of Alamosa to obtain such assumption and
+agreement prior to the effectiveness of any such succession shall be a breach
+of this Agreement and shall entitle Employee to compensation from Alamosa in
+the same amount and on the same terms as Employee would be entitled to
+hereunder if he were to terminate his employment for Good Reason within twelve
+months following a Change of Control, except that, for purposes of
+implementing the foregoing, the date on which any such succession becomes
+effective shall be deemed the Date of Termination.
+
+         (b) This Agreement shall inure to the benefit of and be enforceable
+by Employee's personal or legal representatives, executors, administrators,
+successors, heirs, distributees, devisees and legatees. If Employee shall die
+while any amount would still be payable to him hereunder (other than amounts
+which, by their terms, terminate upon his death) if he had continued to live,
+all such amounts, unless otherwise provided herein, shall be paid in
+accordance with the terms of this Agreement to the executors, personal
+representatives or administrators of Employee's estate.
+
+18.      ENTIRE AGREEMENT.
+
+         Except to the extent otherwise provided herein, this Agreement
+contains the entire understanding and agreement between the Parties concerning
+the subject matter hereof and supersedes any prior agreements, whether written
+or oral, between the Parties concerning the subject matter hereof. In the
+event of a conflict between this Agreement and terms of any benefit plan,
+grant or award, the provisions of this Agreement shall govern the
+determination of Employee's rights.
+
+19.      AMENDMENT OR WAIVER.
+
+         No provision in this Agreement may be amended unless such amendment
+is agreed to in writing and signed by both Employee and an authorized officer
+of Alamosa. No waiver by either Party of any breach by the other Party of any
+condition or provision contained in this Agreement to be performed by such
+other Party shall be deemed a waiver of a similar or dissimilar condition or
+provision at the same or any prior or subsequent time. Any waiver must be in
+writing and signed by the Party to be charged with the waiver.
+
+20.      SEVERABILITY.
+
+         In the event that any provision or portion of this Agreement shall be
+determined to be valid or unenforceable for any reason, in whole or in part,
+the remaining provisions of this Agreement shall be unaffected thereby and
+shall remain in full force and effect to the fullest extent permitted by law.
+
+21.      SURVIVAL.
+
+         The respective rights and obligations of the Parties under this
+Agreement shall survive any termination of Employee's employment with Alamosa.
+
+22.      BENEFICIARIES/REFERENCES.
+
+         Employee shall be entitled to select (and change, to the extent
+permitted under any applicable law) a beneficiary or beneficiaries to receive
+any compensation or benefit payable under this Agreement following Employee's
+death by giving Alamosa written notice thereof. In the event of Employee's
+death or of a judicial determination of his incompetence, reference in this
+Agreement to Employee shall be deemed to refer, as appropriate, to his
+beneficiary, estate or other legal representative.
+
+23.      MITIGATION.
+
+         Alamosa agrees that, if Employee's employment by Alamosa terminates
+during the Term, Employee is not required to seek other employment or to
+attempt in any way to reduce any amounts payable to him due under this
+Agreement. Further, the amount of any payment shall not be reduced by any
+compensation earned by Employee as the result of employment by another
+employer, by retirement benefits, by offset against any amount claimed to be
+owed by Employee to Alamosa, or otherwise.
+
+24.      GOVERNING LAW AND PERFORMANCE.
+
+         This Agreement shall be governed by and construed and interpreted in
+accordance with the laws of the State of Texas, without reference to
+principles of conflict of laws. This Agreement shall be deemed to be executed
+in and performance called for in Lubbock, Lubbock County, Texas.
+
+25.      LEGAL EXPENSES. Alamosa agrees to pay all reasonable out-of-pocket
+costs and expenses, including all reasonable attorneys' fees and disbursements,
+actually incurred by Employee in collecting or enforcing payments to which he
+is ultimately determined to be entitled (whether by agreement among the
+Parties, court order or otherwise) pursuant to this Agreement in accordance
+with its terms.
+
+26.     NOTICES. Any notice given to either Party shall be in writing and shall
+be deemed to have been given when delivered either personally, by fax, by
+overnight delivery service (such as Federal Express) or sent by certified or
+registered mail, postage prepaid, return receipt requested, duly addressed to
+the Party concerned at the address indicated below or to such changed address
+as the Party may subsequently give notice of.
+
+If to Alamosa:
+
+         Alamosa Holdings, Inc.
+         5225 S. Loop 289,
+         Lubbock, TX 79424
+
+With a copy to:
+
+         Jack McCutchin, Jr.
+         Crenshaw, Dupree and& Milam, LLP
+         P.O. Box 1499 Lubbock, TX 79408-1499
+
+and
+
+         Fred B. White, III
+         Skadden, Arps, Slate, Meagher & Flom LLP
+         4 Times Square
+         New York, New York 10036
+
+If to Employee:
+
+         At his address on file with Alamosa.
+
+With a copy to:
+
+         Bill Harriger
+         Murchison Hund & Harriger, LLP
+         PO Box 54390
+         Lubbock, TX 79453-4390
+
+27.      HEADINGS.
+
+         The headings of the sections contained in this Agreement are for
+convenience only and shall not be deemed to control or affect the meaning or
+construction of any provision of this Agreement.
+
+28.      COUNTERPARTS.
+
+         This Agreement may be executed in counterparts, each of which when so
+executed and delivered shall be an original, but all such counterparts
+together shall constitute one and the same instrument.
+
+
+
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the undersigned have executed this Agreement as
+of the date first written above.
+
+                                           Alamosa Holdings, Inc.
+
+
+                                           By: /s/ Kendall Cowan
+                                               --------------------------------
+                                               Name:  Kendall Cowan
+                                               Title: Chief Financial Officer
+
+
+                                           Employee:
+
+
+                                           /s/ David Sharbutt
+                                           ------------------------------------
+                                               David E. Sharbutt
+
+Approved as to the mediation and arbitration provisions in Section 14 above.
+
+
+Crenshaw, Dupree & Milam, LLP
+
+
+                                           By:
+                                              ---------------------------------
+                                              Jack McCutchin, Jr.
+                                              Attorney for Alamosa
+
+
+                                           Murchison Hund & Harriger, LLP
+
+
+                                           By:
+                                              ---------------------------------
+                                              Bill Harriger
+                                              Attorney for Employee
+
+
+Dated this 27th of December, 2004.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>alamosa10_2.txt
+<DESCRIPTION>EXHIBIT 10.2 - EMPLOYMENT AGREEMENT
+<TEXT>
+
+                                                                  Exhibit 10.2
+
+
+                             EMPLOYMENT AGREEMENT
+
+         THIS EMPLOYMENT AGREEMENT (this "Agreement"), made and entered into
+as of January 1, 2005, between Alamosa Holdings, Inc., a Delaware corporation,
+with its principal office located at 5225 S. Loop 289, Lubbock, TX (together
+with its successors and assigns permitted under this Agreement) ("Alamosa"),
+and Kendall Cowan ("Employee").
+
+                             W I T N E S S E T H:
+
+         WHEREAS, Alamosa and Employee entered into that certain Employment
+Agreement effective as of December 1, 1999 (the "Original Agreement");
+
+         WHEREAS, Alamosa and Employee entered into that certain Employment
+Agreement effective as of October 1, 2002 (the "Amended and Restated
+Agreement");
+
+         WHEREAS, Alamosa and Employee entered into an Amendment No. 1 to the
+Original Agreement effective as of January 1, 2004 (the "Amendment No. 1").
+
+         WHEREAS, Alamosa has determined that it is in the best interests of
+Alamosa and its stockholders to enter into this Agreement amending and
+restating the obligations and duties of both Alamosa and Employee under the
+Original Agreement and any amendments thereto; and
+
+         WHEREAS, Alamosa wishes to assure itself of the continued service of
+Employee for the period hereinafter provided, and Employee is willing to be
+employed by Alamosa for said period, upon the terms and conditions provided in
+this Agreement;
+
+         NOW, THEREFORE, in consideration of the premises and mutual covenants
+contained herein and for other good and valuable consideration, the receipt of
+which is mutually acknowledged, Alamosa and Employee (individually a "Party"
+and together the "Parties") agree as follows:
+
+1.       DEFINITIONS.
+
+         (a) "Affiliate" shall have the meaning set forth in Rule 12b-2
+promulgated under Section 12 of the Exchange Act.
+
+         (b) "Base Salary" shall mean the annual salary provided for in
+Section 3 below, as adjusted from time to time by the Board.
+
+         (c) "Beneficial Owner" shall have the meaning set forth in Rule 13d-3
+under the Exchange Act.
+
+         (d) "Beneficiary" shall mean the person or persons named by Employee
+pursuant to Section 22 below or, in the event that no such person is named and
+survives Employee, his estate.
+
+         (e) "Board" shall mean the Board of Directors of Alamosa.
+
+         (f) "Cause" shall mean:
+
+         (i)      Employee's conviction in a court of law of, or guilty plea
+                  or no contest plea to, a felony charge,
+
+         (ii)     willful, substantial and continued failure by Employee to
+                  perform his duties under this Agreement,
+
+         (iii)    willful engagement by Employee in conduct that is
+                  demonstrably and materially injurious to Alamosa,
+
+         (iv)     a breach by Employee of Section 11 or Section 12 below. For
+                  the purposes of clauses (ii) and (iii) of this definition,
+                  no act or failure to act on the part of Employee shall be
+                  deemed "willful" (x) if caused by Disability or (y) unless
+                  done, or omitted to be done, by him not in good faith or
+                  without reasonable belief that his act or omission was in
+                  the best interests of Alamosa.
+
+         (g) "Change of Control" shall be deemed to have occurred if the event
+set forth in any one of the following paragraphs shall have occurred:
+
+         (i)      any Person is or becomes the Beneficial Owner, directly or
+                  indirectly, of securities of Alamosa (not including in the
+                  securities beneficially owned by such Person any securities
+                  acquired directly from Alamosa or its Affiliates)
+                  representing 25% or more of the combined voting power of
+                  Alamosa's then outstanding securities, excluding any Person
+                  who becomes such a Beneficial Owner in connection with a
+                  transaction described in clause (A) of paragraph (iii)
+                  below; or
+
+         (ii)     the following individuals cease for any reason to constitute
+                  a majority of the number of directors then serving:
+                  individuals who, on the date hereof, constitute the Board
+                  and any new director (other than a director whose initial
+                  assumption of office is in connection with an actual or
+                  threatened election contest, including but not limited to a
+                  consent solicitation, relating to the election of directors
+                  of Alamosa) whose appointment or election by the Board or
+                  nomination for election by Alamosa's stockholders was
+                  approved or recommended by a vote of at least two-thirds
+                  (2/3) of the directors then still in office who either were
+                  directors on the date hereof or whose appointment, election
+                  or nomination for election was previously so approved or
+                  recommended; or
+
+         (iii)    there is consummated a merger or consolidation of Alamosa or
+                  any direct or indirect subsidiary of Alamosa with any other
+                  corporation or other entity, other than (A) a merger or
+                  consolidation (1) which results in the voting securities of
+                  Alamosa outstanding immediately prior to such merger or
+                  consolidation continuing to represent (either by remaining
+                  outstanding or by being converted into voting securities of
+                  the surviving entity or any parent thereof) at least 60% of
+                  the combined voting power of the securities of Alamosa or
+                  such surviving entity or any parent thereof outstanding
+                  immediately after such merger or consolidation and (2) after
+                  which the individuals who comprise the Board immediately
+                  prior thereto constitute at least a majority of the board of
+                  directors of Alamosa, the entity surviving such merger or
+                  consolidation or, if Alamosa or the entity surviving such
+                  merger is then a subsidiary, the ultimate parent thereof, or
+                  (B) a merger or consolidation effected to implement a
+                  recapitalization of Alamosa (or similar transaction) in
+                  which no Person is or becomes the Beneficial Owner, directly
+                  or indirectly, of securities of Alamosa (not including in
+                  the securities Beneficially Owned by such Person any
+                  securities acquired directly from Alamosa or its Affiliates)
+                  representing 25% or more of the combined voting power of
+                  Alamosa 's then outstanding securities; or
+
+         (iv)     the stockholders of Alamosa approve a plan of complete
+                  liquidation or dissolution of Alamosa or there is
+                  consummated an agreement for the sale or disposition by
+                  Alamosa of all or substantially all of Alamosa 's assets,
+                  other than a sale or disposition by Alamosa of all or
+                  substantially all of Alamosa's assets immediately following
+                  which the individuals who comprise the Board immediately
+                  prior thereto constitute at least a majority of the board of
+                  directors of the entity to which such assets are sold or
+                  disposed or any parent thereof.
+
+         Notwithstanding the foregoing, a "Change of Control" shall not be
+deemed to have occurred by virtue of the consummation of any transaction or
+series of integrated transactions immediately following which the record
+holders of the common stock of Alamosa immediately prior to such transaction
+or series of transactions continue to have substantially the same
+proportionate ownership in an entity which owns all or substantially all of
+the assets of Alamosa immediately following such transaction or series of
+transactions.
+
+         (h) "Code" shall mean the Internal Revenue Code of 1986, as from time
+to time amended.
+
+         (i) "Committee" shall mean the Compensation Committee of the Board.
+
+         (j) "Date of Termination" shall mean, with respect to any purported
+termination of Employee's employment during the Term, (i) if Employee's
+employment terminates due to Disability, 30 days after a good faith
+determination of Disability by Alamosa (provided that Employee shall not have
+returned to full-time performance of his duties during such 30-day period),
+(ii) if Employee's employment terminates due to death, the date of death, and
+(iii) if Employee's employment terminates for any other reason, the date
+specified in the Notice of Termination (which shall be not less than 30 days
+after the date of such Notice of Termination).
+
+         (k) "Disability" shall have the meaning set forth in Alamosa's
+long-term disability policy as in effect from time to time.
+
+         (l) "Exchange Act" shall mean the Securities Exchange Act of 1934, as
+amended.
+
+         (m) "Excise Tax" shall mean any excise tax imposed under Section 4999
+of the Code.
+
+         (n) "Good Reason" shall mean the occurrence (without Employee's
+express written consent) of any one of the following acts or omissions by
+Alamosa unless, in the case of any act or omission described in this Section
+1(n), such act or omission is corrected prior to the Date of Termination
+specified in the Notice of Termination in respect thereof:
+
+         (i)      the assignment to Employee of any duties inconsistent with
+                  Employee's status as the chief financial officer of Alamosa
+                  or a substantial adverse alteration in the nature of
+                  Employee's authority, duties or responsibilities, or any
+                  other action by Alamosa which results in a diminution in
+                  such status, authority, duties or responsibilities (it being
+                  understood that a mere change in authority, duties or
+                  responsibilities, or any other action by Alamosa will not
+                  constitute Good Reason in and of itself unless it results in
+                  a substantial adverse alteration or diminution of Employee's
+                  authority, duties or responsibilities), excluding for this
+                  purpose an isolated, insubstantial and inadvertent action
+                  not taken in bad faith and which is remedied by Alamosa
+                  promptly after receipt of notice thereof given by Employee;
+
+         (ii)     subject to its obligations to stockholders, the failure by
+                  Alamosa to ensure Employee's continued service as a member
+                  of the Board;
+
+         (iii)    a reduction by Alamosa in Employee's base salary and/or
+                  annual bonus opportunity as in effect on the date hereof or
+                  as the same may be increased from time to time, except for
+                  across-the-board reductions similarly affecting all senior
+                  executives of Alamosa;
+
+         (iv)     the failure by Alamosa to pay to Employee any portion of
+                  Employee's current compensation except pursuant to an
+                  across-the-board compensation deferral similarly affecting
+                  all senior executives of Alamosa;
+
+         (v)      the failure by Alamosa to continue to provide Employee with
+                  benefits substantially similar to those enjoyed by Employee
+                  under any of Alamosa's savings/retirement, life insurance,
+                  medical, health and accident, disability plans or other
+                  benefits (including, without limitation, automobile, country
+                  club, and vacation benefits) in which Employee was
+                  participating at the time, the taking of any action by
+                  Alamosa which would directly or indirectly materially reduce
+                  any of such benefits or deprive Employee of any material
+                  fringe benefit enjoyed by Employee at the time, (including,
+                  without limitation, automobile, country club, and vacation
+                  benefits);
+
+         (vi)     the relocation of Alamosa's principal offices to a location
+                  more than 50 miles from the location of such offices on the
+                  date of this Agreement or a requirement that Employee be
+                  based anywhere other than at Alamosa's principal offices
+                  except for necessary travel on Alamosa's business to an
+                  extent substantially consistent with Employee's business
+                  travel obligations on the date of this Agreement;
+
+         (vii)    the failure by Alamosa to ensure that Employee will be
+                  employed by the ultimate parent of Alamosa in the event of
+                  any corporate transaction;
+
+         (viii)   a dispute between Alamosa and Employee over material
+                  accounting issues; provided, however, any such dispute shall
+                  not constitute Good Reason if Alamosa, at its own expense,
+                  elects to have a nationally recognized public accounting
+                  firm resolve the accounting issue dispute and such
+                  accounting firm substantially agrees with Alamosa's position
+                  regarding such accounting issue;
+
+         (ix)     termination of Employee's employment by Employee at any time
+                  more than twelve months after the date of termination of
+                  David Sharbutt's employment; provided Employee, within sixty
+                  (60) days of the date of Mr. Sharbutt's termination of
+                  employment, notifies Alamosa in writing of his intention to
+                  terminate employment; or
+
+         (x)      any determination by Employee after the occurrence of a
+                  Change of Control that Good Reason exists (which
+                  determination shall be final and conclusive).
+
+         (o) "LSAR" means Employee's right to receive a cash payment in
+respect of the mandatory cancellation of an option equal to the product of (1)
+the excess, if any, of the then fair market value (as determined under the
+LTIP) of a share of Alamosa common stock over the per share exercise price of
+the option and (2) the number of shares of stock subject to the option.
+
+         (p) "LTIP" means Alamosa's Amended and Restated 1999 Long Term
+Incentive Plan, or any successor plan thereto, or any amendment thereof.
+
+         (q) "Notice of Termination" shall mean delivery of written notice by
+one Party and receipt thereof by the other Party in accordance with Section 26
+below, which notice shall indicate the specific termination provision in this
+Agreement relied upon and shall set forth in reasonable detail the facts and
+circumstances claimed to provide a basis for termination of Employee's
+employment hereunder.
+
+         (r) "Person" shall have the meaning given in Section 3(a)(9) of the
+Exchange Act, as modified and used in Sections 13(d) and 14(d) thereof, except
+that such term shall not include (i) Alamosa or any of its subsidiaries, (ii)
+a trustee or other fiduciary holding securities under an employee benefit plan
+of Alamosa or any of its Affiliates, (iii) an underwriter temporarily holding
+securities pursuant to an offering of such securities, or (iv) a corporation
+owned, directly or indirectly, by the stockholders of Alamosa in substantially
+the same proportions as their ownership of stock of Alamosa.
+
+         (s) "Severance Payments" shall have the meaning set forth in Section
+9(d)(ii) below.
+
+         (t) "Tax Counsel" shall have the meaning set forth in Section 10
+below.
+
+         (u) "Term" shall mean the period specified in Section 2(b) below
+during which Employee is employed by Alamosa or any of its Affiliates.
+
+         (v) "Total Payments" shall mean those payments so described in
+Section 10 below.
+
+2.       TERM OF EMPLOYMENT, POSITIONS AND DUTIES.
+
+         (a) Employment of Employee. Alamosa hereby employs Employee, and
+Employee hereby accepts employment with Alamosa, in the position and with the
+duties and responsibilities set forth below and upon such other terms and
+conditions as are hereinafter stated.
+
+         (b) Term of Employment. The Term shall commence on the date of this
+Agreement and shall terminate on December 31, 2006, unless it is sooner
+terminated as provided in Section 9 below or extended by agreement of the
+Parties.
+
+         (c) Title, Duties and Authorities. Until termination of his
+employment hereunder, Employee shall be employed as Chief Financial Officer of
+Alamosa, with all the authorities and responsibilities that normally accrue to
+such position of chief financial officer, and shall hold such other titles as
+the Board may grant. Employee shall receive no additional compensation for
+serving in any other capacity.
+
+         (d) Time and Effort.
+
+         (i)      Employee agrees to devote his best efforts and abilities and
+                  his full business time and attention to the affairs of
+                  Alamosa in order to carry out his duties and
+                  responsibilities under this Agreement.
+
+         (ii)     Notwithstanding the foregoing, nothing shall preclude
+                  Employee from
+
+                  (A)      serving on the boards of (x) a reasonable number of
+                           trade associations and charitable organizations,
+                           and (y) (as defined below) with the prior consent
+                           of the Board (which shall not be unreasonably
+                           withheld), any other business not in Competition
+                           with Alamosa,
+
+                  (B)      engaging in charitable activities and community
+                           affairs, and
+
+                  (C)      managing his personal investments and affairs;
+                           provided, however, that any such activities do not
+                           materially interfere with the proper performance of
+                           his duties and responsibilities specified in
+                           Section 2(c) above.
+
+3.       BASE SALARY.
+
+         Employee shall receive from Alamosa an initial Base Salary, payable
+in accordance with the regular payroll practices of Alamosa, of $400,000.00.
+During the Term, the Board shall review the Base Salary for increase no less
+often than annually.
+
+4.       ANNUAL BONUS.
+
+         Employee shall be eligible to receive an annual bonus, which shall
+have an initial target of $280,000.00. Payment of the annual bonus (which may,
+in the Committee's discretion, be paid in whole or in part on a quarterly
+basis) shall be based upon the achievement of such performance goals as the
+Committee shall determine based on Alamosa's budget and business plan. No
+annual bonus will be payable unless the Committee determines that at least 75%
+of the performance goals have been achieved. The amount of the annual bonus
+payable shall be determined in accordance with the terms of the applicable
+Alamosa bonus plan, but in no case shall exceed 200% of the target for the
+annual bonus.
+
+5.       LONG-TERM INCENTIVE COMPENSATION.
+
+         During the Term, Employee shall participate in any long-term
+incentive plan or plans that may be established by Alamosa for members of
+Alamosa's senior management generally.
+
+6.       EQUITY GRANTS.
+
+         (a) Annual Option Grants. On the first business day of January of
+each year, the Committee shall grant Employee options, according to the
+following schedule: 2005 - 50,000 options, 2006 - 40,000 options (each an
+"Option"). With respect to each Option, three percent (3%) of the total number
+of shares subject to such Option shall become vested and fully exercisable
+each month following the date of the grant of such Option. All shares subject
+to each Option will vest and become vested and exercisable if Employee's
+employment terminates pursuant to Section 9(d) below. Each Option shall have a
+per share exercise price equal to the fair market value (as defined in the
+LTIP) of a share of Alamosa common stock on the date of grant.
+
+         (b) Incentive Stock Options. All stock options to be granted to
+Employee hereunder shall, to the maximum extent permitted by Section 422 of
+the Code, be intended to qualify as "incentive stock options."
+
+         (c) Employment Required; Other Option Terms. In order to receive any
+Option pursuant to this Section 6, Employee must be employed by Alamosa or one
+of its Affiliates on the date of grant and any Option granted pursuant to this
+Section 6 shall be subject to the terms and conditions of the form of Alamosa
+Executive Stock Option Agreement under the LTIP to the extent such agreement
+is not inconsistent with this Section 6. In addition, except as otherwise
+provided herein or in the Executive Stock Option Agreement, option vesting
+will be subject to Employee's continued employment hereunder.
+
+         (d) Restricted Stock Grant. On the first business day of January of
+each year, the Committee shall grant (subject to the terms of the LTIP and the
+specific terms of a restricted stock agreement substantially in the form
+attached hereto as Exhibit A) Employee shares of restricted stock pursuant to
+the following schedule: 2005 - 50,000 shares, 2006 -40,000 shares.
+
+         (e) LSAR Conversion. Employee acknowledges that immediately prior to
+the occurrence of a "change in ownership or control" (as defined in Prop Reg
+1.280G-1) of Alamosa, each Option that had not yet become vested and
+exercisable shall automatically convert into an LSAR.
+
+7.       EXPENSE REIMBURSEMENT.
+
+         Employee shall be entitled to prompt reimbursement by Alamosa for all
+reasonable out-of-pocket expenses incurred by him during the Term in
+performing services under this Agreement, upon his submission of such accounts
+and records as may be reasonably required by Alamosa.
+
+8.       EMPLOYEE BENEFIT PLANS AND PERQUISITES.
+
+         During the Term, Employee shall be entitled to participate in all
+life insurance, short-term and long-term disability, accident, health
+insurance and savings/retirement plans that are applicable to Alamosa
+employees generally or to the senior executives of Alamosa. Alamosa will also
+reimburse Employee for the cost of the Employee's annual physical exams
+performed during the Term by a physician chosen by Employee. The cost of each
+such exam (including of any tests performed in connection with the physical)
+shall not exceed $5,000.
+
+         In addition, Alamosa will provide at least $5,000,000 term life
+insurance on the life of Employee during the Term. Alamosa shall pay for all
+costs attributable to such coverage. Such life insurance shall be at least ten
+(10) year level premium term life insurance on the life of Employee. Employee
+shall have the right to designate the beneficiary of such policy or policies.
+Should Employee not be insurable, there will be no obligation upon Alamosa to
+provide such life insurance. If Employee's employment terminates during the
+Term of this Agreement or at the termination of Employee's employment pursuant
+to this Agreement, Employee may assume the premium obligations of this policy
+after termination of any continuing coverage provided under Section
+9(d)(ii)(D), in which event Alamosa shall assign all its rights in the policy
+to Employee. In the event Employee desires to assume the premium obligations
+under this policy and at the time of Employee's termination of employment, or
+end of any continuing coverage under Section 9(d)(ii)(D) if later, Alamosa has
+prepaid any premiums on the policy, Employee shall pay to Alamosa the amount
+of any prepayment attributable to any period of coverage after Employee's
+termination of employment, or if later, after the continued coverage period
+required under Section 9(d)(ii)(D) has elapsed.
+
+         Alamosa will reimburse Employee for the cost of professional services
+in the area of financial planning, estate planning and tax planning that are
+incurred during the Term up to an aggregate maximum of $10,000 per annum.
+During the Term, Employee shall be entitled to receive a car allowance and
+reimbursement for club dues and other perquisites consistent with the
+Executive Benefit Policy approved by the Committee.
+
+9.       TERMINATION OF EMPLOYMENT.
+
+         (a) General. Notwithstanding anything to the contrary herein, in the
+event of termination of Employee's employment under this Agreement for any
+reason whatsoever, he, his dependents or Beneficiary, as may be the case,
+shall be entitled to receive (in addition to payments and benefits under, and
+except as specifically provided in, subsections (b) through (e) below as
+applicable):
+
+         (i)      his Base Salary through the Date of Termination;
+
+         (ii)     payment in lieu of any unused vacation, in accordance with
+                  Alamosa's vacation policy and applicable laws:
+
+         (iii)    any earned annual bonus not yet paid to him;
+
+         (iv)     any deferred compensation under any deferred compensation
+                  agreement or plan then in effect;
+
+         (v)      any other compensation or benefits, including without
+                  limitation long-term incentive compensation described in
+                  Section 5 above, in accordance with Section 6 above and
+                  employee benefits under plans described in Section 8 above,
+                  that have vested through the Date of Termination or to which
+                  he may then be entitled in accordance with the applicable
+                  terms of each award or plan; and
+
+         (vi)     reimbursement in accordance with Section 7 above of any
+                  business expenses incurred by Employee through the Date of
+                  Termination but not yet paid to him and reimbursement of any
+                  unpaid expenses incurred pursuant to Section 8 above.
+
+         (b) Termination due to Death or Disability. In the event that
+Employee's employment terminates due to his death or disability, he or his
+Beneficiary, as the case may be, shall be entitled, in addition to the
+compensation and benefits specified in Section 9(a), to:
+
+         (i)      his Base Salary, at the rate in effect on the Date of
+                  Termination, through the end of the month in which the
+                  termination occurs, and
+
+         (ii)     an annual bonus under Alamosa's annual bonus plan. Such
+                  annual bonus shall be prorated to the Date of Termination
+                  and shall be paid based on the Board's determination (which
+                  shall be made in the Board's sole and absolute discretion)
+                  of what annual bonus Employee would likely have received in
+                  respect of the year in which the termination occurred.
+
+         (c) Termination by Alamosa for Cause. In the event that Alamosa
+terminates Employee's employment for Cause, he shall be entitled only to the
+compensation and benefits specified in Section 9(a).
+
+         Notwithstanding the foregoing, termination for Cause may not occur
+pursuant to clauses (ii) or (iii) of Section 1(g) above unless and until, with
+the Board's prior approval, Alamosa has delivered to Employee Notice of
+Termination, which shall contain in reasonable detail the facts purporting to
+constitute such nonperformance, act, omission or breach, and afforded him 30
+days thereafter to cure the same (if curable) and/or to respond in writing to
+the Board setting forth his position that his termination for Cause should not
+occur and requesting reconsideration by the Board, in which event (x) the
+effective date of termination of employment shall be deferred until the Board
+has had the opportunity to consider whether such nonperformance, act, omission
+or breach has been cured and to consider any request by Employee for
+reconsideration, and (y) the Board shall thereafter cause a written notice to
+be delivered on its behalf to Employee stating either that it has rescinded
+its determination that his employment is to be terminated for Cause or that
+affirms its determination that his employment is to be terminated for Cause
+and that contains an effective date of termination of employment, which shall
+be not earlier than 15 days after such notice is given. Section 1(n)(i) to the
+contrary notwithstanding, upon delivery to Employee of Notice of Termination
+under this Section 9(c), Employee shall be suspended from all duties and
+responsibilities unless and until the Board rescinds its determination that
+his employment is to be terminated for Cause.
+
+         (d) Termination by Alamosa Without Cause or by Employee for Good
+Reason.
+
+         (i)      Alamosa shall provide Employee 30 days' Notice of
+                  Termination of his employment without Cause, and Employee
+                  shall provide 30 days' Notice of Termination of his
+                  employment for Good Reason.
+
+         (ii)     In the event of termination by Alamosa of Employee's
+                  employment without Cause or of termination by Employee of
+                  his employment for Good Reason, he shall be entitled, in
+                  addition to the compensation and benefits specified in
+                  Section 9(a), to the following compensation and benefits
+                  (the "Severance Payments"):
+
+                  (A)      his Base Salary, at the rate in effect immediately
+                           before such termination (three times his Base
+                           Salary if the Employee's employment terminates
+                           within twelve months following a Change in
+                           Control),
+
+                  (B)      the higher of the Employee's target annual bonus or
+                           average annual bonus earned over the two preceding
+                           fiscal years (three times such amount if the
+                           Employee's employment terminates within twelve
+                           months following a Change in Control),
+
+                  (C)      a prorated amount of Employee's annual bonus for
+                           the year during which his termination occurs, which
+                           bonus shall not be less than the product of (A) the
+                           annual bonus paid to Employee for the calendar year
+                           preceding the Date of Termination that has most
+                           recently been paid to Employee and (B) a fraction,
+                           the numerator of which is the number of days in the
+                           current calendar year through the Date of
+                           Termination and the denominator of which is 365;
+
+                  (D)      continuing coverage under the life, disability,
+                           accident and health insurance programs for Alamosa
+                           employees generally and under any supplemental
+                           programs covering Alamosa executives, as from time
+                           to time in effect, for a one-year period from such
+                           termination or until Employee becomes eligible for
+                           substantially similar coverage under the employee
+                           welfare plans of a new employer, whichever occurs
+                           earlier (for a two year period if the Employee's
+                           employment terminates within twelve months
+                           following a Change in Control) (at the end of the
+                           foregoing coverage period, Employee shall also be
+                           entitled to elect coverage under the Consolidated
+                           Omnibus Budget Reconciliation Act of 1985); and
+
+                  (E)      continuation of all other benefits in effect on the
+                           Date of Termination (including, without limitation,
+                           automobile, country club, vacation and pension
+                           benefits, if applicable) for a one-year period (a
+                           two year period if the Employee's employment
+                           terminates within twelve months following a Change
+                           in Control) following such termination or until
+                           Employee becomes eligible for substantially similar
+                           benefits from a new employer, whichever occurs
+                           earlier.
+
+         (iii)    The payments specified in Sections 9(d)(ii)(A), (B) and (C)
+                  shall be made by Alamosa to Employee in a lump sum in cash
+                  within 30 days of the Date of Termination.
+
+         (iv)     Employee's right to terminate his employment for Good Reason
+                  shall not be affected by his incapacity due to physical or
+                  mental illness. Employee's continued employment shall not
+                  constitute consent to, or a waiver of rights with respect
+                  to, any act or omission constituting Good Reason.
+
+         (v)      As a condition to receiving the payments and benefits
+                  pursuant to this Section 9(d), Employee shall be required to
+                  execute (and not revoke) a general release of all claims
+                  against Alamosa and its Affiliates. Such release shall be in
+                  a form substantially similar to that attached as Exhibit B
+                  hereto.
+
+         (e) Voluntary Termination by Employee. Employee shall have the right
+voluntarily to terminate his employment in accordance with Section 1(j) above.
+If he does so, he shall be entitled only to the compensation and benefits
+specified in Section 9(a).
+
+         (f) Cessation of Payments. If, during or after the Term, Employee
+commits a breach of Section 11 or Section 12 below, Alamosa shall have no
+further obligation to make payments to him under this Agreement except as may
+be required in accordance with Section 9(a).
+
+         (g) Resignation from Board. In the event of termination of Employee's
+employment under this Agreement for any reason whatsoever, Employee agrees
+that he will resign from his service as a member of the Board effective as of
+his Date of Termination.
+
+         (h) Notice Requirements. Any purported termination of Employee's
+employment that is not effected pursuant to Notice of Termination satisfying
+the requirements of Sections 1(j) and 1(q) and Section 26 shall not be
+effective for purposes of this Agreement.
+
+10.      280G TREATMENT.
+
+         (a) Whether or not Employee becomes entitled to any payments pursuant
+to Section 9(d) hereof, if any of the payments or benefits received or to be
+received by Employee (whether pursuant to the terms of this Agreement or any
+other plan, arrangement or agreement with the Company, any Person whose
+actions result in a Change of Control or any Person affiliated with Alamosa or
+such Person) (all such payments and benefits, excluding the Gross-Up Payment,
+being hereinafter referred to as the "Total Payments") will be subject to the
+Excise Tax, Alamosa shall pay to Employee an additional amount (the "Gross-Up
+Payment") such that the net amount retained by Employee, after deduction of
+any Excise Tax on the Total Payments and any federal, state and local income
+and employment taxes and Excise Tax upon the Gross-Up Payment, shall be equal
+to the Total Payments. The Gross-Up Payment shall be paid to Employee by
+Alamosa within two business days of the day of its calculation.
+
+         (b) For purposes of determining whether any of the Total Payments
+will be subject to the Excise Tax and the amount of such Excise Tax, (i) all
+of the Total Payments shall be treated as "parachute payments" (within the
+meaning of Section 280G(b)(2) of the Code) unless, in the opinion of tax
+counsel ("Tax Counsel") reasonably acceptable to Employee, such payments or
+benefits (in whole or in part) do not constitute parachute payments, including
+by reason of Section 280G(b)(4)(A) of the Code, (ii) all "excess parachute
+payments" within the meaning of Section 280G(b)(l) of the Code shall be
+treated as subject to the Excise Tax unless, in the opinion of Tax Counsel,
+such excess parachute payments (in whole or in part) represent reasonable
+compensation for services actually rendered (within the meaning of Section
+280G(b)(4)(B) of the Code) in excess of the base amount (as defined in Section
+280G(b)(3) of the Code) allocable to such reasonable compensation, or are
+otherwise not subject to the Excise Tax, and (iii) the value of any noncash
+benefits or any deferred payment or benefit shall be determined in accordance
+with the principles of Sections 280G(d)(3) and (4) of the Code. For purposes
+of determining the amount of the Gross-Up Payment, Employee shall be deemed to
+pay federal income tax at the highest marginal rate of federal income taxation
+in the calendar year in which the Gross-Up Payment is to be made and state and
+local income taxes at the highest marginal rate of taxation in the state and
+locality of Employee's residence on the date Employee's employment hereunder
+terminates (or if there is no such termination, then the date on which the
+Gross-Up Payment is calculated for purposes of this Section 10), net of the
+maximum reduction in federal income taxes which could be obtained from
+deduction of such state and local taxes.
+
+         (c) In the event that the Excise Tax is finally determined to be less
+than the amount taken into account hereunder in calculating the Gross-Up
+Payment, Employee shall repay to Alamosa, within five (5) business days
+following the time that the amount of such reduction in the Excise Tax is
+finally determined, the portion of the Gross-Up Payment attributable to such
+reduction plus that portion of the Gross-Up Payment attributable to the Excise
+Tax and federal, state and local income and employment taxes imposed on the
+Gross-Up Payment being repaid by Employee, to the extent that such repayment
+results in a reduction in the Excise Tax and a dollar-for-dollar reduction in
+Employee's taxable income and wages for purposes of federal, state and local
+income and employment taxes, plus interest on the amount of such repayment at
+120% of the rate provided in Section 1274(b)(2)(B) of the Code. In the event
+that the Excise Tax is determined to exceed the amount taken into account
+hereunder in calculating the Gross-Up Payment (including by reason of any
+payment the existence or amount of which cannot be determined at the time of
+the Gross-Up Payment), Alamosa shall make an additional Gross-Up Payment in
+respect of such excess (plus any interest, penalties or additions payable by
+Employee with respect to such excess) within five (5) business days following
+the time that the amount of such excess is finally determined. Employee and
+Alamosa shall each reasonably cooperate with the other in connection with any
+administrative or judicial proceedings concerning the existence or amount of
+liability for Excise Tax with respect to the Total Payments.
+
+         (d) Notwithstanding the foregoing provisions of this Section 10, if
+it shall be determined that Employee is entitled to a Gross-Up Payment, but
+the Total Payments do not exceed 115% of the greatest amount (the "Reduced
+Amount") that could be paid to Employee such that the receipt of Total
+Payments would not give rise to any Excise Tax, then no Gross-Up Payment shall
+be made to Employee and the Total Payments, in the aggregate, shall be reduced
+to the Reduced Amount. If a reduction is required, Employee and Alamosa shall
+determine, after consultation, which payments and or benefits shall be waived,
+reduced or forfeited to accomplish the reduction.
+
+         (e) Upon Employee's request, Alamosa shall provide Employee with a
+written statement setting forth the manner in which calculations were made
+pursuant to this Section 10 including, without limitation, any opinions or
+other advice Alamosa has received from Tax Counsel or other advisors or
+consultants (and any such opinions or advice which are in writing shall be
+attached to the statement).
+
+11.      NON-COMPETITION/NON-SOLICITATION.
+
+         (a) During Employee's employment with Alamosa, Employee shall not
+engage in "Competition" with Alamosa or any Affiliate (collectively, the
+"Company Group"). For purposes of this Agreement, Competition by Employee
+shall mean Employee's engaging in, or otherwise directly or indirectly being
+employed by or acting as a consultant or lender to, or being an agent,
+principal, owner, partner, corporate officer, director, shareholder, member,
+or investor of, or permitting his name to be used in connection with the
+activities of any other business or organization anywhere in the United States
+which competes with the Business of any entity in the Company Group. For these
+purposes, the "Business" is establishing and providing mobile wireless
+communications services, including all aspects of the Business, within the
+"Service Area" as that term is defined in the Schedule of Definitions referred
+to in and incorporated by reference into the Sprint PCS Management Agreements
+dated as of July 10, 1998, December 8, 1998, January 25, 1999, December 6,
+1999 and December 23, 1999 (as they may be amended from time to time) or any
+other similar Sprint Management Agreement to which Alamosa or any of its
+Affiliates may be a party ("the Sprint Agreement"); provided that; it shall
+not be a violation of this sub-paragraph for Employee to become the registered
+or beneficial owner of up to five percent (5%) of any class of the capital
+stock of a competing corporation registered under the Securities Exchange Act
+of 1934, as amended, provided the Employee does not actively participate in
+the business of such corporation until such time as this covenant expires.
+
+         (b) For a period of one year following the termination of Employee's
+employment (two years if Employee's employment terminates under Section 9(d)
+during the Term and within twelve months following a Change of Control),
+whether upon expiration of this Agreement or otherwise, Employee shall not
+engage in Competition, as defined above, in the Service Area or in any area in
+which Alamosa had, as of the date of the expiration of termination of this
+Agreement, a bona fide intention to begin to operate its Business; provided
+that, it shall not be a violation of this sub-paragraph for Employee to (1)
+become the registered or beneficial owner of up to five percent (5%) of any
+class of the capital stock of a competing corporation registered under the
+Securities Exchange Act of 1934, as amended, provided Employee does not
+actively participate in the business of such corporation until such time as
+this covenant expires, (2) commence employment with an employer or provide
+services to an entity who conducts the Business in one or more areas within
+the Service Area so long as such areas do not contain more than 25% of
+Alamosa's subscribers and Employee's services do not primarily relate to the
+Service Area or (3) commence employment with or provide services to a national
+carrier of the Business (e.g., Verizon or AT&T) if Employee's services do not
+primarily relate to the Service Area. Notwithstanding anything to the
+foregoing, it shall not be a violation of this sub-paragraph for an Employee
+to commence employment or provide consulting services to an entity that
+derives more than 80% of its revenues from cellular communications services.
+
+         (c) For a period of one year (two years if Employee's employment
+terminates under Section 9(d) during the Term and within twelve months
+following a Change of Control) after Employee ceases to be employed hereunder,
+whether upon expiration of this Agreement or otherwise, Employee agrees that
+he will not, directly or indirectly, for his benefit or for the benefit of any
+other person, firm or entity, do any of the following:
+
+         (i)      recruit or solicit (other than pursuant to general,
+                  non-targeted advertisements) the employment or services of,
+                  or hire, in any business enterprise or activity, any person
+                  who was employed by an entity in the Company Group upon
+                  termination of Employee's employment, or within six (6)
+                  months prior thereto;
+
+         (ii)     solicit from any customer or client doing business with an
+                  entity in the Company Group as of Employee's termination,
+                  business of the same or a similar nature to the business of
+                  such entity of the Company Group with such customer or
+                  client;
+
+         (iii)    solicit from any potential customer of an entity in the
+                  Company Group business of the same or a similar nature to
+                  that which has been the subject of a written or oral bid,
+                  offer or proposal by such entity of the Company Group, or of
+                  substantial preparation with a view to making such a bid,
+                  offer or proposal, within six (6) months prior to Employee's
+                  termination; or
+
+         (iv)     otherwise knowingly interfere with the business or accounts
+                  of any entity in the Company Group.
+
+         (d) Employee acknowledges that the services to be rendered by him
+hereunder are of a special and unique character, which gives this Agreement a
+peculiar value to Alamosa, the loss of which may not be reasonably or
+adequately compensated for by damages in an action at law, and that a breach
+or threatened breach by his of any of the provisions contained in this Section
+11 will cause the Company irreparable injury. Employee therefore agrees that
+in the event of a violation or threatened violation of any of the provisions
+contained in this Section 11, Alamosa or any of its Affiliates shall be
+entitled, in addition to any other right or remedy, to a temporary,
+preliminary and permanent injunction, without the necessity of proving the
+inadequacy of monetary damages or the posting of any bond or security,
+enjoining or restraining Employee from any such violation or threatened
+violations.
+
+         (e) Employee further agrees that due to the confidential nature of
+the information he will possess, the covenants set forth herein are reasonable
+and necessary for the protection of the goodwill or other business interest of
+the Company Group.
+
+         (f) Employee agrees that if a court of competent jurisdiction
+determines that the length of time or any other restriction, or portion
+thereof, set forth in this Section 11 is overly restrictive and unenforceable,
+the court may reduce or modify such restrictions to those which it deems
+reasonable and enforceable under the circumstances, and as so reduced or
+modified, the parties hereto agree that the restrictions of this Section 11
+shall remain in full force and effect. Employee further agrees that if a court
+of competent jurisdiction determines that any provision of this Section 11 is
+invalid or against public policy, the remaining provisions of this Section 11
+and the remainder of this Agreement shall not be affected thereby, and shall
+remain in full force and effect.
+
+12.      CONFIDENTIAL INFORMATION.
+
+         Employee recognizes and acknowledges that he will have access to
+certain information of members of the Company Group and that such information
+is confidential and constitutes valuable, special and unique property of such
+members of the Company Group. The Parties agree that Alamosa has a legitimate
+interest in protecting the Confidential Information, as defined below, and is
+entitled to protection of its interests in the Confidential Information.
+Employee shall not at any time, either during or subsequent to the Term,
+disclose to others, use, copy or permit to be copied, except in pursuance of
+his duties for or on behalf of Alamosa, any Confidential Information of any
+member of the Company Group (regardless of whether developed by Employee)
+without the prior written consent of Alamosa. Employee acknowledges that the
+use or disclosure of the Confidential Information to anyone or any third party
+could cause monetary loss and damages to Alamosa. The Parties further agree
+that in the event of a violation of this covenant against non-use and
+non-disclosure of Confidential Information, Alamosa shall be entitled to a
+recovery of damages from Employee and/or an injunction against Employee for
+the breach or violation or continued breach or violation of this covenant.
+
+         The term "Confidential Information" with respect to any person means
+any secret or confidential information or know-how and shall include, but
+shall not be limited to, the plans, financial and operating information,
+customers, supplier arrangements, contracts, costs, prices, uses, and
+applications of products and services, results of investigations, studies or
+experiments owned or used by such person, and all apparatus, products,
+processes, compositions, samples, formulas, computer programs, computer
+hardware designs, computer firmware designs, and servicing, marketing or
+manufacturing methods and techniques at any time used, developed,
+investigated, made or sold by such person, before or during the term of this
+Agreement, that are not readily available to the public or that are maintained
+as confidential by such person. The Employee shall maintain in confidence any
+Confidential Information of third parties received as a result of his
+employment with the Company in accordance with the Company's obligations to
+such third parties and the policies established by the Company.
+
+13.      DELIVERY OF DOCUMENTS UPON TERMINATION.
+
+         Employee shall deliver to Alamosa or its designee at the termination
+of his employment all correspondence, memoranda, notes, records, drawings,
+sketches, plans, customer lists, product compositions, and other documents and
+all copies thereof, made, composed or received by Employee, solely or jointly
+with others, that are in Employee's possession, custody, or control at
+termination and that are related in any manner to the past, present, or
+anticipated business or any member of the Company Group. In this regard,
+Employee hereby grants and conveys to Alamosa all right, title and interest in
+and to, including without limitation, the right to possess, print, copy, and
+sell or otherwise dispose of, any reports, records, papers, summaries,
+photographs, drawings or other documents, and writings, and copies, abstracts
+or summaries thereof, that may be prepared by the Employee or under his
+direction or that may come into his possession in any way during the term of
+employment with Alamosa that relate in any manner to the past, present or
+anticipated business of any member of the Company Group.
+
+14.      DISPUTES.
+
+         The Parties agree to the following in regard to any disputes between
+them arising under any of the provisions of this Agreement other than the
+provisions of Sections 11 through 13 hereof. Nothing in this Section 14
+applies to or governs disputes arising under Sections 11 through 13 of this
+Agreement.
+
+         (a) MEDIATION. The Parties agree to mediate any dispute arising under
+the applicable provisions of this Agreement. In the event of any such dispute,
+the parties, within thirty (30) days of a written request for mediation, shall
+attend, in good faith, a mediation in order to make a good faith reasonable
+effort to resolve such dispute arising under this Agreement. The Parties shall
+attempt, in good faith, to agree to a mediator. If unable to so agree, the
+Parties, in that event, will move to arbitration as provided in this Agreement
+and there will be no mediation. If this good faith mediation effort fails to
+resolve any dispute arising under this Agreement, the Parties agree to
+arbitrate any dispute arising under this Agreement. This arbitration shall
+occur only after the mediation process described herein.
+
+         (b) ARBITRATION. The Parties agree, on the advice of their counsel,
+and as evidenced by the signatures of the Parties and of their respective
+attorneys, that all questions as to rights and obligations arising under the
+terms of this Agreement are subject to arbitration and such arbitration shall
+be governed by the provisions of the Texas General Arbitration Act (Texas
+Civil Practice and Remedies Code Section 171.001 et seq as it may be amended
+from time to time).
+
+         (c) DEMAND FOR ARBITRATION. If a dispute should arise under this
+Agreement, either Party may within thirty (30) days make a demand for
+arbitration by filing a demand in writing with the other.
+
+         (d) APPOINTMENT OF ARBITRATORS. The Parties to this Agreement may
+agree on one arbitrator, but in the event that they cannot so agree, there
+shall be three arbitrators, one named in writing by each of the Parties within
+thirty (30) days after demand for arbitration is made, and a third to be
+chosen by the two so named. The arbitrators among themselves shall appoint a
+presiding arbitrator. Should either Party fail to timely join in the
+appointment of the arbitrators, the arbitrators shall be appointed in
+accordance with the provisions of Texas Civil Practice and Remedies Code
+Section 171.041.
+
+         (e) HEARING. All arbitration hearings conducted under the terms of
+this Agreement, and all judicial proceedings to enforce any of the provisions
+of this Agreement, shall take place in Lubbock County, Texas. The hearing
+before the arbitrators of the matter to be arbitrated shall be at the time and
+place within that County selected by the arbitrators or if deemed by the
+arbitrators to be more convenient for the parties or more economically
+feasible, may be conducted in any city within the Service Area or within the
+State of Texas.
+
+         (f) ARBITRATION AWARD. If there is only one arbitrator, his or her
+decision shall be binding and conclusive. Similarly, a decision by a panel of
+arbitrators shall also be binding and conclusive. The submission of a dispute
+to the arbitrators and the rendering of their decision shall be a condition
+precedent to any right of legal action on the dispute. A judgment confirming
+the award of the arbitrators may be rendered by any court having jurisdiction;
+or the court may vacate, modify, or correct the award in accordance with the
+provisions of the Texas General Arbitration Act (Texas Civil Practice and
+Remedies Code ss. 171.087 et seq as it may be amended from time to time).
+
+         (g) COSTS OF ARBITRATION. The costs and expenses of arbitration,
+including the fees of the arbitrators but excluding any attorneys' fees, shall
+be advanced by Alamosa, but will ultimately be borne by the losing party or in
+such proportions as the arbitrators shall determine.
+
+         (h) CONDUCT OF ARBITRATION. Any arbitration brought under the terms
+of this Agreement shall be conducted in the following manner:
+
+         (i)      Time Limitations. The Parties agree that the following time
+                  limitations shall govern the arbitration proceedings
+                  conducted under the terms of this Agreement:
+
+                  (A)      Any demand for arbitration must be filed within
+                           thirty (30) days of the date the mediation is
+                           deemed unsuccessful, or thirty (30) days after the
+                           date of the written request for mediation,
+                           whichever is later.
+
+                  (B)      Each Party must select an arbitrator within thirty
+                           (30) days of receipt of notice that an arbitration
+                           proceeding has commenced. In the event that no such
+                           selection is made, the arbitrator selected by the
+                           other party may conduct the arbitration proceeding
+                           without selecting any other arbitrator.
+
+                  (C)      The hearing must be held within sixty (60) days of
+                           the date on which the third arbitrator is selected.
+
+                  (D)      Hearing briefs must be submitted no later than ten
+                           (10) days after the hearing.
+
+                  (E)      The arbitration award must be made within thirty
+                           (30) days of the receipt of hearing briefs.
+
+         (ii)     Discovery in Arbitration Proceedings. The Parties agree that
+                  discovery may be conducted in the course of the arbitration
+                  proceeding in accordance with the following provisions:
+
+                  (A)      Each Party may notice no more than three (3)
+                           depositions in total, including both witnesses
+                           adherent to the adverse Party and third-party
+                           witnesses.
+
+                  (B)      Each Party may serve no more than twenty-five (25)
+                           requests for admission on the other party. No
+                           requests may be served within ten (10) days of the
+                           date of hearing, unless the parties otherwise
+                           stipulate. All requests for admission shall be
+                           responded to within ten (10) days of service of the
+                           requests, unless the Parties otherwise stipulate.
+
+                  (C)      Each Party may serve no more than fifty (50)
+                           interrogatories on the other Party. No
+                           interrogatory shall contain subparts, or concern
+                           more than one topic or subject of inquiry.
+                           Interrogatories may not be phrased so as to
+                           circumvent the effect of this clause. No
+                           interrogatories may be served within ten (10) days
+                           of the date of hearing, unless the parties
+                           otherwise stipulate. All interrogatories shall be
+                           responded to within ten (10) days of service of the
+                           interrogatories, unless the Parties otherwise
+                           stipulate.
+
+                  (D)      Each Party may serve no more than ten (10) requests
+                           for production of documents on the other Party. No
+                           request for production of documents shall contain
+                           subparts, or seek more than one type of document.
+                           Requests for production of documents may not be
+                           phrased so as to circumvent the effect of this
+                           clause. Unless the Parties otherwise stipulate,
+                           requests for production of documents may not be
+                           served within ten (10) day of the date of hearing,
+                           and all requests for production of documents shall
+                           be responded to within ten (10) days of service of
+                           the requests.
+
+                  (E)      If any Party contends that the other Party has
+                           served discovery requests in a manner not permitted
+                           by this Section, or that the other Party's response
+                           to a discovery request is unsatisfactory, the party
+                           may request the presiding arbitrator to resolve
+                           such discovery disputes. The presiding arbitrator
+                           shall prescribe the procedure by which such
+                           disputes are resolved. Any discovery dispute may be
+                           handled by telephone conference among the Parties
+                           and the presiding arbitrator.
+
+15.      WITHHOLDING TAXES.
+
+         All payments to Employee or his Beneficiary shall be subject to
+withholding on account of federal, state and local taxes as required by law.
+If any payment under this Agreement is insufficient to provide the amount of
+such taxes required to be withheld, Alamosa may withhold such taxes from any
+subsequent payment due Employee or his Beneficiary. In the event that all
+payments due are insufficient to provide the required amount of such
+withholding taxes, Employee or his Beneficiary, within five days after written
+notice from Alamosa, shall pay to Alamosa the amount of such withholding taxes
+in excess of the payments due.
+
+16.      INDEMNIFICATION AND LIABILITY INSURANCE.
+
+         Nothing herein is intended to limit Alamosa's indemnification of
+Employee, and Alamosa shall indemnify him to the fullest extent permitted by
+applicable law consistent with Alamosa's Certificate of Incorporation and
+By-Laws as in effect on the date of this Agreement, with respect to any action
+or failure to act on his part while he is (x) an officer, director or employee
+of Alamosa or any Subsidiary or Affiliate or (y) a director or officer of any
+trade association or business enterprise that is not a subsidiary or Affiliate
+and in which capacity his service is at Alamosa's request. To the extent that
+directors' and officers' liability insurance is obtainable on commercially
+economic terms, Alamosa shall cause Employee to be covered, during the Term
+and after the Term in respect of claims arising from any such service during
+the Term, by such insurance on terms no less favorable than the directors' and
+officers' liability insurance maintained by Alamosa as in effect on the date
+of this Agreement in terms of coverage, limits and reimbursement of defense
+costs. In any period during which such insurance coverage is not obtainable on
+commercially economic terms, Alamosa shall cause Employee to be covered by as
+much of such insurance as may be obtained for the largest premium paid by
+Alamosa for such an insurance policy in effect during the Term.
+
+17.      ASSIGNABILITY, SUCCESSORS, BINDING AGREEMENT.
+
+         (a) In addition to any obligations imposed by law upon any successor
+to Alamosa, Alamosa will use its best efforts to persuade any successor
+(whether direct or indirect, by purchase, merger, consolidation or otherwise)
+to all or substantially all of the business and/or assets of Alamosa to
+expressly assume and agree to perform this Agreement in the same manner and to
+the same extent that Alamosa would be required to perform it if no such
+succession had taken place. Failure of Alamosa to obtain such assumption and
+agreement prior to the effectiveness of any such succession shall be a breach
+of this Agreement and shall entitle Employee to compensation from Alamosa in
+the same amount and on the same terms as Employee would be entitled to
+hereunder if he were to terminate his employment for Good Reason within twelve
+months following a Change of Control, except that, for purposes of
+implementing the foregoing, the date on which any such succession becomes
+effective shall be deemed the Date of Termination.
+
+         (b) This Agreement shall inure to the benefit of and be enforceable
+by Employee's personal or legal representatives, executors, administrators,
+successors, heirs, distributees, devisees and legatees. If Employee shall die
+while any amount would still be payable to him hereunder (other than amounts
+which, by their terms, terminate upon his death) if he had continued to live,
+all such amounts, unless otherwise provided herein, shall be paid in
+accordance with the terms of this Agreement to the executors, personal
+representatives or administrators of Employee's estate.
+
+18.      ENTIRE AGREEMENT.
+
+         Except to the extent otherwise provided herein, this Agreement
+contains the entire understanding and agreement between the Parties concerning
+the subject matter hereof and supersedes any prior agreements, whether written
+or oral, between the Parties concerning the subject matter hereof. In the
+event of a conflict between this Agreement and terms of any benefit plan,
+grant or award, the provisions of this Agreement shall govern the
+determination of Employee's rights.
+
+19.      AMENDMENT OR WAIVER.
+
+         No provision in this Agreement may be amended unless such amendment
+is agreed to in writing and signed by both Employee and an authorized officer
+of Alamosa. No waiver by either Party of any breach by the other Party of any
+condition or provision contained in this Agreement to be performed by such
+other Party shall be deemed a waiver of a similar or dissimilar condition or
+provision at the same or any prior or subsequent time. Any waiver must be in
+writing and signed by the Party to be charged with the waiver.
+
+20.      SEVERABILITY.
+
+         In the event that any provision or portion of this Agreement shall be
+determined to be valid or unenforceable for any reason, in whole or in part,
+the remaining provisions of this Agreement shall be unaffected thereby and
+shall remain in full force and effect to the fullest extent permitted by law.
+
+21.      SURVIVAL.
+
+         The respective rights and obligations of the Parties under this
+Agreement shall survive any termination of Employee's employment with Alamosa.
+
+22.      BENEFICIARIES/REFERENCES.
+
+         Employee shall be entitled to select (and change, to the extent
+permitted under any applicable law) a beneficiary or beneficiaries to receive
+any compensation or benefit payable under this Agreement following Employee's
+death by giving Alamosa written notice thereof. In the event of Employee's
+death or of a judicial determination of his incompetence, reference in this
+Agreement to Employee shall be deemed to refer, as appropriate, to his
+beneficiary, estate or other legal representative.
+
+23.      MITIGATION.
+
+         Alamosa agrees that, if Employee's employment by Alamosa terminates
+during the Term, Employee is not required to seek other employment or to
+attempt in any way to reduce any amounts payable to him due under this
+Agreement. Further, the amount of any payment shall not be reduced by any
+compensation earned by Employee as the result of employment by another
+employer, by retirement benefits, by offset against any amount claimed to be
+owed by Employee to Alamosa, or otherwise.
+
+24.      GOVERNING LAW AND PERFORMANCE.
+
+         This Agreement shall be governed by and construed and interpreted in
+accordance with the laws of the State of Texas, without reference to
+principles of conflict of laws. This Agreement shall be deemed to be executed
+in and performance called for in Lubbock, Lubbock County, Texas.
+
+25.      LEGAL EXPENSES.
+
+         Alamosa agrees to pay all reasonable out-of-pocket costs and
+expenses, including all reasonable attorneys' fees and disbursements, actually
+incurred by Employee in collecting or enforcing payments to which he is
+ultimately determined to be entitled (whether by agreement among the Parties,
+court order or otherwise) pursuant to this Agreement in accordance with its
+terms.
+
+26.      NOTICES.
+
+         Any notice given to either Party shall be in writing and shall be
+deemed to have been given when delivered either personally, by fax, by
+overnight delivery service (such as Federal Express) or sent by certified or
+registered mail, postage prepaid, return receipt requested, duly addressed to
+the Party concerned at the address indicated below or to such changed address
+as the Party may subsequently give notice of.
+
+If to Alamosa:
+
+         Alamosa Holdings, Inc.
+         5225 S. Loop 289
+         Lubbock, TX 79424
+
+With a copy to:
+
+         Jack McCutchin, Jr.
+         Crenshaw, Dupree and Milam, L.L.P.
+         P.O. Box 1499 Lubbock, TX 79408-1499
+
+         and
+
+         Fred B. White, III
+         Skadden, Arps, Slate, Meagher & Flom LLP
+         4 Times Square
+         New York, New York 10036
+
+If to Employee:
+
+         At his address on file with Alamosa.
+
+With a copy to:
+
+         Jason E. Winford
+         Jenkins & Gilchrist
+         1445 Ross Avenue
+         Suite 3200
+         Dallas, Texas 75202
+
+27.      HEADINGS.
+
+         The headings of the sections contained in this Agreement are for
+convenience only and shall not be deemed to control or affect the meaning or
+construction of any provision of this Agreement.
+
+28.      COUNTERPARTS.
+
+         This Agreement may be executed in counterparts, each of which when so
+executed and delivered shall be an original, but all such counterparts
+together shall constitute one and the same instrument.
+
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the undersigned have executed this Agreement as
+of the date first written above.
+
+
+                                       Alamosa Holdings, Inc.
+
+
+                                       By: /s/ David Sharbutt
+                                           ----------------------------------
+                                       Name:  David Sharbutt
+                                       Title: Chief Executive Officer
+
+
+                                       Employee:
+
+
+                                       /s/ Kendall Cowan
+                                       ---------------------------------------
+                                       Kendall Cowan
+
+Approved as to the mediation and arbitration provisions in Section 14 above.
+
+
+                                       Crenshaw, Dupree & Milam, LLP
+
+
+                                       By:
+                                          ------------------------------------
+                                          Jack McCutchin, Jr.
+                                          Attorney for Alamosa
+
+
+                                          Jenkins & Gilchrist
+
+
+                                          By:
+                                             ---------------------------------
+                                             Jason E. Winford
+                                             Attorney for Employee
+
+Dated this 27th day of December, 2004.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>alamosa10-3.txt
+<DESCRIPTION>EXHIBIT 10.3 - INCENTIVE PLAN
+<TEXT>
+
+                                                                  Exhibit 10.3
+
+                   FORM OF EXECUTIVE STOCK OPTION AGREEMENT
+
+                             ALAMOSA HOLDINGS, INC.
+
+               AMENDED AND RESTATED 1999 LONG-TERM INCENTIVE PLAN
+
+1. Grant of Option. Pursuant to the Amended and Restated Alamosa Holdings, Inc.
+1999 Long-Term Incentive Plan (the "Plan") for key management employees of
+Alamosa Holdings, Inc., a Delaware corporation (the "Company") and its
+affiliates, the Company grants to ______ (the "Participant") an option to
+purchase shares of Common Stock ("Common Stock") of the Company as follows:
+
+         The Company grants to the Participant an option (the "Option") to
+         purchase ______ shares of Common Stock (the "Optioned Shares") at an
+         Option Price equal to the Grant Price of $__.__. The Date of Grant of
+         this Stock Option is ______. The Award Period of this Stock Option
+         shall commence on the Date of Grant and shall terminate on _________
+         (the "Grant Expiration Date"). This Option is an Incentive Stock
+         Option (subject to Section 7).
+
+This Option is sometimes referred to in this Agreement as the "Stock Option."
+
+2. Subject to Plan. This Stock Option and its exercise are subject to the terms
+and conditions of the Plan, and the terms of the Plan shall control to the
+extent not otherwise inconsistent with the provisions of this Agreement. The
+capitalized terms used herein that are defined in the Plan shall have the same
+meanings assigned to them in the Plan. This Stock Option is subject to any
+rules promulgated pursuant to the Plan by the Board or the Committee and
+communicated to the Participant in writing.
+
+3. Vesting; Time of Exercise. Except as specifically provided in this Agreement
+and subject to certain restrictions and conditions set forth in the Plan, this
+Stock Option shall vest at the rate of three percent (3%) of the Optioned
+Shares per month following the date of grant (i.e. each monthly anniversary),
+provided that the Participant has at all times been an Employee, consultant or
+Outside Director of the Company or a Subsidiary from the Date of Grant to the
+applicable monthly vesting dates. In addition, this Stock Option shall
+accelerate and be fully vested and exercisable upon the Participant's
+Termination of Service due to death or "Disability," upon the Participant's
+termination of employment for "Good Reason", if the Company terminates the
+Participant's employment without "Cause" (each is defined in the Participant's
+Employment Agreement with the Company, dated _________) or upon the occurrence
+of a Change of Control. Approved leaves of absence in accordance with the
+Company's established policies and procedures of ninety (90) consecutive days
+or less will not affect the vesting provisions described in this Section 3. If
+an approved leave of absence exceeds ninety (90) consecutive days, then the
+monthly vesting dates that occur on or after the ninety-first date of such
+leave of absence shall be extended by a number of days equal to the number of
+days of such leave of absence that exceed ninety. The foregoing provisions
+regarding leaves of absence shall be construed and administered to comply with
+the Family and Medical Leave of Act of 1993, and the regulations thereunder.
+
+4. Termination; Forfeiture. The unexercised portion of the Stock Option that is
+vested will terminate and be forfeited at the first of the following to occur:
+
+         (1) 5 p.m. CST on the date the Award Period terminates;
+
+         (2) 5 p.m. CST on the date that is twenty-four (24) months following
+         the date of the Participant's Termination of Service due to (a) death,
+         (b) Disability or (c) Retirement;
+
+         (3) 5 p.m. CST on the date that is twenty-four (24) months following
+         the date the Participant terminates employment for Good Reason or the
+         date the Company terminates the Participant's employment without
+         Cause;
+
+         (4) immediately on the date of the Participant's Termination of
+         Service by the Company for Cause;
+
+         (5) immediately on the date of Termination of Service by the
+         Participant, for any reason other than (a) death, (b) Disability, (c)
+         Good Reason, or (d) Retirement without fifteen (15) days prior written
+         notice to the Company or with such fifteen (15) days notice but the
+         Participant voluntarily terminates prior to the end of such fifteen
+         (15) day period; provided, however, that in the case of resignation,
+         the Participant's Stock Option shall not lapse until the Participant
+         has received notice from the Company that a new Allowed Trading Period
+         (as described in Company's Insider Trading Policy) has opened
+         (following the Participant's last day of employment due to
+         resignation) where the Participant is allowed to exercise such Stock
+         Options and sell such stock. Any unexercised portion of the Stock
+         Option will lapse on the day following the close of the Allowed
+         Trading Period described above.
+
+         (6) immediately on the date the Company causes any portion of the
+         Option to be forfeited pursuant to Section 7 hereof.
+
+5. Who May Exercise. Subject to the terms and conditions set forth in Sections
+3 and 4 above, during the lifetime of the Participant, this Stock Option may be
+exercised only by the Participant, or by the Participant's guardian or legal
+representative. If the Participant dies or becomes Disabled, as the case may
+be, prior to the applicable termination dates specified in Section 4 hereof,
+and the Participant has not exercised this Stock Option as to the maximum
+percentage of this Stock Option that is then vested pursuant to Section 3
+hereof as of the date of death or Disability, the following persons may
+exercise the exercisable portion of this Stock Option on behalf of the
+Participant at any time prior to the earliest of the dates specified in Section
+4 hereof: (i) if the Participant is Disabled, the guardian or legal
+representative of the Participant; or (ii) if the Participant dies, the
+personal representative of his estate, or the person who acquired the right to
+exercise this Stock Option by bequest or inheritance or by reason of the death
+of the Participant; provided that this Stock Option shall remain subject to the
+other terms of this Agreement, the Plan, and applicable laws, rules, and
+regulations.
+
+6. Restrictions. This Stock Option may be exercised only with respect to full
+shares, and no fractional share of stock shall be issued.
+
+7. Manner of Exercise. Subject to such administrative regulations as the Board
+or the Committee may from time to time adopt, this Stock Option may be
+exercised by the delivery of written notice to the Committee setting forth the
+number of shares of Common Stock with respect to which the Stock Option is to
+be exercised, the date of exercise thereof (the "Option Exercise Date") which
+shall be at least three (3) days after giving such notice unless an earlier
+time shall have been mutually agreed upon, and, if applicable, the number of
+Optioned Shares to be exercised under a Nonqualified Stock Option and under an
+Incentive Stock Option. On the Option Exercise Date, the Participant shall
+deliver to the Company consideration with a value equal to the aggregate Option
+Price of the shares to be purchased plus any taxes required to be withheld by
+the Company upon exercise of this Stock Option, payable as follows: (a) by
+delivery of cash, certified check, bank draft, or money order payable to the
+order of the Company, along with a cash letter of authorization available from
+the Smith Barney Stock Plan Services web site at www.benefitaccess.com; (b) by
+delivery of Common Stock that if acquired from the Company has been held for at
+least six months, valued at its Fair Market Value on the Option Exercise Date;
+(c) subject to applicable law, by delivery (including by FAX) to the Company or
+its designated agent of an executed irrevocable option exercise form together
+with irrevocable instructions from the Participant to a broker or dealer,
+reasonably acceptable to the Company, to sell certain of the shares of Common
+Stock purchased upon exercise of the Stock Option or to pledge such shares as
+collateral for a loan and promptly deliver to the Company the amount of sale or
+loan proceeds necessary to pay such purchase price; and/or (d) any other form
+of payment which is acceptable to the Committee.
+
+Upon payment of all amounts due from the Participant, the Company shall cause
+certificates for the Optioned Shares then being purchased to be delivered to
+the Participant (or the person exercising the Participant's Stock Option in the
+event of his death) electronically or at its principal business office within
+ten (10) business days after the Option Exercise Date. Separate certificates
+will be delivered for shares issued pursuant to an Incentive Stock Option and
+shares issued pursuant to a Nonqualified Stock Option. The obligation of the
+Company to deliver shares of Common Stock shall, however, be subject to the
+condition that if at any time the Committee shall determine in its discretion
+that the listing, registration, or qualification of the Stock Option or the
+Optioned Shares upon any securities exchange or under any state or federal law,
+or the consent or approval of any governmental regulatory body, is necessary as
+a condition of, or in connection with, the Stock Option or the issuance or
+purchase of shares of Common Stock thereunder, then the Stock Option may not be
+exercised in whole or in part unless such listing, registration, qualification,
+consent, or approval shall have been effected or obtained free of any
+conditions not reasonably acceptable to the Committee.
+
+If the Participant fails to pay for any of the Optioned Shares specified in
+such notice or fails to accept delivery thereof, then the Participant's right
+to purchase such Optioned Shares may be forfeited by the Company.
+
+8. Assignability. This Stock Option is not assignable or transferable by the
+Participant except by will or by the laws of descent and distribution.
+
+9. Rights as Stockholder. The Participant will have no rights as a stockholder
+with respect to any shares covered by this Stock Option until the issuance of a
+certificate or certificates to the Participant for the shares. Except as
+otherwise provided in Section 10 hereof, no adjustment shall be made for
+dividends or other rights for which the record date is prior to the issuance of
+such certificate or certificates.
+
+10. Adjustment of Number of Shares and Related Matters. The number of shares of
+Common Stock covered by this Stock Option, and the Option Price thereof, shall
+be subject to adjustment in accordance with Articles 13 through 15 of the Plan.
+
+11. Incentive Stock Option. This Stock Option is an Incentive Stock Option. To
+the extent the number of Optioned Shares exceeds the limit set forth in Section
+6.2 of the Plan, such Optioned Shares shall be deemed granted pursuant to a
+Nonqualified Stock Option. In such event, then unless otherwise indicated by
+the Participant in the notice of exercise pursuant to Section 7, upon any
+exercise of this Stock Option, the number of exercised Optioned Shares that
+shall be deemed to be exercised pursuant to an Incentive Stock Option shall
+equal the total number of Optioned Shares so exercised multiplied by a
+fraction, (a) the numerator of which is the number of unexercised Optioned
+Shares that could then be exercised pursuant to an Incentive Stock Option and
+(b) the denominator of which is the then total number of unexercised Optioned
+Shares that could then be exercised.
+
+12. Disqualifying Disposition. In the event that Common Stock acquired upon
+exercise of this Stock Option is disposed of by the Participant in a
+"Disqualifying Disposition," such Participant shall notify the Company in
+writing within thirty (30) days after such disposition of the date and terms of
+such disposition. For purposes hereof, "Disqualifying Disposition" shall mean a
+disposition of Common Stock that is acquired upon the exercise of an Incentive
+Stock Option prior to the expiration of either two years from the Date of Grant
+of such Incentive Stock Option or one year from the transfer of shares to the
+Participant pursuant to the exercise of such Incentive Stock Option.
+
+13. Limited Stock Appreciation Right Conversion. Notwithstanding anything
+herein or in the Plan to the contrary, immediately prior to the occurrence of a
+"change in ownership or control" (as defined in Prop Reg 1.280G-1), this Option
+to the extent not then vested, shall be cancelled and in respect of such
+cancellation the Participant shall receive a cash payment (less applicable
+withholdings) equal to the product of (1) the excess, if any, of the then Fair
+Market Value per share of the Company's Common Stock over the Grant Price and
+(2) the number of shares of Common Stock subject to this Option that are not
+then vested. Any cash payment due to the Participant pursuant to this Section
+13 shall be made within three business days of the cancellation.
+
+14. Participant's Representations. Notwithstanding
+any of the provisions hereof, the Participant hereby agrees that he will not
+exercise the Stock Option granted hereby, and that the Company will not be
+obligated to issue any shares to the Participant hereunder, if the exercise
+thereof or the issuance of such shares shall constitute a violation by the
+Participant or the Company of any provision of any law or regulation of any
+governmental authority. Any determination in this connection by the Committee
+shall be final, binding, and conclusive. The obligations of the Company and the
+rights of the Participant are subject to all applicable laws, rules, and
+regulations.
+
+15. Investment Representation. Unless the Common Stock is issued to him in a
+transaction registered under applicable federal and state securities laws, by
+his or her execution hereof, the Participant represents and warrants to the
+Company that all Common Stock which may be purchased hereunder will be acquired
+by the Participant for investment purposes for his or her own account and not
+with any intent for resale or distribution in violation of federal or state
+securities laws. Unless the Common Stock is issued to him in a transaction
+registered under the applicable federal and state securities laws, all
+certificates issued with respect to the Common Stock shall bear an appropriate
+restrictive investment legend.
+
+16. Participant's Acknowledgments. The Participant acknowledges receipt of a
+copy of the Plan, which is annexed hereto, and represents that he or she is
+familiar with the terms and provisions thereof, and hereby accepts this Option
+subject to all the terms and provisions thereof. The Participant hereby agrees
+to accept as binding, conclusive, and final all decisions or interpretations of
+the Board upon any questions arising under the Plan or this Agreement.
+
+17. Law Governing. This Agreement shall be governed by, construed, and enforced
+in accordance with the laws of the State of Delaware (excluding any conflict of
+laws rule or principle of Delaware law that might refer the governance,
+construction, or interpretation of this agreement to the laws of another
+state).
+
+18. No Right to Continue Employment. Nothing herein shall be construed to
+confer upon the Participant the right to continue in the employment of the
+Company or any Subsidiary or interfere with or restrict in any way the right of
+the Company or any Subsidiary to discharge the Participant at any time (subject
+to any contract rights of the Participant).
+
+19. Legal Construction. In the event that any one or more of the terms,
+provisions, or agreements that are contained in this Agreement shall be held by
+a Court of competent jurisdiction to be invalid, illegal, or unenforceable in
+any respect for any reason, the invalid, illegal, or unenforceable term,
+provision, or agreement shall not affect any other term, provision, or
+agreement that is contained in this Agreement and this Agreement shall be
+construed in all respects as if the invalid, illegal, or unenforceable term,
+provision, or agreement had never been contained herein.
+
+20. Covenants and Agreements as Independent Agreements. Each of the covenants
+and agreements that is set forth in this Agreement shall be construed as a
+covenant and agreement independent of any other provision of this Agreement.
+The existence of any claim or cause of action of the Participant against the
+Company, whether predicated on this Agreement or otherwise, shall not
+constitute a defense to the enforcement by the Company of the covenants and
+agreements that are set forth in this Agreement.
+
+21. Entire Agreement. This Agreement together with the Plan and Section 6 of
+the Participant's Employment Agreement dated ___________, supersede any and all
+other prior understandings and agreements, either oral or in writing, between
+the parties with respect to the subject matter hereof and constitute the sole
+and only agreements between the parties with respect to the said subject
+matter. All prior negotiations and agreements between the parties with respect
+to the subject matter hereof are merged into this Agreement. Each party to this
+Agreement acknowledges that no representations, inducements, promises, or
+agreements, orally or otherwise, have been made by any party or by anyone
+acting on behalf of any party, which are not embodied in this Agreement or the
+Plan and that any agreement, statement or promise that is not contained in this
+Agreement or the Plan shall not be valid or binding or of any force or effect.
+
+22. Parties Bound. The terms, provisions, representations, warranties,
+covenants, and agreements that are contained in this Agreement shall apply to,
+be binding upon, and inure to the benefit of the parties and their respective
+heirs, executors, administrators, legal representatives, and permitted
+successors and assigns.
+
+23. Modification. No change or modification of this Agreement shall be valid or
+binding upon the parties unless the change or modification is in writing and
+signed by the parties. Notwithstanding the preceding sentence, the Company may
+amend the Plan or revoke this Stock Option to the extent permitted in the Plan.
+
+24. Headings. The headings that are used in this Agreement are used for
+reference and convenience purposes only and do not constitute substantive
+matters to be considered in construing the terms and provisions of this
+Agreement.
+
+25. Gender and Number. Words of any gender used in this Agreement shall be held
+and construed to include any other gender, and words in the singular number
+shall be held to include the plural, and vice versa, unless the context
+requires otherwise.
+
+26. Notice. Any notice required or permitted to be delivered hereunder shall be
+deemed to be delivered only when actually received by the Company or by the
+Participant, as the case may be, at the addresses set forth below, or at such
+other addresses as they have theretofore specified by written notice delivered
+in accordance herewith:
+
+
+Notice to the Company shall be addressed and delivered as follows:
+
+Alamosa Holdings, Inc.
+5225 South Loop 289
+Suite 120
+Lubbock, Texas 79424
+
+ATTENTION: Compensation Committee Chairman
+
+Notice to the Participant shall be addressed and delivered to the Participant's
+address listed for the Participant in the Company's payroll system. The
+Participant agrees to contact the Company's stock plan administrator to ensure
+his or her correct address is listed on the Company payroll system and to
+notify the Company of any address changes.
+<PAGE>
+
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by its
+duly authorized officer, and the Participant, to evidence his or her consent
+and approval of all the terms hereof, has duly executed this Agreement, as of
+the date specified in Section 1 hereof.
+ALAMOSA HOLDINGS, INC.
+
+_____________________________________
+
+By: _____________
+
+
+
+Participant
+
+
+
+__________________________________
+
+Name: __________
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>5
+<FILENAME>alamosa10-4.txt
+<DESCRIPTION>EXHIBIT 10-4 - STOCK AGREEMENT
+<TEXT>
+
+                                                                  Exhibit 10.4
+
+                             ALAMOSA HOLDINGS, INC.
+                AMENDED & RESTATED 1999 LONG TERM INCENTIVE PLAN
+                      FORM OF RESTRICTED STOCK AGREEMENT
+
+
+Name of Grantee:               ______________
+
+Maximum Number
+Of Shares of
+Restricted Stock:              ______ shares of common stock, $0.01 par value,
+                               of Alamosa Holdings, Inc. ("Shares"), subject to
+                               achievement of Performance Goals.
+
+Maximum Number
+Of Shares of
+Bonus Stock:                   ______ Shares, subject to achievement of
+                               Performance Goals in excess of Expected
+                               Performance.
+
+Per Share Price:               $____
+
+Grant Date:                    _____
+
+Performance Goals:             Minimum Performance - $192,400,000
+                               Expected Performance - $240,500,000
+                               Exceptional Performance - $288,600,000
+
+Vesting Dates Upon
+Which Restrictions
+Lapse:                         ________
+                               ________
+
+
+                                * * * * * * * *
+
+
+                  This Restricted Stock Agreement (this "Agreement") is
+executed and delivered as of the Grant Date by and between Alamosa Holdings,
+Inc. (the "Company") and the Grantee. The Grantee and the Company hereby agree
+as follows:
+
+1.       The Company, pursuant to the Amended and Restated 1999 Long Term
+         Incentive Plan, as amended (the "Plan"), which is incorporated herein
+         by reference, and subject to the terms and conditions thereof, hereby
+         grants to the Grantee the above mentioned Shares of Restricted Stock
+         in exchange for a payment of $___ which represents payment of the par
+         value of the Shares of Restricted Stock.
+
+2.       From the Grant Date until the date on which all restrictions
+         applicable to Shares shall lapse, as indicated above (such period, a
+         "Restricted Period"), the Grantee may not sell, assign, transfer,
+         donate, pledge or otherwise dispose of Shares subject to a Restricted
+         Period. Each certificate representing Restricted Stock shall bear the
+         following legend:
+
+                  On the face of the certificate:
+
+                  "Transfer of this stock is restricted in accordance with
+                  conditions printed on the reverse of this certificate."
+
+                  On the reverse:
+
+                  "The shares of stock evidenced by this certificate are
+                  subject to and transferable only in accordance with that
+                  certain Alamosa Holdings, Inc. 1999 Long Term Incentive Plan,
+                  a copy of which is on file at the principal office of the
+                  Company in Lubbock, Texas. No transfer or pledge of the
+                  shares evidenced hereby may be made except in accordance with
+                  and subject to the provisions of said Plan. By acceptance of
+                  this certificate, any holder, transferee or pledgee hereof
+                  agrees to be bound by all of the provisions of said Plan."
+
+         The Grantee shall be entitled to have such legend removed from such
+         certificate when all restrictions, as described herein, with respect
+         to the Shares of Restricted Stock covered thereby have lapsed.
+
+3.       The Company further grants to the Grantee the right to receive,
+         subject to the terms and conditions hereof, up to an aggregate of
+         _____ shares of the Company's common stock, free of restrictions, if
+         and to the extent the Expected Performance is exceeded (such
+         additional shares, "Bonus Stock"). As a condition to issuance of any
+         earned Bonus Stock, the Grantee shall be obligated to pay to the
+         Company an amount equal to the Per Share Price for each share of such
+         Bonus Stock.
+
+4.       Except as set forth below, the number of Shares of Restricted Stock
+         and Bonus Stock which shall become earned, subject to the vesting
+         restrictions described herein, shall be determined by the Company's
+         Effective Performance in relation to the Performance Goals, in
+         accordance with the following schedule:
+
+<TABLE>
+<CAPTION>
+
+- -------------------------------------------------------------------------------------------------------------
+         Level of Effective Performance              Number of Shares Earned       Number of Bonus Shares
+                                                                                           Earned
+- -------------------------------------------------------------------------------------------------------------
+<S>                                                         <C>                    <C>
+Less than or Equal to Minimum Performance                    0                      0
+- -------------------------------------------------------------------------------------------------------------
+Greater than Minimum Performance up to and
+including Expected Performance
+- -------------------------------------------------------------------------------------------------------------
+Greater than Expected Performance up to and
+including Exceptional Performance
+- -------------------------------------------------------------------------------------------------------------
+Greater than Exceptional Performance
+- -------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+         The Company's Effective Performance shall be calculated by multiplying
+         the Company's Operating Effectiveness Factor (derived from the table
+         on Attachment 1) by the Company's EBITDA, each as determined by the
+         Board of Directors of the Company (the "Board"), with respect to the
+         fiscal year ending on _____.
+
+         (a)      Restricted Stock Pro-rated Vesting. In the event that the
+                  Company's Effective Performance is greater than the Minimum
+                  Performance but equal to or less than the Expected
+                  Performance, the number of Shares of Restricted Stock which
+                  shall become earned, subject to the vesting restrictions
+                  described herein, shall be a number of Shares, rounded to the
+                  nearest whole number, equal to the product of (i) _____
+                  multiplied by (ii) a fraction, not to exceed one, the
+                  numerator of which is the Company's Effective Performance
+                  less the Minimum Performance and the denominator of which is
+                  the Expected Performance less the Minimum Performance. Any
+                  Shares of Restricted Stock that are not earned as of _____ in
+                  accordance with this Section 4 shall be forfeited and
+                  cancelled as of such date, the Per Share Price paid with
+                  respect to such Shares shall be refunded to the Grantee, and
+                  the Grantee shall have no rights with respect to any Shares
+                  of Bonus Stock.
+
+         (b)      Bonus Stock Grants. Subject to Sections 5 and 6 hereof, in
+                  the event that the Company's Effective Performance is greater
+                  than the Expected Performance and equal to or lesser than the
+                  Exceptional Performance, the Company shall issue to Grantee,
+                  subject to the terms hereof, a number of Shares, rounded to
+                  the nearest whole number, equal to the product of (i) _____
+                  multiplied by (ii) a fraction, not to exceed one, the
+                  numerator of which is the Company's Effective Performance
+                  less the Expected Performance and the denominator of which is
+                  the Exceptional Performance less the Expected Performance.
+                  Any Shares of Bonus Stock earned pursuant to this Section
+                  4(b) shall be issued to the Grantee pro rata (rounded to the
+                  nearest whole Share) in accordance with the percentages set
+                  forth on Page 1, under "Vesting Dates Upon Which Restrictions
+                  Lapse."
+
+5.       Except as set forth below, a percentage of the Shares of Restricted
+         Stock and shares of Bonus Stock, if any, earned in accordance with
+         Section 4 shall vest (in the case of Restricted Stock) or shall be
+         issued (in the case of Bonus Stock) on the Vesting Dates, provided the
+         Grantee is employed by, or providing services to, the Company on such
+         applicable Vesting Date. If the Grantee's employment with, or
+         provision of services to, the Company shall terminate for any reason
+         while Shares are subject to a Restricted Period, all Shares held by
+         the Grantee still subject to a Restricted Period (whether or not
+         earned under Section 4 hereof) shall be forfeited upon such
+         termination and the Per Share Price paid with respect to such Shares
+         shall be refunded to the Grantee, provided, however, that all Shares
+         of Restricted Stock shall be deemed earned and all restrictions
+         imposed on the Restricted Stock shall lapse immediately prior to
+         Grantee's termination of employment for "Good Reason" or if the
+         Grantee's employment is terminated by the Company without "Cause" or
+         by reason of the Grantee's death or "Disability" (each as defined in
+         Grantee's employment agreement with the Company entered into effective
+         _____); and provided, further, that no Shares of Bonus Stock shall be
+         deemed earned or vestd in connection with such a termination of
+         employment.
+
+6.       In the event that, prior to ______, 20__, there shall occur a Change
+         of Control, (i) as of immediately prior to such Change of Control, all
+         of the Restricted Shares shall be deemed fully earned at the Expected
+         Performance Level and (ii) as of immediately prior to such Change of
+         Control, the Grantee shall be issued a number of Bonus Stock Shares as
+         follows:
+
+         (a)      If such Change of Control occurs during the first calendar
+                  quarter of 20__, __ Bonus Stock Shares shall be deemed
+                  earned;
+
+         (b)      If such Change of Control occurs during the second calendar
+                  quarter of 20__ and the Effective Performance for the period
+                  from the beginning of 20__ through the end of the first
+                  quarter of 20__ exceeds budgeted EBITDA for such period, a
+                  number of Bonus Stock Shares shall be deemed earned, which
+                  number shall be determined by multiplying (i) ____ by (ii) a
+                  fraction, not to exceed one, the numerator of which is the
+                  Company's Effective Performance for such first quarter
+                  (capped at 120% of budgeted EBITDA for such period) less
+                  budgeted EBITDA for such first quarter and the denominator of
+                  which is 120% of budgeted EBITDA for such first quarter less
+                  budgeted EBITDA for such period;
+
+         (c)      If such Change of Control occurs during the third calendar
+                  quarter of 20__ and the Effective Performance for the period
+                  from the beginning of 20__ through the end of the second
+                  quarter of 20__ exceeds budgeted EBITDA for such period, a
+                  number of Bonus Stock Shares shall be deemed earned, which
+                  number shall be determined by multiplying (i) _____ by (ii) a
+                  fraction, not to exceed one, the numerator of which is the
+                  Company's Effective Performance for such period (capped at
+                  120% of budgeted EBITDA for such period) less budgeted EBITDA
+                  for such period and the denominator of which is 120% of
+                  budgeted EBITDA for such period less budgeted EBITDA for such
+                  period.
+
+         (d)      If such Change of Control occurs during the fourth calendar
+                  quarter of 20__ and the Effective Performance for the period
+                  from the beginning of 20__ through the end of the third
+                  quarter of 20__ exceeds budgeted EBITDA for such period, a
+                  number of Bonus Stock Shares shall be deemed earned, which
+                  number shall be determined by multiplying (i) _____ by (ii) a
+                  fraction, not to exceed one, the numerator of which is the
+                  Company's Effective Performance for such period (capped at
+                  120% of budgeted EBITDA for such period) less budgeted EBITDA
+                  for such period and the denominator of which is 120% of
+                  budgeted EBITDA for such period less budgeted EBITDA for such
+                  period.
+
+7.       During the Restricted Period, the Grantee shall have the right to vote
+         Shares of Restricted Stock and to receive any dividends or
+         distributions paid on such Shares. The Grantee shall have no rights
+         with respect to Bonus Stock until such time as such shares have been
+         issued to the Grantee and the Per Share Price therefor has been paid
+         by the Grantee.
+
+8.       The Shares shall be appropriately adjusted to reflect any stock
+         dividend, stock split, combination or exchange of shares or other
+         change in capitalization with a similar substantive effect upon the
+         Plan or the Restricted Stock. The Board shall have the power and sole
+         discretion to determine the nature and amount of the adjustment to be
+         made, if any. Any adjustment so made shall be final and binding.
+
+9.       The obligation of the Company to deliver any stock under this
+         Agreement is specifically subject to all provisions of the Plan and
+         all applicable laws, rules, regulations and governmental and
+         stockholder approvals.
+
+10.      Any notice by the Grantee to the Company hereunder shall be in writing
+         and shall be deemed duly given only upon receipt thereof by the
+         Company at its principal offices. Any notice by the Company to the
+         Grantee shall be in writing and shall be deemed duly given if mailed
+         to the Grantee at the address last specified to the Company by the
+         Grantee.
+
+11.      The Grantee shall pay to the Company promptly upon request, and in any
+         event at the time the Grantee recognizes taxable income in respect of
+         the Restricted Shares (or if the Grantee makes an election under
+         Section 83(b) of the Internal Revenue Code of 1986, as amended (the
+         "Code"), in connection with such grant), an amount equal to the taxes
+         the Company determines it is required to withhold under applicable tax
+         laws with respect to the Restricted Shares. Such payment shall be made
+         in the form of cash, shares of Common Stock already owned (for at
+         least six months) or otherwise issuable upon the lapse of
+         restrictions, or in a combination of such methods, subject to the
+         terms of the Plan. If Shares otherwise issuable upon vesting of
+         Restricted Stock are used to pay withholding taxes, the value of such
+         shares shall not be in excess of the minimum statutorily required
+         withholding. The Grantee shall promptly notify the Company of any
+         election made pursuant to Section 83(b) of the Code. Grantee
+         acknowledges that it is Grantee's sole responsibility and not the
+         Company's to file timely the election under Section 83(b) of the Code,
+         in the event Grantee desires to make such election.
+
+12.      Grantee hereby grants to the Company a power of attorney to transfer
+         any Shares that are forfeited hereunder and shall execute any
+         documents requested by the Company in connection with such forfeiture
+         and transfer. Grantee agrees that any provisions regarding returns and
+         transfers of stock certificates with respect to forfeited Shares are
+         specifically performable by the Company in a court of equity or law.
+
+13.      This Agreement may be amended or modified at any time only by an
+         instrument in writing signed by each of the parties hereto.
+
+14.      This Agreement shall apply to and bind the Grantee and the Company and
+         their respective permitted assignees and transferees, heirs, legatees,
+         executors, administrators and legal successors.
+
+15.      Neither the grant of Restricted Stock and the Bonus Stock, this
+         Agreement nor any other action taken pursuant to this Agreement shall
+         constitute or be evidence of any agreement or understanding, express
+         or implied, that Grantee has a right to continue to provide services
+         as an officer, director, employee or consultant of the Company for any
+         period of time or at any specific rate of compensation.
+
+16.      The failure of the Company to enforce at any time any provision of
+         this Agreement shall in no way be construed to be a waiver of such
+         provision or of any other provision hereof.
+
+17.      The validity and construction of this Agreement shall be governed by
+         the laws of the State of Delaware (excluding any conflict of law, rule
+         or principle of Delaware law that might refer the governance,
+         construction or interpretation of this Agreement to the laws of
+         another state).
+
+
+                  IN WITNESS WHEREOF, the Company has caused this Agreement to
+be executed by a duly authorized representative and the Grantee has hereunto
+set his hand as of the Grant Date.
+
+
+                                         ALAMOSA HOLDINGS, INC:
+
+
+                                         By:___________________________________
+                                            Name:
+                                            Title:
+
+
+                                            ___________________________________
+                                            Grantee: ___________
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

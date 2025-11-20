@@ -1,0 +1,256 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RH95un4o3ohtN/T5iy6lLR/GWz4oLAPtXa9PkNsoPaTvFtdfMiT2+Imlbc7qZZYQ
+ 76Kd+V6QJKFkqGTV4Fdq4Q==
+
+<SEC-DOCUMENT>0000899681-04-000863.txt : 20041223
+<SEC-HEADER>0000899681-04-000863.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223165918
+ACCESSION NUMBER:		0000899681-04-000863
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NATIONSRENT COMPANIES INC
+		CENTRAL INDEX KEY:			0001276676
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		IRS NUMBER:				133490149
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-114115
+		FILM NUMBER:		041224755
+
+	MAIL ADDRESS:	
+		STREET 1:		450 LAS OLAS BLVD STE.1400
+		CITY:			FORT LAUDERDA
+		STATE:			FL
+		ZIP:			33301
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>nations-8k_122304.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+<BODY>
+<P ALIGN=CENTER><FONT SIZE=3><B>UNITED STATES<BR>
+<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+<BR>
+Washington, D.C. 20549</B></FONT></P>
+
+<HR SIZE=1 NOSHADE WIDTH=25% ALIGN=CENTER>
+
+<P ALIGN=CENTER><FONT SIZE=3><B>FORM 8-K<BR>
+<BR>
+CURRENT REPORT<BR>
+<BR>
+PURSUANT TO SECTION 13 OR 15 (d)<BR>
+<BR>
+OF THE SECURITIES EXCHANGE ACT OF 1934</B></FONT></P>
+
+<CENTER>Date of Report (date of earliest event reported)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December 20, 2004 </CENTER>
+<HR SIZE=1>
+<BR>
+
+<CENTER>NATIONSRENT COMPANIES, INC.<BR>
+<HR SIZE=1>
+(Exact name of registrant as specified in its charter)</CENTER>
+<BR>
+<BR>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=33% ALIGN=CENTER>
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delaware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><BR>
+(State or other jurisdiction<BR>
+of incorporation)</TD>
+<TD WIDTH=33% ALIGN=CENTER>
+<U> 333-114115 </U><BR>
+(Commission <BR>
+File Number)</TD>
+<TD WIDTH=34% ALIGN=CENTER>
+<U>14-1875911</U><BR>
+(IRS Employer ID<BR>
+Number)
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<CENTER>450 East Las Olas Boulevard, Suite 1400, Fort Lauderdale, FL&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33301
+<HR SIZE=1>
+(Address of principal executive offices)
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Zip Code)</CENTER>
+<BR>
+<BR>
+<CENTER>Registrant's Telephone Number, including area code:
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (954) 760-6550</CENTER>
+<HR SIZE=1>
+<BR>
+
+<CENTER>Not Applicable
+<HR SIZE=1>
+(Former name or former address, if changed since last report)</CENTER>
+
+<P><FONT SIZE=3>Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: </FONT></P>
+
+<P><FONT SIZE=3>[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<BR>
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<BR>
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<BR>
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P>
+
+<P ALIGN=LEFT><FONT SIZE=3><B>Item 1.01
+Entry into a Material Definitive Agreement</B></FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 20, 2004, NationsRent Companies, Inc. (the &#147;Company&#148;) and
+certain of its subsidiaries entered into a Second Amendment to Amended and
+Restated Credit Agreement and a Consent (the &#147;Second Amendment and
+Consent&#148;), dated as of December 20, 2004, with certain financial
+institutions and Wachovia Bank, National Association (&#147;Wachovia&#148;), as
+administrative agent, which amends certain definitions, covenants and reporting
+requirements under the Company&#146;s Existing Credit Agreement (defined below).
+As part of the Second Amendment and Consent, the lenders consented to certain
+transactions, subject to certain conditions, as described therein. Pursuant to
+the Second Amendment and Consent, the Existing Credit Agreement has been amended
+as follows: </FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+the maturity date of the Existing Credit Agreement has been extended until June
+13, 2008; </FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+the definition of Borrowing Base is amended so that, among other things, the
+reserve requirement is reduced from $15 million to $7.5 million; </FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+the Applicable Percentages for Base Rate Loans and for Eurodollar Loans have
+been reduced by 75 basis points; </FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+the definition of Adjusted Amortized Values has been modified so that the
+calculation thereof is measured against the date of the Second Amendment and
+Consent, not the date of the Existing Credit Agreement, and the cap on the
+amount of the Adjusted Amortized Value of Eligible Vehicles that can be included
+in the Borrowing Base has been removed; </FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+the amount of Permitted Acquisitions that can be made in any fiscal year has
+been increased to $12.5 million; </FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+the period that the Borrower may maintain a Leverage Ratio of up to 3.00 to 1.00
+has been extended until December 31, 2005; </FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+the restriction on sales of assets has been amended to allow for sales of
+certain specified real estate assets pursuant to sale and leaseback
+transactions. </FONT></P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Capitalized
+terms used in this Form 8-K that are not defined in this Form 8-K have the same
+meaning set forth in the Amended and Restated Credit Agreement, dated as of
+October 23, 2003, by and among the Company, certain of its subsidiaries,
+Wachovia and the other lending institutions party thereto, as amended by the
+First Amendment, dated as of December 22, 2003 (the &#147;Existing Credit
+Agreement&#148;), except to the extent amended by the Second Amendment and
+Consent. </FONT></P>
+
+<P ALIGN=LEFT><FONT SIZE=3><B>Item 9.01 Financial Statements and Exhibits</B></FONT></P>
+
+<P ALIGN=LEFT><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Financial Statements of Business Acquired: Not
+applicable</FONT></P>
+
+<P ALIGN=LEFT><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pro Forma Financial Information: Not
+applicable</FONT></P>
+
+<P ALIGN=LEFT><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exhibits: Not applicable</FONT></P>
+
+
+
+<P ALIGN=CENTER>[Remainder of page intentionally left blank;<BR>
+signature on following page.]</P>
+
+
+<P ALIGN=CENTER>SIGNATURES</P>
+
+<P><FONT SIZE=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, as amended, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P>
+
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=50% ALIGN=LEFT></TD>
+<TD WIDTH=50%>
+NATIONSRENT COMPANIES, INC.<BR>
+<BR>
+<BR>
+By:<U> /s/ Thomas J. Hoyer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: Thomas J. Hoyer<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title: Executive Vice President and Chief Financial Officer
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<P ALIGN=LEFT><FONT SIZE=3>Dated:  December 23, 2004</FONT></P>
+
+</BODY>
+</HTML>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

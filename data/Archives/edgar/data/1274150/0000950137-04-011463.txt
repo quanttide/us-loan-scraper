@@ -1,0 +1,2836 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Md6YwuTgZYHSKGS2ECofQ3eSzifsA3Xpg8OLnvcZrvcu37LEP1mdj+tRMrVgGVU7
+ FSTv3DL/R49xm2vRvIk2xg==
+
+<SEC-DOCUMENT>0000950137-04-011463.txt : 20041227
+<SEC-HEADER>0000950137-04-011463.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227170103
+ACCESSION NUMBER:		0000950137-04-011463
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMMERCE ENERGY GROUP INC
+		CENTRAL INDEX KEY:			0001274150
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				200501090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32239
+		FILM NUMBER:		041226960
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 ANTON BOULEVARD
+		STREET 2:		SUITE 2000
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+		BUSINESS PHONE:		7142580470
+
+	MAIL ADDRESS:	
+		STREET 1:		600 ANTON BOULDVARD
+		STREET 2:		SUITE 2000
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN ENERGY GROUP INC
+		DATE OF NAME CHANGE:	20031222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04055e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="25%"></DIV>
+
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 12pt"><B>CURRENT REPORT</B>
+
+
+
+<DIV align="center" style="font-size: 12pt"><B>Pursuant to
+Section&nbsp;13 or 15(d) of the Securities Exchange Act of
+1934</B></DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Date of Report (Date of earliest event reported): December&nbsp;23, 2004</B>
+
+
+<P align="center" style="font-size: 24pt"><B>COMMERCE ENERGY GROUP, INC.</B>
+
+<DIV align="center" style="font-size: 10pt"><B>(Exact Name of registrant as specified in its charter)</B></DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>001-32239</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>20-0501090</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>(State or other jurisdiction of</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>(Commission File Number)</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>(IRS Employer</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>incorporation)</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>Identification No.)</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="55%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>600 Anton Blvd., Suite&nbsp;2000</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Costa Mesa, California</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>92626</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>(Address of principal executive offices)</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>(Zip Code)</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Registrant&#146;s telephone number, including area code: (714)&nbsp;258-0470</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Not Applicable<BR>
+(Former name or former address, if changed since last report)</B>
+
+
+<P align="left" style="font-size: 10pt"><B>Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="2%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="96%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B><FONT face="Wingdings">&#111;</FONT></B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B><FONT face="Wingdings">&#111;</FONT></B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B><FONT face="Wingdings">&#111;</FONT></B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2 (b))</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B><FONT face="Wingdings">&#111;</FONT></B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">Item&nbsp;1.01. Entry into a Material Definitive Agreement.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">Item&nbsp;9.01. Financial Statements and Exhibits.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="a04055exv10w1.txt">EXHIBIT 10.1</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link1 "Item&nbsp;1.01. Entry into a Material Definitive Agreement." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;1.01. Entry into a Material Definitive Agreement.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December&nbsp;23, 2004, Commerce Energy Group, Inc. (the &#147;Company&#148;) entered into a full and comprehensive Settlement
+Agreement and Mutual General Release (the &#147;Settlement Agreement&#148;) with
+stockholder and former director of Commonwealth Energy Corporation, Joseph P.
+Saline, and stockholder Joseph Ogundiji. The Settlement Agreement effectively
+ends all the various legal actions between the parties that began in 2001
+without requiring either party to admit fault and with both parties
+acknowledging that the resulting settlement is in the best interest of the
+Company&#146;s stockholders. The Settlement Agreement acknowledges and validates
+Mr.&nbsp;Saline&#146;s shares of common stock in the Company and provides for a $1.2
+million settlement payment to Mr.&nbsp;Saline. The Settlement Agreement also
+provides Mr.&nbsp;Ogundiji with a payment of $222,400 in settlement of all his
+claims and for canceling all of his shares of common stock. In addition, Mr.
+Saline and Mr.&nbsp;Ogundiji agreed that for the next two years they would submit
+any future disputes to mediation before commencing litigation or before they
+take any steps to contact the Company&#146;s stockholders for any reason related to
+bringing a proxy contest. A copy of the Settlement Agreement is filed as
+Exhibit&nbsp;10.1 to this Current Report on Form 8-K and incorporated by reference
+herein.
+
+<!-- link1 "Item&nbsp;9.01. Financial Statements and Exhibits." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits.</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="92%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Settlement Agreement and Mutual General Release dated December 23, 2004 by and between Commerce Energy Group, Inc,
+Commonwealth Energy Corporation, Ian Carter, Robert Perkins,
+Brad Gates, Joseph P. Saline, Patricia E. Saline and Joseph
+Ogundiji.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934,
+Commerce Energy Group, Inc.. has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top">&nbsp;</TD>
+    <TD colspan="3">COMMERCE ENERGY GROUP, INC.<BR>a Delaware corporation<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>Date: December 27, 2004&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000">/s/ RICHARD L. BOUGHRUM
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top" colspan="2">Name:&nbsp;&nbsp;</TD>
+    <TD>Richard L. Boughrum&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD valign="top" colspan="2">Title:&nbsp;&nbsp;</TD>
+    <TD>Senior Vice President and
+Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="92%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Settlement Agreement and Mutual General Release dated December
+23, 2004 by and between Commerce Energy Group, Inc,
+Commonwealth Energy Corporation, Ian Carter, Robert Perkins,
+Brad Gates, Joseph P. Saline, Patricia E. Saline and Joseph
+Ogundiji.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>a04055exv10w1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.1
+
+                 SETTLEMENT AGREEMENT AND MUTUAL GENERAL RELEASE
+
+         THIS SETTLEMENT AGREEMENT AND MUTUAL GENERAL RELEASE ("Agreement") is
+entered into this 23rd day of December, 2004 ("Effective Date") by and between
+Commerce Energy Group, Inc. ("Commerce") and Commonwealth Energy Corporation
+("Commonwealth"), and Ian Carter, Brad Gates and Robert Perkins (the
+"Commonwealth Directors") (collectively, the "Commerce Parties"), on the one
+hand, and Joseph P. Saline ("Saline"), Patricia E. Saline ("Mrs. Saline"), and
+Joseph Ogundiji, individually and as Trustee of the Ogundiji Family Holdings
+Trust ("Ogundiji") (collectively, the "Saline Parties"), on the other hand.
+Commerce, Commonwealth, the Commonwealth Directors, Saline, Mrs. Saline and
+Ogundiji shall collectively be referred to herein as "the Parties."
+
+                                 R E C I T A L S
+
+         THIS AGREEMENT is made with respect to the following facts:
+
+         A.       For a period prior to the Effective Date, Saline was a
+director of Commonwealth.
+
+         B.       Saline claims to have owned shares of preferred stock of
+Commonwealth, which he has since purported to convert to 704,000 common shares
+of Commerce ("Saline Shares").
+
+         C.       Ogundiji claims to have owned preferred shares of stock of
+Commonwealth, which he has since purported to convert to 160,000 common shares
+of
+
+                                  Page 1 of 24
+<PAGE>
+
+Commerce ("Ogundiji Shares"). The Commerce Parties dispute the number of the
+Ogundiji shares.
+
+         D.       On August 16, 2001, Saline filed a Petition to Enforce
+Corporate Director's Inspection Rights Under Corporations Code Section 1602 in
+the Superior Court of the State of California, County of Orange, as Case No.
+01CC10657, in which Saline sought inter alia an alleged unconditional right to
+inspect and copy all documents and records of Commonwealth (the "Inspection
+Action"). Thereafter, Commonwealth filed its Cross-Petition for Breach of
+Contract, Breach of Fiduciary Duty, Violation of Penal Code Section 632, Libel,
+Intentional Inducement to Breach of Contract, and Violation of Business &
+Professions Code Section 17200, as amended, in the Inspection Action. By the
+Cross-Petition, Commonwealth, and intervening cross-petitioners Ian Carter, Brad
+Gates and Robert Perkins, sought damages against Saline for, inter alia, his
+alleged illegal tape recording of board meetings and alleged libel of
+Commonwealth in statements made in proxy solicitation materials (the "Inspection
+Cross-Action").
+
+         E.       On October 29, 2001, Saline commenced an action against
+Commonwealth in the Superior Court of the State of California, County of Orange,
+as Case No. 01CC13887. On November 5, 2001, Saline filed his First Amended
+Complaint for Breach of Contract, Conversion, Declaratory Relief, Promissory
+Estoppel, Unlawful Denial of Voting Rights Pursuant to Corporations Code Section
+709, Illegal Stock Dividend in Violation of Corporations Code Section 25120 and
+Violation of Business and Professions Code section 17200, et seq. (the "Shares
+Action"). By the Shares Action, Saline sought inter alia recognition of the
+alleged validity of the Saline Shares. On December 6, 2001, Commonwealth filed
+its Cross-
+
+                                  Page 2 of 24
+<PAGE>
+
+Complaint for Declaratory Relief in the Shares Action (the "Shares
+Cross-Action"). The Shares Action, the Shares Cross-Action, the Inspection
+Action and the Inspection Cross-Action were eventually consolidated by the
+Court.
+
+         F.       On February 14, 2003, Commonwealth filed its Complaint for
+Declaratory Relief against Ogundiji in the Superior Court of the State of
+California, County of Orange, as Case No. 03CC03409 (the "Declaratory Relief
+Action"). The Declaratory Relief Action challenges the validity of the Ogundiji
+Shares. Thereafter, Ogundiji filed a Cross-Complaint seeking inter alia damages
+for claims similar to those alleged by Saline in the Shares Action (the
+"Declaratory Relief Cross-Action").
+
+         G.       On April 19, 2004, Saline and Ogundiji filed a complaint to
+inter alia set an annual shareholder meeting and for the appointment of an
+independent election inspector in the Superior Court of the State of California,
+County of Orange, as Case No. 04CC05038 (the "Shareholder Meeting Action"). As
+part of the Shareholder Meeting Action, Saline and Ogundiji objected to a
+proposed reorganization of Commonwealth, claiming that inter alia a merger
+between Commonwealth and CEGI Acquisition Corp. (the "Merger") constituted a
+breach of Commonwealth's directors' fiduciary duties owed to Saline, Ogundiji
+and other shareholders. The Shareholder Meeting Action names the Commerce
+parties and various of their officers and/or directors as defendants ("Other
+Director Defendants").
+
+         H.       Saline has also filed a Complaint against Ian Carter
+individually in the Superior Court of the State of California, County of Orange,
+as Case No. 04CC09285 (the "Carter Action"). The Carter Action alleges that Ian
+Carter wrongfully and tortiously acted to cause Commonwealth to declare the
+Saline Shares invalid.
+
+                                  Page 3 of 24
+<PAGE>
+
+         I.       The above-referenced lawsuits have spawned several appeals and
+writ petitions, three of which appeals are currently pending, Appeal Case Nos.
+G031829, G033177 and G033699 (the "Appeals").
+
+         J.       Saline and Ogundiji have threatened to file various additional
+actions against the Commerce Parties and their officers and directors, including
+but not limited to: (1) a derivative action against Ian Carter, and/or the
+Commerce Parties, and/or the Other Director Defendants, and/or other officers
+and directors of the Commerce Parties, based upon actions taken by Ian Carter
+prior to the Effective Date and/or for actions taken or to be taken by Robert
+Perkins and/or other officers and directors, including the Other Director
+Defendants, with respect to Ian Carter and his separation from Commonwealth
+and/or Commerce, some of the basis of which are set forth in various letters
+from counsel for Saline and Ogundiji to counsel for the Commerce Parties and/or
+emails from Saline to the Commerce Parties and/or their officers and directors
+(all collectively the "Threatened Derivative Actions"); and (2) a federal
+securities lawsuit against the Commerce Parties and/or their officers and
+directors, including the Other Director Defendants, with respect to, among other
+things, statements made in proxy solicitation materials relating to the Merger,
+a draft copy of which complaint was sent to counsel for the Commerce Parties by
+counsel for Saline and Ogundiji on November 23, 2004 (the "Threatened Federal
+Securities Action").
+
+         K.       The Inspection Action, Inspection Cross-Action, Shares Action,
+Shares Cross-Action, Shareholder Meeting Action, Declaratory Relief Action,
+Declaratory Relief Cross-Action, Carter Action, the Appeals, the Threatened
+Derivative Actions and the Threatened Federal Securities Action shall
+collectively be referred to herein as the "Actions."
+
+                                  Page 4 of 24
+<PAGE>
+
+         L.       The Parties desire to resolve the Actions and all appeals
+therefrom, mutually release all past and present claims the Parties on each side
+of the various disputes have or may have against any and all of the Parties on
+the other side, and to enter into a complete, final and binding settlement.
+
+                                A G R E E M E N T
+
+         NOW, THEREFORE, in consideration of the foregoing Recitals and pursuant
+to the covenants, terms and conditions hereinafter, the Parties agree as
+follows:
+
+         1.       Incorporation of Recitals.
+
+                  The foregoing Recitals are incorporated herein by reference.
+
+         2.       Effective Date.
+
+                  This Agreement shall be deemed effective and binding on the
+Parties when this Agreement has been fully executed by all Parties and delivered
+by the Parties to counsel for each respective side (the "Effective Date"). As of
+the Effective Date, the Parties shall be bound and obligated to perform all
+duties imposed under this Agreement and shall be entitled to all benefits and
+entitlements conferred under this Agreement.
+
+         3.       Payment by Commonwealth / Confirmation of Share Ownership.
+
+                  In full settlement of all claims made by, on behalf of, or
+held but as yet unasserted by Saline, Mrs. Saline and Ogundiji, against any and
+all of the Commerce Parties, the Parties agree to the following:
+
+                  3.1      Commonwealth will pay to Saline One Million Two
+Hundred Thousand Dollars ($1,200,000) (the "Settlement Sum") via wire transfer
+to the Enterprise Counsel Group's client trust account payable within five (5)
+days after the Effective Date.
+
+                                  Page 5 of 24
+<PAGE>
+
+                  3.2      The Commerce Parties acknowledge and agree that
+Saline is the owner of the Saline Shares (defined above), and that such shares
+are valid. Saline shall surrender to Commerce within five days after the
+Effective Date of this Agreement the share certificates he presently has in his
+possession for 100,000 shares of Commonwealth preferred stock in his name and
+252,000 shares of Commonwealth preferred stock in the name of The Robert M.
+Bates Family Trust, Sylvia E. Bates, Trustee, duly endorsed, or pursuant to a
+valid stock power or a properly executed lost securities bond for some or all of
+such shares in the standard form used by Commerce, and Commerce shall thereafter
+within five additional days provide to Saline a share certificate for 704,000
+shares of Commerce common stock. In light of the fact that Saline was a director
+of Commonwealth on the day of the special meeting relating to that certain
+Agreement and Plan of Reorganization by and among Commerce, CEGI Acquisition
+Corp. and Commonwealth and the related merger provided thereby (the
+"Reorganization Merger"), the share certificate for the 704,000 shares of
+Commerce common stock shall bear a legend indicating that sales of such common
+stock are subject to Rule 145 under the Securities Act of 1933, as amended (the
+"Securities Act"). A copy of the legend is attached to this Agreement as Exhibit
+"1." Commerce warrants that this same legend is also placed and/or will be
+placed on the Commerce common stock certificates of all other Commonwealth and
+Commerce directors at the time of the Reorganization Merger. Saline and Mrs.
+Saline acknowledge and agree that, except for the Saline Shares, Saline and Mrs.
+Saline have no right, title or claim to any other shares of stock in Commerce or
+Commonwealth as of the Effective Date.
+
+                  3.3      Ogundiji shall surrender to Commerce within five days
+after the Effective Date of this Agreement all of the share certificates he
+presently has in his possession
+
+                                  Page 6 of 24
+<PAGE>
+
+for Commonwealth preferred and/or common stock and/or Commerce common stock,
+duly endorsed, or pursuant to a valid stock power, and/or Ogundiji shall provide
+Commonwealth with a properly executed lost securities bond for such shares in
+the standard form used by Commerce, and then in an additional five days Commerce
+shall pay to Ogundiji the sum of Two Hundred Twenty-Two Thousand Four Hundred
+Dollars ($222,400) via wire transfer to the Enterprise Counsel Group's client
+trust account. Ogundiji acknowledges and agrees that, except for the Ogundiji
+Shares, Ogundiji has no right, title or claim to any other shares of stock in
+Commerce or Commonwealth as of the Effective Date.
+
+                  3.4      Consistent with the bylaws, beginning with the annual
+meeting following the end of the fiscal year ended July 31, 2005 ("2006
+Meeting"), Saline shall have the right to choose to put his name before
+Commerce's nomination committee to request candidacy to the Commerce Board. If
+Saline does so, the Nominating Committee shall consider this request, but there
+is no guarantee that Saline's name will be placed in nomination on the slate
+determined by such Committee. Notwithstanding whatever action is taken by the
+Nominating Committee, so long as Saline remains a shareholder of Commerce, the
+Commerce Parties agree and acknowledge that Saline will have all rights in
+compliance and consistent with the bylaws of Commerce to seek election to the
+board of directors of Commerce commencing with the 2006 Meeting of the
+shareholders of Commerce. Saline acknowledges and agrees that he is not and will
+not be a candidate for the Commerce board of directors, nor has he sponsored nor
+will he sponsor any proposals at the forthcoming January 2005 Commerce
+shareholders meeting and election.
+
+                                  Page 7 of 24
+<PAGE>
+
+         4.       Dismissals.
+
+                  4.1      The parties shall cooperate to provide proper notice
+to all courts of the execution of this Agreement as required by law.
+
+                  4.2      Within three business days after the Effective Date
+and as a condition precedent to payments of the Settlement Sum and the
+confirmation of share ownership set forth in Paragraphs 3.1, 3.2 and 3.3 above,
+Saline and Ogundiji and/or their counsel shall execute and deliver to
+Commonwealth for filing with the Court dismissals, with prejudice, of the
+Inspection Action, the Shares Action, the Shareholder Meeting Action, the Carter
+Action, the Appeals in which they are Appellant, and the Declaratory Relief
+Action in the form of the copies attached hereto collectively as Exhibit "2" to
+this Agreement. Commonwealth is not authorized to file, and shall not file,
+these dismissals with the respective courts until after confirmation of payment
+by Commonwealth of the Settlement Sum to Saline per paragraph 3.1 above, and
+payment by Commerce of the sum of $222,400 to Ogundiji per paragraph 3.3 above.
+
+                  4.3      After the Effective Date and upon receipt of the
+dismissals described in Paragraph 4.2, Commonwealth shall cause to be filed with
+the Court dismissals, with prejudice, of the cross-petition in the Inspection
+Action, the cross-complaint in the Shares Action, the Appeals in which they are
+the Appellant, and the Declaratory Relief Action in the form of the copies
+attached hereto collectively as Exhibit "3."
+
+                  4.4      After the Effective Date and upon receipt of the
+dismissals described in Paragraph 4.2, the Commonwealth Directors shall cause to
+be filed with the Court dismissals, with prejudice, of the Inspection
+Cross-Action and Ian Carter's appeal in the Shares Action in the form of the
+copy attached hereto as Exhibit "4."
+
+                                  Page 8 of 24
+<PAGE>
+
+         5.       Expiration of Options.
+
+                  Saline, Mrs. Saline, and Ogundiji acknowledge and agree that
+any and all claims to grants of options or grants of options to purchase stock
+in Commerce or Commonwealth or any affiliate or successor of Commonwealth held
+by Saline, Mrs. Saline or Ogundiji or claimed by Saline, Mrs. Saline or Ogundiji
+to be owed to Saline, Mrs. Saline or Ogundiji have expired, and further
+acknowledge and agree that Saline, Mrs. Saline and Ogundiji have no claim to
+exercise any other options to purchase stock in Commerce or Commonwealth and
+waive and forever relinquish any claim of right to exercise any such options
+which may have existed prior to the Effective Date, whether such options were
+issued or not.
+
+         6.       Release of Claims by Saline
+
+                  6.1      Saline, on behalf of himself and his agents, assigns
+and attorneys, hereby fully and completely releases and forever discharges the
+Commerce Parties and, where applicable, each of their respective present, former
+and future divisions, parent entities, subsidiaries, affiliates, officers,
+directors, partners, agents, employees, members, insurers, representatives,
+lawyers and law firms, and all persons acting by, through, under or in concert
+with them, or any of them (hereafter, "Commerce Releasees"), of and from any and
+all manner of action or actions, causes or causes of action, in law or in
+equity, and any suits, debts, liens, contracts, agreements, promises,
+liabilities, claims, demands, damages, losses, costs and expenses, of any nature
+whatsoever, known or unknown, fixed or contingent, individual or derivative,
+from the beginning of time to the Effective Date that anyone has had or now has
+against the Commerce Releasees, including, without limitation, any and all
+claims asserted in, arising out of, based upon, or relating to any and all of
+the Actions (hereinafter the "Claims"). Notwithstanding the above general
+release, in the event that Saline is named a party
+
+                                  Page 9 of 24
+<PAGE>
+
+defendant in any future action arising from or related to his service as a
+director of Commonwealth, such general release shall not act to release any
+claim Saline may have as an insured under any Commonwealth insurance policy to
+seek indemnity and defense.
+
+                  6.2      SALINE ACKNOWLEDGES THAT HE IS FAMILIAR WITH THE
+PROVISIONS OF CALIFORNIA CIVIL CODE SECTION 1542, WHICH PROVIDES AS FOLLOWS:
+
+                  "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE
+                  CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE
+                  TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE
+                  MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR."
+
+SALINE, HAVING HAD THE OPPORTUNITY TO CONSULT WITH AN ATTORNEY, AND BEING AWARE
+OF SAID CODE SECTION, HEREBY EXPRESSLY WAIVES ANY RIGHTS HE MAY HAVE THEREUNDER,
+AS WELL AS UNDER ANY OTHER STATUTES OR COMMON LAW PRINCIPLES OF SIMILAR EFFECT
+WITH RESPECT TO THE CLAIMS RELEASED HEREIN.
+
+                  6.3      Saline represents and warrants that other than Mrs.
+Saline, he is the only person who has any interest in any of the Claims herein
+released. Saline further represents and warrants that he has not assigned or
+otherwise transferred any interest in any of the Claims which he may have
+against the Commerce Releasees.
+
+                                 Page 10 of 24
+<PAGE>
+
+                  6.4      Saline agrees that if he voluntarily joins in, or in
+any manner affirmatively seeks relief through, any suit arising out of, based
+upon, or relating to the Claims he released herein, or in any manner asserts
+against the Commerce Parties any of the Claims he released hereunder, then
+Saline will pay to the Commerce Parties, in addition to any other damages caused
+to the Commerce Parties, all attorneys' fees and costs actually incurred by the
+Commerce Parties in defending or otherwise responding to said suit or Claims.
+
+                  6.5      Nothing in this Paragraph 6 may be construed as a
+release by Saline of any of the rights, duties, obligations or entitlements
+created by this Agreement.
+
+         7.       Release of Claims by Mrs. Saline
+
+                  7.1      Mrs. Saline, on behalf of herself and her agents,
+assigns and attorneys, hereby fully and completely releases and forever
+discharges the Commerce Releasees, as defined in paragraph 6.1 above, of and
+from any and all Claims, also defined in paragraph 6.1 above, that Mrs. Saline
+has had or now has against the Commerce Releasees, including, without
+limitation, any and all Claims asserted in, arising out of, based upon, or
+relating to the Actions.
+
+                  7.2      MRS. SALINE ACKNOWLEDGES THAT SHE IS FAMILIAR WITH
+THE PROVISIONS OF CALIFORNIA CIVIL CODE SECTION 1542, WHICH PROVIDES AS FOLLOWS:
+
+                  "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE
+                  CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE
+                  TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE
+                  MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR."
+
+                                 Page 11 of 24
+<PAGE>
+
+MRS. SALINE, HAVING HAD THE OPPORTUNITY TO CONSULT WITH AN ATTORNEY, AND BEING
+AWARE OF SAID CODE SECTION, HEREBY EXPRESSLY WAIVES ANY RIGHTS SHE MAY HAVE
+THEREUNDER, AS WELL AS UNDER ANY OTHER STATUTES OR COMMON LAW PRINCIPLES OF
+SIMILAR EFFECT WITH RESPECT TO THE CLAIMS RELEASED HEREIN.
+
+                  7.3      Mrs. Saline represents and warrants that other than
+Saline, she is the only person who may have any interest in any of the matters
+herein released. Mrs. Saline further represents and warrants that she has not
+assigned or otherwise transferred any interest in any Claim which she may have
+against the Commerce Releasees.
+
+                  7.4      Mrs. Saline agrees that if she voluntarily joins in,
+or in any manner affirmatively seeks relief through, any suit arising out of,
+based upon, or relating to the Claims she released herein, or in any manner
+asserts against the Commerce Parties any of the Claims she released hereunder,
+then Mrs. Saline will pay to the Commerce Parties, in addition to any other
+damages caused to the Commerce Parties, all attorneys' fees and costs actually
+incurred by the Commerce Parties in defending or otherwise responding to said
+suit or Claim.
+
+                  7.5      Nothing in this Paragraph 7 may be construed as a
+release by Mrs. Saline of any of the rights, duties, obligations or entitlements
+created by this Agreement.
+
+         8.       Release of Claims by Ogundiji
+
+                  8.1      Ogundiji, on behalf of himself and his agents,
+assigns and attorneys, hereby fully and completely releases and forever
+discharges the Commerce
+
+                                 Page 12 of 24
+<PAGE>
+
+Releasees, defined in paragraph 6.1 above, of and from any and all Claims,
+defined in paragraph 6.1 above, that Ogundiji has had or now has against the
+Commerce Releasees, including, without limitation, any and all Claims asserted
+in, arising out of, based upon, or relating to the Actions.
+
+                  8.2      OGUNDIJI ACKNOWLEDGES THAT HE IS FAMILIAR WITH THE
+PROVISIONS OF CALIFORNIA CIVIL CODE SECTION 1542, WHICH PROVIDES AS FOLLOWS:
+
+                  "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE
+                  CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE
+                  TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE
+                  MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR."
+
+OGUNDIJI, HAVING HAD THE OPPORTUNITY TO CONSULT WITH AN ATTORNEY, AND BEING
+AWARE OF SAID CODE SECTION, HEREBY EXPRESSLY WAIVES ANY RIGHTS HE MAY HAVE
+THEREUNDER, AS WELL AS UNDER ANY OTHER STATUTES OR COMMON LAW PRINCIPLES OF
+SIMILAR EFFECT WITH RESPECT TO THE CLAIMS RELEASED HEREIN.
+
+                  8.3      Ogundiji represents and warrants that he is the only
+person who has any interest in any of the matters herein released. Ogundiji
+further represents and warrants that he has not assigned or otherwise
+transferred any interest in any Claim which he may have against the Commerce
+Releasees.
+
+                                 Page 13 of 24
+<PAGE>
+
+                  8.4      Ogundiji agrees that if he voluntarily joins in, or
+in any manner affirmatively seeks relief through, any suit arising out of, based
+upon, or relating to the Claims he released herein, or in any manner asserts
+against the Commerce Parties any of the Claims he released hereunder, then
+Ogundiji will pay to the Commerce Parties, in addition to any other damages
+caused to the Commerce Parties, all attorneys' fees and costs actually incurred
+by the Commerce Parties in defending or otherwise responding to said suit or
+Claim.
+
+                  8.5      Nothing in this Paragraph 8 may be construed as a
+release by Ogundiji of any of the rights, duties, obligations or entitlements
+created by this Agreement.
+
+         9.       Release of Commerce Party Claims by the Commerce Parties
+
+                  9.1      The Commerce Parties on behalf of themselves and all
+of their respective present or former divisions, parent entities, subsidiaries,
+affiliates, officers, directors, partners, employees, insurers, representatives,
+lawyers, law firms, and all persons acting by, through or in concert with them,
+hereby fully and completely release and forever discharge Saline, Mrs. Saline
+and Ogundiji, their respective predecessors, partners, managers, employees,
+agents, servants, attorneys, law firms, heirs, executors, representatives,
+administrators, and insurers, individually and collectively (hereafter, "Saline
+Releasees"), of and from any and all manner of action or actions, causes or
+causes of action, in law or in equity, and any suits, debts, liens, contracts,
+agreements, promises, liabilities, claims, demands, damages, losses, costs and
+expenses, of any nature whatsoever, known or unknown, fixed or contingent, from
+the beginning of time to the Effective Date that the Commerce Parties have had
+or now have against the Saline Releasees, including, without limitation, any and
+all claims arising out of, based upon, or relating to the Actions (hereinafter
+the "Commerce Party Claims").
+
+                                 Page 14 of 24
+<PAGE>
+
+                  9.2      THE COMMERCE PARTIES ACKNOWLEDGE THAT THEY ARE
+FAMILIAR WITH THE PROVISIONS OF CALIFORNIA CIVIL CODE SECTION 1542, WHICH
+PROVIDES AS FOLLOWS:
+
+                  "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE
+                  CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE
+                  TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE
+                  MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR."
+
+THE COMMERCE PARTIES, HAVING CONSULTED WITH THEIR ATTORNEYS, BEING AWARE OF SAID
+CODE SECTION, HEREBY EXPRESSLY WAIVE ANY RIGHTS THEY MAY HAVE THEREUNDER, AS
+WELL AS UNDER ANY OTHER STATUTES OR COMMON LAW PRINCIPLES OF SIMILAR EFFECT WITH
+RESPECT TO THE CLAIMS RELEASED HEREIN.
+
+                  9.3      The Commerce Parties represent and warrant that they
+are the only entities which have any interest in any of the matters herein
+released. The Commerce Parties further represent and warrant that they have not
+assigned or otherwise transferred any interest in any Commerce Party Claim which
+it may have against the Saline Releasees.
+
+                  9.4      The Commerce Parties agree that if any or all of them
+voluntarily join in, or in any manner affirmatively seek relief through, any
+suit arising out of, based upon, or relating to the Claims they released herein,
+or in any manner assert against the Saline Releasees any of the Claims the
+Commerce Parties released hereunder, then the Commerce
+
+                                 Page 15 of 24
+<PAGE>
+
+Party or Parties involved will pay to the Saline Releasee(s) involved, in
+addition to any other damages caused to the Saline Releasee(s), all attorneys'
+fees and costs actually incurred by the Saline Releasee(s) in defending or
+otherwise responding to the portion of said suit concerning the released
+Claim(s).
+
+                  9.5      Nothing in this Paragraph 9 shall be construed as a
+release by the Commerce Parties of any of the rights, duties, obligations or
+entitlements created by this Agreement.
+
+         10.      No Action Before Dispute Resolution
+
+                  10.1     The Parties agree that for a period of two (2) years
+from the Effective Date no civil action with respect to any dispute, claim or
+controversy between any of the Saline Parties and any of the Commerce Parties
+may be commenced until the matter has been discussed between Saline and Peter
+Weigand (or a reasonably equivalent executive officer of Commerce or
+Commonwealth if Peter Weigand is unavailable) and then if necessary submitted to
+JAMS for mediation. Any party may commence mediation by providing to JAMS and
+the other party(ies) involved a written request for mediation, setting forth the
+subject of the dispute and the relief requested. The mediation will occur before
+Hon. James L. Smith, if he is available. If Judge Smith is not available, then
+the parties will cooperate with JAMS and with one another in selecting a
+mediator from JAMS panel of neutrals, and in scheduling the mediation
+proceedings. The parties covenant that they will participate in the mediation in
+good faith, and that they will share equally in its costs. All offers, promises,
+conduct and statements, whether oral or written, made in the course of the
+mediation by any of the parties, their agents, employees, experts and attorneys,
+and by the mediator and any JAMS employees, are confidential, privileged and
+inadmissible for any purpose, including impeachment, in any litigation or other
+proceeding involving the parties, provided that evidence that is otherwise
+
+                                 Page 16 of 24
+<PAGE>
+
+admissible or discoverable shall not be rendered inadmissible or
+non-discoverable as a result of its use in the mediation. Either party may seek
+equitable or injunctive relief prior to the mediation to preserve the status quo
+pending the completion of that process. Except for such an action to obtain
+equitable or injunctive relief, neither party may commence a civil action with
+respect to the matters submitted to mediation until after the completion of the
+initial mediation session, or 45 days after the date of filing the written
+request for mediation, whichever occurs first. Mediation may continue after the
+commencement of a civil action, if the parties so desire. The provisions of this
+Clause may be enforced by any Court of competent jurisdiction, and the party
+seeking enforcement shall be entitled to an award of all costs, fees and
+expenses, including attorneys' fees, to be paid by the party against whom
+enforcement is ordered.
+
+                  10.2     The Saline Parties agree that for a period of two (2)
+years from the Effective Date they shall not take any steps to contact by
+telephone, in writing, or otherwise, other shareholders or holders of stock in
+Commerce or Commonwealth, or any of their affiliates or successors, for any
+reason related to bringing a proxy contest without first complying with the
+mediation procedure provided in paragraph 10.1 above.
+
+         11.      Confidentiality.
+
+                  11.1     The parties agree that Commerce shall issue a press
+release in the form and substance of the one attached hereto as Exhibit "5"
+("Press Release"), and that Commerce shall further file a Form 8-K and/or 10-Q
+or other applicable regulatory forms disclosing the terms of and/or attaching
+this Agreement. Otherwise, as a material term and condition of this Agreement,
+the Parties agree that the settlement negotiations following the commencing of
+the Actions, including without limitation, those prior to, during and outside
+mediation and formal settlement proceedings; and all confidential financial,
+proprietary and/or trade secret information of Commerce or Commonwealth other
+than as may have been
+
+                                 Page 17 of 24
+<PAGE>
+
+contained in publicly disseminated documents (the "Confidential Information")
+will remain confidential and may only be disclosed to the Parties and their
+counsel, except as provided herein. In addition, the Parties further agree not
+to comment on the subject matter of the Actions to anyone except the Parties and
+their respective counsel, and the Saline Parties agree that (1) originals or
+copies of documents received by any of the Saline Parties in the course of
+discovery in the Actions; and (2) originals or copies of any confidential
+documents obtained by Saline by virtue of his prior position as a director of
+Commonwealth (collectively, "Discovery Documents") shall be maintained in
+confidence by the Saline Parties, and the Saline Parties shall not share any
+Discovery Documents with any third parties or allow any third parties to have
+access to, review or copy any of the Discovery Documents, for a period of two
+(2) years after the Effective Date. Neither the Parties nor their counsel will
+disclose the Confidential Information to, or discuss the subject matter of the
+Actions during the two (2) year period with, third parties (excluding counsel),
+and the Saline Parties agree not to disclose the Discovery Documents during the
+two (2) year period, except with regard to the Press Release and Form 8-K and/or
+10-Q or other applicable regulatory forms referenced above, and also except:
+
+                           11.1.1           As may be required to enforce or
+                                    interpret the terms of this Agreement;
+
+                           11.1.2           As may be required for reporting to
+                                    governmental taxing authorities or in public
+                                    filings or applications with any other
+                                    governmental body (including Saline and Mrs.
+                                    Saline's present family law action) or
+                                    agency or by lawful order of any federal or
+                                    state court or agency; or
+
+                                 Page 18 of 24
+<PAGE>
+
+                           11.1.3           As may be required to accomplish
+                                    certain limited and specific business
+                                    purposes of the Parties in the form of
+                                    communications to their respective
+                                    accountants, attorneys, bankers or insurers;
+                                    or
+
+                           11.1.4           As may be disclosed to the Parties'
+                                    immediate family members who shall be bound
+                                    by the provisions of this Confidentiality
+                                    Clause.
+
+When one of the exceptions set forth in paragraphs 11.1.1 to 11.1.4 applies, the
+disclosing party shall only disclose such information as is requested and/or
+necessary given the circumstances of the exception. The parties further agree
+that if any of the Confidential Information is requested by way of subpoena or
+discovery requests in any litigation or arbitration proceeding, the party
+responding to such subpoena, request, or process shall immediately notify the
+other affected party(ies) to this Agreement so that they may interpose an
+objection or motion to quash/limit the discovery request. In the case of a
+subpoena, the subpoenaed party shall not produce any Confidential Information
+until at least ten (10) days after notification to the other party hereto of the
+request for Confidential Information. In the case of a document request or other
+discovery requests to a party hereto to produce or disclose Confidential
+Information, the Parties agree to give notice to the other party of the request
+and to permit the other party to seek an appropriate court order quashing or
+limiting the production of such Confidential Information.
+
+                  11.2     In response to questions from third parties (other
+than the parties' accountants, attorneys, and insurers), including, without
+limitation, the media or Commerce shareholders, about the subject matter of the
+Actions during the two (2)-year period
+
+                                 Page 19 of 24
+<PAGE>
+
+of paragraph 11.1 or the Confidential Information the Parties agree to limit
+their communications to the language of the Press Release, Form 8-K and/or 10-Q
+referenced above.
+
+                  11.3     The Commerce Parties may make an unopposed
+application to the Court to seal the Court's file with respect to the Actions.
+
+         12.      No Admission.
+
+                  This Agreement affects the settlement of claims that are
+contested and denied. Nothing herein shall be construed as an admission by any
+party of any liability of any kind to the other party or parties except as
+created or referred to herein.
+
+         13.      Entire Agreement / Modification.
+
+                  This Agreement constitutes the entire and exclusive agreement
+between the Saline Parties and the Commerce Parties with respect to the Actions
+and supersedes and cancels all previous oral or written settlement
+communications, proposals, agreements, and commitments. No modifications to this
+Agreement, nor any waiver of any rights, will be effective unless assented to in
+writing by the party to be charged and the waiver of any breach or default will
+not constitute a waiver of any other right hereunder or any subsequent breach or
+default. A party's delay in enforcing its rights hereunder will not be construed
+as a waiver of such rights or remedies.
+
+         14.      Severability.
+
+                  If any provision of this Agreement as applied to any party or
+to any circumstance shall be adjudged by a court to be void and unenforceable,
+the same will in no way affect any other provision in this Agreement, the
+application of such provision in any
+
+                                 Page 20 of 24
+<PAGE>
+
+other circumstances or the validity or enforceability of the Agreement as a
+whole. Notwithstanding the foregoing, if any of the following provisions is
+adjudged by a court of competent jurisdiction to be unlawful, void or
+unenforceable: (1) Commonwealth's payment to Saline of $1,200,000; or (2) the
+Commerce Parties' recognition of the validity of the Saline Shares; or (3) the
+payment to Ogundiji set forth in paragraph 3.3; then this entire agreement shall
+be void and unenforceable and the statute of limitations shall be deemed tolled
+for all claims released herein sufficient to place the Parties in their same
+respective positions as of the Effective Date.
+
+         15.      Binding on Successors.
+
+                  This Agreement and the covenants and conditions contained
+herein apply to and are binding upon, and inure to the benefit of
+administrators, executors, legal representatives, assignees, successors, agents,
+and assigns of the Parties.
+
+         16.      Construction of Agreement / Joint Preparation.
+
+                  Saline, Mrs. Saline, Ogundiji, Commerce, Commonwealth and the
+Commonwealth Directors agree that this Agreement was jointly prepared and that
+no presumption in favor of or against Saline, Mrs. Saline, Ogundiji, Commerce,
+Commonwealth or the Commonwealth Directors will exist with respect to the
+interpretation hereof.
+
+         17.      Governing Law.
+
+                  This Agreement is to be interpreted, enforced, and governed by
+and under the laws of the State of California. The Parties agree that this
+Agreement was made in Orange County, California, and that they will submit to
+the jurisdiction of the California courts in and for the County of Orange for
+any dispute concerning this Agreement.
+
+                                 Page 21 of 24
+<PAGE>
+
+         18.      Attorneys' Fees.
+
+                  Should any legal action be initiated to enforce or interpret
+any part of this Agreement, the "prevailing party" will be awarded its
+attorneys' fees actually incurred and costs actually incurred as an item of
+costs against the non-prevailing party(ies) involved. The "prevailing party"
+will be the party entitled to recover its costs of suit, regardless of whether
+such suit proceeds to final judgment.
+
+         19.      Further Documents / Acts.
+
+                  The Parties will execute and deliver all documents and perform
+all further acts that may be reasonably necessary to effectuate the provisions
+of this Agreement.
+
+         20.      Advice of Counsel.
+
+                  All Parties acknowledge that they have been advised of their
+right to seek the advice of counsel relative to the contents of this Agreement,
+and acknowledge that they consulted with and have been represented by counsel in
+the negotiations leading up to and in the execution of this Agreement.
+
+         21.      Agreement Enforceable By Trial Court In The
+
+                  Inspection Action. The Parties agree that this Agreement will
+be enforceable by the trial court in the Inspection Action as provided by Code
+of Civil Procedure Section 664.6.
+                                            /s/ JOSEPH SALINE
+                                         ______________________________________
+                                               JOSEPH SALINE
+
+                                            /s/ PATRICIA E. SALINE
+                                         ______________________________________
+                                               PATRICIA E. SALINE
+
+                                 Page 22 of 24
+<PAGE>
+
+                                             /s/ JOSEPH OGUNDIJI
+                                         ______________________________________
+                                               JOSEPH OGUNDIJI, individually
+                                               and as Trustee of the Ogundiji
+                                               Family Holdings Trust
+
+                                            COMMERCE ENERGY GROUP, INC.
+
+                                         BY: /s/ PETER WEIGAND
+                                         __________________________________
+                                               PETER WEIGAND
+                                         ITS:  President
+
+                       [signatures continued on next page]
+
+                                         COMMONWEALTH ENERGY CORPORATION
+
+                                             /s/ PETER WEIGAND
+                                         ______________________________________
+                                               PETER WEIGAND
+                                         ITS:  President
+
+                                             /s/ IAN B. CARTER
+                                         ______________________________________
+                                               IAN B. CARTER
+
+                                             /s/ ROBERT C. PERKINS
+                                         ______________________________________
+                                               ROBERT C. PERKINS
+
+                                             /s/ BRAD GATES
+                                         ______________________________________
+                                               BRAD GATES
+
+                       [signatures continued on next page]
+
+                                 Page 23 of 24
+<PAGE>
+
+APPROVED AS TO FORM:
+
+ENTERPRISE COUNSEL GROUP
+
+BY: /s/ DAVID A. ROBINSON
+_____________________________________
+      DAVID A. ROBINSON
+      Attorneys for JOSEPH SALINE
+      and JOSEPH OGUNDIJI
+
+    /s/ KENNETH J. BERKE
+_____________________________________
+      KENNETH J. BERKE
+      Attorney for PATRICIA E. SALINE
+
+RUS, MILIBAND & SMITH,
+A Professional Corporation
+
+BY: /s/ RONALD RUS
+_____________________________________
+      RONALD RUS
+      Attorneys for COMMERCE
+      ENERGY GROUP, INC. and
+      COMMONWEALTH ENERGY
+      CORPORATION
+
+PAUL HASTINGS JANOFSKY & WALKER
+
+BY: /s/ PETER STONE
+_____________________________________
+      PETER STONE
+      Attorneys for COMMERCE
+      ENERGY GROUP, INC., and
+      COMMONWEALTH ENERGY
+      CORPORATION, IAN CARTER,
+      ROBERT C. PERKINS and BRAD
+      GATES
+
+                                 Page 24 of 24
+<PAGE>
+
+                                 EXHIBIT "1" TO
+
+                 SETTLEMENT AGREEMENT AND MUTUAL GENERAL RELEASE
+
+THE SECURITIES REPRESENTED HEREBY WERE ISSUED IN A TRANSACTION TO WHICH RULE 145
+UNDER THE SECURITIES ACT OF 1933 APPLIES. THESE SECURITIES MAY NOT BE SOLD,
+OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT IN
+ACCORDANCE WITH THE PROVISIONS OF SUCH RULE 145.
+
+<PAGE>
+
+                                 EXHIBIT "2" TO
+
+                 SETTLEMENT AGREEMENT AND MUTUAL GENERAL RELEASE
+
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO.:         FOR COURT USE ONLY
+
+DAVID A. ROBINSON, Bar # 107613                                                 (949) 833-8550
+ENTERPRISE COUNSEL GROUP, ALC
+5 Park Plaza
+Suite 450
+Irvine, CA 92614
+
+ATTORNEY FOR (Name):   Plaintiff
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: Joseph P. Saline, etc.
+
+DEFENDANT/RESPONDENT: Commonwealth Energy Corporation, etc.,
+
+AND RELATED CONSOLIDATED ACTION
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                  01CC10657 c/w 01CC13887
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Petition to Enforce Corporate Code Section 1602
+- -------------------------------------------------------------------------------------------------------------------------------
+
+- -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+</Table>
+
+1. TO THE CLERK: Please DISMISS this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (1) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   ENTERPRISE COUNSEL GROUP, ALC
+
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: JOSEPH P. SALINE
+
+* If dismissal requested is of specified parties only, of specified       [X] Plaintiff/Petitioner  [ ] Defendant/Respondent
+  causes of action only, or of specified cross-complaints only, so
+  state and identify the parties, causes of action, or cross-             [ ] Cross-complainant     X Cross-Respondent and Cross-
+  complaints to be dismissed.                                                                         Defendant
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date:                                                                     See attached for signature of counsel for
+                                                                          Respondent, Cross-Petitioners, Defendant and
+                                                                          Cross-Complainants
+                                                                          ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [ ] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for:
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [ ] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [ ] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL  [Legal    Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                        Plus Logo]     Cal. Rules of Court,
+[Rev. January 1, 1997]                                           rules 383, 1233
+  Mandatory Form
+<PAGE>
+
+                             Joseph P. Saline, etc.
+                                       v.
+                     Commonwealth Energy Corporation, etc.,
+                            and Consolidated Action
+
+                            OCSC Case No. 01CC10657
+                          consolidated with 01CC13887
+
+================================================================================
+
+                      ATTACHMENT TO REQUEST FOR DISMISSAL
+
+2.   TO THE CLERK: Consent to the above dismissal is hereby given.
+
+Date:     December __, 2004            RUS, MILIBAND & SMITH,
+                                       A Professional Corporation
+
+
+
+                                       BY:
+                                          --------------------------------------
+                                             RONALD RUS
+                                             Attorneys for Respondent,
+                                             Cross-Petitioner, Defendant and
+                                             Cross-Complainant
+                                             COMMONWEALTH ENERGY
+                                             CORPORATION
+
+                                       In Association With:
+
+Date:     December __, 2004            PAUL, HASTINGS, JANOFSKY & WALKER
+
+
+
+                                       BY:
+                                          -------------------------------------
+                                             PETER STONE
+                                             Attorneys for Respondent,
+                                             Cross-Petitioners, Defendant and
+                                             Cross-Complainant
+                                             COMMONWEALTH ENERGY
+                                             CORPORATION, IAN CARTER, BRAD
+                                             GATES and ROBERT PERKINS
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO.          FOR COURT USE ONLY
+
+DAVID A. ROBINSON, Bar No. 107613                                               (949) 833-8550
+ENTERPRISE COUNSEL GROUP, ALC
+5 Park Plaza
+Suite 450
+Irvine, CA 92614
+
+ATTORNEY FOR (Name):   Plaintiff
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: Joseph P. Saline, etc.
+
+DEFENDANT/RESPONDENT: Ian Carter, etc., et al.
+
+AND RELATED CONSOLIDATED ACTION
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                  01CC13887 c/w 01CC10657
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Breach of Contract, et al.
+- -------------------------------------------------------------------------------------------------------------------------------
+
+- -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+</Table>
+
+1. TO THE CLERK: Please dismiss this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (2) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   ENTERPRISE COUNSEL GROUP, ALC
+
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: Joseph P. Saline
+
+* If dismissal requested is of specified parties only, of specified       [X] Plaintiff/Petitioner  [ ] Defendant/Respondent
+  causes of action only, or of specified cross-complaints only, so
+  state and identify the parties, causes of action, or cross-             [ ] Cross-complainant     X Cross-Respondent and Cross-
+  complaints to be dismissed.                                                                         Defendant
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date:                                                                     See attached for signature of counsel for
+                                                                          Respondent, Cross-Petitioners, Defendants and
+                                                                          Cross-Complainants
+                                                                          ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [ ] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for:
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [X] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [X] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL   Legal    Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                          Plus         Cal. Rules of Court,
+[Rev. January 1, 1997]                                           rules 383, 1233
+  Mandatory Form
+<PAGE>
+                             Joseph P. Saline, etc.
+
+                                       v.
+
+                              Ian Carter, et al.,
+                            and Consolidated Action
+
+                            OCSC Case No. 01CC13887
+                          consolidated with 01CC10657
+
+- -------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------
+
+                      ATTACHMENT TO REQUEST FOR DISMISSAL
+
+2.  TO THE CLERK: Consent to the above dismissal is hereby given.
+
+Date: December __, 2004                 RUS, MILBAND & SMITH,
+                                        A Professional Corporation
+
+                                        In Association With:
+                                        PAUL HASTINGS JANOFSKY & WALKER
+
+
+                                        BY:_____________________________________
+                                             RONALD RUS
+                                             Attorneys for Respondent,
+                                             Cross-Petitioner, Defendant and
+                                             Cross-Complainant
+                                             COMMONWEALTH ENERGY
+                                             CORPORATION
+
+
+
+
+732/213769vl tl 12/14/04 2 (2465-0008)
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO.:         FOR COURT USE ONLY
+
+PETER M. STONE, Bar No. 157994                                                   (714) 668-6200
+PAUL HASTINGS JANOFSKY & WALKER LLP
+695 Town Center Drive
+Seventeenth Floor
+Costa Mesa, CA 92626-1924
+
+ATTORNEY FOR (Name): Commonwealth Energy Corporation
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: COMMONWEALTH ENERGY CORPORATION
+
+DEFENDANT/RESPONDENT: JOSEPH OGUNDIJI, etc.
+
+
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                  03CC03409
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Declaratory Relief
+- -------------------------------------------------------------------------------------------------------------------------------
+
+- -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+</Table>
+
+1. TO THE CLERK: Please DISMISS this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (1) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   PAUL HASTINGS JANOFSKY & WALKER LLP
+
+PETER M. STONE                                                            ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: Commonwealth
+                                                                                                            Energy Corporation
+
+* If dismissal requested is of specified parties only, of specified       [X] Plaintiff/Petitioner  [X] Cross-Defendant/Respondent
+  causes of action only, or of specified cross-complaints only, so
+  state and identify the parties, causes of action, or cross-             [ ] Cross-complainant
+  complaints to be dismissed.
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date: December __, 2004
+
+
+                                                                          ENTERPRISE COUNSEL GROUP ALC
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for: Joseph Ogundiji
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [X] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [X] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL  [Legal    Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                          Plus         Cal. Rules of Court,
+[Rev. January 1, 1997]                         Logo]             rules 383, 1233
+  Mandatory Form
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO.:         FOR COURT USE ONLY
+
+DAVID A. ROBINSON, Bar No. 107613                                               (949) 833-8550
+ENTERPRISE COUNSEL GROUP, ALC
+5 Park Plaza
+Suite 450
+Irvine, CA 92612
+
+ATTORNEY FOR (Name):   Plaintiffs
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: JOSEPH P. SALINE, et al.
+
+DEFENDANT/RESPONDENT: ROBERT PERKINS, et al.
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                  04CC05038
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Breach of Contract, et al.
+- -------------------------------------------------------------------------------------------------------------------------------
+
+- -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+</Table>
+
+1. TO THE CLERK: Please DISMISS this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (1) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   ENTERPRISE COUNSEL GROUP, ALC
+
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: Joseph P. Saline
+                                                                           and Joseph Ogundiji
+* If dismissal requested is of specified parties only, of specified
+  causes of action only, or of specified cross-complaints only, so        [X] Plaintiff/Petitioner  [ ] Defendant/Respondent
+  state and identify the parties, causes of action, or cross-
+  complaints to be dismissed.                                             [ ] Cross-complainant
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date:
+
+
+                                                                          ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [ ] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for:
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [ ] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [ ] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL  [Legal    Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                        Plus Logo]     Cal. Rules of Court,
+[Rev. January 1, 1997]                                           rules 383, 1233
+  Mandatory Form
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO.:         FOR COURT USE ONLY
+
+DAVID A. ROBINSON, Bar No. 107613                                               (949) 833-8550
+ENTERPRISE COUNSEL GROUP, ALC
+5 Park Plaza
+Suite 450
+Irvine, CA 92614
+
+ATTORNEY FOR (Name):   Plaintiff
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: Joseph P. Saline
+
+DEFENDANT/RESPONDENT: Ian Carter, et al.
+
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                  04CC09285
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Conversion, etc.
+- -------------------------------------------------------------------------------------------------------------------------------
+
+     -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+- -------------------------------------------------------------------------------------------------------------------------------
+</Table>
+
+1. TO THE CLERK: Please DISMISS this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (1) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   ENTERPRISE COUNSEL GROUP, ALC
+
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: Joseph P. Saline
+
+* If dismissal requested is of specified parties only, of specified       [X] Plaintiff/Petitioner  [ ] Defendant/Respondent
+  causes of action only, or of specified cross-complaints only, so
+  state and identify the parties, causes of action, or cross-             [ ] Cross-complainant
+  complaints to be dismissed.
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date:
+
+
+                                                                          ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [ ] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for:
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [ ] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [ ] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL  [Legal    Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                        Plus Logo]     Cal. Rules of Court,
+[Rev. January 1, 1997]                                           rules 383, 1233
+  Mandatory Form
+<PAGE>
+CASE NO. G031829
+
+OC Superior Court Case No. 01CC10657
+
+                     COURT OF APPEAL - STATE OF CALIFORNIA
+
+                           FOURTH APPELLATE DISTRICT
+
+                                 DIVISION THREE
+
+
+                               JOSEPH P. SALINE,
+
+                            Plaintiff and Appellant,
+
+                                       v.
+
+                        COMMONWEALTH ENERGY CORPORATION,
+
+                           Defendant and Respondent,
+
+                                      and
+
+                   IAN CARTER, ROBERT PERKINS and BRAD GATES,
+
+                          Intervenors and Respondents.
+
+- -------------------------------------------------------------------------------
+
+                  Appeal from Superior Court, County of Orange
+                        The Honorable William M. Monroe
+- -------------------------------------------------------------------------------
+                      STIPULATION FOR DISMISSAL OF APPEAL
+- -------------------------------------------------------------------------------
+
+
+                                        PETER M. STONE, ESQ., Bar No. 157994
+                                        PAUL HASTINGS JANOFSKY & WALKER, LLP
+                                        695 Town Center Drive
+                                        Seventeenth Floor
+                                        Costa Mesa, CA 92626-1924
+                                        Telephone: (714) 668-6200
+                                        Facsimile: (714) 979-1921
+
+                                        Attorneys for Defendant and Respondent
+                                        COMMONWEALTH ENERGY CORPORATION
+<PAGE>
+     The parties hereto, by and through their respective counsel, hereby
+stipulate as follows:
+
+     1.   Pursuant to Rule 20(c) of the California Rules of Court, the parties
+hereby stipulate that the above-referenced Appeal shall be and hereby is
+voluntarily dismissed. The parties request that the Court immediately issue its
+Remittitur.
+
+     2.   All parties shall bear their own fees and costs on Appeal.
+
+DATED:   December __, 2004              PAUL HASTINGS JANOFSKY & WALKER, LLP
+
+
+
+                                        BY:
+                                            ------------------------------------
+                                            PETER M. STONE
+                                            Attorneys for Defendant and
+                                            Respondent
+                                            COMMONWEALTH ENERGY
+                                            CORPORATION and Intervenors and
+                                            Respondents IAN CARTER, ROBERT
+                                            PERKINS and BRAD GATES
+
+
+DATED:   December __, 2004              ENTERPRISE COUNSEL GROUP, ALC
+
+
+
+                                        BY:
+                                            ------------------------------------
+                                            DAVID A. ROBINSON
+                                            Attorneys for Plaintiff and
+                                            Appellant
+                                            JOSEPH P. SALINE
+
+
+<PAGE>
+CASE NO. G033699
+
+OC Superior Court Case No. 01CC10657
+
+
+                     COURT OF APPEAL - STATE OF CALIFORNIA
+
+                           FOURTH APPELLATE DISTRICT
+
+                                 DIVISION THREE
+
+
+                               JOSEPH P. SALINE,
+
+                            Plaintiff and Appellant,
+
+                                       v.
+
+                  COMMONWEALTH ENERGY CORPORATION, IAN CARTER,
+                         ROBERT PERKINS and BRAD GATES,
+
+                          Defendants and Respondents.
+
+________________________________________________________________________________
+
+                Appeal from the Superior Court, County of Orange
+                        The Honorable William M. Monroe
+
+________________________________________________________________________________
+
+                      STIPULATION FOR DISMISSAL OF APPEAL
+
+________________________________________________________________________________
+
+                                            PETER M. STONE, ESQ., Bar No. 157994
+                                            PAUL HASTINGS JANOFSKY & WALKER, LLP
+                                            695 Town Center Drive
+                                            Seventeenth Floor
+                                            Costa Mesa, CA 92626-1924
+                                            Telephone: (714) 668-6200
+                                            Facsimile: (714) 979-1921
+
+                                            Attorneys for Defendants and
+                                            Respondents
+                                            COMMONWEALTH ENERGY CORPORATION and
+                                            IAN B. CARTER
+
+
+<PAGE>
+     The parties hereto, by and through their respective counsel, hereby
+stipulate as follows:
+
+     1.   Pursuant to Rule 20(c) of the California Rules of Court, the parties
+hereby stipulate that the above-referenced Appeal shall be and hereby is
+voluntarily dismissed. The parties request that the Court immediately issue its
+Remittitur.
+
+     2.   All parties shall bear their own fees and costs on Appeal.
+
+DATED:    December __, 2004        PAUL HASTINGS JANOFSKY & WALKER, LLP
+
+
+
+
+                             BY:
+                                  -------------------------------------
+                                       PETER M. STONE
+                                       Attorneys for Defendants and Respondents
+                                       COMMONWEALTH ENERGY
+                                       CORPORATION, IAN CARTER, ROBERT
+                                       PERKINS and BRAD GATES
+
+DATED:  December __, 2004    ENTERPRISE COUNSEL GROUP, ALC
+
+
+                             BY:
+                                  -------------------------------------
+                                       DAVID A. ROBINSON
+                                       Attorneys for Plaintiff and Appellant
+                                       JOSEPH P. SALINE
+
+
+
+
+<PAGE>
+
+                                 EXHIBIT "3" TO
+
+                 SETTLEMENT AGREEMENT AND MUTUAL GENERAL RELEASE
+
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO.          FOR COURT USE ONLY
+
+DAVID A. ROBINSON, Bar No. 107613                                               (949) 833-8550
+ENTERPRISE COUNSEL GROUP, ALC
+5 Park Plaza
+Suite 450
+Irvine, CA 92614
+
+ATTORNEY FOR (Name):   Plaintiff
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: Joseph P. Saline, etc.
+
+DEFENDANT/RESPONDENT: Commonwealth Energy Corporation, etc.,
+
+AND RELATED CONSOLIDATED ACTION
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                  01CC10657 c/w 01CC13887
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Petition to Enforce Corporate Code Section 1602
+- -------------------------------------------------------------------------------------------------------------------------------
+
+- -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+</Table>
+
+1. TO THE CLERK: Please DISMISS this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (2) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   ENTERPRISE COUNSEL GROUP, ALC
+
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: Joseph P. Saline
+
+* If dismissal requested is of specified parties only, of specified       [X] Plaintiff/Petitioner  [ ] Defendant/Respondent
+  causes of action only, or of specified cross-complaints only, so
+  state and identify the parties, causes of action, or cross-             [ ] Cross-complainant     X Cross-Respondent and Cross-
+  complaints to be dismissed.                                                                         Defendant
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date:                                                                     See attached for signature of counsel for
+                                                                          Respondent, Cross-Petitioners, Defendant and
+                                                                          Cross-Complainants
+                                                                          ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [ ] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for:
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [ ] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [ ] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL   Legal    Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                          Plus         Cal. Rules of Court,
+[Rev. January 1, 1997]                                           rules 383, 1233
+  Mandatory Form
+<PAGE>
+                             Joseph P. Saline, etc.
+                                       v.
+                     Commonwealth Energy Corporation, etc.,
+                            and Consolidated Action
+
+                            OCSC Case No. 01CC10657
+                          consolidated with 01CC13887
+
+================================================================================
+
+                      ATTACHMENT TO REQUEST FOR DISMISSAL
+
+2.  TO THE CLERK: Consent to the above dismissal is hereby given.
+
+Date: December __, 2004                 RUS, MILIBAND & SMITH,
+                                        A Professional Corporation
+
+
+
+                                        BY:
+                                           -----------------------------
+                                             RONALD RUS
+                                             Attorneys for Respondent,
+                                             Cross-Petitioner, Defendant
+                                             and Cross-Complainant
+                                             COMMONWEALTH ENERGY
+                                             CORPORATION
+
+                                        In Association With:
+
+Date: December __, 2004                 PAUL, HASTINGS, JANOFSKY & WALKER
+
+
+                                        BY:
+                                           ------------------------------
+                                             PETER STONE
+                                             Attorneys for Respondent,
+                                             Cross-Petitioners, Defendant and
+                                             Cross-Complainant
+                                             COMMONWEALTH ENERGY
+                                             CORPORATION, IAN CARTER, BRAD
+                                             GATES and ROBERT PERKINS
+
+
+
+
+
+
+732/213768v1 tl 12/14/04 1 (2465-0008)
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO.          FOR COURT USE ONLY
+
+DAVID A. ROBINSON, Bar No. 107613                                               (949) 833-8550
+ENTERPRISE COUNSEL GROUP, ALC
+5 Park Plaza
+Suite 450
+Irvine, CA 92614
+
+ATTORNEY FOR (Name):   Plaintiff
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: Joseph P. Saline, etc.
+
+DEFENDANT/RESPONDENT: Ian Carter, etc., et al.
+
+AND RELATED CONSOLIDATED ACTION
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                  01CC13887 c/w 01CC10657
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Breach of Contract, et al.
+- -------------------------------------------------------------------------------------------------------------------------------
+
+- -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+</Table>
+
+1. TO THE CLERK: Please DISMISS this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (1) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   ENTERPRISE COUNSEL GROUP, ALC
+
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: Joseph P. Saline
+
+* If dismissal requested is of specified parties only, of specified       [X] Plaintiff/Petitioner  [ ] Defendant/Respondent
+  causes of action only, or of specified cross-complaints only, so
+  state and identify the parties, causes of action, or cross-             [ ] Cross-complainant     X Cross-Respondent and Cross-
+  complaints to be dismissed.                                                                         Defendant
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date:                                                                     See attached for signature of counsel for
+                                                                          Respondent, Cross-Petitioners, Defendants and
+                                                                          Cross-Complainants
+                                                                          ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [ ] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for:
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [X] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [X] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL  [Legal    Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                          Plus         Cal. Rules of Court,
+[Rev. January 1, 1997]                         Logo]             rules 383, 1233
+  Mandatory Form
+<PAGE>
+                             Joseph P. Saline, etc.
+                                       v.
+                           Ian Carter, etc., et al.,
+                            and Consolidated Action
+
+                            OCSC Case No. 01CC13887
+                          consolidated with 01CC10657
+
+================================================================================
+
+                      ATTACHMENT TO REQUEST FOR DISMISSAL
+
+2.  TO THE CLERK: Consent to the above dismissal is hereby given.
+
+Date: December __, 2004                 RUS, MILIBAND & SMITH,
+                                        A Professional Corporation
+
+                                        In Association With:
+                                        PAUL HASTINGS JANOFSKY & WALKER
+
+
+
+
+                                        BY:
+                                           -----------------------------
+                                             RONALD RUS
+                                             Attorneys for Respondent,
+                                             Cross-Petitioner, Defendant
+                                             and Cross-Complainant
+                                             COMMONWEALTH ENERGY
+                                             CORPORATION
+
+
+
+
+
+732/213769v1 tl 12/14/04 2 (2465-0008)
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO.:         FOR COURT USE ONLY
+
+PETER M. STONE, Bar No. 157994                                                   (714) 668-6200
+PAUL HASTINGS JANOFSKY & WALKER LLP
+695 Town Center Drive
+Seventeenth Floor
+Costa Mesa, CA 92626-1924
+
+ATTORNEY FOR (Name):   Commonwealth Energy Corporation
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: COMMONWEALTH ENERGY CORPORATION
+
+DEFENDANT/RESPONDENT: JOSEPH OGUNDIJI, etc.
+
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                  03CC03409
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Declaratory Relief
+- -------------------------------------------------------------------------------------------------------------------------------
+
+- -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+</Table>
+
+1. TO THE CLERK: Please DISMISS this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (1) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   PAUL HASTINGS JANOFSKY & WALKER LLP
+
+PETER M. STONE                                                            ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: Commonwealth
+                                                                          Energy Corporation
+* If dismissal requested is of specified parties only, of specified       [X] Plaintiff/Petitioner
+  causes of action only, or of specified cross-complaints only, so
+  state and identify the parties, causes of action, or cross-             [ ] Cross-complainant     [X] Cross-Defendant/
+  complaints to be dismissed.                                                                           Respondent
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date: December __, 2004                                                   ENTERPRISE COUNSEL GROUP ALC
+
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for: Joseph Ogundiji
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [X] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [X] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL  [Legal    Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                          Plus         Cal. Rules of Court,
+[Rev. January 1, 1997]                         Logo]             rules 383, 1233
+  Mandatory Form
+<PAGE>
+CASE NO. G033177
+
+OC Superior Court Case No. 01CC13887
+
+                     COURT OF APPEAL - STATE OF CALIFORNIA
+
+                           FOURTH APPELLATE DISTRICT
+
+                                 DIVISION THREE
+
+
+
+                               JOSEPH P. SALINE,
+
+                           Plaintiff and Respondents,
+
+                                       v.
+
+                        COMMONWEALTH ENERGY CORPORATION
+                                and IAN CARTER,
+
+                           Defendants and Appellants.
+
+- --------------------------------------------------------------------------------
+
+                  Appeal from Superior Court of Orange County
+                         The Honorable James M. Brooks
+
+- --------------------------------------------------------------------------------
+
+                      STIPULATION FOR DISMISSAL OF APPEAL
+
+- --------------------------------------------------------------------------------
+
+                                        PETER M. STONE, ESQ., Bar No. 1574994
+                                        PAUL HASTINGS JANOFSKY & WALKER, LLP
+                                        695 Town Center Drive
+                                        Seventeenth Floor
+                                        Costa Mesa, CA 92626-1924
+                                        Telephone:     (714) 668-6200
+                                        Facsimile:     (714) 979-1921
+
+                                        Attorneys for Defendants and Appellants
+                                        COMMONWEALTH ENERGY CORPORATION
+                                        and IAN B. CARTER
+
+<PAGE>
+     The parties hereto, by and through their respective counsel, hereby
+stipulate as follows:
+
+     1.   Pursuant to Rule 20(c) of the California Rules of Court, the parties
+hereby stipulate that the above-referenced Appeal shall be and hereby is
+voluntarily dismissed. The parties request that the Court immediately issue its
+Remittitur.
+
+     2.   All parties shall bear their own fees and costs on Appeal.
+
+DATED:    December __, 2004             PAUL HASTINGS JANOFSKY & WALKER, LLP
+
+
+
+                                        BY:
+                                           -------------------------------------
+                                              PETER M. STONE
+                                              Attorneys for Defendants and
+                                              Appellants
+                                              COMMONWEALTH ENERGY
+                                              CORPORATION and IAN B. CARTER
+
+
+DATED:    December __, 2004             ENTERPRISE COUNSEL GROUP, ALC
+
+
+
+                                        BY:
+                                           ------------------------------------
+                                              DAVID A. ROBINSON
+                                              Attorneys for Plaintiff and
+                                              Respondent
+                                              JOSEPH P. SALINE
+
+<PAGE>
+
+                                 EXHIBIT "4" TO
+
+                 SETTLEMENT AGREEMENT AND MUTUAL GENERAL RELEASE
+
+<PAGE>
+<Table>
+<S>                                                                             <C>                    <C>
+- -------------------------------------------------------------------------------------------------------------------------------
+ATTORNEY OR PARTY WITHOUT ATTORNEY (Name and Address):                           TELEPHONE NO:          FOR COURT USE ONLY
+
+DAVID A. ROBINSON, Bar # 107613                                                  (949) 833-8550
+ENTERPRISE COUNSEL GROUP, ALC
+5 Park Plaza
+Suite 450
+Irvine, CA 92614
+
+ATTORNEY FOR (Name):   Plaintiff
+- ----------------------------------------------------------------------------
+Insert name of court and name of judicial district and branch court, if any:
+
+SUPERIOR COURT OF THE STATE OF CALIFORNIA
+COUNTY OF ORANGE, CENTRAL JUSTICE CENTER
+- ----------------------------------------------------------------------------
+PLAINTIFF/PETITIONER: Joseph P. Saline, etc.
+
+DEFENDANT/RESPONDENT: Commonwealth Energy Corporation, etc.,
+
+AND RELATED CONSOLIDATED ACTION
+- -------------------------------------------------------------------------------------------------------------------------------
+                           REQUEST FOR DISMISSAL                                                        CASE NUMBER:
+
+[ ] PERSONAL INJURY, PROPERTY DAMAGE, OR WRONGFUL DEATH                                                 01CC10657 c/w 01CC13887
+    [ ] MOTOR VEHICLE          [ ] OTHER
+[ ] FAMILY LAW
+[ ] EMINENT DOMAIN
+[X] OTHER (SPECIFY): Petition to Enforce Corporate Code Section 1602
+- -------------------------------------------------------------------------------------------------------------------------------
+
+- -- A CONFORMED COPY WILL NOT BE RETURNED BY THE CLERK UNLESS A METHOD OF RETURN IS PROVIDED WITH THE DOCUMENT. --
+</Table>
+
+1. TO THE CLERK: Please DISMISS this action as follows:
+
+a. (1) [X] With prejudice      (2) [ ] Without prejudice
+
+b. (1) [ ] Complaint           (2) [ ] Petition
+   (3) [ ] Cross-complaint filed by (name):                           on (date):
+   (4) [ ] Cross-complaint filed by (name):                           on (date):
+   (5) [X] Entire action of all parties and all causes of action
+   (6) [ ] Other (specify):*
+
+<Table>
+<S>                                                                      <C>
+Date: December __, 2004                                                   ENTERPRISE COUNSEL GROUP, ALC
+
+DAVID A. ROBINSON                                                         ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+                                                                                             (SIGNATURE)
+(TYPE OR PRINT NAME OF [X] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)          Attorney or party without attorney for: JOSEPH P. SALINE
+
+* If dismissal requested is of specified parties only, of specified       [X] Plaintiff/Petitioner  [ ] Defendant/Respondent
+  causes of action only, or of specified cross-complaints only, so
+  state and identify the parties, causes of action, or cross-             [ ] Cross-complainant     X Cross-Respondent and Cross-
+  complaints to be dismissed.                                                                         Defendant
+=================================================================================================================================
+2. TO THE CLERK: Consent to the above dismissal is hereby given.**
+
+Date:                                                                     See attached for signature of counsel for
+                                                                          Respondent, Cross-Petitioners, Defendant and
+                                                                          Cross-Complainants
+                                                                          ->
+- -------------------------------------------------------------------       -------------------------------------------------------
+(TYPE OR PRINT NAME OF [ ] ATTORNEY  [ ] PARTY WITHOUT ATTORNEY)                               (SIGNATURE)
+
+                                                                          Attorney or party without attorney for:
+** If a cross-complaint - or Response (Family Law) seeking
+   affirmative relief - is on file, the attorney for cross-
+   complainant (respondent) must sign this consent if required by         [ ] Plaintiff/Petitioner  [ ] Defendant/Respondent
+   Code of Civil Procedure section 581(i) or (j).                         [ ] Cross-complainant
+=================================================================================================================================
+</Table>
+
+(To be completed by clerk)
+3. [ ] Dismissal entered as requested on (date):
+4. [ ] Dismissal entered on (date):                           as to only (name):
+5. [ ] Dismissal NOT ENTERED as requested for the following reasons (specify):
+
+6. [ ] a. Attorney or party without attorney notified on (date):
+       b. Attorney or party without attorney not notified. Filing party failed
+          to provide
+          [ ] a copy to conform      [ ] means to return conformed copy
+
+Date:                              Clerk, by                            , Deputy
+                                             ---------------------------
+
+- --------------------------------------------------------------------------------
+Form Adopted by the    REQUEST FOR DISMISSAL   [Legal   Code of Civil Procedure,
+Judicial Council of                          Solutions       Section 581 et seq.
+ California 982(a)(5)                        Plus LOGO]     Cal. Rules of Court,
+[Rev. January 1, 1997]                                           rules 383, 1233
+  Mandatory Form
+<PAGE>
+
+                             Joseph P. Saline, etc.
+                                       v.
+                     Commonwealth Energy Corporation, etc.,
+                            and Consolidated Action
+
+                            OCSC Case No. 01CC10657
+                          consolidated with 01CC13887
+
+================================================================================
+
+                      ATTACHMENT TO REQUEST FOR DISMISSAL
+
+2.   TO THE CLERK: Consent to the above dismissal is hereby given.
+
+Date: December __, 2004                 RUS, MILIBAND & SMITH,
+                                        A Professional Corporation
+
+
+
+                                        BY:
+                                            ------------------------------------
+                                             RONALD RUS
+                                             Attorneys for Respondent, Cross-
+                                             Petitioner, Defendant and Cross-
+                                             Complainant
+                                             COMMONWEALTH ENERGY CORPORATION
+
+                                        In Association With:
+
+Date: December __, 2004                 PAUL, HASTINGS, JANOFSKY & WALKER
+
+
+
+                                        BY:
+                                            ------------------------------------
+                                             PETER STONE
+                                             Attorneys for Respondent, Cross-
+                                             Petitioners, Defendant and Cross-
+                                             Complainant
+                                             COMMONWEALTH ENERGY CORPORATION,
+                                             IAN CARTER, BRAD GATES and ROBERT
+                                             PERKINS
+<PAGE>
+CASE NO. G033177
+
+OC Superior Court Case No. 01CC13887
+
+
+                     COURT OF APPEAL - STATE OF CALIFORNIA
+
+                           FOURTH APPELLATE DISTRICT
+
+                                 DIVISION THREE
+
+
+                               JOSEPH P. SALINE,
+
+                           Plaintiff and Respondents,
+
+                                       v.
+
+                        COMMONWEALTH ENERGY CORPORATION
+                                and IAN CARTER,
+
+                           Defendants and Appellants.
+
+- --------------------------------------------------------------------------------
+
+                  Appeal from Superior Court of Orange County
+                         The Honorable James M. Brooks
+
+- --------------------------------------------------------------------------------
+
+                      STIPULATION FOR DISMISSAL OF APPEAL
+
+- --------------------------------------------------------------------------------
+
+                                        PETER M. STONE, ESQ., Bar No. 1574994
+                                        PAUL HASTINGS JANOFSKY & WALKER, LLP
+                                        695 Town Center Drive
+                                        Seventeenth Floor
+                                        Costa Mesa, CA 92626-1924
+                                        Telephone:  (714) 668-6200
+                                        Facsimile:  (714) 979-1921
+
+                                        Attorneys for Defendants and Appellants
+                                        COMMONWEALTH ENERGY CORPORATION
+                                        and IAN B. CARTER
+<PAGE>
+     The parties hereto, by and through their respective counsel, hereby
+stipulate as follows:
+
+     1.   Pursuant to Rule 20(c) of the California Rules of Court, the parties
+hereby stipulate that the above-referenced Appeal shall be and hereby is
+voluntarily dismissed. The parties request that the Court immediately issue its
+Remittitur.
+
+     2.   All parties shall bear their own fees and costs on Appeal.
+
+DATED:    December __, 2004        PAUL HASTINGS JANOFSKY & WALKER, LLP
+
+
+
+
+                             BY:
+                                  -------------------------------------
+                                       PETER M. STONE
+                                       Attorneys for Defendants and Appellants
+                                       COMMONWEALTH ENERGY
+                                       CORPORATION and IAN B. CARTER
+
+
+DATED:  December __, 2004    ENTERPRISE COUNSEL GROUP, ALC
+
+
+                             BY:
+                                  -------------------------------------
+                                       DAVID A. ROBINSON
+                                       Attorneys for Plaintiff and Respondent
+                                       JOSEPH P. SALINE
+
+
+
+<PAGE>
+
+                                 EXHIBIT "5" TO
+
+                 SETTLEMENT AGREEMENT AND MUTUAL GENERAL RELEASE
+
+FOR IMMEDIATE RELEASE
+
+        COMMERCE ENERGY GROUP REACHES SETTLEMENT WITH SALINE AND OGUNDIJI
+
+COSTA MESA, CA, December __, 2004 -- Commerce Energy Group, Inc. (AMEX: EGR) a
+leading U.S. electricity service provider, announced today that it had entered
+into a full and comprehensive Settlement Agreement and Mutual General Release
+with stockholder and former director of Commonwealth Energy Corporation, Joseph
+P. Saline, and stockholder Joseph Ogundiji. The Settlement Agreement effectively
+ends all the various legal actions between the parties that began in 2001
+without requiring either party to admit fault and with both parties
+acknowledging that the resulting settlement is in the best interest of the
+Company's stockholders. The Settlement Agreement acknowledges and validates Mr.
+Saline's shares in common stock in the Company and provides for a $1.2 million
+settlement payment to Mr. Saline. The Settlement Agreement also provides Mr.
+Ogundiji with a payment of $222,400 in settlement of all his claims and for
+canceling all of his shares of common stock. In addition, Mr. Saline and Mr.
+Ogundiji agreed that for the next two years they would submit any future
+disputes to mediation before commencing litigation or before they take any steps
+to contact the Company's stockholders for any reason related to bringing a proxy
+contest.
+
+"We are pleased to have reached settlement with Mr. Saline and Mr. Ogundiji and
+to put an end to the ongoing disputes. This allows the company to better
+allocate resources, significantly reduce ongoing legal expenditures, and focus
+on growing our business for the benefit of all our stockholders", said Commerce
+President, Peter Weigand.
+
+About Commerce Energy Group, Inc
+
+Commerce Energy Group, Inc. is a provider of energy products and services to
+homeowners, commercial and industrial consumers, utilities, governments and
+energy asset owners. Operating since 1998 as Commonwealth Energy Corporation,
+Commerce Energy Group now operates through its subsidiaries including
+Commonwealth Energy Corporation, which holds FERC and state licenses for retail
+and wholesale energy commodities and is a retail electricity provider to homes
+and businesses in California, Michigan, Pennsylvania and New Jersey under the
+brand name "electricAmerica"; Skipping Stone, an energy consulting firm; and
+utiliHost, an outsourcing services and technology provider. For more information
+visit http://www.CommerceEnergy.com.
+
+Contact:
+Investor Relations
+Verna Ray
+vray@electric.com
+Tel: 714-259-2500
+
+FORWARD-LOOKING STATEMENTS: Certain statements contained within this press
+release including, without limitation, statements containing the words
+"believe," "anticipate," "expect," "estimate," "await," "continue," "intend,"
+"plan" and similar expressions are forward-looking statements that involve risks
+and uncertainties. These forward-looking statements, are not guarantees of
+future performance and involve certain risks, uncertainties and assumptions that
+are difficult to predict. Actual outcomes and results may differ materially from
+what is expressed in, or implied by, such forward-looking statements. The risks
+and uncertainties that could cause actual results to differ materially from
+those expressed in, or implied by, the forward-looking statements include, but
+are not limited to, the volatility of the energy market, competition, operating
+hazards, uninsured risks, changes in energy-related state legislation,
+
+<PAGE>
+
+failure of performance by suppliers and transmitters, uncertainties relating to
+the pending litigation, changes in general economic conditions, increased or
+unexpected competition, and other matters disclosed in Commerce Energy's filings
+with the Securities and Exchange Commission. Further, Commerce Energy undertakes
+no obligation to release publicly any revisions to these forward-looking
+statements that may be made to reflect events or circumstances after the date
+hereof or to reflect the occurrence of unanticipated events.
+
+                                       ###
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

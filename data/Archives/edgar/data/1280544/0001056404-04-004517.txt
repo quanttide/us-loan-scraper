@@ -1,0 +1,1820 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QTBJu+9MDXZUBmNZ0GHnTRus6PzuNRqPTIAc6hI4aRGgD4NNlZUIDEuh1MXfSRpS
+ JZOmF3ihCtGtZp37tLKumA==
+
+<SEC-DOCUMENT>0001056404-04-004517.txt : 20041223
+<SEC-HEADER>0001056404-04-004517.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223142745
+ACCESSION NUMBER:		0001056404-04-004517
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041217
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CSFB MORT SEC CORP COMM MORT PAS THR CERTS SERS 2004 C1
+		CENTRAL INDEX KEY:			0001280544
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-97955-08
+		FILM NUMBER:		041223748
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>csfb0400c1_dec.txt
+<DESCRIPTION>DEC 8-K
+<TEXT>
+                                  UNITED STATES
+                        SECURITIES AND EXCHANGE COMMISSION
+                              Washington D.C. 20549
+
+                                     FORM 8-K
+
+                                  CURRENT REPORT
+    Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+
+ Date of Report: December 17, 2004
+ (Date of earliest event reported)
+
+ Commission File No.: 333-97955-08
+
+ Credit Suisse First Boston Mortgage Securities Corp.
+ Commercial Mortgage Pass-Through Certificates
+ Series 2004-C1
+ (Exact name of registrant as specified in its charter)
+
+
+ New York (governing law of Pooling and Servicing Agreement)
+ (State of Incorporation)
+
+
+ 54-2147321
+ 54-2147322
+ 54-2147323
+ 54-2147324
+ 54-2147325
+ 54-6601026
+ 54-6601027
+ (I.R.S. Employer Identification No.)
+
+ c/o Wells Fargo Bank, N.A.
+ 9062 Old Annapolis Road
+ Coulmbia, MD                                           21045
+ (Address of principal executive offices)             (Zip Code)
+
+ (410) 884-2000
+ Registrant's Full Telephone Number
+
+
+ (Former name, former address and former fiscal year, if changed since last
+ report)
+
+
+ Check the appropriate box below if the Form 8-K filing is intended to
+
+ simultaneously satisfy the filing obligation of the registrant under any
+
+ of the following provisions (see General Instruction A.2. below):
+
+ [ ] Written communications pursuant to Rule 425 under the Securities Act
+
+     (17 CFR 230.425)
+
+
+ [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+
+ [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+
+     Exchange Act(17 CFR 240.14d-2(b))
+
+
+ [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+
+     Exchange Act(17 CFR 240.13e-4(c))
+
+ ITEM 8.01  Other Events
+
+ On December 17, 2004, a distribution was made to holders of Credit
+ Suisse First Boston Mortgage Securities Corp., Commercial Mortgage
+ Pass-Through Certificates, Series 2004-C1.
+
+
+
+ ITEM 9.01  Financial Statements and Exhibits
+
+ (c) Exhibits
+
+ Exhibit Number    Description
+
+ (EX-99.1)      Monthly report distributed to holders of Commercial Mortgage
+                Pass-Through Certificates, Series 2004-C1, relating to the
+                December 17, 2004 distribution.
+
+
+
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the
+ registrant has duly caused this report to be signed on its behalf by the
+ undersigned hereunto duly authorized.
+
+
+          Credit Suisse First Boston Mortgage Securities Corp.
+             Commercial Mortgage Pass-Through Certificates
+                             Series 2004-C1
+                              (Registrant)
+            By:      Wells Fargo Bank, N.A. as Trustee
+            By:      /s/ Beth Belfield, Assistant Vice President
+            By:      Beth Belfield, Assistant Vice President
+
+            Date:    December 17, 2004
+
+                           INDEX TO EXHIBITS
+
+ Exhibit Number               Description
+
+ (EX-99.1)           Monthly report distributed to holders of Commercial
+                     Mortgage Pass-Through Certificates, Series 2004-C1,
+                     relating to the December 17, 2004 distribution.
+
+
+ Wells Fargo Bank, N.A.
+ Corporate Trust Services
+ 9062 Old Annapolis Road
+ Columbia, MD 21045-1951
+
+
+ Credit Suisse First Boston Mortgage Securities Corp.
+ Commercial Mortgage Pass-Through Certificates
+ Series 2004-C1
+
+
+ For Additional Information, please contact
+ CTSLink Customer Service
+ (301) 815-6600
+
+
+ Reports Available on the World Wide Web
+ @ www.ctslink.com/cmbs
+
+
+ Payment Date:   December 17, 2004
+ Record Date:    November 30, 2004
+
+
+                          DISTRIBUTION DATE STATEMENT
+
+                               Table of Contents
+
+ STATEMENT SECTIONS                                                  PAGE(s)
+
+ Certificate Distribution Detail                                       2
+ Certificate Factor Detail                                             3
+ Reconciliation Detail                                                 4
+ Other Required Information                                            5
+ Cash Reconciliation                                                   6
+ Ratings Detail                                                        7
+ Current Mortgage Loan and Property Stratification Tables            8 - 10
+ Mortgage Loan Detail                                               11 - 19
+ Principal Prepayment Detail                                           20
+ Historical Detail                                                     21
+ Delinquency Loan Detail                                               22
+ Specially Serviced Loan Detail                                     23 - 24
+ Modified Loan Detail                                                  25
+ Liquidated Loan Detail                                                26
+
+
+    Master Servicer
+
+ Midland Loan Services, Inc.
+ 10851 Mastin Street, Bldg. 82
+ Suite 700
+ Overland Park, KS 66210
+ Contact:      Brad Hauger
+ Phone Number: (913) 253-9000
+
+
+    Master Servicer
+
+ KeyCorp Real Estate Capital Markets,  Inc.
+ 911 Main Street, Suite 1500
+ Kansas City, MO 64105
+
+ Contact:      Marty O'Conner
+ Phone Number: (816) 221-8800
+
+
+    Master & Special Servicer
+
+ National Cooperative Bank, FSB
+ 1725 Eye Street, NW
+ Washington, DC 20006
+
+ Contact:      Kathleen Luzik
+ Phone Number: (202) 336-7633
+
+
+ This report has been compiled from information provided to
+ Wells Fargo Bank, N.A. by various third parties, which may
+ include the Servicer, Master Servicer, Special Servicer and others.
+ Wells Fargo Bank, N.A. has not independently confirmed the
+ accuracy of information received from these third parties and
+ assumes no duty to do so. Wells Fargo Bank, N.A. expressly
+ disclaims any responsibility for the accuracy or completeness
+ of information furnished by third parties.
+
+
+ Copyright 2004, Wells Fargo Bank, N.A.
+
+ <TABLE>
+ <CAPTION>
+                                               Certificate Distribution Detail
+
+ Class            CUSIP       Pass-Through          Original           Beginning          Principal             Interest
+                                  Rate              Balance             Balance            Payment              Payment
+ <s>               <c>            <c>                 <c>                 <c>                <c>                  <c>
+ A-1            22541SAA6      2.254000%          84,226,000.00       72,314,128.57      1,652,789.66           135,830.04
+ A-2            22541SAB4      3.516000%         260,312,000.00      260,312,000.00              0.00           762,714.16
+ A-3            22541SAC2      4.321000%         156,544,000.00      156,544,000.00              0.00           563,688.85
+ A-4            22541SAD0      4.750000%         885,151,000.00      885,151,000.00              0.00         3,503,722.71
+ B              22541SAE8      4.855000%          44,586,000.00       44,586,000.00              0.00           180,387.53
+ C              22541SAF5      4.887000%          18,240,000.00       18,240,000.00              0.00            74,282.40
+ D              22541SBF4      4.956000%          36,480,000.00       36,480,000.00              0.00           150,662.40
+ E              22541SBG2      5.015000%          18,240,000.00       18,240,000.00              0.00            76,228.00
+ F              22541SBH0      5.213000%          22,293,000.00       22,293,000.00              0.00            96,844.51
+ G              22541SBJ6      5.312000%          16,213,000.00       16,213,000.00              0.00            71,769.55
+ H              22541SBK3      5.484800%          18,240,000.00       18,240,000.00              0.00            83,368.96
+ J              22541SBL1      5.042000%           8,107,000.00        8,107,000.00              0.00            34,062.91
+ K              22541SBM9      5.042000%           8,106,000.00        8,106,000.00              0.00            34,058.71
+ L              22541SBN7      5.042000%           6,080,000.00        6,080,000.00              0.00            25,546.13
+ M              22541SBP2      5.042000%          10,134,000.00       10,134,000.00              0.00            42,579.69
+ N              22541SBQ0      5.042000%           4,053,000.00        4,053,000.00              0.00            17,029.36
+ O              22541SBR8      5.042000%           4,053,000.00        4,053,000.00              0.00            17,029.36
+ P              22541SBS6      5.042000%          20,267,236.46       20,267,236.46              0.00            84,092.62
+ R                 N/A         0.000000%                   0.00                0.00              0.00                 0.00
+ V                 N/A         0.000000%                   0.00                0.00              0.00                 0.00
+
+ Totals                                        1,621,325,236.46    1,609,413,365.03      1,652,789.66         5,953,897.89
+ </TABLE>
+
+
+ <TABLE>
+ <CAPTION>
+
+ Class            CUSIP            Prepayment         Realized Loss/         Total             Ending          Current
+                                   Penalties         Additional Trust     Distribution        Balance       Subordination
+                                                      Fund Expenses                                           Level (1)
+ <s>               <c>                <c>                  <c>                <c>               <c>              <c>
+ A-1            22541SAA6               0.00                   0.00       1,788,619.70      70,661,338.91       14.62%
+ A-2            22541SAB4               0.00                   0.00         762,714.16     260,312,000.00       14.62%
+ A-3            22541SAC2               0.00                   0.00         563,688.85     156,544,000.00       14.62%
+ A-4            22541SAD0               0.00                   0.00       3,503,722.71     885,151,000.00       14.62%
+ B              22541SAE8               0.00                   0.00         180,387.53      44,586,000.00       11.85%
+ C              22541SAF5               0.00                   0.00          74,282.40      18,240,000.00       10.71%
+ D              22541SBF4               0.00                   0.00         150,662.40      36,480,000.00        8.45%
+ E              22541SBG2               0.00                   0.00          76,228.00      18,240,000.00        7.31%
+ F              22541SBH0               0.00                   0.00          96,844.51      22,293,000.00        5.92%
+ G              22541SBJ6               0.00                   0.00          71,769.55      16,213,000.00        4.92%
+ H              22541SBK3               0.00                   0.00          83,368.96      18,240,000.00        3.78%
+ J              22541SBL1               0.00                   0.00          34,062.91       8,107,000.00        3.28%
+ K              22541SBM9               0.00                   0.00          34,058.71       8,106,000.00        2.77%
+ L              22541SBN7               0.00                   0.00          25,546.13       6,080,000.00        2.40%
+ M              22541SBP2               0.00                   0.00          42,579.69      10,134,000.00        1.76%
+ N              22541SBQ0               0.00                   0.00          17,029.36       4,053,000.00        1.51%
+ O              22541SBR8               0.00                   0.00          17,029.36       4,053,000.00        1.26%
+ P              22541SBS6               0.00                   0.00          84,092.62      20,267,236.46        0.00%
+ R                 N/A                  0.00                   0.00               0.00               0.00        0.00%
+ V                 N/A                  0.00                   0.00               0.00               0.00        0.00%
+
+ Totals                                 0.00                   0.00       7,606,687.55   1,607,760,575.37
+ </TABLE>
+ <TABLE>
+
+ <CAPTION>
+
+
+ Class         CUSIP       Pass-Through           Original              Beginning              Interest
+                               Rate               Notional               Notional             Distribution
+                                                   Amount                Amount
+
+ <s>            <c>            <c>                   <c>                   <c>                    <c>
+ A-X         22541SBT4      0.054390%         1,621,325,236.46       1,609,413,365.03            72,946.07
+ A-SP        22541SBU1      1.044595%         1,525,780,000.00       1,525,780,000.00         1,328,184.57
+ A-Y         CSF04C1AY      0.607566%           148,581,712.83         147,659,422.82            74,760.76
+
+ </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+
+ Class            CUSIP           Prepayment            Total              Ending
+                                   Penalties         Distribution         Notional
+                                                                           Amount
+ <s>               <c>                <c>                <c>                 <c>
+ A-X            22541SBT4               0.00            72,946.07     1,607,760,575.37
+ A-SP           22541SBU1               0.00         1,328,184.57     1,525,780,000.00
+ A-Y            CSF04C1AY               0.00            74,760.76       147,536,890.03
+ <FN>
+
+ (1) Calculated by taking (A) the sum of the ending certificate balance of all
+ classes less (B) the sum of (i) the ending certificate balance of the designated
+ class and (ii) the ending certificate balance of all classes which are not
+ subordinate to the designated class and dividing the result by (A).
+
+ </FN>
+ </TABLE>
+ <TABLE>
+ <CAPTION>
+                                                 Certificate Factor Detail
+
+ Class          CUSIP        Beginning        Principal          Interest      Prepayment      Realized Loss/      Ending
+                              Balance        Distribution      Distribution    Penalties         Additional       Balance
+                                                                                                 Trust Fund
+                                                                                                  Expenses
+ <s>             <c>            <c>              <c>                <c>           <c>               <c>             <c>
+ A-1          22541SAA6     858.57251407     19.62327144        1.61268539     0.00000000        0.00000000      838.94924263
+ A-2          22541SAB4   1,000.00000000      0.00000000        2.93000000     0.00000000        0.00000000    1,000.00000000
+ A-3          22541SAC2   1,000.00000000      0.00000000        3.60083331     0.00000000        0.00000000    1,000.00000000
+ A-4          22541SAD0   1,000.00000000      0.00000000        3.95833334     0.00000000        0.00000000    1,000.00000000
+ B            22541SAE8   1,000.00000000      0.00000000        4.04583345     0.00000000        0.00000000    1,000.00000000
+ C            22541SAF5   1,000.00000000      0.00000000        4.07250000     0.00000000        0.00000000    1,000.00000000
+ D            22541SBF4   1,000.00000000      0.00000000        4.13000000     0.00000000        0.00000000    1,000.00000000
+ E            22541SBG2   1,000.00000000      0.00000000        4.17916667     0.00000000        0.00000000    1,000.00000000
+ F            22541SBH0   1,000.00000000      0.00000000        4.34416678     0.00000000        0.00000000    1,000.00000000
+ G            22541SBJ6   1,000.00000000      0.00000000        4.42666687     0.00000000        0.00000000    1,000.00000000
+ H            22541SBK3   1,000.00000000      0.00000000        4.57066667     0.00000000        0.00000000    1,000.00000000
+ J            22541SBL1   1,000.00000000      0.00000000        4.20166646     0.00000000        0.00000000    1,000.00000000
+ K            22541SBM9   1,000.00000000      0.00000000        4.20166667     0.00000000        0.00000000    1,000.00000000
+ L            22541SBN7   1,000.00000000      0.00000000        4.20166612     0.00000000        0.00000000    1,000.00000000
+ M            22541SBP2   1,000.00000000      0.00000000        4.20166667     0.00000000        0.00000000    1,000.00000000
+ N            22541SBQ0   1,000.00000000      0.00000000        4.20166790     0.00000000        0.00000000    1,000.00000000
+ O            22541SBR8   1,000.00000000      0.00000000        4.20166790     0.00000000        0.00000000    1,000.00000000
+ P            22541SBS6   1,000.00000000      0.00000000        4.14919025     0.00000000        0.00000000    1,000.00000000
+ R               N/A          0.00000000      0.00000000        0.00000000     0.00000000        0.00000000        0.00000000
+ V               N/A          0.00000000      0.00000000        0.00000000     0.00000000        0.00000000        0.00000000
+
+ </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+ Class           CUSIP          Beginning           Interest         Prepayment         Ending
+                                Notional          Distribution       Penalties         Notional
+                                 Amount                                                 Amount
+ <s>              <c>              <c>                <c>               <c>               <c>
+ A-X           22541SBT4       992.65300313        0.04499163        0.00000000       991.63359653
+ A-SP          22541SBU1     1,000.00000000        0.87049546        0.00000000     1,000.00000000
+ A-Y           CSF04C1AY       993.79270845        0.50316259        0.00000000       992.96802561
+
+ </TABLE>
+
+
+ <TABLE>
+ <CAPTION>
+
+                                   Reconciliation Detail
+
+                                      Advance Summary
+
+ <s>                                                                              <c>
+ P & I Advances Outstanding                                                     248,907.04
+ Servicing Advances Outstanding                                                  13,891.36
+ Reimbursement for Interest on P&I Advances                                          41.47
+ paid from general collections
+ Reimbursement for Interest on Servicing Advances                                     0.00
+
+ paid from general collections
+
+
+ </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+                              Master Servicing Fee Breakdowns
+ <s>                                                                              <c>
+ Current Period Accrued Master Servicing Fees                                    67,309.47
+ Less Delinquent Master Servicing Fees                                              544.93
+ Less Reductions to Master Servicing Fees                                             0.00
+ Plus Master Servicing Fees for Delinquent Payments Received                        225.34
+ Plus Adjustments for Prior Master Servicing Calculation                              0.00
+ Total Master Servicing Fees Collected                                           66,989.88
+ </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+
+                                                   Certificate Interest Reconciliation
+
+     Class     Accrued       Net Aggregate     Distributable    Distributable      Additional        Interest       Remaining Unpaid
+              Certificate       Prepayment       Certificate      Certificate       Trust Fund      Distribution      Distributable
+               Interest         Interest         Interest          Interest         Expenses                          Certificate
+                                Shortfall                          Adjustment                                            Interest
+ <s>               <c>              <c>               <c>              <c>               <c>              <c>               <c>
+ A-1          135,830.04            0.00        135,830.04                0.00             0.00        135,830.04              0.00
+ A-2          762,714.16            0.00        762,714.16                0.00             0.00        762,714.16              0.00
+ A-3          563,688.85            0.00        563,688.85                0.00             0.00        563,688.85              0.00
+ A-4        ,503,722.71             0.00      3,503,722.71                0.00             0.00      3,503,722.71              0.00
+ A-X           72,946.07            0.00         72,946.07                0.00             0.00         72,946.07              0.00
+ A-SP       ,328,184.57             0.00      1,328,184.57                0.00             0.00      1,328,184.57              0.00
+ A-Y           74,760.76            0.00         74,760.76                0.00             0.00         74,760.76              0.00
+ B            180,387.53            0.00        180,387.53                0.00             0.00        180,387.53              0.00
+ C             74,282.40            0.00         74,282.40                0.00             0.00         74,282.40              0.00
+ D            150,662.40            0.00        150,662.40                0.00             0.00        150,662.40              0.00
+ E             76,228.00            0.00         76,228.00                0.00             0.00         76,228.00              0.00
+ F             96,844.51            0.00         96,844.51                0.00             0.00         96,844.51              0.00
+ G             71,769.55            0.00         71,769.55                0.00             0.00         71,769.55              0.00
+ H             83,368.96            0.00         83,368.96                0.00             0.00         83,368.96              0.00
+ J             34,062.91            0.00         34,062.91                0.00             0.00         34,062.91              0.00
+ K             34,058.71            0.00         34,058.71                0.00             0.00         34,058.71              0.00
+ L             25,546.13            0.00         25,546.13                0.00             0.00         25,546.13              0.00
+ M             42,579.69            0.00         42,579.69                0.00             0.00         42,579.69              0.00
+ N             17,029.36            0.00         17,029.36                0.00             0.00         17,029.36              0.00
+ O             17,029.36            0.00         17,029.36                0.00             0.00         17,029.36              0.00
+ P             85,156.17            0.00         85,156.17                0.00         1,063.55         84,092.62          1,431.95
+
+ Total      7,430,852.84            0.00      7,430,852.84                0.00         1,063.55      7,429,789.29          1,431.95
+ </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+                                   Other Required Information
+  <s>                                                                               <c>
+
+  Available Distribution Amount  (1)                                              9,082,578.95
+
+  Aggregate Number of Outstanding Loans                                                    264
+  Aggregate Unpaid Principal Balance of Loans                                 1,607,813,330.92
+  Aggregate Stated Principal Balance of Loans                                 1,607,760,575.45
+
+  Aggregate Amount of Master Servicing Fee                                           66,989.88
+  Aggregate Amount of Special Servicing Fee                                           1,022.08
+
+  Aggregate Amount of Trustee Fee                                                     2,413.97
+  Aggregate Amount of Primary Servicing Fee                                               0.00
+  Aggregate Trust Fund Expenses                                                          41.47
+
+  Interest Reserve Deposit                                                                0.00
+  Interest Reserve Withdrawal                                                             0.00
+
+  Specially Serviced Loans not Delinquent
+        Number of Outstanding Loans                                                          0
+        Aggregate Unpaid Principal Balance                                                0.00
+
+  <fn>
+
+
+  (1)  The Available Distribution Amount includes any Prepayment Premiums.
+  </fn>
+
+  </TABLE>
+
+                              Appraisal Reduction Amount
+
+                                         None
+
+   <TABLE>
+
+                                     Cash Reconciliation Detail
+
+   <s>                                                                                  <C>
+   Total Funds Collected
+   Interest:
+   Scheduled Interest                                                              7,500,576.47
+   Interest reductions due to Nonrecoverability Determinations                             0.00
+   Interest Adjustments                                                                    0.00
+   Deferred Interest                                                                       0.00
+   Net Prepayment Interest Shortfall                                                       0.00
+   Net Prepayment Interest Excess                                                          0.00
+   Extension Interest                                                                      0.00
+   Interest Reserve Withdrawal                                                             0.00
+   Total Interest Collected                                                                           7,500,576.47
+
+   Principal:
+   Scheduled Principal                                                             1,652,789.69
+   Unscheduled Principal                                                                   0.00
+   Principal Prepayments                                                                   0.00
+   Collection of Principal after Maturity Date                                             0.00
+   Recoveries from Liquidation and Insurance Proceeds                                      0.00
+   Excess of Prior Principal Amounts paid                                                  0.00
+   Curtailments                                                                            0.00
+   Negative Amortization                                                                   0.00
+   Principal Adjustments                                                                   0.00
+   Total Principal Collected                                                                          1,652,789.69
+
+   Other:
+   Prepayment Penalties/Yield Maintenance                                                  0.00
+   Repayment Fees                                                                          0.00
+   Borrower Option Extension Fees                                                          0.00
+   Equity Payments Received                                                                0.00
+   Net Swap Counterparty Payments Received                                                 0.00
+   Total Other Collected:                                                                                     0.00
+   Total Funds Collected                                                                              9,153,366.16
+
+   Total Funds Distributed
+   Fees:
+   Master Servicing Fee                                                               67,309.47
+   Trustee Fee                                                                         2,413.97
+   Certificate Administration Fee                                                          0.00
+   Insurer Fee                                                                             0.00
+   Miscellaneous Fee                                                                       0.00
+   Total Fees                                                                                            69,723.44
+
+   Additional Trust Fund Expenses:
+   Reimbursement for Interest on Advances                                                 41.47
+   ASER Amount                                                                             0.00
+   Special Servicing Fee                                                               1,022.08
+   Rating Agency Expenses                                                                  0.00
+   Attorney Fees & Expenses                                                                0.00
+   Bankruptcy Expense                                                                      0.00
+   Taxes Imposed on Trust Fund                                                             0.00
+   Non-Recoverable Advances                                                                0.00
+   Other Expenses                                                                          0.00
+   Total Additional Trust Fund Expenses                                                                   1,063.55
+
+   Interest Reserve Deposit                                                                                   0.00
+
+
+   Payments to Certificateholders & Others:
+   Interest Distribution                                                           7,429,789.29
+   Principal Distribution                                                          1,652,789.66
+   Prepayment Penalties/Yield Maintenance                                                  0.00
+   Borrower Option Extension Fees                                                          0.00
+   Equity Payments Paid                                                                    0.00
+   Net Swap Counterparty Payments Paid                                                     0.00
+   Total Payments to Certificateholders & Others                                                      9,082,578.95
+   Total Funds Distributed                                                                            9,153,365.94
+
+   </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+                                             Ratings Detail
+
+      Class         CUSIP           Original Ratings                       Current Ratings  (1)
+                                Fitch     Moody's    S & P              Fitch    Moody's     S & P
+  <s>                <c>         <c>        <c>       <c>                <c>       <c>        <c>
+       A-1        22541SAA6       X         Aaa       AAA                 X        Aaa        AAA
+       A-2        22541SAB4       X         Aaa       AAA                 X        Aaa        AAA
+       A-3        22541SAC2       X         Aaa       AAA                 X        Aaa        AAA
+       A-4        22541SAD0       X         Aaa       AAA                 X        Aaa        AAA
+       A-X        22541SBT4       X         Aaa       AAA                 X        Aaa        AAA
+       A-SP       22541SBU1       X         Aaa       AAA                 X        Aaa        AAA
+       A-Y        CSF04C1AY       X         Aaa       AAA                 X        Aaa        AAA
+        B         22541SAE8       X         Aa2        AA                 X        Aa2        AA
+        C         22541SAF5       X         Aa3       AA-                 X        Aa3        AA-
+        D         22541SBF4       X         A2         A                  X         A2         A
+        E         22541SBG2       X         A3         A-                 X         A3        A-
+        F         22541SBH0       X        Baa1       BBB+                X        Baa1      BBB+
+        G         22541SBJ6       X        Baa2       BBB                 X        Baa2       BBB
+        H         22541SBK3       X        Baa3       BBB-                X        Baa3      BBB-
+        J         22541SBL1       X         Ba1       BB+                 X        Ba1        BB+
+        K         22541SBM9       X         Ba2        BB                 X        Ba2        BB
+        L         22541SBN7       X         Ba3       BB-                 X        Ba3        BB-
+        M         22541SBP2       X         B1         B+                 X         B1        B+
+        N         22541SBQ0       X         B2         B                  X         B2         B
+        O         22541SBR8       X         B3         B-                 X         B3        B-
+        P         22541SBS6       X         NR         NR                 X         NR        NR
+
+ <FN>
+  NR   - Designates that the class was not rated by the above agency at the time of
+         original issuance.
+
+   X   - Designates that the above rating agency did not rate any classes in this transaction at the time of
+         original issuance.
+
+  N/A  - Data not available this period.
+
+ 1) For any class not rated at the time of original issuance by any particular
+ rating agency, no request has been made subsequent to issuance to obtain rating
+ information, if any, from such rating agency. The current ratings were obtained
+ directly from the applicable rating agency within 30 days of the payment date
+ listed above. The ratings may have changed since they were obtained. Because the
+ ratings may have changed, you may want to obtain current ratings directly from the
+ rating agencies.
+
+
+ Fitch, Inc.
+ One State Street Plaza
+ New York, New York 10004
+ (212) 908-0500
+
+ Moody's Investors Service
+ 99 Church Street
+ New York, New York 10007
+ (212) 553-0300
+
+ Standard & Poor's Rating Services
+ 55 Water Street
+ New York, New York 10041
+ (212) 438-2430
+
+ </FN>
+ </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+                          Current Mortgage Loan and Property Stratification Tables
+
+                                Scheduled Balance
+
+            Scheduled               # of            Scheduled           % of       WAM        WAC           Weighted
+             Balance                Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        Less than 750,000            16            9,727,165.45         0.61       107       6.0179         8.149490
+       750,001 to 1,000,000          15           13,358,366.21         0.83        99       6.2846        16.141898
+      1,000,001 to 1,250,000         20           23,014,890.85         1.43       113       6.0238         6.742099
+      1,250,001 to 1,500,000         22           30,771,827.88         1.91       105       6.1060         4.004447
+      1,500,001 to 2,000,000         31           54,955,705.68         3.42       108       6.2309         2.877253
+      2,000,001 to 2,500,000         24           53,102,795.57         3.30       107       5.9871         1.743106
+      2,500,001 to 3,000,000         15           40,735,929.91         2.53       103       5.8910         3.329955
+      3,000,001 to 4,000,000         23           82,140,283.31         5.11       105       5.9117         1.745774
+      4,000,001 to 4,500,000         13           55,096,062.10         3.43        98       6.1360         1.625421
+      4,500,001 to 5,000,000          8           38,863,000.94         2.42        97       5.9983         1.976403
+      5,000,001 to 7,500,000         24          146,743,694.21         9.13       114       5.9378         2.480344
+     7,500,001 to 10,000,000         17          148,073,092.58         9.21       101       5.7544         3.586412
+     10,000,001 to 12,500,000        12          132,946,865.77         8.27       117       5.9774         1.483019
+     12,500,001 to 15,000,000         4           54,943,890.79         3.42       100       5.7687         1.788997
+     15,000,001 to 20,000,000         6          106,855,153.79         6.65        96       5.3154         1.511339
+     20,000,001 to 25,000,000         6          131,803,154.62         8.20        98       5.5322         1.739746
+     25,000,001 to 30,000,000         1           25,311,486.15         1.57        37       6.1000         1.210000
+     30,000,001 to 50,000,000         5          219,284,685.24        13.64        68       4.4549         4.755946
+     50,000,001 to 75,000,000         0                    0.00         0.00         0       0.0000         0.000000
+         Above 75,000,000             2          240,032,524.40        14.93       108       5.4226         1.647488
+
+              Totals                264        1,607,760,575.45       100.00        99       5.5924         2.686752
+  </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                   State  (3)
+
+              State                 # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Props            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+             Alabama                  1            1,154,321.81         0.07       167       6.3700         1.780000
+             Arizona                  3           19,259,204.33         1.20       108       5.9815         1.650483
+             Arkansas                 3            3,959,765.74         0.25       136       6.2251         1.592808
+            California               28          318,187,419.25        19.79        89       4.9400         3.643377
+             Colorado                 1            3,886,989.38         0.24       106       6.1300         1.620000
+           Connecticut                5           12,280,178.94         0.76       106       6.1298         3.123783
+             Florida                 13           51,188,899.38         3.18        95       5.7461         1.787524
+             Georgia                  5           34,455,047.03         2.14       106       5.8104         1.414324
+              Hawaii                  1            5,402,273.59         0.34       287       6.1800         2.100000
+             Illinois                 7           52,863,685.99         3.29       107       5.9589         1.496226
+             Indiana                  7           21,738,330.62         1.35       106       5.8742         1.395693
+               Iowa                   1            4,279,926.69         0.27       108       6.6600         1.680000
+              Kansas                  2            9,319,612.11         0.58        79       5.4443         1.136760
+             Kentucky                 2            2,956,181.87         0.18       105       6.4800         1.833831
+            Louisiana                 3            4,372,118.87         0.27        93       6.2606         1.995394
+              Maine                   1            1,764,460.13         0.11       105       6.4300         1.710000
+             Maryland                 1           25,981,802.35         1.62       106       6.8800         1.590000
+          Massachusetts               1            4,642,809.94         0.29       108       5.6400         1.630000
+             Michigan                 6           29,777,487.79         1.85       107       6.2111         2.071585
+            Minnesota                 1            1,671,330.75         0.10       108       5.9700         1.710000
+           Mississippi                1            1,058,192.33         0.07       110       6.0700         1.570000
+             Missouri                 5           13,270,722.16         0.83        62       6.0413         1.348062
+             Nebraska                 1            2,468,310.94         0.15       107       5.9300         1.230000
+              Nevada                  2           15,763,463.26         0.98       109       5.9578         1.476945
+          New Hampshire               1           23,000,000.00         1.43       106       5.3800         2.200000
+            New Jersey                3            9,902,579.68         0.62        96       6.5700         1.594344
+            New Mexico                4           20,404,453.84         1.27       107       5.9133         1.539446
+             New York                70          321,242,205.75        19.98       108       5.7393         4.805798
+          North Carolina              3           32,920,368.67         2.05       109       5.9356         1.377557
+               Ohio                  13           76,404,074.25         4.75        91       5.4939         1.426633
+             Oklahoma                 5           37,781,718.85         2.35       115       5.7866         1.950508
+              Oregon                  4           16,203,107.50         1.01       106       5.9462         1.334439
+           Pennsylvania               5           12,042,149.38         0.75       105       6.0774         1.619214
+          South Carolina              1            1,690,306.91         0.11        99       5.9900         1.290000
+           South Dakota               1            1,689,394.76         0.11       110       6.0700         1.570000
+            Tennessee                 5           16,232,184.97         1.01        92       5.8907         1.483795
+              Texas                  45          205,922,749.84        12.81       107       5.9194         1.419844
+               Utah                   4            9,944,845.99         0.62       104       6.6074         2.023569
+             Virginia                 5           44,493,060.85         2.77        94       6.3495         2.107438
+            Washington                6           38,861,519.51         2.42       105       6.3835         1.554384
+            Wisconsin                 8           97,323,320.66         6.05        61       3.9332         2.198214
+
+              Totals                284        1,607,760,575.45       100.00        99       5.5924         2.686752
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                        Debt Service Coverage Ratio  (1)
+
+           Debt Service             # of            Scheduled           % of       WAM        WAC           Weighted
+          Coverage Ratio            Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+            Below 1.25               54          266,079,174.55        16.55        96       5.9298         1.088217
+           1.26 to 1.31              12           85,979,136.25         5.35       107       5.9496         1.288700
+           1.32 to 1.37              11           61,226,713.12         3.81       106       5.9414         1.356918
+           1.38 to 1.43               6           23,508,714.35         1.46       104       6.1106         1.410355
+           1.44 to 1.49              22          117,689,425.12         7.32       108       5.9053         1.464047
+           1.50 to 1.55              11           55,629,878.25         3.46       108       6.0509         1.525681
+           1.56 to 1.76              42          361,568,304.45        22.49       111       5.9784         1.597587
+           1.77 to 2.07              23          211,785,658.88        13.17       101       5.5377         1.835963
+           2.08 to 3.08              27          200,945,485.22        12.50        89       4.8861         2.461088
+           3.09 to 5.09              15           44,853,432.86         2.79        95       5.6129         4.040485
+           5.10 to 7.10              14           28,703,848.56         1.79       112       5.7946         6.090963
+          7.11 to 12.11              12          122,918,140.59         7.65        62       3.8737         9.012903
+           Above 12.12               15           26,872,663.25         1.67       106       5.6696        23.107673
+
+              Totals                264        1,607,760,575.45       100.00        99       5.5924         2.686752
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                              Property Type  (3)
+
+             Property               # of            Scheduled           % of       WAM        WAC           Weighted
+               Type                 Props            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+            Industrial                7           32,777,383.00         2.04       106       6.0289         1.527172
+             Lodging                 11           98,729,828.49         6.14       105       6.7955         1.785084
+            Mixed Use                11          201,773,690.52        12.55       108       5.8097         1.535189
+           Multi-Family             160          572,252,264.33        35.59       104       5.7897         3.318683
+              Office                 23          193,671,734.67        12.05        82       4.9386         2.053929
+              Retail                 59          473,970,213.22        29.48        95       5.2104         3.028626
+           Self Storage              13           34,585,462.43         2.15       112       6.1061         1.480559
+
+              Totals                284        1,607,760,575.45       100.00        99       5.5924         2.686752
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Note Rate
+
+            Note Rate               # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+           Below 4.500%               5          161,476,757.80        10.04        45       3.2447         6.080123
+        4.5001% to 5.000%             7           57,528,282.63         3.58        65       4.8814         3.108824
+        5.0001% to 5.500%            23          217,942,631.59        13.56       102       5.2399         2.668730
+        5.5001% to 5.750%            39          373,721,863.70        23.24       107       5.6425         2.362973
+        5.7501% to 6.000%            70          289,234,545.81        17.99       103       5.8640         2.296041
+        6.0001% to 6.250%            49          234,434,823.76        14.58       103       6.0942         2.424388
+        6.2501% to 6.500%            33          111,011,294.75         6.90       132       6.3562         1.574640
+        6.5001% to 6.750%            23           88,342,504.54         5.49       106       6.6559         1.803805
+        6.7501% to 7.250%            10           66,085,083.43         4.11       112       6.8850         1.759570
+          Above 7.2501%               5            7,982,787.44         0.50       112       7.8090         1.427262
+
+              Totals                264        1,607,760,575.45       100.00        99       5.5924         2.686752
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Seasoning
+
+            Seasoning               # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        12 months or less            90          759,511,233.52        47.24       106       5.6522         2.165432
+         13 to 24 months            165          773,259,710.44        48.10        92       5.4256         3.302860
+         25 to 36 months              3            8,594,898.50         0.53       114       6.9050         1.521715
+         37 to 48 months              2            3,071,123.25         0.19        79       7.8350         0.911221
+      49 months and greater           4           63,323,609.74         3.94       106       6.6238         1.660336
+
+              Totals                264        1,607,760,575.45       100.00        99       5.5924         2.686752
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+               Anticipated Remaining Term (ARD and Balloon Loans)
+
+           Anticipated              # of            Scheduled           % of       WAM        WAC           Weighted
+        Remaining Term (2)          Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        45 months or less            12          211,058,183.88        13.13        43       3.8848         4.976107
+         45 to 84 months             21          178,396,960.37        11.10        52       4.2921         5.467781
+         85 to 117 months           223        1,273,691,196.15        79.22       107       5.8731         2.386886
+        118 to 296 months             4           13,318,911.79         0.83       154       6.6538         0.756039
+      297 months or greater           0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                256        1,579,467,958.77        98.24        97       5.5818         2.699932
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                 Remaining Stated Term (Fully Amortizing Loans)
+
+         Remaining Stated           # of            Scheduled           % of       WAM        WAC           Weighted
+               Term                 Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        45 months or less             0                    0.00         0.00         0       0.0000         0.000000
+         45 to 84 months              0                    0.00         0.00         0       0.0000         0.000000
+         85 to 117 months             1            3,468,445.28         0.22       107       4.4900         1.210000
+        118 to 296 months             7           24,824,171.40         1.54       265       6.4212         2.054511
+      297 months or greater           0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                  8           28,292,616.68         1.76       246       6.1845         1.950981
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+               Remaining Amortization Term (ARD and Balloon Loans)
+
+      Remaining Amortization        # of            Scheduled           % of       WAM        WAC           Weighted
+               Term                 Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+          Interest Only              13          165,616,000.00        10.30        67       4.2129         7.981414
+       Less than 250 months          15           25,858,939.18         1.61       104       5.9603         2.570990
+        251 to 300 months            87          364,824,492.76        22.69       104       6.2844         1.669335
+        301 to 355 months           124          971,283,229.38        60.41        98       5.5334         1.849406
+        356  to 360 months            0                    0.00         0.00         0       0.0000         0.000000
+      361 months or greater          17           51,885,297.45         3.23       106       5.7280         9.074086
+
+              Totals                256        1,579,467,958.77        98.24        97       5.5818         2.699932
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                             Age of Most Recent NOI
+
+           Age of Most              # of            Scheduled           % of       WAM        WAC           Weighted
+            Recent NOI              Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+    Underwriter's Information        10           97,226,604.17         6.05       110       5.8382         1.363291
+          1 year or less            217        1,318,675,872.32        82.02        99       5.5125         2.956306
+           1 to 2 years              37          191,858,098.96        11.93        98       6.0169         1.504744
+       2 years and greater            0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                264        1,607,760,575.45       100.00        99       5.5924         2.686752
+ <FN>
+
+ (1) Debt Service Coverage Ratios are updated periodically as new NOI figures
+ become available from borrowers on an asset level. In all cases the most current
+ DSCR provided by the Servicer is used. To the extent that no DSCR is provided by
+ the Servicer, information from the offering document is used. The Trustee makes
+ no representations as to the accuracy of the data provided by the borrower for
+ this calculation.
+ (2) Anticipated Remaining Term and WAM are each calculated based upon the term
+
+ from the current month to the earlier of the Anticipated Repayment Date, if
+ applicable, and the maturity date.
+
+ (3) Data in this table was calculated by allocating pro-rata the current loan
+ information to the properties based upon the Cut-off Date Balance of the related
+ mortgage loan as disclosed in the offering document.
+
+ Note: (i) "Scheduled Balance" has the meaning assigned thereto in the CMSA
+ Standard Information Package.
+
+ </FN>
+ </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+                               Mortgage Loan Detail
+
+       Loan                   Property                                        Interest       Principal       Gross
+      Number         ODCR     Type (1)     City                  State        Payment         Payment       Coupon
+        <s>          <c>         <c>         <c>                  <c>           <c>             <c>           <c>
+     10022929         1          MU     Bron                      NY           661,231.49     157,896.53    5.660%
+     30239396         2          RT     Los Angeles               CA           424,178.97           0.00    5.090%
+     30239030        3.1         RT     Palo Alto                 CA           123,750.00           0.00    3.300%
+     30239031        3.2         RT     Palo Alto                 CA           123,750.00           0.00    3.300%
+     10021278        4.1         OF     Wauwatosa                 WI           126,042.48      87,683.04    3.108%
+     10021279        4.2         OF     Wauwatosa                 WI            50,416.99      35,073.21    3.108%
+     30239345         5          LO     Various                 Various        282,206.86      67,364.41    6.880%
+     10023526         6          RT     Bourbonnais               IL           159,187.16      47,870.43    6.045%
+     30239309         7          MF     Various                 Various        128,809.20      28,028.31    6.100%
+     30239319         8          LO     Pasco                     WA            56,365.95      14,473.07    6.700%
+     30239318         9          LO     Salt Lake City            UT            32,834.53       8,430.92    6.700%
+     30239320         10         LO     Redding                   CA            27,362.11       7,025.76    6.700%
+     30239317         11         LO     Richland                  WA            22,436.93       5,761.13    6.700%
+     940950250        12         MF     San Antonio               TX           112,400.00           0.00    5.620%
+     10022342         13         MF     Nashua                    NH           103,116.67           0.00    5.380%
+     10021651         14         RT     Columbus                  OH            88,939.12      27,822.37    4.920%
+     940950521        15         MF     San Antonio               TX           101,733.33           0.00    5.600%
+     940950530        16         OF     Oklahoma City             OK           100,595.42      33,884.00    5.690%
+     30239356         17         MF     Various                 Various        101,229.19      21,386.07    6.020%
+     940950531        18         MF     Charlotte                 NC            91,255.01      20,470.17    5.820%
+     30239346         19         MF     Riverdale                 GA            90,798.14      20,476.52    5.850%
+     10022537         20         MF     Blacklick                 OH            80,890.61      20,747.45    5.450%
+     940950504        21         OF     Seattle                   WA            86,591.92      17,281.48    6.150%
+     940950537        22         IN     San Diego                 CA            73,916.47      16,880.56    5.770%
+     10022009         23         RT     Oakwood Village           OH            72,920.74      15,953.78    5.890%
+     10020837         24         OF     Las Vegas                 NV            68,063.70      14,944.29    5.880%
+     10021857         25         RT     Palm Beach Gardens        FL            55,287.47           0.00    4.960%
+     30239351         26         MU     Los Angeles               CA            68,074.84      12,815.80    6.350%
+     10021368         27         RT     Hales Corners             WI            57,512.69      13,450.78    5.690%
+     940950488        28         MF     Houston                   TX            55,300.00           0.00    5.530%
+     940950487        29         MF     Gainesville               FL            54,425.13      13,440.71    5.540%
+     10022272         30         RT     Irving                    TX            61,703.47      16,973.85    6.410%
+     30239310         31         MF     San Bernardino            CA            51,471.49      14,154.60    5.390%
+     10022110         32         RT     Holtsville                NY            63,926.81      16,072.49    6.730%
+     30239413         33         RT     Monroe                    MI            52,184.81      17,937.09    5.700%
+     10022247         34         MU     Cincinnati                OH            55,197.55      11,638.28    6.040%
+     940950409        35         OF     Tempe                     AZ            52,414.92      10,766.10    6.100%
+     10019373         36         RT     Various                 Various         51,952.54      15,500.52    6.070%
+     940950458        37         MU     La Mesa                   CA            50,555.33      10,766.86    5.980%
+     10022180         38         OF     New York                  NY            46,078.58      11,392.39    5.610%
+     47002618         39         MF     New York                  NY            48,020.00           0.00    5.880%
+     940950456        40         RT     San Luis Obispo           CA            45,684.15      10,321.43    5.800%
+     47003346         41         MF     New York                  NY            43,858.33           0.00    5.540%
+     47002726         42         MF     Chicago                   IL            44,552.01       5,845.64    5.800%
+     10021888         43         RT     Sterling                  VA            34,727.00           0.00    4.510%
+     47002964         44         MF     Forest Hills              NY            39,395.81      11,499.29    5.170%
+     30239339         45         MF     Dallas                    TX            43,501.32       9,951.17    5.810%
+     940950397        46         OF     Tulsa                     OK            42,593.48      10,048.23    5.710%
+     10020284         47         MF     Humble                    TX            42,568.36       9,480.72    5.980%
+     10022708         48         RT     Big Pine Key              FL            43,106.32       8,314.68    6.280%
+     940950297        49         IN     Whitsett                  NC            41,891.22      12,298.35    6.140%
+     10021950         50         MU     Orange                    CA            39,726.30       8,753.60    5.870%
+     30239362         51         RT     Albuquerque               NM            42,154.04       7,935.93    6.350%
+     940950446        52         MF     Lawrence                  KS            33,923.99       9,368.78    5.250%
+     30239357         53         OF     Daly City                 CA            37,060.97       8,556.86    5.770%
+     30239372         54         LO     Dearborn                  MI            41,880.13      10,540.65    6.660%
+     30239358         55         RT     Brentwood                 TN            33,668.65       8,028.97    5.680%
+     10022242         56         MF     Indianapolis              IN            35,247.13       7,458.00    6.030%
+     940950485        57         RT     Avondale                  AZ            32,640.85       7,721.42    5.640%
+     10021013         58         RT     Egg Harbor Township       NJ            38,463.22       9,719.02    6.670%
+     47003284         59         MF     New York                  NY            32,351.35       7,922.50    5.620%
+     47003166         60         MF     New York                  NY            31,245.39       2,994.56    5.540%
+     30239336         61         MU     Stamford                  CT            35,056.02       6,768.65    6.310%
+     47003243         62         MF     New York                  NY            29,149.23       2,349.64    5.300%
+     47900100         63         RT     Atlanta                   GA            31,194.33       6,766.41    5.900%
+     940950334        64         RT     Brookfield                WI            31,866.99       9,558.66    6.090%
+     10021320         65         RT     Lancaster                 CA            32,387.90       9,019.40    6.370%
+     10022702         66         MF     Albany                    OR            29,748.43       6,511.00    5.920%
+     30239322         67         MF     Fort Wayne                IN            26,639.28       7,127.51    5.420%
+     10021491         68         MF     Mesquite                  TX            24,536.07       7,673.23    5.000%
+     47003295         69         MF     Amagansett                NY            31,577.58       8,356.02    6.620%
+     47003255         70         MF     Mt. Vernon                NY            28,432.39       6,155.31    5.950%
+     47003095         71         MF     Rego Park                 NY            27,527.48       3,340.06    5.740%
+     30239313         72         IN     South Holland             IL            11,910.91       2,789.77    5.820%
+     30239314         73         IN     Bellwood                  IL            10,148.09       2,376.89    5.820%
+     30239312         74         IN     Melrose Park              IL             5,574.30       1,305.62    5.820%
+     10022111         75         MF     Houston                   TX            29,784.45       5,632.79    6.370%
+     10021635         76         SS     Elk Grove                 CA            26,901.26       8,518.98    5.900%
+     940950343        77         MF     Beaumont                  TX            25,956.48       6,035.29    5.720%
+     30239368         78         MF     Honolulu                  HI            27,863.84       8,180.36    6.180%
+     30239341         79         MF     Scappoose                 OR            26,174.25       8,629.59    5.830%
+     10018629         80         RT     Macedon                   NY            25,743.85      12,687.06    6.150%
+     30239364         81         MF     Albuquerque               NM            22,916.67           0.00    5.500%
+     10022340         82         MF     Fort Oglethorpe           GA            23,223.26       5,687.61    5.620%
+     47002938         83         MF     Riverdale                 NY            23,507.09       2,896.58    5.680%
+     30239331         84         MF     West Palm Beach           FL            25,633.73       7,411.58    6.270%
+     10018851         85         OF     Houston                   TX            24,111.82       5,556.08    5.950%
+     30239371         86         LO     Livonia                   MI            25,867.14       6,510.40    6.660%
+     10021063         87         MF     Fall River                MA            21,845.90       5,254.48    5.640%
+     10022088         88         RT     Nacogdoches               TX            18,684.87       8,175.52    5.000%
+     10020645         89         RT     Taos                      NM            20,619.66       7,256.66    5.590%
+     30239334         90         MF     Abilene                   TX            22,240.50       4,768.21    6.010%
+     10022234         91         SS     Van Nuys                  CA            20,985.71       4,775.41    5.780%
+     30239375         92         LO     Clive                     IA            23,786.82       5,986.81    6.660%
+     940950486        93         OF     Huntington Beach          CA            21,380.01       6,456.52    6.050%
+     30239340         94         LO     Mechanicsville            VA            24,128.45       5,852.83    6.850%
+     10022005         95         MF     Tumwater                  WA            20,825.97       6,695.29    5.930%
+     30239306         96         OF     San Antonio               TX            21,331.19       4,431.09    6.100%
+     10022300         97         MF     Houston                   TX            20,112.65       4,584.50    5.820%
+     30239330         98         RT     Dallas                    TX            22,561.39       3,942.95    6.600%
+     10022197         99         LO     Richmond                  VA            23,006.19       5,580.62    6.850%
+     10021563        100         MF     Waco                      TX            19,136.35       6,353.61    5.770%
+     47002865        101         MF     Briarwood                 NY            20,778.12       2,234.10    6.270%
+     10021633        102         SS     Rocklin                   CA            19,388.30       6,139.80    5.900%
+     47003215        103         MF     Bethpage                  NY            17,825.77       4,873.94    5.420%
+     10022369        104         MU     Lakewood                  CO            19,876.78       4,060.62    6.130%
+     47900092        105         MU     Burke                     VA            20,799.49       5,533.59    6.500%
+     30239326        106         MF     Dallas                    TX            18,731.94       6,134.23    5.890%
+     10021520        107         MF     Atlanta                   GA            17,220.46       9,607.15    5.500%
+     10021776        108         RT     Greenfield                WI            18,053.95       5,220.00    5.750%
+     10022060        109         MF     Spring Valley             NY            20,403.82       3,664.77    6.520%
+     30239359        110         RT     Bedford                   NY            13,076.13      26,288.15    4.490%
+     10022429        111         SS     San Jacinto               CA            16,824.92       5,984.79    5.540%
+     940950290       112         RT     Chicago                   IL            17,920.64       3,906.78    5.900%
+     940950476       113         MF     Stillwater                OK            18,727.20       3,413.85    6.410%
+     47003217        114         MF     Lansing                   MI            17,752.10       1,798.96    6.120%
+     30239343        115         RT     Chestnut Hill             PA            16,789.81       3,813.46    5.830%
+     10021891        116         RT     Marshalls Creek           PA            17,472.22       3,462.16    6.250%
+     10022089        117         SS     Carrollton                TX            17,544.59       4,815.12    6.440%
+     940950205       118         OF     Portland                  OR            16,445.45       3,419.06    6.080%
+     940950457       119         MU     Westminster               CA            16,438.21       3,298.63    6.120%
+     10022695        120         OF     White Plains              NY            14,082.03       3,787.21    5.350%
+     30239338        121         MF     Madison                   WI            15,000.39       3,415.32    5.840%
+     10022296        122         MF     Las Cruces                NM            14,961.57       5,624.69    5.920%
+     30239342        123         MF     San Antonio               TX            15,381.52       4,615.63    6.150%
+     47003323        124         MF     New York                  NY            13,375.00           0.00    5.350%
+     10022344        125         MF     Toledo                    OH            12,923.37       4,663.33    5.550%
+     10017929        126         MF     Richton Park              IL            13,557.83       4,388.04    5.870%
+     10019101        127         MF     Clarksville               TN            14,440.85       3,244.47    6.260%
+     10022367        128         MF     Melbourne                 FL            13,069.51       4,477.85    5.710%
+     10022190        129         SS     Spring Hill               FL            14,374.22       2,737.26    6.350%
+     30239363        130         RT     Houston                   TX            13,886.05       4,102.17    6.160%
+     10021693        131         RT     Durant                    OK            13,565.39       2,779.03    6.090%
+     47003161        132         MF     Hartsdale                 NY            12,321.77       4,513.50    5.580%
+     30239325        133         MF     Various                   OH            11,369.19       3,356.89    5.140%
+     940950500       134         RT     Waukeska                  WI            13,003.63       3,941.39    6.020%
+     30239349        135         RT     Orlando                   FL            14,091.76       3,714.53    6.550%
+     940950447       136         OF     Kansas City               MO            12,468.10       3,998.83    5.820%
+     10022181        137         MF     Nacogdoches               TX            12,415.10       2,857.04    5.810%
+     10019489        138         RT     Kearney                   NE            12,226.57       5,868.35    5.930%
+     47003183        139         MF     Bron                      NY            13,035.57       5,572.50    6.390%
+     940950478       140         RT     Corpus Christi            TX            12,714.66       2,476.08    6.220%
+     47002919        141         MF     Dobbs Ferry               NY            11,537.26       6,085.47    5.720%
+     30239316        142         MF     Pasadena                  TX            10,543.91       2,937.29    5.310%
+     10021735        143         SS     Fort Wayne                IN            11,262.84       3,633.27    5.860%
+     30239361        144         OF     San Diego                 CA            11,785.79       2,378.76    6.150%
+     30239360        145         OF     Manhattan Beach           CA            11,678.30       2,348.84    6.160%
+     10020825        146         MF     Seattle                   WA            11,235.85       2,450.47    5.930%
+     30239379        147         MF     Hartford                  CT            10,818.40       3,990.43    5.920%
+     10023365        148         MF     Saginaw                   MI            11,164.89       2,283.72    6.080%
+     10021749        149         SS     Indianapolis              IN            11,434.01       3,174.06    6.320%
+     10021988        150         RT     Medford                   NY            12,105.66       3,052.74    6.720%
+     30239315        151         MF     Dallas                    TX             9,546.38       3,767.18    5.350%
+     30239355        152         MF     Garland                   TX            10,637.52       3,314.47    5.990%
+     10022038        153         MF     Painesville               OH             5,960.58       2,641.53    6.270%
+     10022039        154         MF     Painesville               OH             4,819.19       2,135.71    6.270%
+     47002878        155         MF     New York                  NY            10,129.34       2,382.20    5.860%
+     30239344        156         OF     Fishers                   IN            10,776.74       2,126.02    6.230%
+     47003149        157         MF     Kew Gardens               NY            10,066.82       2,403.79    5.830%
+     30239354        158         MF     Mesa                      AZ            11,050.91       2,895.65    6.550%
+     30239335        159         MF     Swarthmore                PA            10,320.52       3,116.27    6.130%
+     10022108        160         MF     Swarthmore                PA            10,320.52       3,116.27    6.130%
+     30239311        161         MF     North Royalton            OH             8,875.57       2,508.18    5.300%
+     47003143        162         MF     Yonkers                   NY             9,600.00           0.00    5.760%
+     30239374        163         MF     North Hills               CA             9,580.22       2,167.58    5.810%
+     47003275        164         MF     Kew Gardens               NY             9,043.18       2,312.60    5.500%
+     940950223       165         RT     Franklin                  KY            10,688.57       1,939.64    6.490%
+     30239352        166         MF     Houston                   TX             9,682.14       3,094.08    5.910%
+     47003258        167         MF     New York                  NY             9,221.09       4,752.16    5.690%
+     10021489        168         OF     Norwalk                   CT             9,775.69       3,110.34    6.000%
+     10023369        169         RT     Jersey City               NJ             9,874.44       2,880.84    6.160%
+     880232479       170         MF     Donna                     TX            13,163.36       1,432.68    8.230%
+     30239367        171         IN     Monsey                    NY            10,893.68       2,577.04    6.890%
+     30239366        172         MF     South 13th Street         NV            10,287.85       2,712.14    6.530%
+     30237842        173         RT     Burleson                  TX             9,512.41       2,879.58    6.270%
+     940950499       174         MF     Forrest City              AR             9,657.85       1,769.58    6.410%
+     47003017        175         MF     New York                  NY             7,454.80       2,277.42    4.990%
+     30239380        176         SS     Richmond                  CA            10,583.83       3,588.46    7.200%
+     30239329        177         MF     Eliot                     ME             9,468.53       2,606.58    6.430%
+     47002887        178         MF     Jackson Heights           NY             8,826.66       1,015.90    6.090%
+     47003231        179         MF     Jamaica                   NY             8,226.23       1,902.58    5.780%
+     10020094        180         OF     Mount Pleasant            SC             8,446.85       1,884.31    5.990%
+     47003260        181         MF     New York                  NY             8,075.00           0.00    5.700%
+     30239376        182         OF     Plymouth                  MN             8,327.78       2,594.19    5.970%
+     10022078        183         MF     Shreveport                LA             8,701.28       2,523.61    6.260%
+     30239385        184         MF     Houston                   TX            10,639.01       2,359.73    7.650%
+     30239384        185         IN     Oceanside                 CA            10,542.88       1,542.75    7.610%
+     10021700        186         RT     Aleandria                 LA             8,049.63       1,745.02    5.930%
+     30239378        187         MF     Stockton                  CA             8,201.59       2,407.81    6.140%
+     30239381        188         RT     San Diego                 CA             7,426.67           0.00    5.570%
+     30239373        189         MF     Northridge                CA             7,664.18       1,734.06    5.810%
+     30239369        190         MF     Overland Park             KS             8,411.83       2,291.72    6.400%
+     10022432        191         MF     Nashville                 TN             7,648.58       1,749.66    5.810%
+     10022147        192         MF     Oregon City               OR             8,020.48       1,625.79    6.170%
+     940950475       193         MF     Stillwater                OK             6,956.89       1,663.76    5.610%
+     47003133        194         MF     New York                  NY             6,912.50           0.00    5.530%
+     47003156        195         MF     Greenwich                 CT             7,157.59       1,643.71    5.800%
+     10022334        196         RT     Draper                    UT             7,999.18       1,452.27    6.470%
+     10022414        197         MF     Various                   FL             6,694.25       1,756.82    5.430%
+     10022127        198         MF     West Valley City          UT             7,877.92       2,175.33    6.420%
+     10021043        199         RT     Crosby                    TX             7,820.64       2,213.94    6.400%
+     10021052        200         SS     Port Saint Lucie          FL             7,015.16       2,318.55    5.900%
+     30239383        201         OF     Edmonds                   WA             9,532.04       1,965.70    8.100%
+     10022321        202         MF     Utica                     NY             7,190.53       3,259.44    6.160%
+     30239328        203         RT     Abilene                   TX             7,629.70       2,043.64    6.520%
+     10022441        204         MF     South Bend                IN             6,526.79       3,386.13    5.680%
+     47003222        205         MF     New York                  NY             6,393.33           0.00    5.480%
+     47003085        206         MF     New York                  NY             6,108.21         963.81    5.270%
+     47003320        207         MF     Yonkers                   NY             6,433.54       1,654.40    5.580%
+     30239348        208         SS     Watauga                   TX             7,722.53       2,955.89    6.790%
+     47003282        209         MF     Riverdale                 NY             6,014.20         907.16    5.380%
+     10022295        210         MF     Lower Lake                CA             6,961.82       1,359.14    6.260%
+     10022152        211         OF     Fort Lauderdale           FL             8,128.90       1,707.41    7.340%
+     30239321        212         RT     Memphis                   TN             6,422.78       1,498.39    5.800%
+     30239324        213         MU     New York                  NY             6,394.54       1,725.39    6.010%
+     10021986        214         RT     San Angelo                TX             6,882.74       1,843.56    6.520%
+     47003212        215         MF     New York                  NY             6,259.38       1,291.35    6.070%
+     30239350        216         MF     Roseville                 CA             6,362.40       1,277.25    6.180%
+     10022358        217         MF     Nacogdoches               TX             6,128.87       1,890.81    6.040%
+     47003069        218         MF     Bron                      NY             5,991.09       1,298.36    5.930%
+     30239333        219         MF     Media                     PA             6,162.25       1,860.69    6.130%
+     47003267        220         MF     Bron                      NY             5,548.57       1,347.95    5.610%
+     47003103        221         MF     New Rochelle              NY             5,889.36         654.74    5.930%
+     47003301        222         MF     New York                  NY             6,012.35       2,695.96    6.160%
+     30239347        223         MF     Garland                   TX             5,891.15       1,840.47    6.000%
+     10022619        224         MF     Cottondale                AL             6,150.23       4,277.97    6.370%
+     47003308        225         MF     Forest Hills              NY             5,436.44       1,812.19    5.770%
+     10022681        226         SS     American Fork             UT             6,126.68       2,481.30    6.550%
+     47003190        227         MF     Woodside                  NY             5,481.23         850.52    5.890%
+     47002996        228         MF     New York                  NY             4,574.17           0.00    4.990%
+     47003211        229         MF     New York                  NY             5,226.75         627.44    5.740%
+     10022182        230         SS     Scott                     LA             6,089.61       1,517.36    6.760%
+     30239353        231         RT     Camden                    NJ             5,960.78       2,344.47    6.660%
+     47003299        232         MF     New York                  NY             4,872.01         615.20    5.600%
+     47003087        233         MF     New York                  NY             4,848.98       1,069.59    5.880%
+     10022489        234         MF     Louisville                KY             5,293.11       1,433.99    6.460%
+     30239337        235         MF     Donna                     TX             4,901.58       1,541.43    6.000%
+     47003083        236         MF     Amityville                NY             4,912.36       2,235.71    6.160%
+     30239327        237         MF     Sturgis                   MI             5,483.36         837.01    7.000%
+     30239323        238         MF     San Antonio               TX             4,658.41         952.45    6.160%
+     30239370        239         MF     Baytown                   TX             4,648.46       1,977.19    6.340%
+     10021042        240         RT     Cedarhurst                NY             4,317.02       1,426.80    5.900%
+     47003313        241         MF     Forest Hills              NY             4,152.63         905.36    5.930%
+     47003174        242         MF     New York                  NY             4,135.45         956.40    5.910%
+     47002855        243         MF     New York                  NY             4,335.61         493.59    6.170%
+     30239365        244         MF     Tomball                   TX             4,973.70       1,099.15    7.120%
+     10022547        245         MU     Atlanta                   GA             4,606.65       1,119.44    6.800%
+     47003060        246         MF     New York                  NY             3,972.14         789.59    6.230%
+     47003288        247         MF     New York                  NY             3,360.35       1,895.57    5.410%
+     30239377        248         MF     Harrison                  OH             3,722.82       1,127.80    6.040%
+     47003067        249         MF     New York                  NY             3,670.34         797.40    5.940%
+     10022495        250         MF     Le Roy                    NY             3,887.21       1,092.81    6.320%
+     47003302        251         MF     New York                  NY             3,222.69         416.32    5.560%
+     47002950        252         MF     New York                  NY             3,314.46         444.53    5.730%
+     47003192        253         MF     New York                  NY             3,296.71       1,641.88    5.810%
+     10021130        254         MF     Nacogdoches               TX             3,503.56       1,070.95    6.150%
+     30239332        255         MF     Tallahassee               FL             3,521.40         943.22    6.520%
+     47003312        256         MF     New York                  NY             3,111.10       1,041.56    5.830%
+     47003224        257         MF     New York                  NY             3,117.17         738.56    5.820%
+     10021877        258         RT     Hurst                     TX             3,512.55         921.08    6.610%
+     47003201        259         MF     Brooklyn                  NY             2,020.07         414.25    6.140%
+     47003307        260         MF     Brooklyn                  NY             2,052.62         362.79    6.720%
+     47003210        261         MF     New York                  NY             1,856.72         382.61    6.260%
+     47003236        262         MF     New York                  NY             1,679.73         376.99    6.000%
+
+     Totals                                                                  7,500,576.47   1,652,789.69
+  </TABLE>
+  <TABLE>
+  <CAPTION>
+
+
+
+        Loan      Anticipated      Maturity      Neg.       Beginning           Ending           Paid Thru
+       Number      Repayment         Date       Amort       Scheduled          Scheduled           Date
+                      Date                      (Y/N)        Balance            Balance
+        <s>           <c>             <c>        <c>           <c>                <c>               <c>
+
+      10022929        N/A         12/11/2013      N      140,190,420.90       140,032,524.40      12/11/2004
+      30239396        N/A         01/11/2014      N      100,000,000.00       100,000,000.00      12/11/2004
+      30239030        N/A         09/11/2008      N       45,000,000.00        45,000,000.00      12/11/2004
+      30239031        N/A         09/11/2008      N       45,000,000.00        45,000,000.00      12/11/2004
+      10021278        N/A         07/11/2008      N       48,665,049.01        48,577,365.97      12/11/2004
+      10021279        N/A         07/11/2008      N       19,466,019.76        19,430,946.55      12/11/2004
+      30239345     10/11/2013     10/11/2028      N       49,222,126.02        49,154,761.61      12/11/2004
+      10023526        N/A         02/11/2014      N       31,600,428.09        31,552,557.66      12/11/2004
+      30239309        N/A         01/11/2008      N       25,339,514.46        25,311,486.15      12/11/2004
+      30239319        N/A         07/11/2013      N       10,095,393.73        10,080,920.66      12/11/2004
+      30239318        N/A         07/11/2013      N        5,880,811.85         5,872,380.93      12/11/2004
+      30239320        N/A         07/11/2013      N        4,900,676.64         4,893,650.88      12/11/2004
+      30239317        N/A         07/11/2013      N        4,018,554.73         4,012,793.60      12/11/2004
+     940950250        N/A         12/01/2013      N       24,000,000.00        24,000,000.00      12/01/2004
+      10022342        N/A         10/11/2013      N       23,000,000.00        23,000,000.00      12/11/2004
+      10021651     01/01/2009     01/01/2034      N       21,692,467.92        21,664,645.55      12/01/2004
+     940950521        N/A         02/01/2014      N       21,800,000.00        21,800,000.00      12/01/2004
+     940950530        N/A         02/01/2014      N       21,215,202.49        21,181,318.49      12/01/2004
+      30239356        N/A         11/11/2013      N       20,178,576.65        20,157,190.58      12/11/2004
+     940950531        N/A         01/01/2014      N       18,815,466.79        18,794,996.62      12/01/2004
+      30239346        N/A         10/11/2013      N       18,625,260.30        18,604,783.78      12/11/2004
+      10022537        N/A         01/01/2014      N       17,810,775.94        17,790,028.49      12/01/2004
+     940950504        N/A         01/01/2014      N       16,895,984.59        16,878,703.11      12/01/2004
+     940950537        N/A         01/01/2014      N       15,372,575.80        15,355,695.24      12/01/2004
+      10022009     01/01/2014     01/01/2034      N       14,856,516.93        14,840,563.15      12/01/2004
+      10020837        N/A         01/01/2014      N       13,890,550.66        13,875,606.37      12/01/2004
+      10021857        N/A         01/01/2011      N       13,376,000.00        13,376,000.00      12/01/2004
+      30239351        N/A         11/11/2013      N       12,864,537.07        12,851,721.27      12/11/2004
+      10021368        N/A         02/01/2014      N       12,129,214.59        12,115,763.81      12/01/2004
+     940950488        N/A         01/01/2014      N       12,000,000.00        12,000,000.00      12/01/2004
+     940950487        N/A         02/01/2014      N       11,788,836.72        11,775,396.01      12/01/2004
+      10022272        N/A         10/11/2028      N       11,551,352.49        11,534,378.64      12/11/2004
+      30239310        N/A         04/11/2008      N       11,459,330.36        11,445,175.76      12/11/2004
+      10022110        N/A         09/11/2013      N       11,398,539.99        11,382,467.50      12/11/2004
+      30239413        N/A         10/11/2013      N       10,986,275.64        10,968,338.55      12/11/2004
+      10022247        N/A         10/11/2013      N       10,966,399.81        10,954,761.53      11/11/2004
+     940950409        N/A         11/01/2013      N       10,311,130.95        10,300,364.85      12/01/2004
+      10019373        N/A         02/01/2014      N       10,270,683.70        10,255,183.18      12/01/2004
+     940950458        N/A         12/01/2013      N       10,144,882.14        10,134,115.28      12/01/2004
+      10022180     09/11/2013     09/11/2033      N        9,856,380.78         9,844,988.39      12/11/2004
+      47002618        N/A         07/01/2013      N        9,800,000.00         9,800,000.00      12/01/2004
+     940950456        N/A         01/01/2014      N        9,451,893.55         9,441,572.12      12/01/2004
+      47003346        N/A         01/01/2014      N        9,500,000.00         9,500,000.00      12/01/2004
+      47002726        N/A         06/01/2013      N        9,217,657.99         9,211,812.35      12/01/2004
+      10021888        N/A         12/01/2008      N        9,240,000.00         9,240,000.00      12/01/2004
+      47002964        N/A         09/01/2013      N        9,144,094.52         9,132,595.23      12/01/2004
+      30239339        N/A         10/11/2013      N        8,984,781.83         8,974,830.66      12/11/2004
+     940950397        N/A         11/01/2013      N        8,951,344.72         8,941,296.49      12/01/2004
+      10020284        N/A         04/11/2013      N        8,542,146.80         8,532,666.08      12/11/2004
+      10022708        N/A         11/11/2013      N        8,236,877.18         8,228,562.50      12/11/2004
+     940950297        N/A         01/01/2014      N        8,187,208.52         8,174,910.17      12/01/2004
+      10021950        N/A         01/01/2014      N        8,121,220.01         8,112,466.41      12/01/2004
+      30239362        N/A         11/11/2013      N        7,966,117.24         7,958,181.31      12/11/2004
+     940950446        N/A         01/01/2011      N        7,754,054.00         7,744,685.22      12/01/2004
+      30239357        N/A         11/11/2013      N        7,707,653.52         7,699,096.66      12/11/2004
+      30239372        N/A         12/11/2013      N        7,545,969.64         7,535,428.99      12/11/2004
+      30239358        N/A         11/11/2013      N        7,113,095.19         7,105,066.22      12/11/2004
+      10022242        N/A         10/11/2013      N        7,014,353.88         7,006,895.88      12/11/2004
+     940950485        N/A         03/01/2014      N        6,944,862.64         6,937,141.22      12/01/2004
+      10021013     11/01/2013     11/01/2028      N        6,919,919.04         6,910,200.02      12/01/2004
+      47003284        N/A         11/01/2013      N        6,907,761.95         6,899,839.45      12/01/2004
+      47003166        N/A         12/01/2013      N        6,767,954.31         6,764,959.75      12/01/2004
+      30239336        N/A         09/11/2013      N        6,666,754.29         6,659,985.64      12/11/2004
+      47003243        N/A         12/01/2013      N        6,599,826.00         6,597,476.36      12/01/2004
+      47900100        N/A         02/01/2014      N        6,344,608.56         6,337,842.15      12/01/2004
+     940950334        N/A         12/01/2013      N        6,279,209.31         6,269,650.65      12/01/2004
+      10021320        N/A         10/01/2015      N        6,101,330.30         6,092,310.90      12/01/2004
+      10022702        N/A         11/11/2013      N        6,030,087.77         6,023,576.77      12/11/2004
+      30239322        N/A         07/11/2013      N        5,897,994.71         5,890,867.20      12/11/2004
+      10021491        N/A         07/11/2013      N        5,888,655.79         5,880,982.56      12/11/2004
+      47003295        N/A         01/01/2014      N        5,724,032.42         5,715,676.40      12/01/2004
+      47003255        N/A         12/01/2013      N        5,734,263.36         5,728,108.05      12/01/2004
+      47003095        N/A         09/01/2013      N        5,754,874.82         5,751,534.76      12/01/2004
+      30239313        N/A         05/11/2013      N        2,455,857.31         2,453,067.54      12/11/2004
+      30239314        N/A         05/11/2013      N        2,092,390.43         2,090,013.54      12/11/2004
+      30239312        N/A         05/11/2013      N        1,149,341.17         1,148,035.55      12/11/2004
+      10022111        N/A         09/11/2013      N        5,610,886.09         5,605,253.30      12/11/2004
+      10021635        N/A         01/01/2014      N        5,471,443.27         5,462,924.29      12/01/2004
+     940950343        N/A         01/01/2014      N        5,445,415.51         5,439,380.22      12/01/2004
+      30239368        N/A         11/11/2028      N        5,410,453.95         5,402,273.59      12/11/2004
+      30239341        N/A         10/11/2013      N        5,387,494.91         5,378,865.32      12/11/2004
+      10018629        N/A         11/11/2012      N        5,023,189.64         5,010,502.58      12/11/2004
+      30239364        N/A         11/11/2013      N        5,000,000.00         5,000,000.00      12/11/2004
+      10022340        N/A         10/11/2013      N        4,958,704.27         4,953,016.66      12/11/2004
+      47002938        N/A         11/01/2013      N        4,966,287.29         4,963,390.71      12/01/2004
+      30239331        N/A         09/11/2013      N        4,905,976.15         4,898,564.57      08/11/2004
+      10018851        N/A         12/11/2007      N        4,862,888.70         4,857,332.62      12/11/2004
+      30239371        N/A         12/11/2013      N        4,660,745.96         4,654,235.56      12/11/2004
+      10021063        N/A         12/01/2013      N        4,648,064.42         4,642,809.94      12/01/2004
+      10022088     09/11/2010     09/11/2028      N        4,484,369.30         4,476,193.78      12/11/2004
+      10020645        N/A         12/01/2013      N        4,426,402.87         4,419,146.21      12/01/2004
+      30239334        N/A         09/11/2008      N        4,440,699.09         4,435,930.88      12/11/2004
+      10022234        N/A         01/01/2014      N        4,356,894.18         4,352,118.77      12/01/2004
+      30239375        N/A         12/11/2013      N        4,285,913.50         4,279,926.69      12/11/2004
+     940950486        N/A         01/01/2014      N        4,240,662.48         4,234,205.96      12/01/2004
+      30239340        N/A         09/11/2013      N        4,226,881.22         4,221,028.39      12/11/2004
+      10022005        N/A         09/11/2013      N        4,214,362.18         4,207,666.89      12/11/2004
+      30239306        N/A         10/11/2013      N        4,196,299.39         4,191,868.30      12/11/2004
+      10022300        N/A         10/11/2013      N        4,146,938.28         4,142,353.78      12/11/2004
+      30239330        N/A         09/11/2013      N        4,102,070.42         4,098,127.47      12/11/2004
+      10022197        N/A         09/11/2013      N        4,030,282.00         4,024,701.38      12/11/2004
+      10021563        N/A         12/01/2013      N        3,979,829.59         3,973,475.98      12/01/2004
+      47002865        N/A         10/01/2013      N        3,976,674.57         3,974,440.47      12/01/2004
+      10021633        N/A         01/01/2014      N        3,943,382.54         3,937,242.74      12/01/2004
+      47003215        N/A         11/01/2013      N        3,946,665.97         3,941,792.03      12/01/2004
+      10022369        N/A         10/11/2013      N        3,891,050.00         3,886,989.38      12/11/2004
+      47900092        N/A         11/01/2013      N        3,839,905.61         3,834,372.02      12/01/2004
+      30239326        N/A         08/11/2013      N        3,816,355.39         3,810,221.16      12/11/2004
+      10021520        N/A         07/11/2013      N        3,757,191.98         3,747,584.83      12/11/2004
+      10021776        N/A         11/01/2010      N        3,767,780.02         3,762,560.02      12/01/2004
+      10022060        N/A         09/11/2013      N        3,755,303.77         3,751,639.00      12/11/2004
+      30239359        N/A         11/11/2013      N        3,494,733.43         3,468,445.28      12/11/2004
+      10022429        N/A         01/01/2011      N        3,644,386.03         3,638,401.24      12/01/2004
+     940950290        N/A         01/01/2014      N        3,644,875.57         3,640,968.79      12/01/2004
+     940950476        N/A         01/01/2019      N        3,505,871.97         3,502,458.12      12/01/2004
+      47003217        N/A         12/01/2013      N        3,480,803.82         3,479,004.86      12/01/2004
+      30239343        N/A         10/11/2013      N        3,455,878.41         3,452,064.95      12/11/2004
+      10021891        N/A         08/11/2013      N        3,354,665.78         3,351,203.62      12/11/2004
+      10022089        N/A         09/11/2013      N        3,269,178.16         3,264,363.04      12/11/2004
+     940950205        N/A         10/01/2013      N        3,245,812.07         3,242,393.01      12/01/2004
+     940950457        N/A         02/01/2014      N        3,223,179.25         3,219,880.62      12/01/2004
+      10022695        N/A         11/11/2010      N        3,158,586.78         3,154,799.57      12/11/2004
+      30239338        N/A         09/11/2013      N        3,082,271.58         3,078,856.26      12/11/2004
+      10022296        N/A         10/11/2013      N        3,032,751.01         3,027,126.32      12/11/2004
+      30239342        N/A         09/11/2013      N        3,001,272.12         2,996,656.49      12/11/2004
+      47003323        N/A         12/01/2013      N        3,000,000.00         3,000,000.00      12/01/2004
+      10022344        N/A         10/11/2013      N        2,794,241.54         2,789,578.21      12/11/2004
+      10017929        N/A         11/01/2013      N        2,771,618.60         2,767,230.56      12/01/2004
+      10019101        N/A         12/01/2013      N        2,768,214.73         2,764,970.26      12/01/2004
+      10022367        N/A         10/11/2013      N        2,746,658.07         2,742,180.22      12/11/2004
+      10022190        N/A         09/11/2013      N        2,716,387.59         2,713,650.33      12/11/2004
+      30239363        N/A         11/11/2013      N        2,705,074.21         2,700,972.04      12/11/2004
+      10021693        N/A         12/01/2013      N        2,672,982.96         2,670,203.93      12/01/2004
+      47003161        N/A         11/01/2013      N        2,649,843.82         2,645,330.32      12/01/2004
+      30239325        N/A         08/11/2013      N        2,654,284.70         2,650,927.81      12/11/2004
+     940950500        N/A         02/01/2014      N        2,592,084.76         2,588,143.37      12/01/2004
+      30239349        N/A         10/11/2013      N        2,581,695.58         2,577,981.05      12/11/2004
+     940950447        N/A         03/01/2014      N        2,570,741.61         2,566,742.78      12/01/2004
+      10022181        N/A         09/11/2008      N        2,564,219.58         2,561,362.54      12/11/2004
+      10019489        N/A         11/01/2013      N        2,474,179.29         2,468,310.94      12/01/2004
+      47003183        N/A         01/01/2024      N        2,447,993.63         2,442,421.13      12/01/2004
+     940950478        N/A         01/01/2014      N        2,452,989.38         2,450,513.30      12/01/2004
+      47002919        N/A         09/01/2013      N        2,420,403.22         2,414,317.75      12/01/2004
+      30239316        N/A         07/11/2013      N        2,382,804.59         2,379,867.30      11/11/2004
+      10021735        N/A         12/01/2013      N        2,306,383.08         2,302,749.81      12/01/2004
+      30239361        N/A         11/11/2013      N        2,299,666.00         2,297,287.24      12/11/2004
+      30239360        N/A         11/11/2013      N        2,274,993.87         2,272,645.03      12/11/2004
+      10020825        N/A         11/01/2013      N        2,273,697.05         2,271,246.58      12/01/2004
+      30239379        N/A         01/11/2014      N        2,192,918.27         2,188,927.84      12/11/2004
+      10023365        N/A         01/11/2014      N        2,203,595.76         2,201,312.04      12/11/2004
+      10021749        N/A         01/01/2014      N        2,171,013.86         2,167,839.80      12/01/2004
+      10021988        N/A         09/11/2013      N        2,161,725.09         2,158,672.35      12/11/2004
+      30239315        N/A         06/11/2008      N        2,141,244.03         2,137,476.85      10/11/2004
+      30239355        N/A         11/11/2008      N        2,131,055.52         2,127,741.05      12/11/2004
+      10022038        N/A         09/11/2013      N        1,140,780.03         1,138,138.50      12/11/2004
+      10022039        N/A         09/11/2013      N          922,332.75           920,197.04      12/11/2004
+      47002878        N/A         11/01/2013      N        2,074,267.14         2,071,884.94      12/01/2004
+      30239344        N/A         10/11/2013      N        2,075,777.42         2,073,651.40      12/11/2004
+      47003149        N/A         10/01/2013      N        2,072,071.93         2,069,668.14      12/01/2004
+      30239354        N/A         11/11/2013      N        2,024,593.91         2,021,698.26      12/11/2004
+      30239335        N/A         09/11/2013      N        2,020,330.20         2,017,213.93      12/11/2004
+      10022108        N/A         09/11/2013      N        2,020,330.20         2,017,213.93      12/11/2004
+      30239311        N/A         05/11/2013      N        2,009,563.06         2,007,054.88      12/11/2004
+      47003143        N/A         10/01/2013      N        2,000,000.00         2,000,000.00      12/01/2004
+      30239374        N/A         12/11/2013      N        1,978,703.94         1,976,536.36      12/11/2004
+      47003275        N/A         11/01/2013      N        1,973,058.21         1,970,745.61      12/01/2004
+     940950223        N/A         09/01/2013      N        1,976,314.77         1,974,375.13      12/01/2004
+      30239352        N/A         11/11/2008      N        1,965,916.32         1,962,822.24      12/11/2004
+      47003258        N/A         11/01/2013      N        1,944,693.42         1,939,941.26      12/01/2004
+      10021489        N/A         07/11/2013      N        1,955,137.62         1,952,027.28      12/11/2004
+      10023369        N/A         01/11/2009      N        1,923,591.33         1,920,710.49      12/11/2004
+     880232479        N/A         11/01/2020      N        1,919,323.93         1,917,891.25      12/01/2004
+      30239367        N/A         11/11/2013      N        1,897,303.42         1,894,726.38      12/11/2004
+      30239366        N/A         11/11/2013      N        1,890,569.03         1,887,856.89      12/11/2004
+      30237842        N/A         02/11/2013      N        1,820,557.48         1,817,677.90      12/11/2004
+     940950499        N/A         12/01/2018      N        1,808,021.10         1,806,251.52      12/01/2004
+      47003017        N/A         01/01/2014      N        1,792,738.16         1,790,460.74      12/01/2004
+      30239380        N/A         12/11/2023      N        1,763,972.01         1,760,383.55      12/11/2004
+      30239329        N/A         09/11/2013      N        1,767,066.71         1,764,460.13      12/11/2004
+      47002887        N/A         10/01/2013      N        1,739,242.46         1,738,226.56      12/01/2004
+      47003231        N/A         11/01/2013      N        1,707,868.07         1,705,965.49      12/01/2004
+      10020094        N/A         03/11/2013      N        1,692,191.22         1,690,306.91      12/11/2004
+      47003260        N/A         11/01/2013      N        1,700,000.00         1,700,000.00      12/01/2004
+      30239376        N/A         12/11/2013      N        1,673,924.94         1,671,330.75      12/11/2004
+      10022078        N/A         09/11/2013      N        1,667,977.36         1,665,453.75      12/11/2004
+      30239385        N/A         01/11/2012      N        1,668,864.40         1,666,504.67      12/11/2004
+      30239384        N/A         08/11/2011      N        1,662,477.33         1,660,934.58      12/11/2004
+      10021700        N/A         12/01/2010      N        1,628,931.11         1,627,186.09      12/01/2004
+      30239378        N/A         01/11/2014      N        1,602,917.39         1,600,509.58      12/11/2004
+      30239381     01/11/2014     01/11/2034      N        1,600,000.00         1,600,000.00      12/11/2004
+      30239373        N/A         12/11/2013      N        1,582,963.14         1,581,229.08      12/11/2004
+      30239369        N/A         12/11/2013      N        1,577,218.61         1,574,926.89      12/11/2004
+      10022432        N/A         10/11/2013      N        1,579,741.86         1,577,992.20      12/11/2004
+      10022147        N/A         09/11/2013      N        1,559,898.19         1,558,272.40      12/11/2004
+     940950475        N/A         03/01/2014      N        1,488,105.58         1,486,441.82      12/01/2004
+      47003133        N/A         10/01/2013      N        1,500,000.00         1,500,000.00      12/01/2004
+      47003156        N/A         11/01/2013      N        1,480,881.49         1,479,237.78      12/01/2004
+      10022334        N/A         10/11/2013      N        1,483,619.78         1,482,167.51      12/11/2004
+      10022414        N/A         10/11/2010      N        1,479,391.33         1,477,634.51      12/11/2004
+      10022127        N/A         09/11/2013      N        1,472,508.30         1,470,332.97      12/11/2004
+      10021043        N/A         06/11/2013      N        1,466,370.28         1,464,156.34      12/11/2004
+      10021052        N/A         06/11/2008      N        1,426,813.08         1,424,494.53      12/11/2004
+      30239383        N/A         06/11/2011      N        1,412,154.37         1,410,188.67      12/11/2004
+      10022321        N/A         10/11/2013      N        1,400,752.05         1,397,492.61      11/11/2004
+      30239328        N/A         09/11/2013      N        1,404,239.63         1,402,195.99      12/11/2004
+      10022441        N/A         10/11/2013      N        1,378,899.68         1,375,513.55      12/11/2004
+      47003222        N/A         11/01/2013      N        1,400,000.00         1,400,000.00      12/01/2004
+      47003085        N/A         12/01/2013      N        1,390,864.58         1,389,900.77      12/01/2004
+      47003320        N/A         12/01/2013      N        1,383,556.55         1,381,902.15      12/01/2004
+      30239348        N/A         10/11/2023      N        1,364,806.61         1,361,850.72      12/11/2004
+      47003282        N/A         12/01/2013      N        1,341,457.75         1,340,550.59      12/01/2004
+      10022295        N/A         10/11/2013      N        1,334,533.67         1,333,174.53      12/11/2004
+      10022152        N/A         09/11/2013      N        1,328,975.68         1,327,268.27      12/11/2004
+      30239321        N/A         07/11/2013      N        1,328,850.57         1,327,352.18      12/11/2004
+      30239324        N/A         08/11/2013      N        1,276,779.75         1,275,054.36      12/11/2004
+      10021986        N/A         09/11/2013      N        1,266,761.59         1,264,918.03      12/11/2004
+      47003212        N/A         01/01/2014      N        1,237,438.59         1,236,147.24      12/01/2004
+      30239350        N/A         10/11/2013      N        1,235,418.41         1,234,141.16      12/11/2004
+      10022358        N/A         10/11/2013      N        1,217,656.40         1,215,765.59      12/11/2004
+      47003069        N/A         01/01/2014      N        1,212,362.43         1,211,064.07      12/01/2004
+      30239333        N/A         09/11/2013      N        1,206,313.64         1,204,452.95      12/11/2004
+      47003267        N/A         01/01/2014      N        1,186,860.75         1,185,512.80      12/01/2004
+      47003103        N/A         10/01/2013      N        1,191,775.67         1,191,120.93      12/01/2004
+      47003301        N/A         12/01/2023      N        1,171,237.92         1,168,541.96      12/01/2004
+      30239347        N/A         10/11/2008      N        1,178,229.38         1,176,388.91      12/11/2004
+      10022619        N/A         11/11/2018      N        1,158,599.78         1,154,321.81      12/11/2004
+      47003308        N/A         12/01/2013      N        1,130,629.24         1,128,817.05      12/01/2004
+      10022681        N/A         11/11/2013      N        1,122,445.88         1,119,964.58      12/11/2004
+      47003190        N/A         01/01/2014      N        1,116,720.02         1,115,869.50      12/01/2004
+      47002996        N/A         01/01/2014      N        1,100,000.00         1,100,000.00      12/01/2004
+      47003211        N/A         11/01/2013      N        1,092,699.64         1,092,072.20      12/01/2004
+      10022182        N/A         09/11/2013      N        1,080,996.39         1,079,479.03      12/11/2004
+      30239353        N/A         11/11/2013      N        1,074,013.64         1,071,669.17      12/11/2004
+      47003299        N/A         01/01/2014      N        1,044,003.05         1,043,387.85      12/01/2004
+      47003087        N/A         01/01/2014      N          989,586.74           988,517.15      12/01/2004
+      10022489        N/A         10/11/2013      N          983,240.73           981,806.74      12/11/2004
+      30239337        N/A         09/11/2010      N          980,316.46           978,775.03      12/11/2004
+      47003083        N/A         10/01/2013      N          956,953.91           954,718.20      12/01/2004
+      30239327        N/A         09/11/2013      N          940,004.80           939,167.79      12/11/2004
+      30239323        N/A         08/11/2013      N          907,483.15           906,530.70      12/11/2004
+      30239370        N/A         12/11/2013      N          879,834.93           877,857.74      12/11/2004
+      10021042        N/A         06/11/2008      N          878,038.83           876,612.03      12/11/2004
+      47003313        N/A         12/01/2013      N          840,330.12           839,424.76      12/01/2004
+      47003174        N/A         11/01/2013      N          839,684.83           838,728.43      12/01/2004
+      47002855        N/A         06/01/2013      N          843,230.35           842,736.76      12/01/2004
+      30239365        N/A         11/11/2013      N          838,264.12           837,164.97      12/11/2004
+      10022547        N/A         11/11/2013      N          812,939.05           811,819.61      12/11/2004
+      47003060        N/A         10/01/2013      N          765,098.85           764,309.26      12/01/2004
+      47003288        N/A         12/01/2013      N          745,364.15           743,468.58      12/01/2004
+      30239377        N/A         01/11/2014      N          739,632.78           738,504.98      12/11/2004
+      47003067        N/A         12/01/2013      N          741,483.65           740,686.25      12/01/2004
+      10022495        N/A         11/11/2013      N          738,078.33           736,985.52      12/11/2004
+      47003302        N/A         12/01/2013      N          695,545.31           695,128.99      12/01/2004
+      47002950        N/A         07/01/2013      N          694,128.57           693,684.04      12/01/2004
+      47003192        N/A         11/01/2013      N          680,903.73           679,261.85      12/01/2004
+      10021130        N/A         06/11/2013      N          683,622.04           682,551.09      12/11/2004
+      30239332        N/A         09/11/2013      N          648,110.58           647,167.36      12/11/2004
+      47003312        N/A         01/01/2014      N          640,363.58           639,322.02      12/01/2004
+      47003224        N/A         12/01/2013      N          642,715.62           641,977.06      12/01/2004
+      10021877        N/A         08/11/2013      N          637,678.62           636,757.54      12/11/2004
+      47003201        N/A         10/01/2013      N          394,802.86           394,388.61      12/01/2004
+      47003307        N/A         12/01/2013      N          366,538.41           366,175.62      12/01/2004
+      47003210        N/A         11/01/2013      N          355,920.04           355,537.43      12/01/2004
+      47003236        N/A         11/01/2013      N          335,945.50           335,568.51      12/01/2004
+
+     Totals                                            1,609,413,365.11     1,607,760,575.45
+
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+       Loan         Appraisal          Appraisal         Res.       Mod.
+      Number        Reduction          Reduction        Strat.      Code
+                      Date               Amount          (2)        (3)
+        <s>            <c>                <c>            <c>        <c>
+     30239331                                             13
+
+     Totals                                   0.00
+
+  <FN>
+  (1) Property Type Code
+
+  MF  - Multi-Family
+  RT  - Retail
+  HC  - Health Care
+  IN  - Industrial
+  WH  - Warehouse
+  MH  - Mobile Home Park
+  OF  - Office
+  MU  - Mixed Use
+  LO  - Lodging
+  SS  - Self Storage
+  OT  - Other
+
+
+  (2) Resolution Strategy Code
+  1   - Modification
+  2   - Foreclosure
+  3   - Bankruptcy
+  4   - Extension
+  5   - Note Sale
+  6   - DPO
+  7   - REO
+  8   - Resolved
+  9   - Pending Return to Master Servicer
+  10  - Deed In Lieu Of Foreclosure
+  11  - Full Payoff
+  12  - Reps and Warranties
+  13  - Other or TBD
+
+
+  (3) Modification Code
+  1   - Maturity Date Extension
+  2   - Amortization Change
+  3   - Principal Write-Off
+  4   - Combination
+
+  </FN>
+  </TABLE>
+
+
+                               Principal Prepayment Detail
+
+                               No Principal Prepayments this Period
+
+ <TABLE>
+ <CAPTION>
+
+
+                               Historical Detail
+
+ Delinquencies
+
+   Distribution         30-59 Days               60-89 Days             90 Days or More
+       Date         #         Balance       #          Balance        #         Balance
+
+        <s>        <c>          <c>         <c>          <c>          <c>         <c>
+   12/17/2004      1     $2,137,476.85      0              $0.00      1     $4,898,564.57
+   11/18/2004      1     $2,141,244.03      1      $4,905,976.15      0             $0.00
+   10/18/2004      1     $4,912,498.06      0              $0.00      0             $0.00
+   09/17/2004      0             $0.00      0              $0.00      0             $0.00
+   08/17/2004      0             $0.00      0              $0.00      0             $0.00
+   07/16/2004      0             $0.00      0              $0.00      0             $0.00
+   06/17/2004      0             $0.00      0              $0.00      0             $0.00
+   05/17/2004      0             $0.00      0              $0.00      0             $0.00
+   04/16/2004      0             $0.00      0              $0.00      0             $0.00
+
+ </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+    Distribution         Foreclosure                  REO                  Modifications
+        Date        #         Balance         #         Balance        #         Balance
+         <s>        <c>         <c>           <c>         <c>          <c>         <c>
+      12/17/2004    0              $0.00      0             $0.00      0             $0.00
+      11/18/2004    0              $0.00      0             $0.00      0             $0.00
+      10/18/2004    0              $0.00      0             $0.00      0             $0.00
+      09/17/2004    0              $0.00      0             $0.00      0             $0.00
+      08/17/2004    0              $0.00      0             $0.00      0             $0.00
+      07/16/2004    0              $0.00      0             $0.00      0             $0.00
+      06/17/2004    0              $0.00      0             $0.00      0             $0.00
+      05/17/2004    0              $0.00      0             $0.00      0             $0.00
+      04/16/2004    0              $0.00      0             $0.00      0             $0.00
+
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Prepayments                             Rate and Maturities
+    Distribution       Curtailments                Payoff                 Next Weighted Avg.         WAM
+        Date       #           Amount       #         Amount          Coupon            Remit
+         <s>       <c>          <c>         <c>         <c>              <c>             <c>        <c>
+     12/17/2004    0             $0.00      0            $0.00        5.592371%       5.540383%      99
+     11/18/2004    0             $0.00      0            $0.00        5.592529%       5.540543%      100
+     10/18/2004    0             $0.00      0            $0.00        5.592646%       5.540659%      101
+     09/17/2004    0             $0.00      0            $0.00        5.592800%       5.540814%      102
+     08/17/2004    0             $0.00      0            $0.00        5.592914%       5.540929%      103
+     07/16/2004    0             $0.00      0            $0.00        5.593027%       5.542775%      104
+     06/17/2004    0             $0.00      0            $0.00        5.593180%       5.541196%      105
+     05/17/2004    0             $0.00      0            $0.00        5.593290%       5.541306%      106
+     04/16/2004    0             $0.00      0            $0.00        5.593440%       5.541456%      111
+  <FN>
+
+  Note: Foreclosure and REO Totals are excluded from the delinquencies aging
+  categories.
+  </FN>
+  </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+                               Delinquency Loan Detail
+
+                  Offering      # of     Paid Through         Current          Outstanding    Status of
+    Loan Number   Document     Months        Date              P & I              P & I        Mortgage
+                   Cross-      Delinq.                        Advances         Advances **     Loan (1)
+                  Reference
+        <s>          <c>         <c>         <c>                <c>                <c>           <c>
+     10022247        34           0       11/11/2004           66,835.83           66,835.83      B
+     30239331        84           3       08/11/2004           32,915.30          131,681.42      3
+     30239316        142          0       11/11/2004           13,421.63           13,421.63      B
+     30239315        151          1       10/11/2004           13,256.82           26,518.19      1
+     10022321        202          0       11/11/2004           10,449.97           10,449.97      B
+
+      Totals          5                                       136,879.55          248,907.04
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+                Resolution    Servicing                        Actual         Outstanding
+      Loan       Strategy     Transfer    Foreclosure        Principal         Servicing      Bankruptcy     REO
+     Number      Code (2)       Date          Date            Balance          Advances          Date        Date
+       <s>          <c>          <c>          <c>              <c>                <c>            <c>         <c>
+     10022247                                               10,966,399.81             0.00
+     30239331       13       11/09/2004                      4,926,284.70             0.00
+     30239316                                                2,382,804.59         1,200.00
+     30239315                                                2,144,677.18             0.00
+     10022321                                                1,400,752.05             0.00
+
+      Totals                                                21,820,918.33         1,200.00
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+                                                  Current        Outstanding           Actual         Outstanding
+                                                   P & I            P & I            Principal         Servicing
+                                                 Advances         Advances**          Balance           Advances
+  <s>                                               <c>              <c>                <c>               <c>
+  Totals By Delinquency Code:
+  Total for Status Code  =  1  (1 loan)            13,256.82         26,518.19      2,144,677.18              0.00
+  Total for Status Code  =  3  (1 loan)            32,915.30        131,681.42      4,926,284.70              0.00
+  Total for Status Code  =  B  (3 loans)           90,707.43         90,707.43     14,749,956.45          1,200.00
+ <FN>
+
+ (1) Status of Mortgage Loan
+ A -  Payment Not Received But Still In Grace Period
+ B -  Late Payment But Less Than 1 Month Delinquent
+ 0 -  Current
+ 1 -  One Month Delinquent
+ 2 -  Two Months Delinquent
+ 3 -  Three or More Months Delinquent
+ 4 -  Assumed Scheduled Payment (Performing Matured Balloon)
+ 7 -  Foreclosure
+ 9 -  REO
+
+ (2) Resolution Strategy Code
+ 1 -  Modification
+ 2 -  Foreclosure
+ 3 -  Bankruptcy
+ 4 -  Extension
+ 5 -  Note Sale
+ 6 -  DPO
+ 7 -  REO
+ 8 -  Resolved
+ 9 -  Pending Return to Master Servicer
+ 10 - Deed In Lieu Of Foreclosure
+ 11 - Full Payoff
+ 12 - Reps and Warranties
+ 13 - Other or TBD
+ ** Outstanding P & I Advances include the current period advance.
+ </FN>
+
+ </TABLE>
+ <TABLE>
+ <CAPTION>
+
+
+
+                               Specially Serviced Loan Detail - Part 1
+
+                Offering    Servicing    Resolution        Scheduled    Property           Interest          Actual
+      Loan      Document     Transfer     Strategy          Balance     Type (2)   State     Rate            Balance
+     Number      Cross         Date       Code (1)
+               Reference
+      <s>          <c>         <c>          <c>               <c>         <c>       <c>       <c>              <c>
+    30239331       84       11/09/2004       13            4,898,564.57    MF       FL      6.270%        4,926,284.70
+
+ </TABLE>
+
+  <TABLE>
+
+                         Net                                                                Remaining
+       Loan           Operating        DSCR                     Note        Maturity      Amortization
+      Number           Income          Date         DSCR        Date          Date            Term
+        <s>              <c>            <c>         <c>         <c>           <c>              <c>
+     30239331         286,387.37    06/30/2004      1.44     10/11/2003    09/11/2013          284
+  <FN>
+
+
+ (1) Resolution Strategy Code
+ 1  -  Modification
+ 2  -  Foreclosure
+ 3  -  Bankruptcy
+ 4  -  Extension
+ 5  -  Note Sale
+ 6  -  DPO
+ 7  -  REO
+ 8  -  Resolved
+ 9  -  Pending Return to Master Servicer
+ 10 -  Deed in Lieu Of Foreclosure
+ 11 -  Full Payoff
+ 12 -  Reps and Warranties
+ 13 -  Other or TBD
+
+ (2) Property Type Code
+ MF -  Multi-Family
+ RT -  Retail
+ HC -  Health Care
+ IN -  Industrial
+ WH -  Warehouse
+ MH -  Mobile Home Park
+ OF -  Office
+ MU -  Mixed Use
+ LO -  Lodging
+ SS -  Self Storage
+ OT -  Other
+
+ </FN>
+ </TABLE>
+
+
+  <TABLE>
+
+                             Specially Serviced Loan Detail - Part 2
+
+                  Offering
+                  Document      Resolution     Site                                                      Other REO
+       Loan         Cross        Strategy   Inspection     Phase 1     Appraisal        Appraisal         Property
+      Number      Reference      Code (1)      Date          Date         Date            Value           Revenue
+
+       <s>           <c>           <c>          <c>          <c>          <c>              <c>              <c>
+     30239331        84             13                                  08/28/2003
+
+  </TABLE>
+
+
+  <TABLE>
+
+       Loan
+      Number                     Comments from Special Servicer
+        <s>                                    <c>
+     30239331      File transferred to Special Servicer on 11/09/2004 due to Delinquency/Imminent
+                   Default/Other.
+
+
+
+ <FN>
+
+ (1) Resolution Strategy Code
+ 1  -  Modification
+ 2  -  Foreclosure
+ 3  -  Bankruptcy
+ 4  -  Extension
+ 5  -  Note Sale
+ 6  -  DPO
+ 7  -  REO
+ 8  -  Resolved
+ 9  -  Pending Return to Master Servicer
+ 10 -  Deed in Lieu Of Foreclosure
+ 11 -  Full Payoff
+ 12 -  Reps and Warranties
+ 13 -  Other or TBD
+
+ </FN>
+ </TABLE>
+
+
+
+                               Modified Loan Detail
+
+                               No Modified Loans
+
+
+                               Liquidated Loan Detail
+
+                               No Liquidated Loans
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

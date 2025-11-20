@@ -1,0 +1,1954 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ATpW9zzef3i8axwdJHNno88wxjL+DW/e9kEr87OdseaxeAOy77r8ILLfF+DjjxNr
+ 7D867ShVYxAl861vCaOv8Q==
+
+<SEC-DOCUMENT>0001056404-04-004473.txt : 20041221
+<SEC-HEADER>0001056404-04-004473.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041221103928
+ACCESSION NUMBER:		0001056404-04-004473
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JP MORGAN COMMERCIAL MORT PASS THR CERTS SER 2004-C1
+		CENTRAL INDEX KEY:			0001279249
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-105805-05
+		FILM NUMBER:		041215928
+
+	BUSINESS ADDRESS:	
+		STREET 1:		270 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2122706000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>jpc04c01_dec.txt
+<DESCRIPTION>DECEMBER 8K
+<TEXT>
+                                  UNITED STATES
+                        SECURITIES AND EXCHANGE COMMISSION
+                              Washington D.C. 20549
+
+                                     FORM 8-K
+
+                                  CURRENT REPORT
+    Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+
+ Date of Report: December 15, 2004
+ (Date of earliest event reported)
+
+ Commission File No.: 333-105805-05
+
+ J.P. Morgan Chase Commercial Mortgage Securities Corp.
+ Commercial Mortgage Pass-Through Certificates
+ Series 2004-C1
+ (Exact name of registrant as specified in its charter)
+
+
+ New York (governing law of Pooling and Servicing Agreement)
+ (State of Incorporation)
+
+
+ 54-2144727
+ 54-2144728
+ 54-6601015
+ (I.R.S. Employer Identification No.)
+
+ c/o Wells Fargo Bank, N.A.
+ 9062 Old Annapolis Road
+  Columbia, MD                                           21045
+ (Address of principal executive offices)             (Zip Code)
+
+ (410) 884-2000
+ Registrant's Full Telephone Number
+
+
+ (Former name, former address and former fiscal year, if changed since last
+ report)
+
+
+ Check the appropriate box below if the Form 8-K filing is intended to
+
+ simultaneously satisfy the filing obligation of the registrant under any
+
+ of the following provisions (see General Instruction A.2. below):
+
+ [ ] Written communications pursuant to Rule 425 under the Securities Act
+
+     (17 CFR 230.425)
+
+
+ [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+
+ [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+
+     Exchange Act(17 CFR 240.14d-2(b))
+
+
+ [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+
+     Exchange Act(17 CFR 240.13e-4(c))
+
+ ITEM 8.01  Other Events
+
+ On December 15, 2004, a distribution was made to holders of J.P. Morgan
+ Chase Commercial Mortgage Securities Corp., Commercial Mortgage
+ Pass-Through Certificates, Series 2004-C1.
+
+
+
+ ITEM 9.01  Financial Statements and Exhibits
+
+ (c) Exhibits
+
+ Exhibit Number    Description
+
+ (EX-99.1)      Monthly report distributed to holders of Commercial Mortgage
+                Pass-Through Certificates, Series 2004-C1, relating to the
+                December 15, 2004 distribution.
+
+
+
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the
+ registrant has duly caused this report to be signed on its behalf by the
+ undersigned hereunto duly authorized.
+
+
+         J.P. Morgan Chase Commercial Mortgage Securities Corp.
+             Commercial Mortgage Pass-Through Certificates
+                             Series 2004-C1
+                              (Registrant)
+            By:      Wells Fargo Bank, N.A. as Trustee
+            By:      /s/ Beth Belfield, Assistant Vice President
+            By:      Beth Belfield, Assistant Vice President
+
+            Date:    December 15, 2004
+
+                           INDEX TO EXHIBITS
+
+ Exhibit Number               Description
+
+ (EX-99.1)           Monthly report distributed to holders of Commercial
+                     Mortgage Pass-Through Certificates, Series 2004-C1,
+                     relating to the December 15, 2004 distribution.
+
+
+ Wells Fargo Bank, N.A.
+ Corporate Trust Services
+ 9062 Old Annapolis Road
+ Columbia, MD 21045-1951
+
+
+ J.P. Morgan Chase Commercial Mortgage Securities Corp.
+ Commercial Mortgage Pass-Through Certificates
+ Series 2004-C1
+
+
+ For Additional Information, please contact
+ CTSLink Customer Service
+ (301) 815-6600
+
+
+ Reports Available on the World Wide Web
+ @ www.ctslink.com/cmbs
+
+
+ Payment Date:   December 15, 2004
+ Record Date:    November 30, 2004
+
+
+                          DISTRIBUTION DATE STATEMENT
+
+                               Table of Contents
+
+ STATEMENT SECTIONS                                                  PAGE(s)
+
+ Certificate Distribution Detail                                       2
+ Certificate Factor Detail                                             3
+ Reconciliation Detail                                                 4
+ Other Required Information                                            5
+ Cash Reconciliation                                                   6
+ Ratings Detail                                                        7
+ Current Mortgage Loan and Property Stratification Tables            8 - 16
+ Mortgage Loan Detail                                               17 - 20
+ Principal Prepayment Detail                                           21
+ Historical Detail                                                     22
+ Delinquency Loan Detail                                               23
+ Specially Serviced Loan Detail                                     24 - 25
+ Modified Loan Detail                                                  26
+ Liquidated Loan Detail                                                27
+
+
+    Depositor
+
+ J.P. Morgan Chase Commercial Mortgage Securities Corp.
+ 270 Park Avenue
+ 10th Floor
+ New York, NY 10017
+ Contact:      Brian Baker
+ Phone Number: (212) 834-3813
+
+
+    Master Servicer
+
+ GMAC Commercial Mortgage Corporation
+ 200 Witmer Road
+ Horsham, PA 19044-8015
+
+ Contact:      Darri Cunningham
+ Phone Number: (215) 328-1784
+
+
+    Special Servicer
+
+ Clarion Partners, LLC
+ 335 Madison Avenue, 7th Floor
+ New York, NY 10017
+
+ Contact:      Bruce G. Morrison
+ Phone Number: (212) 883-2500
+
+
+ This report has been compiled from information provided to
+ Wells Fargo Bank, N.A. by various third parties, which may
+ include the Servicer, Master Servicer, Special Servicer and others.
+ Wells Fargo Bank, N.A. has not independently confirmed the
+ accuracy of information received from these third parties and
+ assumes no duty to do so. Wells Fargo Bank, N.A. expressly
+ disclaims any responsibility for the accuracy or completeness
+ of information furnished by third parties.
+
+
+ Copyright 2004, Wells Fargo Bank, N.A.
+
+ <TABLE>
+ <CAPTION>
+                                               Certificate Distribution Detail
+
+ Class            CUSIP       Pass-Through          Original           Beginning          Principal             Interest
+                                  Rate              Balance             Balance          Distribution         Distribution
+ <s>               <c>            <c>                 <c>                 <c>                <c>                  <c>
+ A-1            46625MV55      3.053000%         150,000,000.00      143,532,199.22     58,773,330.83           336,891.43
+ A-2            46625MV63      4.302000%         210,000,000.00      210,000,000.00              0.00           694,550.01
+ A-3            46625MV71      4.719000%         303,158,000.00      303,158,000.00              0.00         1,099,848.41
+ A-1A           46625MW62      4.503000%         231,741,000.00      230,198,408.66        185,706.90           796,926.16
+ B              46625MV89      4.814000%          27,355,000.00       27,355,000.00              0.00           101,241.04
+ C              46625MV97      4.850000%          11,724,000.00       11,724,000.00              0.00            43,715.09
+ D              46625MW21      4.899000%          22,145,000.00       22,145,000.00              0.00            83,405.93
+ E              46625MW39      4.949000%          13,026,000.00       13,026,000.00              0.00            49,561.27
+ F              46625MW70      5.107032%          11,723,000.00       11,723,000.00              0.00            46,027.89
+ G              46625MW88      5.211032%           9,119,000.00        9,119,000.00              0.00            36,532.95
+ H              46625MW96      5.688032%          10,421,000.00       10,421,000.00              0.00            45,570.65
+ J              46625MX20      5.015000%           6,513,000.00        6,513,000.00              0.00            25,111.10
+ K              46625MX38      5.015000%           5,210,000.00        5,210,000.00              0.00            20,087.34
+ L              46625MX46      5.015000%           3,908,000.00        3,908,000.00              0.00            15,067.43
+ M              46625MX53      5.015000%           5,211,000.00        5,211,000.00              0.00            20,091.20
+ N              46625MX61      5.015000%           2,605,000.00        2,605,000.00              0.00            10,043.67
+ P              46625MX79      5.015000%           2,605,000.00        2,605,000.00              0.00            10,043.67
+ NR             46625MX87      5.015000%          15,631,997.71       15,631,997.71              0.00            60,036.55
+ S                 N/A         0.000000%                   0.00                0.00              0.00                 0.00
+ R              46625MX95      0.000000%                   0.00                0.00              0.00                 0.00
+ LR             46625MY29      0.000000%                   0.00                0.00              0.00                 0.00
+
+ Totals                                        1,042,095,997.71    1,034,085,605.59     58,959,037.73         3,494,751.79
+ </TABLE>
+
+
+ <TABLE>
+ <CAPTION>
+
+ Class            CUSIP            Prepayment         Realized Loss/         Total             Ending          Current
+                                   Penalties         Additional Trust     Distribution        Balance       Subordination
+                                                      Fund Expenses                                           Level (1)
+ <s>               <c>                <c>                  <c>                <c>               <c>              <c>
+ A-1            46625MV55               0.00                   0.00      59,110,222.26      84,758,868.39       15.10%
+ A-2            46625MV63               0.00                   0.00         694,550.01     210,000,000.00       15.10%
+ A-3            46625MV71               0.00                   0.00       1,099,848.41     303,158,000.00       15.10%
+ A-1A           46625MW62               0.00                   0.00         982,633.06     230,012,701.76       15.10%
+ B              46625MV89               0.00                   0.00         101,241.04      27,355,000.00       12.29%
+ C              46625MV97               0.00                   0.00          43,715.09      11,724,000.00       11.09%
+ D              46625MW21               0.00                   0.00          83,405.93      22,145,000.00        8.82%
+ E              46625MW39               0.00                   0.00          49,561.27      13,026,000.00        7.48%
+ F              46625MW70               0.00                   0.00          46,027.89      11,723,000.00        6.28%
+ G              46625MW88               0.00                   0.00          36,532.95       9,119,000.00        5.34%
+ H              46625MW96               0.00                   0.00          45,570.65      10,421,000.00        4.27%
+ J              46625MX20               0.00                   0.00          25,111.10       6,513,000.00        3.61%
+ K              46625MX38               0.00                   0.00          20,087.34       5,210,000.00        3.07%
+ L              46625MX46               0.00                   0.00          15,067.43       3,908,000.00        2.67%
+ M              46625MX53               0.00                   0.00          20,091.20       5,211,000.00        2.14%
+ N              46625MX61               0.00                   0.00          10,043.67       2,605,000.00        1.87%
+ P              46625MX79               0.00                   0.00          10,043.67       2,605,000.00        1.60%
+ NR             46625MX87               0.00                   0.00          60,036.55      15,631,997.71        0.00%
+ S                 N/A                  0.00                   0.00               0.00               0.00        0.00%
+ R              46625MX95               0.00                   0.00               0.00               0.00        0.00%
+ LR             46625MY29               0.00                   0.00               0.00               0.00        0.00%
+
+ Totals                                 0.00                   0.00      62,453,789.52     975,126,567.86
+ </TABLE>
+ <TABLE>
+
+ <CAPTION>
+
+
+ Class         CUSIP       Pass-Through           Original              Beginning              Interest
+                               Rate               Notional               Notional             Distribution
+                                                   Amount                Amount
+
+ <s>            <c>            <c>                   <c>                   <c>                    <c>
+ X-1         46625MW47      0.256646%         1,042,095,997.71       1,034,085,605.59           221,161.63
+ X-2         46625MW54      1.133321%           948,215,000.00         948,215,000.00           895,527.00
+
+ </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+
+ Class            CUSIP           Prepayment            Total              Ending
+                                   Penalties         Distribution         Notional
+                                                                           Amount
+ <s>               <c>                <c>                <c>                 <c>
+ X-1            46625MW47       4,013,110.59         4,234,272.22       975,126,567.86
+ X-2            46625MW54               0.00           895,527.00       948,215,000.00
+ <FN>
+
+ (1) Calculated by taking (A) the sum of the ending certificate balance of all
+ classes less (B) the sum of (i) the ending certificate balance of the designated
+ class and (ii) the ending certificate balance of all classes which are not
+ subordinate to the designated class and dividing the result by (A).
+
+ </FN>
+ </TABLE>
+ <TABLE>
+ <CAPTION>
+                                                 Certificate Factor Detail
+
+ Class          CUSIP        Beginning        Principal          Interest      Prepayment      Realized Loss/      Ending
+                              Balance        Distribution      Distribution    Penalties         Additional       Balance
+                                                                                                 Trust Fund
+                                                                                                  Expenses
+ <s>             <c>            <c>              <c>                <c>           <c>               <c>             <c>
+ A-1          46625MV55     956.88132813    391.82220553        2.24594287     0.00000000        0.00000000      565.05912260
+ A-2          46625MV63   1,000.00000000      0.00000000        3.30738100     0.00000000        0.00000000    1,000.00000000
+ A-3          46625MV71   1,000.00000000      0.00000000        3.62797093     0.00000000        0.00000000    1,000.00000000
+ A-1A         46625MW62     993.34346818      0.80135539        3.43886563     0.00000000        0.00000000      992.54211279
+ B            46625MV89   1,000.00000000      0.00000000        3.70100676     0.00000000        0.00000000    1,000.00000000
+ C            46625MV97   1,000.00000000      0.00000000        3.72868390     0.00000000        0.00000000    1,000.00000000
+ D            46625MW21   1,000.00000000      0.00000000        3.76635493     0.00000000        0.00000000    1,000.00000000
+ E            46625MW39   1,000.00000000      0.00000000        3.80479579     0.00000000        0.00000000    1,000.00000000
+ F            46625MW70   1,000.00000000      0.00000000        3.92628935     0.00000000        0.00000000    1,000.00000000
+ G            46625MW88   1,000.00000000      0.00000000        4.00624520     0.00000000        0.00000000    1,000.00000000
+ H            46625MW96   1,000.00000000      0.00000000        4.37296325     0.00000000        0.00000000    1,000.00000000
+ J            46625MX20   1,000.00000000      0.00000000        3.85553508     0.00000000        0.00000000    1,000.00000000
+ K            46625MX38   1,000.00000000      0.00000000        3.85553551     0.00000000        0.00000000    1,000.00000000
+ L            46625MX46   1,000.00000000      0.00000000        3.85553480     0.00000000        0.00000000    1,000.00000000
+ M            46625MX53   1,000.00000000      0.00000000        3.85553637     0.00000000        0.00000000    1,000.00000000
+ N            46625MX61   1,000.00000000      0.00000000        3.85553551     0.00000000        0.00000000    1,000.00000000
+ P            46625MX79   1,000.00000000      0.00000000        3.85553551     0.00000000        0.00000000    1,000.00000000
+ NR           46625MX87   1,000.00000000      0.00000000        3.84061917     0.00000000        0.00000000    1,000.00000000
+ S               N/A          0.00000000      0.00000000        0.00000000     0.00000000        0.00000000        0.00000000
+ R            46625MX95       0.00000000      0.00000000        0.00000000     0.00000000        0.00000000        0.00000000
+ LR           46625MY29       0.00000000      0.00000000        0.00000000     0.00000000        0.00000000        0.00000000
+
+ </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+ Class           CUSIP          Beginning           Interest         Prepayment         Ending
+                                Notional          Distribution       Penalties         Notional
+                                 Amount                                                 Amount
+ <s>              <c>              <c>                <c>               <c>               <c>
+ X-1           46625MW47       992.31319174        0.21222769        3.85099895       935.73583432
+ X-2           46625MW54     1,000.00000000        0.94443454        0.00000000     1,000.00000000
+
+ </TABLE>
+
+
+ <TABLE>
+ <CAPTION>
+
+                                   Reconciliation Detail
+
+                                      Advance Summary
+
+ <s>                                                                              <c>
+ P & I Advances Outstanding                                                           0.00
+ Servicing Advances Outstanding                                                 166,150.50
+
+ Reimbursement for Interest on Advances                                             233.18
+ paid from general collections
+
+ </TABLE>
+
+
+ <TABLE>
+
+ <CAPTION>
+
+
+                                Master Servicing Fee Summary
+ <s>                                                                              <c>
+ Current Period Accrued Servicing Fees                                           44,165.33
+ Less Delinquent Servicing Fees                                                  11,975.67
+ Less Reductions to Servicing Fees                                               17,234.76
+ Plus Servicing Fees for Delinquent Payments Received                            11,324.90
+ Plus Adjustments for Prior Servicing Calculation                                     0.00
+ Total Servicing Fees Collected                                                  26,279.80
+ </TABLE>
+
+
+ <TABLE>
+ <CAPTION>
+
+
+                                                   Certificate Interest Reconciliation
+
+    Class       Accrued       Net Aggregate    Distributable      Distributable      Additional        Interest    Remaining Unpaid
+              Certificate      Prepayment       Certificate       Certificate        Trust Fund      Distribution    Distributable
+               Interest         Interest          Interest          Interest          Expenses                        Certificate
+                                Shortfall                          Adjustment                                           Interest
+ <s>              <c>              <c>              <c>                <c>               <c>              <c>             <c>
+ A-1          365,169.84       28,278.41        336,891.43                0.00             0.00        336,891.43            0.00
+ A-2          752,850.00       58,299.99        694,550.01                0.00             0.00        694,550.01            0.00
+ A-3        1,192,168.84       92,320.43      1,099,848.41                0.00             0.00      1,099,848.41            0.00
+ A-1A         863,819.53       66,893.37        796,926.16                0.00             0.00        796,926.16            0.00
+ X-1          221,161.63            0.00        221,161.63                0.00             0.00        221,161.63            0.00
+ X-2          895,527.00            0.00        895,527.00                0.00             0.00        895,527.00            0.00
+ B            109,739.14        8,498.10        101,241.04                0.00             0.00        101,241.04            0.00
+ C             47,384.50        3,669.41         43,715.09                0.00             0.00         43,715.09            0.00
+ D             90,406.96        7,001.03         83,405.93                0.00             0.00         83,405.93            0.00
+ E             53,721.40        4,160.13         49,561.27                0.00             0.00         49,561.27            0.00
+ F             49,891.44        3,863.55         46,027.89                0.00             0.00         46,027.89            0.00
+ G             39,599.50        3,066.55         36,532.95                0.00             0.00         36,532.95            0.00
+ H             49,395.81        3,825.16         45,570.65                0.00             0.00         45,570.65            0.00
+ J             27,218.91        2,107.81         25,111.10                0.00             0.00         25,111.10            0.00
+ K             21,773.46        1,686.12         20,087.34                0.00             0.00         20,087.34            0.00
+ L             16,332.18        1,264.75         15,067.43                0.00             0.00         15,067.43            0.00
+ M             21,777.64        1,686.44         20,091.20                0.00             0.00         20,091.20            0.00
+ N             10,886.73          843.06         10,043.67                0.00             0.00         10,043.67            0.00
+ P             10,886.73          843.06         10,043.67                0.00             0.00         10,043.67            0.00
+ NR            65,328.72        5,058.99         60,269.73                0.00           233.18         60,036.55          705.14
+ S                  0.00            0.00              0.00                0.00             0.00              0.00            0.00
+
+ Total      4,905,039.96      293,366.36      4,611,673.60                0.00           233.18      4,611,440.42          705.14
+ </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+                                     Other Required Information
+
+  <s>                                                                            <c>
+
+  Available Distribution Amount  (1)                                                67,583,588.74
+
+  Principal Distribution Amount                                                     58,959,037.73
+         (a) Principal portion of Monthly Payments                        959,037.73
+              and any Assumed Monthly Payments
+
+         (b) Principal Prepayments                                     58,000,000.00
+         (c) Collection of Principal on a Balloon                               0.00
+              Loan after its stated Maturity Date
+
+         (d) Liquidation Proceeds and Insurance                                 0.00
+              Proceeds received on a Mortgage Loan
+
+         (e) Liquidation Proceeds, Insurance Proceeds,                          0.00
+              or REO Revenues received on an REO
+         Plus the excess of the prior Principal Distribution                    0.00
+         Amount over the principal paid to the Sequential
+
+         Pay Certificates
+
+  Aggregate Number of Outstanding Loans                                                       116
+
+  Aggregate Unpaid Principal Balance of Loans                                      975,508,535.22
+
+  Aggregate Stated Principal Balance of Loans                                      975,126,567.87
+
+  Aggregate Amount of Servicing Fee                                                     26,279.80
+  Aggregate Amount of Special Servicing Fee                                                  0.00
+  Aggregate Amount of Trustee Fee                                                        2,066.27
+  Aggregate Trust Fund Expenses                                                            233.18
+
+  Interest Reserve Deposit                                                                   0.00
+  Interest Reserve Withdrawal                                                                0.00
+
+  Excess Liquidation Proceeds Account Balance                                                0.00
+
+  Specially Serviced Loans not Delinquent
+         Number of Outstanding Loans                                                            0
+         Aggregate Unpaid Principal Balance                                                  0.00
+
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+                       Original Subordination Level
+
+  <s>                 <c>             <c>               <c>
+  Class A-1         14.14%            Class G             5.00%
+  Class A-2         14.14%            Class H             4.00%
+  Class A-3         14.14%            Class J             3.38%
+  Class A-1A        14.14%            Class K             2.88%
+  Class B           11.51%            Class L             2.50%
+  Class C           10.39%            Class M             2.00%
+  Class D            8.26%            Class N             1.75%
+  Class E            7.01%            Class P             1.50%
+  Class F            5.88%            Class NR            0.00%
+
+  </TABLE>
+
+
+
+                              Appraisal Reduction Amount
+
+                                         None
+
+   <TABLE>
+
+                                     Cash Reconciliation Detail
+
+   <s>                                                                                 <c>
+   Total Funds Collected
+   Interest:
+   Scheduled Interest                                                              4,968,506.34
+   Interest reductions due to Nonrecoverability Determinations                             0.00
+   Interest Adjustments                                                                    0.00
+   Deferred Interest                                                                       0.00
+   Net Prepayment Interest Shortfall                                                (310,601.10)
+   Net Prepayment Interest Excess                                                          0.00
+   Extension Interest                                                                      0.00
+   Interest Reserve Withdrawal                                                             0.00
+   Total Interest Collected                                                                           4,657,905.24
+
+   Principal:
+   Scheduled Principal                                                               959,037.73
+   Unscheduled Principal                                                          58,000,000.00
+   Principal Prepayments                                                          58,000,000.00
+   Collection of Principal after Maturity Date                                             0.00
+   Recoveries from Liquidation and Insurance Proceeds                                      0.00
+   Excess of Prior Principal Amounts paid                                                  0.00
+   Curtailments                                                                            0.00
+   Negative Amortization                                                                   0.00
+   Principal Adjustments                                                                   0.00
+   Total Principal Collected                                                                         58,959,037.73
+
+   Other:
+   Prepayment Penalties/Yield Maintenance                                          4,013,110.59
+   Repayment Fees                                                                          0.00
+   Borrower Option Extension Fees                                                          0.00
+   Equity Payments Received                                                                0.00
+   Net Swap Counterparty Payments Received                                                 0.00
+   Total Other Collected:                                                                             4,013,110.59
+   Total Funds Collected                                                                             67,630,053.56
+
+   Total Funds Distributed
+   Fees:
+   Master Servicing Fee                                                               44,165.33
+   Trustee Fee                                                                         2,066.27
+   Certificate Administration Fee                                                          0.00
+   Insurer Fee                                                                             0.00
+   Miscellaneous Fee                                                                       0.00
+   Total Fees                                                                                            46,231.60
+
+   Additional Trust Fund Expenses:
+   Reimbursement for Interest on Advances                                                233.18
+   ASER Amount                                                                             0.00
+   Special Servicing Fee                                                                   0.00
+   Rating Agency Expenses                                                                  0.00
+   Attorney Fees & Expenses                                                                0.00
+   Bankruptcy Expense                                                                      0.00
+   Taxes Imposed on Trust Fund                                                             0.00
+   Non-Recoverable Advances                                                                0.00
+   Other Expenses                                                                          0.00
+   Total Additional Trust Fund Expenses                                                                     233.18
+
+   Interest Reserve Deposit                                                                                   0.00
+
+
+   Payments to Certificateholders & Others:
+   Interest Distribution                                                           4,611,440.42
+   Principal Distribution                                                         58,959,037.73
+   Prepayment Penalties/Yield Maintenance                                          4,013,110.59
+   Borrower Option Extension Fees                                                          0.00
+   Equity Payments Paid                                                                    0.00
+   Net Swap Counterparty Payments Paid                                                     0.00
+   Total Payments to Certificateholders & Others                                                     67,583,588.74
+   Total Funds Distributed                                                                           67,630,053.52
+
+   </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+                                             Ratings Detail
+
+      Class         CUSIP           Original Ratings                       Current Ratings  (1)
+                                Fitch     Moody's    S & P              Fitch    Moody's     S & P
+  <s>                <c>         <c>        <c>       <c>                <c>       <c>        <c>
+       A-1        46625MV55      AAA        Aaa        X                 AAA       Aaa         X
+       A-2        46625MV63      AAA        Aaa        X                 AAA       Aaa         X
+       A-3        46625MV71      AAA        Aaa        X                 AAA       Aaa         X
+       A-1A       46625MW62      AAA        Aaa        X                 AAA       Aaa         X
+       X-1        46625MW47      AAA        Aaa        X                 AAA       Aaa         X
+       X-2        46625MW54      AAA        Aaa        X                 AAA       Aaa         X
+        B         46625MV89       AA        Aa2        X                 AA        Aa2         X
+        C         46625MV97      AA-        Aa3        X                 AA-       Aa3         X
+        D         46625MW21       A         A2         X                  A         A2         X
+        E         46625MW39       A-        A3         X                 A-         A3         X
+        F         46625MW70      BBB+      Baa1        X                BBB+       Baa1        X
+        G         46625MW88      BBB       Baa2        X                 BBB       Baa2        X
+        H         46625MW96      BBB-      Baa3        X                BBB-       Baa3        X
+        J         46625MX20      BB+        Ba1        X                 BB+       Ba1         X
+        K         46625MX38       BB        Ba2        X                 BB        Ba2         X
+        L         46625MX46      BB-        Ba3        X                 BB-       Ba3         X
+        M         46625MX53       B+        B1         X                 B+         B1         X
+        N         46625MX61       B         B2         X                  B         B2         X
+        P         46625MX79       B-        B3         X                 B-         B3         X
+        NR        46625MX87       NR        NR         X                 NR         NR         X
+        S            N/A          NR        NR         X                 NR         NR         X
+
+ <FN>
+  NR   - Designates that the class was not rated by the above agency at the time of
+         original issuance.
+
+   X   - Designates that the above rating agency did not rate any classes in this transaction at the time of
+         original issuance.
+
+  N/A  - Data not available this period.
+
+ 1) For any class not rated at the time of original issuance by any particular
+ rating agency, no request has been made subsequent to issuance to obtain rating
+ information, if any, from such rating agency. The current ratings were obtained
+ directly from the applicable rating agency within 30 days of the payment date
+ listed above. The ratings may have changed since they were obtained. Because the
+ ratings may have changed, you may want to obtain current ratings directly from the
+ rating agencies.
+
+
+ Fitch, Inc.
+ One State Street Plaza
+ New York, New York 10004
+ (212) 908-0500
+
+ Moody's Investors Service
+ 99 Church Street
+ New York, New York 10007
+ (212) 553-0300
+
+ Standard & Poor's Rating Services
+ 55 Water Street
+ New York, New York 10041
+ (212) 438-2430
+
+ </FN>
+ </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+                          Current Mortgage Loan and Property Stratification Tables
+                                               Aggregate Pool
+
+                                Scheduled Balance
+
+            Scheduled               # of            Scheduled           % of       WAM        WAC           Weighted
+             Balance                Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        1,999,999 or less            13           17,667,511.92         1.81       104       6.0121         1.508224
+      2,000,000 to 2,999,999         23           59,883,832.36         6.14       126       6.0403         1.431957
+      3,000,000 to 3,999,999         18           61,402,574.51         6.30       111       5.8420         1.508169
+      4,000,000 to 4,999,999         13           58,784,822.32         6.03       127       6.0452         1.441828
+      5,000,000 to 6,999,999         17           98,796,284.88        10.13       107       5.7878         1.426434
+      7,000,000 to 9,999,999         14          115,500,464.66        11.84        99       5.9587         1.604520
+     10,000,000 to 14,999,999         9          108,965,245.89        11.17       108       5.8264         1.354480
+     15,000,000 to 24,999,999         3           62,784,571.72         6.44        87       5.5076         1.910870
+     25,000,000 to 49,999,999         3          122,241,710.94        12.54       113       5.7466         1.544798
+        50,000,000 or more            3          269,099,548.67        27.60        87       5.2443         1.678351
+
+              Totals                116          975,126,567.87       100.00       103       5.6777         1.562932
+  </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                   State  (3)
+
+              State                 # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Props            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+             Alabama                  2           11,812,844.45         1.21        97       5.4381         1.484917
+              Alaska                  1            4,934,351.71         0.51       107       5.7000         1.631000
+             Arizona                  8           41,569,110.55         4.26        87       5.6311         1.651398
+             Arkansas                 1            4,849,865.55         0.50       168       5.8600         1.441800
+            California               26          162,453,099.94        16.66       112       5.7833         1.544747
+             Colorado                 3           22,376,278.69         2.29       107       5.4597         2.141914
+           Connecticut                1            1,858,452.77         0.19       106       5.3600         0.783400
+             Florida                 13           94,716,336.60         9.71        93       5.5863         1.664853
+             Georgia                  8           45,372,681.03         4.65       108       5.9594         1.584167
+              Idaho                   2           12,769,544.52         1.31       109       6.1200         1.320000
+             Illinois                 3           23,405,142.12         2.40       108       6.1987         1.636999
+             Indiana                  5           31,979,352.69         3.28       117       5.9626         1.185934
+              Kansas                  1            2,370,743.81         0.24       108       5.4700         0.743700
+            Louisiana                 1            1,126,093.60         0.12       107       6.6100         1.450000
+             Maryland                 1            9,004,342.02         0.92        99       5.7300         3.278100
+          Massachusetts               4           11,090,078.46         1.14        91       5.7293         1.543193
+             Michigan                 6           31,197,300.32         3.20       107       5.8207         1.625281
+            Minnesota                 1            6,800,000.00         0.70       107       5.4880         1.945700
+             Missouri                 1            3,928,962.84         0.40        49       5.1400         1.411700
+              Nevada                  1          155,000,000.00        15.90        72       4.7931         1.783500
+            New Jersey                1            3,417,854.81         0.35       109       6.4900         1.340000
+             New York                 2           73,572,911.29         7.54       107       6.0537         1.114020
+          North Carolina              8           62,381,298.28         6.40       116       6.1840         1.397697
+           North Dakota               1            3,705,821.09         0.38       108       5.4700         1.372600
+               Ohio                   2           13,300,000.00         1.36       110       5.6000         1.284436
+             Ontario                  1            4,537,124.40         0.47       109       6.7100         1.619200
+           Pennsylvania               2            8,802,730.68         0.90       209       6.6240         1.297214
+          South Carolina              1            3,481,921.91         0.36       108       6.1800         1.194100
+            Tennessee                 2           15,392,954.42         1.58        75       5.7174         1.503592
+              Texas                  18           65,196,917.27         6.69       117       6.0043         1.457357
+             Virginia                 3           39,957,909.55         4.10       124       5.6281         1.586240
+            Washington                1            2,764,542.45         0.28       107       5.8700         1.271200
+
+              Totals                131          975,126,567.87       100.00       103       5.6777         1.562932
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                        Debt Service Coverage Ratio  (1)
+
+           Debt Service             # of            Scheduled           % of       WAM        WAC           Weighted
+          Coverage Ratio            Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+           1.19 or less              16          133,689,575.14        13.71       108       6.0208         1.072396
+           1.20 to 1.29              20          147,856,747.87        15.16       114       5.9922         1.259811
+           1.30 to 1.34               8           30,944,416.03         3.17       108       6.1595         1.325602
+           1.35 to 1.39              13           81,656,606.31         8.37       103       5.9275         1.374753
+           1.40 to 1.44              15           97,248,677.10         9.97       123       5.6497         1.419115
+           1.45 to 1.49               9           47,608,634.97         4.88       108       5.8054         1.466819
+           1.50 to 1.69              13           54,416,915.54         5.58       100       5.7532         1.588795
+           1.70 to 1.99               9          304,657,597.22        31.24        85       5.1757         1.832319
+           2.00 to 2.99              11           64,842,947.95         6.65       112       5.9642         2.289806
+         3.00 or greater              2           12,204,449.74         1.25       101       5.6146         3.288483
+
+              Totals                116          975,126,567.87       100.00       103       5.6777         1.562932
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                              Property Type  (3)
+
+             Property               # of            Scheduled           % of       WAM        WAC           Weighted
+               Type                 Props            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+            Industrial                7           33,836,760.63         3.47       108       5.6144         1.283831
+            Mixed Use                 2           14,077,826.02         1.44       106       6.2728         1.226501
+           Multi-Family              31          146,560,424.43        15.03       104       5.6644         1.297596
+              Office                 26          252,691,600.61        25.91       108       5.9176         1.593516
+              Other                  28          161,274,375.89        16.54        99       5.5609         1.818167
+              Retail                 36          364,436,310.74        37.37        99       5.5506         1.571623
+           Self Storage               1            2,249,269.50         0.23       110       5.7800         2.011900
+
+              Totals                131          975,126,567.87       100.00       103       5.6777         1.562932
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Note Rate
+
+            Note Rate               # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+          5.499% or less             23          371,574,591.83        38.11        85       5.1436         1.722874
+         5.500% to 5.999%            40          272,822,658.11        27.98       109       5.7610         1.525059
+         6.000% to 6.499%            42          288,362,109.41        29.57       116       6.1492         1.367570
+         6.500% to 6.999%            11           42,367,208.52         4.34       122       6.6162         1.733757
+         7.000% to 7.499%             0                    0.00         0.00         0       0.0000         0.000000
+         7.500% to 7.999%             0                    0.00         0.00         0       0.0000         0.000000
+        8.000% or greater             0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                116          975,126,567.87       100.00       103       5.6777         1.562932
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Seasoning
+
+            Seasoning               # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        100 months or less          116          975,126,567.87       100.00       103       5.6777         1.562932
+        101 to 110 months             0                    0.00         0.00         0       0.0000         0.000000
+        111 to 120 months             0                    0.00         0.00         0       0.0000         0.000000
+        121 to 200 months             0                    0.00         0.00         0       0.0000         0.000000
+        201 months or more            0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                116          975,126,567.87       100.00       103       5.6777         1.562932
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+               Anticipated Remaining Term (ARD and Balloon Loans)
+
+           Anticipated              # of            Scheduled           % of       WAM        WAC           Weighted
+        Remaining Term (2)          Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        100 months or less           13          229,800,332.14        23.57        67       4.9881         1.778174
+        101 to 110 months            85          648,010,763.71        66.45       108       5.8802         1.503396
+        111 to 120 months             1           11,040,000.00         1.13       111       5.7000         1.229200
+        121 to 200 months             6           48,168,235.62         4.94       145       5.8359         1.398825
+        201 months or more            3            8,419,636.38         0.86       228       6.4142         1.205570
+
+              Totals                108          945,438,967.85        96.96       101       5.6637         1.559002
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                 Remaining Stated Term (Fully Amortizing Loans)
+
+         Remaining Stated           # of            Scheduled           % of       WAM        WAC           Weighted
+               Term                 Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        99 months or less             0                    0.00         0.00         0       0.0000         0.000000
+        100 to 109 months             3           16,521,930.76         1.69       107       6.1181         1.579297
+        110 to 119 months             0                    0.00         0.00         0       0.0000         0.000000
+        120 to 149 months             0                    0.00         0.00         0       0.0000         0.000000
+        150 to 199 months             3            5,459,477.38         0.56       167       5.8764         2.384171
+      200 months or greater           2            7,706,191.88         0.79       257       6.3035         1.428209
+
+              Totals                  8           29,687,600.02         3.04       157       6.1218         1.688092
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+               Remaining Amortization Term (ARD and Balloon Loans)
+
+      Remaining Amortization        # of            Scheduled           % of       WAM        WAC           Weighted
+               Term                 Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+          Interest Only               2           24,150,000.00         2.48        50       5.3295         1.786517
+        170 months or less            1            2,787,525.85         0.29       169       6.0000         1.200000
+        171 to 180 months             1            1,246,622.70         0.13       178       6.7000         1.572700
+        181 to 240 months             8           80,058,642.98         8.21       119       6.1539         1.238352
+        241 to 270 months             1            4,849,865.55         0.50       168       5.8600         1.441800
+        271 to 290 months            27          174,465,834.00        17.89       108       6.0318         1.409483
+        291 to 300 months             0                    0.00         0.00         0       0.0000         0.000000
+        301 to 330 months             5          118,918,903.42        12.20       108       5.5753         1.869206
+        331 to 350 months            63          538,961,573.35        55.27        96       5.5004         1.579273
+        351 months or more            0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                108          945,438,967.85        96.96       101       5.6637         1.559002
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                             Age of Most Recent NOI
+
+           Age of Most              # of            Scheduled           % of       WAM        WAC           Weighted
+            Recent NOI              Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+    Underwriter's Information        42          236,939,823.08        24.30       110       5.8086         1.403391
+          1 year or less             74          738,186,744.79        75.70       100       5.6357         1.614141
+           1 to 2 years               0                    0.00         0.00         0       0.0000         0.000000
+         2 years or more              0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                116          975,126,567.87       100.00       103       5.6777         1.562932
+ <FN>
+
+ (1) Debt Service Coverage Ratios are updated periodically as new NOI figures
+ become available from borrowers on an asset level. In all cases the most current
+ DSCR provided by the Servicer is used. To the extent that no DSCR is provided by
+ the Servicer, information from the offering document is used. The Trustee makes
+ no representations as to the accuracy of the data provided by the borrower for
+ this calculation.
+
+ (2) Anticipated Remaining Term and WAM are each calculated based upon the term
+ from the current month to the earlier of the Anticipated Repayment Date, if
+ applicable, and the Maturity Date.
+
+ (3) Data in this table was calculated by allocating pro-rata the current loan
+ information to the properties based upon the Cut-off Date balance of each
+ property as disclosed in the offering document.
+
+ Note: There are no Hyper-Amortization Loans included in the Mortgage Pool.
+
+
+ </FN>
+ </TABLE>
+
+
+ <TABLE>
+ <CAPTION>
+
+                          Current Mortgage Loan and Property Stratification Tables
+                                                   Group 1
+
+                                Scheduled Balance
+
+            Scheduled               # of            Scheduled           % of       WAM        WAC           Weighted
+             Balance                Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        0 to 4,999,999.99            43          127,051,027.58        13.03       127       6.1319         1.453037
+    5,000,000 to 9,999,999.99        19          137,052,684.42        14.05       102       6.0202         1.592971
+   10,000,000 to 14,999,999.99        8           95,011,382.09         9.74       108       5.8244         1.404764
+   15,000,000 to 19,999,999.99        1           15,482,326.91         1.59       107       5.4400         1.419800
+   20,000,000 to 24,999,999.99        1           24,702,244.81         2.53       108       5.7400         2.352200
+   25,000,000 to 29,999,999.99        0                    0.00         0.00         0       0.0000         0.000000
+   30,000,000 to 34,999,999.99        1           30,000,000.00         3.08       130       5.6200         1.400000
+   35,000,000 to 39,999,999.99        0                    0.00         0.00         0       0.0000         0.000000
+   40,000,000 to 44,999,999.99        0                    0.00         0.00         0       0.0000         0.000000
+   45,000,000 to 54,999,999.99        2           98,100,705.94        10.06       107       5.7699         1.632468
+      55,000,000 and greater          2          217,712,553.67        22.33        82       5.1868         1.615249
+
+              Totals                 77          745,112,925.42        76.41       104       5.7004         1.570623
+  </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                   State  (3)
+
+              State                 # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Props            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+             Alabama                  1            8,388,191.21         0.86       108       5.2700         1.540000
+             Arizona                  2           13,593,070.35         1.39       107       6.0896         1.875212
+            California               22          139,602,692.02        14.32       111       5.8234         1.569578
+             Colorado                 2           19,176,171.00         1.97       107       5.4880         1.945700
+             Florida                  9           37,516,964.60         3.85       105       5.7211         1.551509
+             Georgia                  5           36,277,256.62         3.72       107       6.1041         1.559834
+              Idaho                   2           12,769,544.52         1.31       109       6.1200         1.320000
+             Illinois                 3           23,405,142.12         2.40       108       6.1987         1.636999
+             Indiana                  2            6,769,685.22         0.69       156       6.3604         1.127986
+            Louisiana                 1            1,126,093.60         0.12       107       6.6100         1.450000
+             Maryland                 1            9,004,342.02         0.92        99       5.7300         3.278100
+          Massachusetts               2            6,041,087.68         0.62        78       5.6546         1.541671
+             Michigan                 3           15,075,936.62         1.55       107       6.1791         1.380570
+            Minnesota                 1            6,800,000.00         0.70       107       5.4880         1.945700
+             Missouri                 1            3,928,962.84         0.40        49       5.1400         1.411700
+              Nevada                  1          155,000,000.00        15.90        72       4.7931         1.783500
+            New Jersey                1            3,417,854.81         0.35       109       6.4900         1.340000
+             New York                 2           73,572,911.29         7.54       107       6.0537         1.114020
+          North Carolina              5           60,410,039.70         6.20       116       6.1763         1.399580
+             Ontario                  1            4,537,124.40         0.47       109       6.7100         1.619200
+           Pennsylvania               2            8,802,730.68         0.90       209       6.6240         1.297214
+            Tennessee                 2           15,392,954.42         1.58        75       5.7174         1.503592
+              Texas                  10           44,546,260.11         4.57       123       6.0775         1.458605
+             Virginia                 3           39,957,909.55         4.10       124       5.6281         1.586240
+
+              Totals                 84          745,112,925.42        76.41       104       5.7004         1.570623
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                        Debt Service Coverage Ratio  (1)
+
+           Debt Service             # of            Scheduled           % of       WAM        WAC           Weighted
+          Coverage Ratio            Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+          1.199 and Less             10          102,152,720.41        10.48       111       6.1006         1.093542
+          1.200 to 1.249             10           49,593,787.62         5.09       126       5.9333         1.227266
+          1.250 to 1.299              6           79,469,427.03         8.15       108       6.0951         1.276285
+          1.300 to 1.399             10           64,843,229.76         6.65       106       6.1174         1.362182
+          1.400 to 1.449             10           76,375,570.38         7.83       128       5.7181         1.414273
+          1.450 to 1.499              8           43,550,598.16         4.47       108       5.8198         1.464659
+          1.500 to 1.549              1            8,388,191.21         0.86       108       5.2700         1.540000
+          1.550 to 1.599              2            3,585,834.14         0.37       132       6.3151         1.576223
+          1.600 to 1.649              3            9,232,560.71         0.95       108       6.4134         1.616379
+          1.650 to 1.699              1            8,599,775.89         0.88        49       5.5100         1.685900
+        1.700 and greater            16          299,321,230.11        30.70        90       5.2963         1.965015
+
+              Totals                 77          745,112,925.42        76.41       104       5.7004         1.570623
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                              Property Type  (3)
+
+             Property               # of            Scheduled           % of       WAM        WAC           Weighted
+               Type                 Props            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+            Industrial                7           33,836,760.63         3.47       108       5.6144         1.283831
+            Mixed Use                 2           14,077,826.02         1.44       106       6.2728         1.226501
+           Multi-Family               2           18,760,560.35         1.92       108       5.6506         0.885876
+              Office                 26          252,691,600.61        25.91       108       5.9176         1.593516
+              Other                  10           59,060,597.53         6.06       107       5.6205         1.913552
+              Retail                 36          364,436,310.74        37.37        99       5.5506         1.571623
+           Self Storage               1            2,249,269.50         0.23       110       5.7800         2.011900
+
+              Totals                 84          745,112,925.42        76.41       104       5.7004         1.570623
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Note Rate
+
+            Note Rate               # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+         4.9999% or less              1          155,000,000.00        15.90        72       4.7931         1.783500
+        5.0000% to 5.3999%            3           13,926,135.27         1.43        84       5.2287         1.481851
+        5.4000% to 5.7999%           18          217,427,629.45        22.30       108       5.6008         1.684538
+        5.8000% to 5.9999%           10           53,670,227.11         5.50       107       5.9368         1.327162
+        6.0000% to 6.1999%           21          204,570,800.05        20.98       112       6.0935         1.386202
+        6.2000% or greater           24          100,518,133.54        10.31       126       6.4537         1.513580
+
+              Totals                 77          745,112,925.42        76.41       104       5.7004         1.570623
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Seasoning
+
+            Seasoning               # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        12 months or less            77          745,112,925.42        76.41       104       5.7004         1.570623
+         13 to 24 months              0                    0.00         0.00         0       0.0000         0.000000
+         25 to 36 months              0                    0.00         0.00         0       0.0000         0.000000
+         37 to 48 months              0                    0.00         0.00         0       0.0000         0.000000
+      49 months and greater           0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                 77          745,112,925.42        76.41       104       5.7004         1.570623
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+               Anticipated Remaining Term (ARD and Balloon Loans)
+
+           Anticipated              # of            Scheduled           % of       WAM        WAC           Weighted
+        Remaining Term (2)          Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        60 months or less             4           15,687,719.95         1.61        49       5.4133         1.623859
+         61 to 85 months              2          160,241,087.68        16.43        72       4.8221         1.773573
+         86 to 120 months            56          493,850,192.38        50.64       108       5.9524         1.515447
+        121 months or more            7           45,646,325.39         4.68       154       5.8807         1.360430
+
+              Totals                 69          715,425,325.40        73.37       101       5.6829         1.565749
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                 Remaining Stated Term (Fully Amortizing Loans)
+
+         Remaining Stated           # of            Scheduled           % of       WAM        WAC           Weighted
+               Term                 Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        60 months or less             0                    0.00         0.00         0       0.0000         0.000000
+         61 to 85 months              0                    0.00         0.00         0       0.0000         0.000000
+         86 to 120 months             3           16,521,930.76         1.69       107       6.1181         1.579297
+        121 to 235 months             5           13,165,669.26         1.35       220       6.1264         1.824623
+
+              Totals                  8           29,687,600.02         3.04       157       6.1218         1.688092
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+               Remaining Amortization Term (ARD and Balloon Loans)
+
+      Remaining Amortization        # of            Scheduled           % of       WAM        WAC           Weighted
+               Term                 Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+          Interest Only               1            1,550,000.00         0.16        47       5.7600         2.101700
+        120 months or less            0                    0.00         0.00         0       0.0000         0.000000
+        121 to 180 months             2            4,034,148.55         0.41       172       6.2163         1.315171
+        181  to 240 months            7           77,329,652.21         7.93       119       6.1558         1.238294
+        241 to 300 months            17          144,103,946.05        14.78       106       6.0631         1.439804
+        301  to 360 months           42          488,407,578.59        50.09        97       5.4912         1.655124
+      361 months or greater           0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                 69          715,425,325.40        73.37       101       5.6829         1.565749
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                             Age of Most Recent NOI
+
+           Age of Most              # of            Scheduled           % of       WAM        WAC           Weighted
+            Recent NOI              Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+    Underwriter's Information        25          160,298,410.13        16.44       118       5.9124         1.397882
+          1 year or less             52          584,814,515.29        59.97       100       5.6422         1.617972
+           1 to 2 years               0                    0.00         0.00         0       0.0000         0.000000
+        2 years or greater            0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                 77          745,112,925.42        76.41       104       5.7004         1.570623
+ <FN>
+
+ (1) Debt Service Coverage Ratios are updated periodically as new NOI figures
+ become available from borrowers on an asset level. In all cases the most current
+ DSCR provided by the Servicer is used. To the extent that no DSCR is provided by
+ the Servicer, information from the offering document is used. The Trustee makes
+ no representations as to the accuracy of the data provided by the borrower for
+ this calculation.
+
+ (2) Anticipated Remaining Term and WAM are each calculated based upon the term
+ from the current month to the earlier of the Anticipated Repayment Date, if
+ applicable, and the Maturity Date.
+
+ (3) Data in this table was calculated by allocating pro-rata the current loan
+ information to the properties based upon the Cut-off Date balance of each
+ property as disclosed in the offering document.
+
+ Note: There are no Hyper-Amortization Loans included in the Mortgage Pool.
+
+
+ </FN>
+ </TABLE>
+
+
+ <TABLE>
+ <CAPTION>
+
+                          Current Mortgage Loan and Property Stratification Tables
+
+                                                   Group 2
+
+                                Scheduled Balance
+
+            Scheduled               # of            Scheduled           % of       WAM        WAC           Weighted
+             Balance                Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        0 to 4,999,999.99            24           70,687,713.53         7.25       106       5.7005         1.487542
+    5,000,000 to 9,999,999.99        12           77,244,065.12         7.92       102       5.6310         1.397238
+   10,000,000 to 14,999,999.99        1           13,953,863.80         1.43       107       5.8400         1.012100
+   15,000,000 to 19,999,999.99        0                    0.00         0.00         0       0.0000         0.000000
+   20,000,000 to 24,999,999.99        1           22,600,000.00         2.32        50       5.3000         1.764900
+      35,000,000 and greater          1           45,528,000.00         4.67       107       5.4880         1.903800
+
+              Totals                 39          230,013,642.45        23.59        99       5.6042         1.538017
+  </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                   State  (3)
+
+              State                 # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Props            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+             Alabama                  1            3,424,653.24         0.35        70       5.8500         1.350000
+              Alaska                  1            4,934,351.71         0.51       107       5.7000         1.631000
+             Arizona                  6           27,976,040.20         2.87        78       5.4083         1.542650
+             Arkansas                 1            4,849,865.55         0.50       168       5.8600         1.441800
+            California                4           22,850,407.92         2.34       114       5.5384         1.393044
+             Colorado                 1            3,200,107.69         0.33       106       5.2900         3.317700
+           Connecticut                1            1,858,452.77         0.19       106       5.3600         0.783400
+             Florida                  4           57,199,372.00         5.87        85       5.4979         1.739195
+             Georgia                  3            9,095,424.41         0.93       108       5.3822         1.681220
+             Indiana                  3           25,209,667.47         2.59       107       5.8558         1.201495
+              Kansas                  1            2,370,743.81         0.24       108       5.4700         0.743700
+          Massachusetts               2            5,048,990.78         0.52       108       5.8188         1.545015
+             Michigan                 3           16,121,363.70         1.65       107       5.4855         1.854123
+          North Carolina              3            1,971,258.58         0.20       109       6.4200         1.340000
+           North Dakota               1            3,705,821.09         0.38       108       5.4700         1.372600
+               Ohio                   2           13,300,000.00         1.36       110       5.6000         1.284436
+          South Carolina              1            3,481,921.91         0.36       108       6.1800         1.194100
+              Texas                   8           20,650,657.16         2.12       104       5.8463         1.454666
+            Washington                1            2,764,542.45         0.28       107       5.8700         1.271200
+
+              Totals                 47          230,013,642.45        23.59        99       5.6042         1.538017
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                        Debt Service Coverage Ratio  (1)
+
+           Debt Service             # of            Scheduled           % of       WAM        WAC           Weighted
+          Coverage Ratio            Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+          1.249 and Less              7           34,265,845.50         3.51       100       5.7890         1.022704
+          1.250 to 1.299              3           16,064,542.45         1.65       109       5.6465         1.282158
+          1.300 to 1.399             11           47,757,792.58         4.90       102       5.8200         1.359974
+          1.400 to 1.449              5           20,873,106.72         2.14       104       5.3993         1.436833
+          1.450 to 1.499              1            4,058,036.81         0.42       110       5.6500         1.490000
+          1.500 to 1.599              5           19,676,201.88         2.02       108       5.6665         1.545920
+          1.600 to 1.699              1            4,934,351.71         0.51       107       5.7000         1.631000
+        1.700 and greater             6           82,383,764.80         8.45        92       5.4231         1.925999
+
+              Totals                 39          230,013,642.45        23.59        99       5.6042         1.538017
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                              Property Type  (3)
+
+             Property               # of            Scheduled           % of       WAM        WAC           Weighted
+               Type                 Props            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+           Multi-Family              29          127,799,864.08        13.11       103       5.6664         1.358035
+              Other                  18          102,213,778.36        10.48        95       5.5264         1.763052
+
+              Totals                 47          230,013,642.45        23.59        99       5.6042         1.538017
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Note Rate
+
+            Note Rate               # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+         4.9999% or less              1            5,422,737.14         0.56        48       4.9500         1.430000
+        5.0000% to 5.3999%            9           56,935,949.23         5.84        71       5.2802         1.671521
+        5.4000% to 5.7999%           12           90,759,600.66         9.31       108       5.5287         1.662922
+        5.8000% to 5.9999%            9           51,254,971.08         5.26       110       5.8834         1.323258
+        6.0000% to 6.1999%            5           15,169,247.60         1.56       107       6.0796         1.173988
+        6.2000% or greater            3           10,471,136.74         1.07       143       6.3041         1.363996
+
+              Totals                 39          230,013,642.45        23.59        99       5.6042         1.538017
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Seasoning
+
+            Seasoning               # of            Scheduled           % of       WAM        WAC           Weighted
+                                    Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+
+
+        12 months or less            39          230,013,642.45        23.59        99       5.6042         1.538017
+         13 to 24 months              0                    0.00         0.00         0       0.0000         0.000000
+         25 to 36 months              0                    0.00         0.00         0       0.0000         0.000000
+         37 to 48 months              0                    0.00         0.00         0       0.0000         0.000000
+      49 months and greater           0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                 39          230,013,642.45        23.59        99       5.6042         1.538017
+  </TABLE>
+
+
+
+  <TABLE>
+  <CAPTION>
+
+
+
+               Anticipated Remaining Term (ARD and Balloon Loans)
+
+           Anticipated              # of            Scheduled           % of       WAM        WAC           Weighted
+        Remaining Term (2)          Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        60 months or less             5           41,442,529.23         4.25        49       5.2363         1.563866
+         61 to 85 months              1            3,424,653.23         0.35        70       5.8500         1.350000
+         86 to 120 months            31          174,204,913.38        17.86       108       5.6562         1.543587
+        121 months or more            2           10,941,546.61         1.12       167       6.0938         1.410288
+
+              Totals                 39          230,013,642.45        23.59        99       5.6042         1.538017
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                 Remaining Stated Term (Fully Amortizing Loans)
+
+         Remaining Stated           # of            Scheduled           % of       WAM        WAC           Weighted
+               Term                 Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+        60 months or less             0                    0.00         0.00         0       0.0000         0.000000
+         61 to 85 months              0                    0.00         0.00         0       0.0000         0.000000
+         86 to 120 months             0                    0.00         0.00         0       0.0000         0.000000
+        121 to 142 months             0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                  0                    0.00         0.00         0       0.0000         0.000000
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+               Remaining Amortization Term (ARD and Balloon Loans)
+
+      Remaining Amortization        # of            Scheduled           % of       WAM        WAC           Weighted
+               Term                 Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+          Interest Only               1           22,600,000.00         2.32        50       5.3000         1.764900
+        120 months or less            0                    0.00         0.00         0       0.0000         0.000000
+        121 to 180 months             0                    0.00         0.00         0       0.0000         0.000000
+        181  to 240 months            1            2,728,990.77         0.28       108       6.1000         1.240000
+        241 to 300 months            11           35,211,753.50         3.61       124       5.8803         1.289846
+        301  to 360 months           26          169,472,898.18        17.38       101       5.5794         1.564123
+      361 months or greater           0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                 39          230,013,642.45        23.59        99       5.6042         1.538017
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                             Age of Most Recent NOI
+
+           Age of Most              # of            Scheduled           % of       WAM        WAC           Weighted
+            Recent NOI              Loans            Balance            Agg.       (2)                    Avg DSCR (1)
+                                                                        Bal.
+  <s>                                <c>               <c>              <c>        <c>        <c>             <c>
+    Underwriter's Information        17           76,641,412.95         7.86        96       5.5916         1.414913
+          1 year or less             22          153,372,229.50        15.73       101       5.6105         1.599534
+           1 to 2 years               0                    0.00         0.00         0       0.0000         0.000000
+        2 years or greater            0                    0.00         0.00         0       0.0000         0.000000
+
+              Totals                 39          230,013,642.45        23.59        99       5.6042         1.538017
+ <FN>
+
+ (1) Debt Service Coverage Ratios are updated periodically as new NOI figures
+ become available from borrowers on an asset level. In all cases the most current
+ DSCR provided by the Servicer is used. To the extent that no DSCR is provided by
+ the Servicer, information from the offering document is used. The Trustee makes
+ no representations as to the accuracy of the data provided by the borrower for
+ this calculation.
+
+ (2) Anticipated Remaining Term and WAM are each calculated based upon the term
+ from the current month to the earlier of the Anticipated Repayment Date, if
+ applicable, and the Maturity Date.
+
+ (3) Data in this table was calculated by allocating pro-rata the current loan
+ information to the properties based upon the Cut-off Date balance of each
+ property as disclosed in the offering document.
+
+ Note: There are no Hyper-Amortization Loans included in the Mortgage Pool.
+
+
+ </FN>
+ </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+                               Mortgage Loan Detail
+
+       Loan                   Property                                        Interest       Principal       Gross
+      Number         ODCR     Type (1)     City                  State        Payment         Payment       Coupon
+        <s>          <c>         <c>         <c>                  <c>           <c>             <c>           <c>
+     991088734        1          RT     Las Vegas                 NV           619,108.75           0.00    4.793%
+     991088627        2          OF     Bronx                     NY           322,881.43     186,425.94    6.160%
+     991088651        3          RT     Mesa                      AZ            22,185.79  58,000,000.00    7.000%
+     991088702        4          OT     Various                 Various        235,009.86           0.00    5.488%
+     991088665        5          RT     Garner                    NC           237,044.19      71,326.04    6.080%
+     991088704        6          OT     Various                 Various        208,214.72           0.00    5.488%
+     991088732        7          OF     Norfolk                   VA           140,500.00           0.00    5.620%
+     991088685        8          OF     Lake Forest               CA           118,290.35      27,444.09    5.740%
+     991088660        9          OT     Hialeah Gardens           FL            99,816.67           0.00    5.300%
+     991088629        10         RT     Murrieta                  CA            70,269.43      18,283.32    5.440%
+     991088675        11         MF     Greenfield                IN            67,983.31      15,308.74    5.840%
+     991088714        12         OF     Woodridge                 IL            64,756.41      20,433.45    5.950%
+     991088636        13         OF     Los Angeles               CA            60,311.46      20,918.20    5.600%
+     991088678        14         OF     Kennesaw                  GA            64,814.21      13,811.15    6.010%
+     991088705        15         RT     Boise                     ID            62,159.56      12,536.77    6.120%
+     991088728        16         RT     DeSoto                    TX            53,572.91      18,045.20    5.690%
+     991088703        17         IN     Ontario                   CA            52,440.00           0.00    5.700%
+     991088670        18         MF     New York                  NY            49,291.43      12,751.90    5.440%
+     991088709        19         OF     Scottsdale                AZ            54,369.01      16,773.35    6.040%
+     991088737        20         RT     Amarillo                  TX            47,899.08      10,028.61    6.060%
+     991088688        21         RT     Atlanta                   GA            50,015.01       9,308.94    6.350%
+     991088708        22         OF     Rockville                 MD            43,045.99      10,525.88    5.730%
+     991088650        23         RT     Markham                   IL            47,275.50      10,469.53    6.510%
+     991088707        24         OF     Nashville                 TN            39,532.85       9,919.39    5.510%
+     991042179        25         MF     Tampa                     FL            42,170.54       8,981.14    5.980%
+     991088731        26         IN     Birmingham                AL            36,882.76      10,159.90    5.270%
+     991088730        27         MU     Grand Blanc               MI            44,901.46       8,322.21    6.410%
+     991088701        28         MF     Tucson                    AZ            36,659.13       9,986.46    5.300%
+     991088662        29         MF     Beverly Hills             CA            39,148.12       8,507.76    5.940%
+     991088666        30         RT     Canoga Park               CA            38,050.16       7,473.85    6.210%
+     991088656        31         OT     Elyria                    OH            34,533.33           0.00    5.600%
+     991088632        32         OT     Austin                    TX            38,639.55      10,155.48    6.540%
+     991088640        33         RT     Alpharetta                GA            35,375.05       7,375.80    6.040%
+     991088724        34         OF     Chattanooga               TN            33,904.84      10,467.64    5.980%
+     991088659        35         MF     Wilmington                CA            28,534.88       7,640.69    5.320%
+     991088658        36         MF     Santa Ana                 CA            28,534.88       7,640.69    5.320%
+     991088676        37         MF     McKinleyville             CA            31,927.35       9,087.20    6.280%
+     991088633        38         RT     Fresno                    CA            28,634.51       6,730.93    5.720%
+     991088710        39         MF     Dallas                    TX            29,950.49       9,389.19    6.010%
+     991088655        40         OT     Vermilion                 OH            27,533.33           0.00    5.600%
+     991088686        41         OF     Irvine                    CA            29,167.76       6,205.72    6.000%
+     991088644        42         OT     Indianapolis              IN            28,188.41       6,213.51    5.900%
+     991042793        43         MU     Riverside                 CA            28,762.84       5,970.52    6.070%
+     991088715        44         OF     Merced                    CA            27,745.39       8,805.77    5.950%
+     991088719        45         MF     Lubbock                   TX            25,425.15       6,513.06    5.440%
+     991088630        46         MF     Evansville                IN            26,982.32       6,054.37    5.850%
+     991088661        47         RT     Raleigh                   NC            30,054.12       7,564.85    6.640%
+     991088687        48         MF     Tucson                    AZ            22,397.50       6,959.85    4.950%
+     991088667        49         OF     Cambridge                 MA            24,835.55       5,858.53    5.680%
+     991088699        50         IN     Sunrise                   FL            24,497.24       5,716.54    5.710%
+     991088726        51         RT     Cleona                    PA            26,412.20       7,129.78    6.430%
+     991088727        52         MF     Anchorage                 AK            23,464.56       5,555.46    5.700%
+     991088698        53         MF     Conway                    AR            23,727.30       8,967.62    5.860%
+     991088712        54         OF     St. Augustine             FL            25,624.83       4,982.06    6.290%
+     991043556        55         RT     Austin                    TX            23,381.86       4,902.26    6.010%
+     991088663        56         OF     Atlanta                   GA            23,215.79       4,992.02    5.970%
+     991088631        57         OF     Bloomfield Hills          MI            21,791.10       5,196.53    5.680%
+     991088664        58         OF     Kingston                  ON            25,405.10       6,260.74    6.710%
+     991088681        59         IN     San Dimas                 CA            21,757.46       4,847.36    5.870%
+     991088722        60         MF     Sierra Vista              AZ            20,142.48       4,505.39    5.890%
+     991088738        61         RT     San Diego                 CA            21,474.61       6,055.79    6.310%
+     991088657        62         OT     Melbourne                 FL            19,127.96       4,538.71    5.650%
+     991088690        63         OF     Indianapolis              IN            20,976.56       4,134.67    6.200%
+     991088672        64         OF     Overland                  MO            16,858.41       6,852.62    5.140%
+     991088696        65         MF     Pasadena                  CA            16,600.63       4,900.18    5.100%
+     991088647        66         RT     Washington                PA            22,246.98       5,256.77    6.870%
+     991088638        67         RT     El Cajon                  CA            17,855.25       4,175.89    5.690%
+     991088646        68         MF     Fargo                     ND            16,920.60       6,193.62    5.470%
+     991042383        69         OF     Cupertino                 CA            17,406.78      14,128.46    5.740%
+     991088692        70         MF     Florence                  SC            17,950.25       3,563.00    6.180%
+     991088634        71         RT     San Diego                 CA            17,419.99       3,654.37    6.040%
+     991088689        72         MF     Mobile                    AL            16,713.56       3,769.19    5.850%
+     991088639        73         RT     Audubon                   NJ            18,502.64       3,281.02    6.490%
+     991088673        74         OT     Colorado Springs          CO            14,124.35       3,902.87    5.290%
+     991088693        75         RT     Friendswood               TX            17,309.58       3,074.61    6.500%
+     991088677        76         MF     Athens                    GA            14,254.34       3,754.62    5.420%
+     991088729        77         RT     Panama City               FL            15,400.63       3,363.87    5.940%
+     991088723        78         RT     Canoga Park               CA            16,122.31       4,630.14    6.270%
+     991088669        79         OF     Calabasas                 CA            15,403.21       3,242.69    6.030%
+     991088668        80         OF     Eureka                    CA            15,599.88       6,932.59    6.180%
+     991088694        81         RT     Mansfield                 TX            14,591.22       3,254.49    5.850%
+     991088654        82         MF     Clarkston                 GA            12,650.00           0.00    5.060%
+     991088720        83         RT     Springfield               VA            14,960.23       3,103.51    6.040%
+     991088642        84         MF     Tucson                    AZ            14,069.51       3,323.50    5.690%
+     991088718        85         MF     Augusta                   GA            13,929.24       4,749.25    5.670%
+     991088691        86         RT     Randleman                 NC            13,990.04      10,481.81    6.000%
+     991088735        87         RT     La Marque                 TX            14,145.92       7,818.96    6.080%
+     991088635        88         RT     Phoenix                   AZ            14,717.13       4,136.33    6.280%
+     991088653        89         RT     Orange Park               FL            13,913.65       2,985.98    5.930%
+     991088711        90         RT     Fayetteville              NC            15,802.84       3,961.46    6.760%
+     991088674        91         MF     Vancouver                 WA            13,537.97       3,016.14    5.870%
+     991088641        92         MF     Boston                    MA            13,904.48       6,317.46    6.100%
+     991088680        93         RT     Greensburg                IN            14,958.75       5,932.17    6.600%
+     991088700        94         RT     Harrisburg                NC            14,546.07       5,941.00    6.490%
+     991088671        95         RT     Los Angeles               CA            12,693.81       2,553.08    6.160%
+     991088637        96         MF     Various                   TX            12,144.33       3,856.40    5.930%
+     991088649        97         OT     Mission                   TX            12,595.36       2,398.19    6.270%
+     991088645        98         MF     Wichita                   KS            10,824.70       3,962.28    5.470%
+     991088725        99         OF     Tampa                     FL            11,938.03       5,408.97    6.110%
+     991088683       100         IN     Inglewood                 CA            11,442.43       3,703.37    5.870%
+     991088717       101         SS     Dublin                    CA            10,859.64       5,327.70    5.780%
+     991088721       102         OF     Lawrenceville             GA            11,304.49       2,315.86    6.090%
+     991088648       103         OT     Bay City                  MI            10,046.15       2,545.31    5.470%
+     991088697       104         OF     Birmingham                MI            11,016.52       2,050.43    6.350%
+     991088643       105         OT     Roxboro                   NC            10,561.44       2,842.90    6.420%
+     991088716       106         MF     Waterbury                 CT             8,315.36       3,193.98    5.360%
+     991088628       107         MF     Arlington                 TX             9,059.03       2,692.92    6.140%
+     991088684       108         RT     Mahomet                   IL             9,036.48       1,604.37    6.520%
+     991088733       109         IN     Fort Meyers               FL             7,030.51       4,136.76    5.230%
+     991088695       110         OF     Rancho Santa Margarit     CA             7,440.00           0.00    5.760%
+     991088682       111         RT     Amarillo                  TX             6,983.04       4,070.46    6.700%
+     991088652       112         MF     Houston                   TX             5,465.70       2,084.01    5.330%
+     991088713       113         OT     Mansfield                 TX             6,105.45       1,299.00    6.000%
+     991088679       114         RT     Baton Rouge               LA             6,211.70       1,598.31    6.610%
+     991088736       115         RT     Cedar Park                TX             5,021.82       3,568.77    6.280%
+     991042520       116         IN     Stafford                  TX             4,409.49       3,353.99    6.000%
+     991088706       117         OT     Boise                     ID             3,032.17         611.55    6.120%
+
+     Totals                                                                  4,640,670.48  58,959,037.73
+  </TABLE>
+  <TABLE>
+  <CAPTION>
+
+
+
+        Loan      Anticipated      Maturity      Neg.       Beginning           Ending           Paid Thru
+       Number      Repayment         Date       Amort       Scheduled          Scheduled           Date
+                      Date                      (Y/N)        Balance            Balance
+        <s>           <c>             <c>        <c>           <c>                <c>               <c>
+
+     991088734        N/A         12/01/2010      N      155,000,000.00       155,000,000.00      12/01/2004
+     991088627        N/A         11/11/2013      N       62,898,979.61        62,712,553.67      11/11/2004
+     991088651        N/A         10/15/2006      N       58,000,000.00                 0.00      10/15/2004
+     991088702        N/A         11/01/2013      N       51,386,995.00        51,386,995.00      12/01/2004
+     991088665        N/A         12/01/2013      N       46,785,036.98        46,713,710.94      12/01/2004
+     991088704        N/A         11/01/2013      N       45,528,000.00        45,528,000.00      12/01/2004
+     991088732        N/A         10/01/2015      N       30,000,000.00        30,000,000.00      12/01/2004
+     991088685        N/A         12/01/2013      N       24,729,688.90        24,702,244.81      12/01/2004
+     991088660        N/A         02/11/2009      N       22,600,000.00        22,600,000.00      11/11/2004
+     991088629        N/A         11/11/2013      N       15,500,610.23        15,482,326.91      12/11/2004
+     991088675        N/A         11/01/2013      N       13,969,172.54        13,953,863.80      12/01/2004
+     991088714        N/A         11/11/2013      N       13,060,115.48        13,039,682.03      12/11/2004
+     991088636        N/A         02/11/2014      N       12,923,885.00        12,902,966.80      12/11/2004
+     991088678        N/A         10/01/2013      N       12,941,274.17        12,927,463.02      12/01/2004
+     991088705        N/A         01/11/2014      N       12,188,148.95        12,175,612.18      11/11/2004
+     991088728        N/A         02/01/2014      N       11,298,328.77        11,280,283.57      12/01/2004
+     991088703        N/A         03/01/2014      N       11,040,000.00        11,040,000.00      12/01/2004
+     991088670        N/A         12/01/2013      N       10,873,109.53        10,860,357.63      12/01/2004
+     991088709        N/A         10/11/2013      N       10,801,790.21        10,785,016.86      11/11/2004
+     991088737        N/A         10/11/2013      N        9,484,966.81         9,474,938.20      11/11/2004
+     991088688        N/A         01/01/2014      N        9,451,654.96         9,442,346.02      11/01/2004
+     991088708        N/A         03/11/2013      N        9,014,867.93         9,004,342.05      12/11/2004
+     991088650        N/A         02/11/2014      N        8,714,377.95         8,703,908.42      12/11/2004
+     991088707        N/A         01/11/2009      N        8,609,695.28         8,599,775.89      11/11/2004
+     991042179        N/A         12/01/2013      N        8,462,316.33         8,453,335.19      12/01/2004
+     991088731        N/A         12/01/2013      N        8,398,351.11         8,388,191.21      12/01/2004
+     991088730        N/A         10/01/2013      N        8,405,890.20         8,397,567.99      12/01/2004
+     991088701        N/A         12/01/2008      N        8,300,180.31         8,290,193.85      12/01/2004
+     991088662        N/A         11/01/2013      N        7,908,710.48         7,900,202.72      12/01/2004
+     991088666        N/A         12/01/2013      N        7,352,687.94         7,345,214.09      12/01/2004
+     991088656        N/A         02/11/2014      N        7,400,000.00         7,400,000.00      11/11/2004
+     991088632        N/A         11/11/2013      N        7,089,825.67         7,079,670.19      11/11/2004
+     991088640     12/11/2013     12/11/2033      N        7,028,154.64         7,020,778.84      12/11/2004
+     991088724        N/A         01/11/2014      N        6,803,646.17         6,793,178.53      12/11/2004
+     991088659        N/A         02/11/2014      N        6,436,439.03         6,428,798.34      11/11/2004
+     991088658        N/A         02/11/2014      N        6,436,439.03         6,428,798.34      11/11/2004
+     991088676        N/A         11/01/2018      N        6,100,768.26         6,091,681.06      12/01/2004
+     991088633        N/A         11/11/2013      N        6,007,239.65         6,000,508.72      12/11/2004
+     991088710        N/A         09/11/2013      N        5,980,131.45         5,970,742.26      11/11/2004
+     991088655        N/A         02/11/2014      N        5,900,000.00         5,900,000.00      11/11/2004
+     991088686        N/A         11/01/2013      N        5,833,551.12         5,827,345.40      12/01/2004
+     991088644        N/A         11/11/2013      N        5,733,236.20         5,727,022.69      11/11/2004
+     991042793        N/A         11/01/2013      N        5,686,228.54         5,680,258.02      12/01/2004
+     991088715        N/A         10/11/2013      N        5,595,708.61         5,586,902.84      11/11/2004
+     991088719        N/A         02/06/2014      N        5,608,488.34         5,601,975.28      12/06/2004
+     991088630        N/A         11/01/2013      N        5,534,835.34         5,528,780.97      11/11/2004
+     991088661        N/A         01/01/2014      N        5,431,467.28         5,423,902.43      12/01/2004
+     991088687        N/A         12/01/2008      N        5,429,696.99         5,422,737.14      12/01/2004
+     991088667        N/A         01/01/2011      N        5,246,946.21         5,241,087.68      12/01/2004
+     991088699        N/A         01/01/2014      N        5,148,281.72         5,142,565.18      12/01/2004
+     991088726        N/A         12/01/2028      N        4,929,181.97         4,922,052.19      12/01/2004
+     991088727        N/A         11/01/2013      N        4,939,907.17         4,934,351.71      12/01/2004
+     991088698        N/A         12/01/2018      N        4,858,833.17         4,849,865.55      12/01/2004
+     991088712        N/A         09/11/2013      N        4,888,679.72         4,883,697.66      11/11/2004
+     991043556        N/A         01/01/2014      N        4,668,591.95         4,663,689.69      12/01/2004
+     991088663        N/A         11/01/2013      N        4,666,490.82         4,661,498.80      12/01/2004
+     991088631        N/A         11/11/2013      N        4,603,753.24         4,598,556.71      11/11/2004
+     991088664        N/A         01/01/2014      N        4,543,385.14         4,537,124.40      12/01/2004
+     991088681        N/A         11/01/2013      N        4,447,862.03         4,443,014.67      12/01/2004
+     991088722        N/A         09/11/2013      N        4,103,730.76         4,099,225.37      11/11/2004
+     991088738        N/A         11/11/2013      N        4,083,919.80         4,077,864.01      12/11/2004
+     991088657        N/A         02/11/2014      N        4,062,575.52         4,058,036.81      11/11/2004
+     991088690        N/A         12/01/2013      N        4,059,979.42         4,055,844.75      12/01/2004
+     991088672        N/A         01/01/2009      N        3,935,815.46         3,928,962.84      12/01/2004
+     991088696        N/A         11/01/2008      N        3,906,030.36         3,901,130.18      12/01/2004
+     991088647        N/A         12/11/2013      N        3,885,935.25         3,880,678.48      11/11/2004
+     991088638        N/A         02/11/2014      N        3,765,605.85         3,761,429.96      12/11/2004
+     991088646        N/A         12/11/2013      N        3,712,014.71         3,705,821.09      11/11/2004
+     991042383        N/A         11/01/2018      N        3,639,047.50         3,624,919.04      12/01/2004
+     991088692        N/A         12/01/2013      N        3,485,484.92         3,481,921.92      12/01/2004
+     991088634        N/A         11/11/2013      N        3,460,925.62         3,457,271.25      12/11/2004
+     991088689        N/A         10/01/2010      N        3,428,422.42         3,424,653.23      12/01/2004
+     991088639        N/A         01/11/2014      N        3,421,135.83         3,417,854.81      11/11/2004
+     991088673        N/A         10/01/2013      N        3,204,010.56         3,200,107.69      12/01/2004
+     991088693        N/A         12/01/2018      N        3,195,615.07         3,192,540.46      12/01/2004
+     991088677        N/A         10/01/2013      N        3,155,941.40         3,152,186.78      12/01/2004
+     991088729        N/A         10/01/2013      N        3,111,237.87         3,107,874.00      12/01/2004
+     991088723        N/A         10/01/2013      N        3,085,609.32         3,080,979.18      12/01/2004
+     991088669        N/A         11/01/2013      N        3,065,315.15         3,062,072.46      12/01/2004
+     991088668        N/A         12/01/2023      N        3,029,103.73         3,022,171.14      12/01/2004
+     991088694        N/A         12/01/2013      N        2,993,071.76         2,989,817.27      11/01/2004
+     991088654        N/A         02/11/2014      N        3,000,000.00         3,000,000.00      11/11/2004
+     991088720        N/A         01/01/2014      N        2,972,232.06         2,969,128.55      12/01/2004
+     991088642        N/A         12/11/2013      N        2,967,207.36         2,963,883.86      11/11/2004
+     991088718        N/A         01/11/2014      N        2,947,986.88         2,943,237.63      12/11/2004
+     991088691        N/A         01/01/2019      N        2,798,007.66         2,787,525.85      12/01/2004
+     991088735        N/A         11/01/2021      N        2,791,958.65         2,784,139.69      12/01/2004
+     991088635        N/A         01/11/2014      N        2,812,189.83         2,808,053.50      11/11/2004
+     991088653        N/A         02/11/2014      N        2,815,578.08         2,812,592.10      12/11/2004
+     991088711        N/A         08/11/2013      N        2,805,237.18         2,801,275.72      12/11/2004
+     991088674        N/A         11/01/2013      N        2,767,558.59         2,764,542.45      12/01/2004
+     991088641        N/A         12/11/2013      N        2,735,308.23         2,728,990.77      11/11/2004
+     991088680        N/A         12/01/2023      N        2,719,772.63         2,713,840.46      12/01/2004
+     991088700        N/A         12/01/2023      N        2,689,565.78         2,683,624.78      12/01/2004
+     991088671        N/A         11/01/2013      N        2,472,819.45         2,470,266.37      12/01/2004
+     991088637        N/A         11/11/2013      N        2,457,538.23         2,453,681.83      11/11/2004
+     991088649        N/A         02/11/2014      N        2,410,595.29         2,408,197.10      12/11/2004
+     991088645        N/A         12/11/2013      N        2,374,706.08         2,370,743.80      11/11/2004
+     991088725        N/A         12/11/2013      N        2,344,620.41         2,339,211.44      11/11/2004
+     991088683        N/A         11/01/2013      N        2,339,167.52         2,335,464.15      12/01/2004
+     991088717        N/A         02/06/2014      N        2,254,597.20         2,249,269.50      12/06/2004
+     991088721        N/A         12/01/2013      N        2,227,485.80         2,225,169.94      12/01/2004
+     991088648        N/A         02/11/2014      N        2,203,909.01         2,201,363.70      12/11/2004
+     991088697        N/A         01/01/2014      N        2,081,862.33         2,079,811.90      12/01/2004
+     991088643        N/A         01/11/2014      N        1,974,101.48         1,971,258.58      11/11/2004
+     991088716        N/A         10/11/2013      N        1,861,646.75         1,858,452.77      11/11/2004
+     991088628        N/A         11/11/2013      N        1,770,493.79         1,767,800.87      11/11/2004
+     991088684        N/A         11/01/2013      N        1,663,156.04         1,661,551.67      12/01/2004
+     991088733        N/A         11/01/2008      N        1,613,117.98         1,608,981.22      11/01/2004
+     991088695        N/A         11/01/2008      N        1,550,000.00         1,550,000.00      12/01/2004
+     991088682        N/A         10/01/2019      N        1,250,693.16         1,246,622.70      12/01/2004
+     991088652        N/A         01/11/2009      N        1,230,552.07         1,228,468.06      11/11/2004
+     991088713        N/A         11/11/2013      N        1,221,090.78         1,219,791.78      11/11/2004
+     991088679        N/A         11/01/2013      N        1,127,691.90         1,126,093.59      12/01/2004
+     991088736        N/A         11/01/2018      N          959,582.91           956,014.14      12/01/2004
+     991042520        N/A         11/01/2018      N          881,898.19           878,544.20      12/01/2004
+     991088706        N/A         01/11/2014      N          594,543.89           593,932.34      11/11/2004
+
+     Totals                                            1,034,085,605.60       975,126,567.87
+
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+       Loan         Appraisal          Appraisal         Res.       Mod.
+      Number        Reduction          Reduction        Strat.      Code
+                      Date               Amount          (2)        (3)
+        <s>            <c>                <c>            <c>        <c>
+
+
+     Totals                                   0.00
+
+  <FN>
+  (1) Property Type Code
+
+  MF  - Multi-Family
+  RT  - Retail
+  HC  - Health Care
+  IN  - Industrial
+  WH  - Warehouse
+  MH  - Mobile Home Park
+  OF  - Office
+  MU  - Mixed Use
+  LO  - Lodging
+  SS  - Self Storage
+  OT  - Other
+
+
+  (2) Resolution Strategy Code
+  1   - Modification
+  2   - Foreclosure
+  3   - Bankruptcy
+  4   - Extension
+  5   - Note Sale
+  6   - DPO
+  7   - REO
+  8   - Resolved
+  9   - Pending Return to Master Servicer
+  10  - Deed In Lieu Of Foreclosure
+  11  - Full Payoff
+  12  - Reps and Warranties
+  13  - Other or TBD
+
+
+  (3) Modification Code
+  1   - Maturity Date Extension
+  2   - Amortization Change
+  3   - Principal Write-Off
+  4   - Combination
+
+  </FN>
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+                               Principal Prepayment Detail
+
+     Loan Number      Offering              Principal Prepayment Amount               Prepayment Penalties
+                      Document             Payoff           Curtailment          Prepayment      Yield Maintenance
+                  Cross-Reference          Amount              Amount             Premium             Premium
+  <s>                   <c>                  <c>                <c>                 <c>                 <c>
+      991088651          3              58,000,000.00               0.00                0.00        4,013,110.59
+
+            Totals                      58,000,000.00               0.00                0.00        4,013,110.59
+  </TABLE>
+
+ <TABLE>
+ <CAPTION>
+
+
+                               Historical Detail
+
+ Delinquencies
+
+   Distribution         30-59 Days               60-89 Days             90 Days or More
+       Date         #         Balance       #          Balance        #         Balance
+
+        <s>        <c>          <c>         <c>          <c>          <c>         <c>
+   12/15/2004      0             $0.00      0              $0.00      0             $0.00
+   11/15/2004      0             $0.00      0              $0.00      0             $0.00
+   10/15/2004      0             $0.00      0              $0.00      0             $0.00
+   09/15/2004      0             $0.00      0              $0.00      0             $0.00
+   08/16/2004      1     $9,475,983.86      0              $0.00      0             $0.00
+   07/15/2004      0             $0.00      0              $0.00      0             $0.00
+   06/15/2004      0             $0.00      0              $0.00      0             $0.00
+   05/17/2004      0             $0.00      0              $0.00      0             $0.00
+   04/15/2004      0             $0.00      0              $0.00      0             $0.00
+   03/15/2004      0             $0.00      0              $0.00      0             $0.00
+
+ </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+    Distribution         Foreclosure                  REO                  Modifications
+        Date        #         Balance         #         Balance        #         Balance
+         <s>        <c>         <c>           <c>         <c>          <c>         <c>
+      12/15/2004    0              $0.00      0             $0.00      0             $0.00
+      11/15/2004    0              $0.00      0             $0.00      0             $0.00
+      10/15/2004    0              $0.00      0             $0.00      0             $0.00
+      09/15/2004    0              $0.00      0             $0.00      0             $0.00
+      08/16/2004    0              $0.00      0             $0.00      0             $0.00
+      07/15/2004    0              $0.00      0             $0.00      0             $0.00
+      06/15/2004    0              $0.00      0             $0.00      0             $0.00
+      05/17/2004    0              $0.00      0             $0.00      0             $0.00
+      04/15/2004    0              $0.00      0             $0.00      0             $0.00
+      03/15/2004    0              $0.00      0             $0.00      0             $0.00
+
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+
+                                    Prepayments                             Rate and Maturities
+    Distribution       Curtailments                Payoff                 Next Weighted Avg.         WAM
+        Date       #           Amount       #         Amount          Coupon            Remit
+         <s>       <c>          <c>         <c>         <c>              <c>             <c>        <c>
+     12/15/2004    0             $0.00      1   $58,000,000.00        5.677681%       5.623323%      103
+     11/15/2004    0             $0.00      0            $0.00        5.752117%       5.698429%      99
+     10/15/2004    0             $0.00      0            $0.00        5.752295%       5.698606%      100
+     09/15/2004    0             $0.00      0            $0.00        5.752493%       5.698802%      101
+     08/16/2004    0             $0.00      0            $0.00        5.752668%       5.698976%      102
+     07/15/2004    0             $0.00      0            $0.00        5.752841%       5.699149%      103
+     06/15/2004    0             $0.00      0            $0.00        5.753035%       5.699341%      104
+     05/17/2004    0             $0.00      0            $0.00        5.753206%       5.699511%      105
+     04/15/2004    0             $0.00      0            $0.00        5.753397%       5.699701%      106
+     03/15/2004    0             $0.00      0            $0.00        5.753566%       5.699869%      107
+  <FN>
+
+  Note: Foreclosure and REO Totals are excluded from the delinquencies aging
+  categories.
+  </FN>
+  </TABLE>
+
+
+  <TABLE>
+  <CAPTION>
+
+
+                               Delinquency Loan Detail
+
+                  Offering      # of     Paid Through         Current          Outstanding    Status of
+    Loan Number   Document     Months        Date              P & I              P & I        Mortgage
+                   Cross-      Delinq.                        Advances         Advances **     Loan (1)
+                  Reference
+        <s>          <c>         <c>         <c>                <c>                <c>           <c>
+     991088688       21           0       11/01/2004                0.00                0.00      B
+     991088694       81           0       11/01/2004                0.00                0.00      A
+     991088733       109          0       11/01/2004                0.00                0.00      B
+
+      Totals          3                                             0.00                0.00
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+                Resolution    Servicing                        Actual         Outstanding
+      Loan       Strategy     Transfer    Foreclosure        Principal         Servicing      Bankruptcy     REO
+     Number      Code (2)       Date          Date            Balance          Advances          Date        Date
+       <s>          <c>          <c>          <c>              <c>                <c>            <c>         <c>
+    991088688                                                9,451,654.96             0.00
+    991088694                                                2,993,071.76             0.00
+    991088733                                                1,613,117.98             0.00
+
+      Totals                                                14,057,844.70             0.00
+  </TABLE>
+
+  <TABLE>
+  <CAPTION>
+
+
+                                                  Current        Outstanding           Actual         Outstanding
+                                                   P & I            P & I            Principal         Servicing
+                                                 Advances         Advances**          Balance           Advances
+  <s>                                               <c>              <c>                <c>               <c>
+  Totals By Delinquency Code:
+  Total for Status Code  =  A  (1 loan)                 0.00              0.00      2,993,071.76              0.00
+  Total for Status Code  =  B  (2 loans)                0.00              0.00     11,064,772.94              0.00
+ <FN>
+
+ (1) Status of Mortgage Loan
+ A -  Payment Not Received But Still In Grace Period
+ B -  Late Payment But Less Than 1 Month Delinquent
+ 0 -  Current
+ 1 -  One Month Delinquent
+ 2 -  Two Months Delinquent
+ 3 -  Three or More Months Delinquent
+ 4 -  Assumed Scheduled Payment (Performing Matured Balloon)
+ 7 -  Foreclosure
+ 9 -  REO
+
+ (2) Resolution Strategy Code
+ 1 -  Modification
+ 2 -  Foreclosure
+ 3 -  Bankruptcy
+ 4 -  Extension
+ 5 -  Note Sale
+ 6 -  DPO
+ 7 -  REO
+ 8 -  Resolved
+ 9 -  Pending Return to Master Servicer
+ 10 - Deed In Lieu Of Foreclosure
+ 11 - Full Payoff
+ 12 - Reps and Warranties
+ 13 - Other or TBD
+ ** Outstanding P & I Advances include the current period advance.
+ </FN>
+
+ </TABLE>
+
+                               Specially Serviced Loan Detail - Part 1
+
+                               No Specially Serviced Loans this Period
+
+
+                               Specially Serviced Loan Detail - Part 2
+
+                               No Specially Serviced Loans this Period
+
+
+                               Modified Loan Detail
+
+                               No Modified Loans
+
+
+                               Liquidated Loan Detail
+
+                               No Liquidated Loans this Period
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,313 @@
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 8-K
+
+                                 CURRENT REPORT
+
+                       Pursuant to Sec. 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+
+       Date of Report (Date of earliest event reported):   December 19, 2004
+                                                          --------------------
+
+                   RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC.
+     on behalf of GMACM Mortgage Pass Through Certificates, Series 2004-AR2
+- ------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+          Delaware               333-110437-23            41-1955181
+- -------------------------------------------------------------------------------
+(State or other jurisdiction     (Commission            (IRS Employer
+of incorporation)                 File Number)          Identification No.)
+
+        8400 Normandale Lake Boulevard, Suite 250, Minneapolis, MN 55437
+- -------------------------------------------------------------------------------
+                    (Address of principal executive offices)
+
+Registrant's telephone number, including area code : (952) 857-7000
+                                                     ------------------------
+
+                                       N/A
+- -------------------------------------------------------------------------------
+         (Former name or former address, if changed since last report.)
+
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+     [] Written communications pursuant to Rule 425 under the Securities Act (17
+        CFR 230.425)
+
+     [] Soliciting  material  pursuant to Rule 14a-12(b)  under the Exchange Act
+        (17 CFR 240.14a-12(b))
+
+     [] Pre-commencement  communications  pursuant to Rule  14d-2(b)  under the
+        Exchange Act (17 CFR 240.14d-2(b))
+
+     [] Pre-commencement  communications  pursuant to Rule  13e-4(c)  under the
+        Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+Item 8.01   Other Events.
+
+     This  current  report  on Form  8-K  relates  to the  monthly  distribution
+reported to the holders of GMACM  Mortgage Loan Trust  2004-AR2,  GMACM Mortgage
+Pass Through Certificates, Series 2004-AR2, pursuant to the terms of the Pooling
+and Servicing  Agreement,  dated as of July 27, 2004, among  Residential  Asset
+Mortgage Products, Inc., as company, GMAC Mortgage Corporation, as servicer, and
+JPMorgan Chase Bank, as trustee.
+
+     On December 19, 2004  distributions  were made to the  Certificateholders.
+Specific information with respect to the distributions is filed as Exhibit 99.1.
+
+Item 9.01 Financial Statements and Exhibits.
+
+    (a) Not applicable
+
+    (b) Not applicable
+
+    (c) The following exhibit is filed as part of this report:
+
+        Statement to Certificateholders on December 19, 2004 is filed as
+        Exhibit 99.1 hereto.
+
+
+ <PAGE>
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                       JPMORGAN CHASE BANK,N.A. not in its individual capacity,
+                       but solely as Trustee under the Pooling and Servicing
+                       Agreement referred to herein
+
+Date:  December 20, 2004    By: /s/  Keith R. Richardson
+                          --------------------------------------------
+                            Keith R. Richardson
+                            Vice President
+
+
+
+
+
+
+<PAGE>
+
+INDEX TO EXHIBITS
+
+
+      Exhibit
+      Number             Description of Exhibits
+        99.1             Monthly Certificateholder Statement on
+                         December 19, 2004
+
+<page>
+
+
+                                  Exhibit 99.1
+
+             Monthly Certificateholder Statement on December 19, 2004
+
+
+JP Morgan Chase
+CHICAGO, IL                                       Distribution Date: 12/19/2004
+Attn: KEITH R RICHARDSON
+
+                            GMAC Mortgage Corporation
+                      GMACM HOME EQUITY LOAN TRUST 2004-AR2
+           GMACM Mortgage Pass Through Certificates, Series 2004-AR2
+
+<TABLE>
+<S>     <C>    <C>    <C>    <C>    <C>    <C>
+
+                 Certificateholder Monthly Distribution Summary
+- -----------------------------------------------------------------------------------------------------------------------------------
+                                            Certificate     Pass                                               Current
+                   Class       Rate         Beginning      Through    Principal    Interest      Total         Realized    Ending
+Class   Cusip      Description Type         Balance        Rate (%)   Distribution Distribution  Distribution  Losses      Balance
+- -----------------------------------------------------------------------------------------------------------------------------------
+1-A     36185N3R9  Senior      Var-30/360   42,949,257.94   3.542839    687,562.08   126,801.92    814,364.00   0.00  42,261,695.86
+2-A     36185N3S7  Senior      Var-30/360  120,211,631.31   4.186049  2,465,984.42   419,343.15  2,885,327.57   0.00 117,745,646.90
+3-A     36185N3T5  Senior      Var-30/360  195,391,858.33   4.449075  2,278,269.28   724,427.52  3,002,696.80   0.00 193,113,589.05
+4-A     36185N3U2  Senior      Var-30/360   62,507,437.03   4.518010     97,958.50   235,341.08    333,299.58   0.00  62,409,478.53
+5-A-I   36185N3V0  Senior      Var-30/360   52,488,415.10   5.273607  1,029,864.59   230,669.37  1,260,533.96   0.00  51,458,550.52
+5-A-II  36185N4A5  Senior      Var-30/360    4,698,799.99   5.273607     92,194.20    20,649.69    112,843.89   0.00   4,606,605.78
+R       36185N3Z1  Senior      Var-30/360            0.00   3.542839          0.00         0.00          0.00   0.00           0.00
+
+M-1     36185N3W8  Mezzanine   Var-30/360    7,373,549.89   4.412637      4,944.23    27,114.00     32,058.22   0.00   7,368,605.66
+M-2     36185N3X6  Mezzanine   Var-30/360    4,067,271.26   4.412637      2,727.25    14,956.16     17,683.41   0.00   4,064,544.01
+M-3     36185N3Y4  Mezzanine   Var-30/360    2,286,967.39   4.412637      1,533.49     8,409.63      9,943.12   0.00   2,285,433.90
+B-1     36185N4B3  Junior      Var-30/360    1,268,653.51   4.412637        850.68     4,665.09      5,515.77   0.00   1,267,802.84
+B-2     36185N4C1  Junior      Var-30/360    2,032,638.26   4.412637      1,362.96     7,474.41      8,837.37   0.00   2,031,275.31
+B-3     36185N4D9  Junior      Var-30/360      779,027.85   4.412637        522.37     2,864.64      3,387.00   0.00     778,505.48
+
+Totals                                      496,055,507.86            6,663,774.05  1,822,716.66  8,486,490.69  0.00 489,391,733.84
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+
+- --------------------------------
+                     Cumulative
+                     Realized
+Class Cusip          Losses
+- --------------------------------
+1-A    36185N3R9        0.00
+2-A    36185N3S7        0.00
+3-A    36185N3T5        0.00
+4-A    36185N3U2        0.00
+5-A-I  36185N3V0        0.00
+5-A-II 36185N4A5        0.00
+R      36185N3Z1        0.00
+
+M-1    36185N3W8        0.00
+M-2    36185N3X6        0.00
+M-3    36185N3Y4        0.00
+B-1    36185N4B3        0.00
+B-2    36185N4C1        0.00
+B-3    36185N4D9        0.00
+- --------------------------------
+Totals                  0.00
+- --------------------------------
+
+<PAGE>
+JP Morgan Chase
+CHICAGO, IL                                       Distribution Date: 12/19/2004
+Attn: KEITH R RICHARDSON
+
+                            GMAC Mortgage Corporation
+                      GMACM HOME EQUITY LOAN TRUST 2004-AR2
+           GMACM Mortgage Pass Through Certificates, Series 2004-AR2
+
+                         Principal Distribution Detail
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+                    Original       Beginning         Scheduled      Accretion  Unscheduled  Net           Current   Ending
+                    Certificate    Certificate       Principal      Principal  Principal    Principal     Realized  Certificate
+Class   Cusip       Balance        Balance           Distribution              Adjustments  Distribution  Losses    Balance
+- -----------------------------------------------------------------------------------------------------------------------------------
+1-A   36185N3R9    44,703,000.00    42,949,257.94     687,562.08     0.00           0.00      687,562.08    0.00      42,261,695.86
+2-A   36185N3S7   122,977,000.00   120,211,631.31   2,465,984.42     0.00           0.00    2,465,984.42    0.00     117,745,646.90
+3-A   36185N3T5   200,236,000.00   195,391,858.33   2,278,269.28     0.00           0.00    2,278,269.28    0.00     193,113,589.05
+4-A   36185N3U2    63,485,000.00    62,507,437.03      97,958.50     0.00           0.00       97,958.50    0.00      62,409,478.53
+5-A-I 36185N3V0    55,853,000.00    52,488,415.10   1,029,864.59     0.00           0.00    1,029,864.59    0.00      51,458,550.52
+5-A-II36185N4A5     5,000,000.00     4,698,799.99      92,194.20     0.00           0.00       92,194.20    0.00       4,606,605.78
+
+R     36185N3Z1           100.00             0.00              0     0.00           0.00            0.00    0.00               0.00
+M-1   36185N3W8     7,393,000.00     7,373,549.89       4,944.23     0.00           0.00        4,944.23    0.00       7,368,605.66
+M-2   36185N3X6     4,078,000.00     4,067,271.26       2,727.25     0.00           0.00        2,727.25    0.00       4,064,544.01
+M-3   36185N3Y4     2,293,000.00     2,286,967.39       1,533.49     0.00           0.00        1,533.49    0.00       2,285,433.90
+B-1   36185N4B3     1,272,000.00     1,268,653.51         850.68     0.00           0.00          850.68    0.00       1,267,802.84
+B-2   36185N4C1     2,038,000.00     2,032,638.26       1,362.96     0.00           0.00        1,362.96    0.00       2,031,275.31
+B-3   36185N4D9       781,082.70       779,027.85         522.37     0.00           0.00          522.37    0.00         778,505.48
+
+Totals            510,109,182.70   496,055,507.86   6,663,774.05     0.00           0.00    6,663,774.05    0.00     489,391,733.84
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+- ------------------------------------
+                      Ending
+                      Certificate
+Class   Cusip         Factor
+- ------------------------------------
+1-A     36185N3R9    0.94538836017
+2-A     36185N3S7    0.95746071945
+3-A     36185N3T5    0.96442991795
+4-A     36185N3U2    0.98305865213
+5-A-I   36185N3V0    0.92132115583
+5-A-II  36185N4A5    0.92132115666
+
+R       36185N3Z1    0.00000000000
+M-1     36185N3W8    0.99670034599
+M-2     36185N3X6    0.99670034681
+M-3     36185N3Y4    0.99670034756
+B-1     36185N4B3    0.99670034319
+B-2     36185N4C1    0.99670034637
+B-3     36185N4D9    0.99670045709
+- -----------------------------------
+Totals
+- -----------------------------------
+<PAGE>
+
+JP Morgan Chase
+CHICAGO, IL                                       Distribution Date: 12/19/2004
+Attn: KEITH R RICHARDSON
+
+                            GMAC Mortgage Corporation
+                      GMACM HOME EQUITY LOAN TRUST 2004-AR2
+           GMACM Mortgage Pass Through Certificates, Series 2004-AR2
+
+                          Interest Distribution Detail
+- ----------------------------------------------------------------------------------------------------------------------------------
+
+        Beginning        Pass      Accrued      Cumulative               Total       Net             Unscheduled
+        Certificate      Through   Optimal      Unpaid      Deferred     Interest    Prepayment      Interest          Interest
+Class   Balance          Rate (%)  Interest     Interest    Interest     Due         Int Shortfall   Adjustment        Paid
+- ----------------------------------------------------------------------------------------------------------------------------------
+1-A      42,949,257.94   3.542839   126,801.92      0.00      0.00      126,801.92      0.00             0.00         126,801.92
+2-A     120,211,631.31   4.186049   419,343.15      0.00      0.00      419,343.15      0.00             0.00         419,343.15
+3-A     195,391,858.33   4.449075   724,427.52      0.00      0.00      724,427.52      0.00             0.00         724,427.52
+4-A      62,507,437.03    4.51801   235,341.03      0.00      0.00      235,341.03      0.00             0.00         235,341.03
+5-A-I    52,488,415.10   5.273607   230,669.37      0.00      0.00      230,669.37      0.00             0.00         230,669.37
+5-A-II    4,698,799.99   5.273607    20,649.69      0.00      0.00       20,649.69      0.00             0.00          20,649.69
+R                    0   3.542839            0      0.00      0.00               0      0.00             0.00                  0
+M-1       7,373,549.89   4.412637    27,114.00      0.00      0.00       27,114.00      0.00             0.00          27,114.00
+M-2       4,067,271.26   4.412637    14,956.16      0.00      0.00       14,956.16      0.00             0.00          14,956.16
+M-3       2,286,967.39   4.412637     8,409.63      0.00      0.00        8,409.63      0.00             0.00           8,409.63
+B-1       1,268,653.51   4.412637     4,665.09      0.00      0.00        4,665.09      0.00             0.00           4,665.09
+B-2       2,032,638.26   4.412637     7,474.41      0.00      0.00        7,474.41      0.00             0.00           7,474.41
+B-3         779,027.85   4.412637     2,864.64      0.00      0.00        2,864.64      0.00             0.00           2,864.64
+
+Totals  496,055,507.86             1,822,716.61     0.00      0.00    1,822,716.61      0.00             0.00       1,822,716.61
+- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+<page>
+
+JP Morgan Chase
+CHICAGO, IL                                       Distribution Date: 12/19/2004
+Attn: KEITH R RICHARDSON
+
+                            GMAC Mortgage Corporation
+                      GMACM HOME EQUITY LOAN TRUST 2004-AR2
+           GMACM Mortgage Pass Through Certificates, Series 2004-AR2
+
+                          Current Payment Information
+                               Factors per $1,000
+- ----------------------------------------------------------------------------------------------------------------------------------
+                       Original          Beginning Cert                                       Ending Cert.       Pass
+                       Certificate       Notional          Principal           Interest       Notional           Through
+Class     Cusip        Balance           Balance           Distribution        Distribution   Balance            Rate (%)
+- ----------------------------------------------------------------------------------------------------------------------------------
+1-A       36185N3R9    44,703,000.00     960.769029857     15.380669691        2.836541596    945.388360166      3.542839
+2-A       36185N3S7   122,977,000.00     977.513122868     20.052403421        3.409931564    957.460719447      4.186049
+3-A       36185N3T5   200,236,000.00     975.807838401     11.377920454        3.617868515    964.429917947      4.449075
+4-A       36185N3U2    63,485,000.00     984.601670133      1.543018005        3.707034418    983.058652128       4.51801
+5-A-I     36185N3V0    55,853,000.00     939.759996809     18.438840976        4.129936977    921.321155833      5.273607
+5-A-II    36185N4A5     5,000,000.00     939.759997649     18.438840993        4.129938000    921.321156657      5.273607
+R         36185N3Z1              100       0.000000000      0.000000000        0.000000000      0.000000000      3.542839
+M-1       36185N3W8     7,393,000.00     997.369117427      0.668771433        3.667522887    996.700345994      4.412637
+M-2       36185N3X6     4,078,000.00     997.369118244      0.668771433        3.667522890    996.700346811      4.412637
+M-3       36185N3Y4     2,293,000.00     997.369118993      0.668771434        3.667522893    996.700347559      4.412637
+B-1       36185N4B3     1,272,000.00     997.369114617      0.668771431        3.667522876    996.700343186      4.412637
+B-2       36185N4C1     2,038,000.00     997.369117807      0.668771433        3.667522888    996.700346374      4.412637
+B-3       36185N4D9       781,082.70     997.369228599      0.668771507        3.667523296    996.700457092      4.412637
+
+Totals                510,109,182.70     972.449672900     13.063426960        3.573189274    959.386245999
+- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+</TABLE>
+

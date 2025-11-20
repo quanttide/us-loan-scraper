@@ -1,0 +1,2906 @@
+
+<PAGE>
+
+                                                                   EXHIBIT 10.21
+
+           SERIES B CUMULATIVE CONVERTIBLE REDEEMABLE PREFERRED STOCK
+
+                               PURCHASE AGREEMENT
+
+                          DATED AS OF DECEMBER 27, 2004
+
+                                      AMONG
+
+                 SECURITY CAPITAL PREFERRED GROWTH INCORPORATED,
+
+                         ASHFORD HOSPITALITY TRUST, INC.
+
+                                       AND
+
+                     ASHFORD HOSPITALITY LIMITED PARTNERSHIP
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                  PAGE
+<S>                                                                               <C>
+I.    PURCHASE AND SALE OF STOCK................................................   4
+
+      1.1      Sale and Issuance of Series B Preferred Stock....................   4
+
+      1.2      Closing..........................................................   4
+
+II.   REPRESENTATIONS AND WARRANTIES OF THE COMPANY.............................   8
+
+      2.1      No Registration Under the Securities Act.........................   8
+
+      2.2      Capitalization...................................................   8
+
+      2.3      Organization; Authority..........................................   9
+
+      2.4      Qualification; Dividends; Investments............................   9
+
+      2.5      Operating Partnership............................................  10
+
+      2.6      Legal Compliance; Defaults.......................................  10
+
+      2.7      Conflicts........................................................  10
+
+      2.8      Authorization....................................................  11
+
+      2.9      Approvals........................................................  11
+
+      2.10     Licenses; Consents etc...........................................  11
+
+      2.11     Exchange Act Compliance..........................................  12
+
+      2.12     Litigation.......................................................  12
+
+      2.13     Financial Statements; Auditors...................................  12
+
+      2.14     No Material Adverse Change.......................................  13
+
+      2.15     Registration or Similar Rights...................................  13
+
+      2.16     Due Authorization................................................  13
+
+      2.17     Stabilization....................................................  14
+
+      2.18     Broker Dealer Status.............................................  14
+
+      2.19     Legal, Tax or Accounting Advice..................................  14
+
+      2.20     Certificates.....................................................  14
+
+      2.21     Other Issuances..................................................  14
+
+      2.22     Series B Preferred Share Certificates............................  15
+
+      2.23     Loans and Participation Interests................................  15
+
+      2.24     Real Property....................................................  15
+
+      2.25     Proceedings; Contracts...........................................  16
+
+      2.26     Intellectual Property............................................  17
+
+      2.27     Accounting Controls..............................................  17
+</TABLE>
+
+                                        i
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+                                   (continued)
+
+<TABLE>
+<CAPTION>
+                                                                                  PAGE
+<S>                                                                               <C>
+      2.28     Taxes............................................................  17
+
+      2.29     Insurance........................................................  18
+
+      2.30     Environmental, Health & Safety...................................  18
+
+      2.31     Labor Matters; Benefits..........................................  18
+
+      2.32     Improper Payments................................................  19
+
+      2.33     Officer and Director Loans.......................................  19
+
+      2.34     Securities Issuances.............................................  19
+
+      2.35     Environmental....................................................  19
+
+      2.36     Compliance with Laws Regarding Real Property.....................  21
+
+      2.37     Related Party Transactions.......................................  22
+
+      2.38     Investment Company...............................................  22
+
+      2.39     REIT Status......................................................  22
+
+      2.40     Regulation.......................................................  22
+
+      2.41     Financial Covenant Compliance....................................  22
+
+      2.42     Solvency.........................................................  23
+
+III.  REPRESENTATIONS AND WARRANTIES OF THE INVESTOR............................  23
+
+      3.1      Power, Authority and Enforceability..............................  23
+
+      3.2      Compliance with Other Instruments................................  23
+
+      3.3      Ownership Limitations............................................  24
+
+      3.4      Organization.....................................................  24
+
+      3.5      Consents and Approvals...........................................  24
+
+      3.6      Accredited Investor..............................................  24
+
+      3.7      Absence of Market................................................  24
+
+      3.8      Investment Purposes..............................................  24
+
+      3.9      Access and Information...........................................  25
+
+IV.   CONDITIONS OF THE INVESTOR'S OBLIGATIONS AT EACH CLOSING..................  25
+
+      4.1      Series B Preferred Articles Supplementary........................  25
+
+      4.2      Representations and Warranties...................................  25
+
+      4.3      Performance......................................................  25
+
+      4.4      Opinion of Company Counsel.......................................  25
+
+      4.5      Waiver of Ownership Limitations..................................  26
+</TABLE>
+
+                                       ii
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+                                   (continued)
+
+<TABLE>
+<CAPTION>
+                                                                                  PAGE
+<S>                                                                               <C>
+      4.6      Amendment to Operating Partnership Agreement.....................  26
+
+      4.7      Officer's Certificate............................................  26
+
+      4.8      Proceedings......................................................  26
+
+      4.9      No Injunction....................................................  26
+
+      4.10     Tag Along Agreement..............................................  26
+
+      4.11     Registration Rights Agreement....................................  27
+
+      4.12     Voting Agreement.................................................  27
+
+      4.13     Acknowledgment Letter............................................  27
+
+V.    CONDITIONS OF THE COMPANY'S OBLIGATIONS AT EACH CLOSING...................  27
+
+      5.1      Representations and Warranties...................................  27
+
+      5.2      Performance......................................................  27
+
+      5.3      No Injunction....................................................  27
+
+VI.   COVENANTS.................................................................  28
+
+      6.1      No General Solicitation; Integration.............................  28
+
+      6.2      Reports..........................................................  28
+
+      6.3      Maintenance of REIT Status.......................................  28
+
+      6.4      Financial Covenants..............................................  28
+
+      6.5      Stockholder Approval.............................................  34
+
+      6.6      No Public Disclosure.............................................  34
+
+      6.7      Participation Rights.............................................  35
+
+      6.8      Annual Opinion of Company Counsel................................  36
+
+      6.9      Investment Company...............................................  36
+
+      6.10     Listing of Common Stock..........................................  36
+
+      6.11     Operating Partnership Securities.................................  36
+
+      6.12     Publicly Traded Partnership......................................  37
+
+      6.13     Prohibition on Issuance of Series B Preferred Stock..............  37
+
+      6.14     Director Independence............................................  37
+
+      6.15     Related Party Transactions.......................................  37
+
+      6.16     Compliance Certificate...........................................  37
+
+      6.17     Internal Accounting Controls.....................................  38
+
+      6.18     Tag Along Agreement..............................................  38
+</TABLE>
+
+                                      iii
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+                                   (continued)
+
+<TABLE>
+<CAPTION>
+                                                                                  PAGE
+<S>                                                                               <C>
+      6.19     Merger; Consolidation............................................  38
+
+      6.20     Tender Offer.....................................................  38
+
+      6.21     Restrictions on Payment of Dividends.............................  39
+
+      6.22     Operating Partnership Distributions..............................  39
+
+      6.23     Registration Rights Agreement....................................  39
+
+      6.24     Corporate Financing Rule.........................................  39
+
+      6.25     Voting Agreement.................................................  39
+
+      6.26     FGSB Portfolio Agreement.........................................  39
+
+      6.27     Acknowledgment Letter............................................  39
+
+VII.  MISCELLANEOUS.............................................................  40
+
+      7.1      Survival of Warranties and Covenants.............................  40
+
+      7.2      Successors and Assigns...........................................  40
+
+      7.3      Governing Law....................................................  40
+
+      7.4      Remedies.........................................................  40
+
+      7.5      Time of Essence..................................................  41
+
+      7.6      Counterparts.....................................................  41
+
+      7.7      Titles and Subtitles.............................................  41
+
+      7.8      Notices..........................................................  41
+
+      7.9      Finder's Fees....................................................  42
+
+      7.10     Expenses.........................................................  42
+
+      7.11     Amendments and Waivers...........................................  43
+
+      7.12     Severability.....................................................  43
+
+      7.13     Entire Agreement.................................................  43
+
+      7.14     Rules of Construction............................................  44
+
+      7.15     Business Relationship............................................  44
+
+      7.16     Signatory Exculpation............................................  44
+
+      7.17     Incorporation by Reference.......................................  44
+
+      7.18     Further Assurances...............................................  45
+</TABLE>
+
+                                       iv
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+                                   (continued)
+
+                                    SCHEDULES
+
+Schedule 2.2                  Capitalization
+Schedule 2.3                  Organization; Authority
+Schedule 2.4                  Qualifications, Investments, Dividends
+Schedule 2.15                 Registration or Similar Rights
+Schedule 2.23                 Loans and Participation Interests
+Schedule 2.24(a), (b), (c)    Real Property
+Schedule 2.35                 Environmental
+Schedule 2.36                 Compliance with Laws Regarding Real Property
+Schedule 2.37                 Related Party Transactions
+
+                                    EXHIBITS
+
+Exhibit A                     Series B Preferred Articles Supplementary
+
+Exhibit B-1                   Form of Opinion of Company Counsel
+
+Exhibit B-2                   Form of Tax Opinion of Company Counsel
+
+Exhibit C                     Form of Resolution
+
+Exhibit D                     Form of Amendment of Partnership Agreement
+
+Exhibit E                     Form of Tag Along Agreement
+
+Exhibit F                     Form of Press Release
+
+Exhibit G                     Form of Registration Rights Agreement
+
+Exhibit H                     Form of Compliance Certificate
+
+Exhibit I                     Form of Voting Agreement
+
+Exhibit J                     Form of Covenant Calculation
+
+Exhibit K                     Acknowledgment Letter
+
+Exhibit L                     Expenses
+
+Exhibit M                     Combined Contribution and Purchase and Sale
+                              Agreement
+
+                                       v
+
+<PAGE>
+
+           SERIES B CUMULATIVE CONVERTIBLE REDEEMABLE PREFERRED STOCK
+                               PURCHASE AGREEMENT
+
+            This SERIES B CUMULATIVE CONVERTIBLE REDEEMABLE PREFERRED STOCK
+PURCHASE AGREEMENT (this "Agreement") is made as of the 27th day of December,
+2004 by and among Ashford Hospitality Trust, Inc., a Maryland corporation (the
+"Company"), Ashford Hospitality Limited Partnership, a Delaware limited
+partnership (the "Operating Partnership") and Security Capital Preferred Growth
+Incorporated, a Maryland corporation (the "Investor").
+
+                               W I T N E S S E T H
+
+            WHEREAS, the Company wishes to issue and sell to the Investor shares
+of Series B-1 Cumulative Convertible Redeemable Preferred Stock, $.01 par value
+per share, of the Company (the "Series B-1 Preferred Stock") and shares of
+Series B-2 Cumulative Convertible Redeemable Preferred Stock, $.01 par value per
+share, of the Company (the "Series B-2 Preferred Stock"; and the Series B-1
+Preferred Stock and the Series B-2 Preferred Stock being collectively referred
+to herein as the "Series B Preferred Stock"), the terms of which shall be as set
+forth in the Series B-1 Preferred Articles Supplementary (the "Series B-1
+Preferred Articles Supplementary") and the Series B-2 Preferred Articles
+Supplementary (the "Series B-2 Preferred Articles Supplementary"), in the forms
+of Exhibit A-1 and Exhibit A-2, respectively (which in each case includes the
+form of applicable stock certificate), attached hereto, with changes from such
+forms, if any, as shall be approved in writing by the Investor (the Series B-1
+Preferred Articles Supplementary and the Series B-2 Preferred Articles
+Supplementary being collectively referred to herein as the "Series B Preferred
+Articles Supplementary"), at the various closings and in accordance with and
+subject to the terms and conditions set forth herein; and
+
+            WHEREAS, the Investor wishes to purchase the Series B Preferred
+Stock on the terms and subject to the conditions set forth in this Agreement.
+
+            NOW, THEREFORE, in consideration of the foregoing and the mutual
+covenants, agreements and warranties herein contained, the parties hereby agree
+as follows:
+
+                              D E F I N I T I O N S
+
+      The following is a list of defined terms used in this Agreement together
+with the corresponding section of this Agreement in which such terms are
+defined.
+
+<TABLE>
+<S>                                                                   <C>
+Adjusted EBITDA...................................................     Section 6.4(a)
+Agreement.........................................................    First Paragraph
+Business Day......................................................     Section 1.2(d)
+Capital Lease Obligations.........................................     Section 6.4(b)
+CERCLA............................................................    Section 2.35(b)
+Charter...........................................................    Section 2.16
+Closing Date(s)...................................................     Section 1.2(a)
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>                                                                   <C>
+Closing(s)........................................................        Section 1.2(a)
+Code..............................................................        Section2.31(b)
+Commission........................................................           Section 2.1
+Common Stock......................................................           Section 2.2
+Company...........................................................       First Paragraph
+Company Option Trigger............................................        Section 1.2(d)
+Covered Entities..................................................       Section 2.13(a)
+Environmental Statute(s)..........................................       Section 2.35(b)
+EBITDA............................................................        Section 6.4(c)
+EPA...............................................................       Section 2.35(a)
+Equivalent Securities.............................................       Section 6.7(b)
+ERISA.............................................................       Section 2.31(b)
+Exchange Act Reports..............................................           Section 2.1
+Exchange Act......................................................           Section 2.1
+Extension Election................................................        Section 1.2(e)
+FGSB Closing Date.................................................     Section 1.2(d)(i)
+FGSB Closing Notice...............................................    Section 1.2(d)(i))
+FGSB Election Notice..............................................     Section 1.2(d)(i)
+FGSB Portfolio....................................................        Section 1.2(d)
+FGSB Portfolio Agreement..........................................        Section 1.2(d)
+Fixed Charges.....................................................        Section 6.4(d)
+GAAP..............................................................        Section 6.4(e)
+General Partner...................................................        Section 2.5(b)
+Governmental Authority............................................       Section 2.35(b)
+Hazardous Material................................................       Section 2.35(b)
+Higher Price Participation Securities.............................        Section 1.2(f)
+Indebtedness......................................................        Section 6.4(f)
+Incorporated Documents............................................       Section 2.11(b)
+Initial Closing Date..............................................        Section 1.2(b)
+Intangibles.......................................................          Section 2.26
+Investment Company Act............................................          Section 2.38
+Investor..........................................................       First Paragraph
+Investor Option Trigger...........................................         Section 1.2(d)
+</TABLE>
+
+                                       2
+<PAGE>
+
+<TABLE>
+<S>                                                                   <C>
+Lien..............................................................        Section 6.4(g)
+Limited Partner...................................................        Section 2.5(b)
+Loans.............................................................        Section   2.23
+Material Adverse Effect...........................................          Section  2.4
+Mezzanine Loans...................................................         Section  2.23
+NASD..............................................................         Section  2.18
+Net Indebtedness..................................................        Section 6.4(h)
+Operating Partnership.............................................       First Paragraph
+Participation Interests...........................................          Section 2.23
+Participation Securities..........................................        Section 6.7(a)
+Partnership Agreement.............................................        Section 2.5(a)
+Per-Share Price...................................................       Section  1.1(b)
+Preferred Security................................................        Section 6.4(i)
+Preferred Units...................................................          Section  4.7
+Proportionately Consolidated Adjusted EBITDA......................        Section 6.4(j)
+Proportionately Consolidated Fixed Charges........................        Section 6.4(k)
+Proportionately Consolidated Total Debt...........................        Section 6.4(l)
+Proportionately Consolidated Undepreciated Real Estate Assets.....        Section 6.4(m)
+Purchase Price....................................................        Section 1.1(b)
+Real Property.....................................................       Section 2.35(a)
+REIT..............................................................          Section 2.39
+SDAT..............................................................        Section 1.1(a)
+Securities Act....................................................           Section 2.1
+Section 1.2(c) Closing Notice.....................................        Section 1.2(c)
+Section 1.2(d) Closing Notice.....................................        Section 1.2(d)
+Section 1.2(c) Option Notice......................................        Section 1.2(c)
+Section 1.2(d) Option Notice......................................        Section 1.2(d)
+Section 1.2(d)(ii) Option Notice..................................    Section 1.2(d)(ii)
+Section 1.2(c) Shares.............................................        Section 1.2(c)
+Section 1.2(d) Shares.............................................        Section 1.2(d)
+Series B Preferred Articles Supplementary.........................              Recitals
+Series B-1 Preferred Articles Supplementary.......................              Recitals
+Series B-2 Preferred Articles Supplementary.......................              Recitals
+</TABLE>
+
+                                       3
+<PAGE>
+
+<TABLE>
+<S>                                                                   <C>
+Series B Preferred Stock..........................................          Recitals
+Series B-1 Preferred Stock........................................          Recitals
+Series B-2 Preferred Stock........................................          Recitals
+Subsidiaries......................................................       Section 2.2
+Substantially Similar Securities..................................      Section 6.19
+Swap Agreement....................................................    Section 6.4(n)
+Swap Termination Value............................................    Section 6.4(o)
+Transaction Documents.............................................       Section 2.3
+Unconsolidated Affiliate..........................................    Section 6.4(p)
+Undepreciated Real Estate Assets..................................    Section 6.4(q)
+</TABLE>
+
+I PURCHASE AND SALE OF STOCK.
+
+                  1.1 SALE AND ISSUANCE OF SERIES B PREFERRED STOCK.
+
+            (a) The Company shall adopt and file with the State Department of
+Assessments and Taxation of Maryland (the "SDAT") on or before the Initial
+Closing Date (as defined below) the Series B Preferred Articles Supplementary.
+
+            (b) Subject to the terms and conditions of this Agreement, at one or
+more Closings (as defined below) the Company agrees to issue and sell to the
+Investor (or one or more of its affiliates) and the Investor (either directly or
+through one or more of its affiliates) agrees to purchase from the Company at
+the Closings, up to an aggregate of 7,447,865 shares of Series B Preferred
+Stock, at a per-share price of $10.07 (the "Per-Share Price"), resulting in an
+aggregate purchase price of up to $75,000,001 (the "Purchase Price"). The first
+5,162,000 shares issued pursuant to the terms of this Agreement shall be Series
+B-1 Preferred Stock, and all remaining shares issued pursuant to the terms of
+this Agreement shall be Series B-2 Preferred Stock.
+
+                  1.2 CLOSING.
+
+            (a) The closings (the "Closings" and each individually, a "Closing")
+of the purchase and sale of the Series B Preferred Stock shall take place at the
+offices of Mayer, Brown, Rowe & Maw LLP, 190 South LaSalle Street, Chicago,
+Illinois 60603 at 9:00 a.m., Chicago time on the dates described below, or at
+such other location, date and time as may be agreed upon by the Company and the
+Investor (each such date and time being hereinafter referred to as a "Closing
+Date" and, collectively, the "Closing Dates"). At each Closing, the Company
+shall issue and deliver to the Investor a stock certificate or certificates in
+definitive form, registered in the name of the Investor, representing the Series
+B Preferred Stock being purchased by the Investor hereunder at such Closing, and
+the Investor shall deliver to the Company, against delivery of the stock
+certificate or certificates representing the Series B Preferred Stock then being
+purchased, the applicable pro rata portion of the Purchase Price by wire
+transfer of immediately available funds payable to the Company's order.
+
+                                       4
+<PAGE>
+
+            (b) On December 30, 2004, the Investor shall purchase 993,049 shares
+of Series B Preferred Stock for $10.07 per share (equal to $10,000,003 in the
+aggregate).
+
+            (c) The Company shall have the option to sell to the Investor
+993,049 additional shares (the "Section 1.2(c) Shares") of Series B Preferred
+Stock for $10.07 per share (equal to $10,000,003 in the aggregate), and if the
+Company does not exercise this option in full, then the Investor shall have the
+option to purchase any unsold Section 1.2(c) shares from the Company for $10.07
+per share, in each case pursuant to the terms of this Section 1.2(c).
+
+            The Company may exercise its option to sell shares to the Investor
+pursuant to this section 1.2(c) at any time, from time to time, prior to June
+13, 2005 by delivery to the Investor of one or more irrevocable written notices
+(each, a "Section 1.2(c) Closing Notice"), which notices shall specify (i) the
+number of Section 1.2(c) Shares to be sold pursuant to such notice (which
+number, with respect to any one such notice, shall not be less than 496,524) and
+(ii) the Closing Date on which such sale shall take place (which date shall not
+be less than six Business Days following the date of such notice, and shall not
+be later than June 30, 2005). In the event that, prior to June 14, 2005, all
+993,049 Section 1.2(c) Shares have not been sold to the Investor and Section
+1.2(c) Closing Notices have not been delivered to the Investor with respect to
+any Section 1.2(c) Shares then remaining unsold, then the Investor shall have
+the option to purchase any or all of such unsold Section 1.2(c) Shares. In such
+event, (a) the Company shall deliver a written notice (the "Section 1.2(c)
+Option Notice") to the Investor not later than June 15, 2005 stating that the
+Investor has a purchase option pursuant to this Section 1.2(c) and specifying
+the number of Section 1.2(c) Shares covered by such option, and (b) the Investor
+may exercise its option to purchase any unsold Section 1.2(c) shares by
+delivering to the Company at any time prior to June 21, 2005 an irrevocable
+written notice specifying the number of previously unsold Section 1.2(c) Shares
+that the Investor shall purchase, and stating that such purchase shall take
+place at a Closing on June 30, 2005. If the Company fails to timely deliver the
+Section 1.2(c) Option Notice, then the notice date and Closing Date referred to
+in clause (b) of the immediately preceding sentence shall each be extended by a
+number of Business Days equal to the number of Business Days that the Company
+was deficient in delivering the Section 1.2(c) Option Notice.
+
+            (d) Subject to the closing on or prior to March 31, 2005 of the
+transactions contemplated by the Combined Contribution and Purchase and Sale
+Agreement dated as of December 27, 2004 by and among the Company, the
+Partnership, FGSB Master Corp., FGSB Master LLC, Lismore Associates, L.P. and
+Rolling Rock GP which is attached hereto as Exhibit M (the "FGSB Portfolio
+Agreement" and the assets acquired thereunder being the "FGSB Portfolio"),
+without any waivers of, or amendments to, the terms of such agreement (the
+"Company Option Trigger"), the Company shall have the option to sell to the
+Investor 5,461,767 additional shares (the "Section 1.2(d) Shares") of Series B
+Preferred Stock for $10.07 per share (equal to $54,999,994 in the aggregate),
+and if the Company does not exercise this option in full, then the Investor
+shall have the option (but only if in the reasonable determination of the
+Investor, the closing under the FGSB Portfolio Agreement has substantially
+occurred as described in such agreement prior to January 1, 2006 (the "Investor
+Option Trigger")), to purchase any unsold Section 1.2(d) shares from the Company
+for $10.07 per share, in each case pursuant to the terms of this Section 1.2(d).
+
+                                       5
+<PAGE>
+
+            Subject to the occurrence of the Company Option Trigger, the Company
+may exercise its option to sell shares to the Investor pursuant to this section
+1.2(d) at any time, from time to time, prior to December 5, 2005 by delivery to
+the Investor of one or more irrevocable written notices (each, a "Section 1.2(d)
+Closing Notice"), which notices shall specify (i) the number of Section 1.2(d)
+Shares to be sold pursuant to such notice (which number, with respect to any one
+such notice, shall not be less than the lesser of (x) 496,524 and (y) the total
+number of Section 1.2(d) Shares which remain unsold at such time) and (ii) the
+Closing Date on which such sale shall take place (which date shall not be less
+than six Business Days following the date of such notice (or, if such notice
+covers more than 993,049 Section 1.2(d) Shares, 11 Business Days), and shall not
+be later than December 23, 2005). Subject to the occurrence of the Investor
+Option Trigger, in the event that, prior to December 6, 2005, all 5,461,767
+Section 1.2(d) Shares have not been sold to the Investor and Section 1.2(d)
+Closing Notices have not been delivered to the Investor with respect to any
+Section 1.2(d) Shares then remaining unsold, then the Investor shall have the
+option to purchase any or all of such unsold Section 1.2(d) Shares. In such
+event, (a) the Company shall deliver a written notice (the "Section 1.2(d)
+Option Notice") to the Investor not later than December 7, 2005 stating that the
+Investor has a purchase option pursuant to this Section 1.2(d) and specifying
+the number of Section 1.2(d) Shares covered by such option, and (b) the Investor
+may exercise its option to purchase any unsold Section 1.2(d) shares by
+delivering to the Company at any time prior to December 13, 2005 an irrevocable
+written notice specifying the number of previously unsold Section 1.2(d) Shares
+that the Investor shall purchase, and stating that such purchase shall take
+place at a Closing on December 23, 2005. If the Company fails to timely deliver
+the Section 1.2(d) Option Notice, then the notice date and Closing Date referred
+to in clause (b) of the immediately preceding sentence shall each be extended by
+a number of Business Days equal to the number of Business Days that the Company
+was deficient in delivering the Section 1.2(d) Option Notice.
+
+            Notwithstanding any other provision of this Section 1.2(d) to the
+contrary, subject to the occurrence of the Investor Option Trigger, the Investor
+shall also have the following options to purchase Section 1.2(d) shares (but
+these options shall not increase the total number of Section 1.2(d) Shares
+available for purchase by the Investor):
+
+      (i)   On the date, if any, prior to January 1, 2006 that the Investor
+            Option Trigger occurs, the Investor shall have the option to
+            purchase up to 1,459,782 Section 1.2(d) Shares for $10.07 per share,
+            if any Section 1.2(d) shares remain unsold as of such date. Promptly
+            upon determining the date, if any, on which the Investor Option
+            Trigger will likely occur (the "FGSB Target Closing Date"), the
+            Company shall deliver a written notice (the "FGSB Closing Notice")
+            to the Investor stating that the Investor has a purchase option
+            pursuant to this Section 1.2(d)(i) and specifying the FGSB Target
+            Closing Date (which date may not be less than 10 nor more than 20
+            Business Days following delivery of such notice). The Investor may
+            exercise its option pursuant to this Section 1.2(d)(i) by delivering
+            to the Company at any time prior to the fifth Business Day following
+            its receipt of a the FGSB Closing Notice an irrevocable written
+            notice (and "FGSB Election Notice") specifying the number of Section
+            1.2(d) Shares that the Investor shall purchase pursuant to this
+            Section 1.2(d)(i). The Closing under this Section 1.2(d)(i) shall
+            take place on the later of the FGSB Target Closing Date or the date
+            on which the
+
+                                       6
+<PAGE>
+
+            Investor Option Trigger has occurred (and, subject to the Investor's
+            reasonable approval of the proceedings therefor, such Closing may
+            take place concurrently with the occurrence of the Investor Option
+            Trigger, provided, however, that the Investor's commitment to
+            purchase Section 1.2(d) shares as set forth in an FGSB Election
+            Notice shall be binding upon the Investor if, and only if, the
+            Investor Option Trigger occurs no later than 10 Business Days
+            following the FGSB Target Closing Date. If the Investor Option
+            Trigger does not occur within such time period, then the FGSB
+            Closing Notice and the FGSB Election Notice shall each be of no
+            further force or effect, and, upon again determining the date, if
+            any, on which the Investor Option Trigger will likely occur, the
+            Company shall be required to promptly deliver another FGSB Target
+            Closing Notice, and the provisions of this Section 1.2(d) shall
+            again apply. If the Company fails to timely deliver an FGSB Closing
+            Notice, then the Investor shall be entitled to deliver an FGSB
+            Election Notice at any time within 20 Business Days of the first
+            date on which the Investor becomes aware of the fact that the
+            Investor Option Trigger has occurred, and such FGSB Election Notice
+            shall specify the number of Section 1.2(d) Shares that the Investor
+            shall purchase pursuant to this Section 1.2(d)(i) and shall also
+            specify the Closing Date on which such purchase shall take place,
+            which shall not be less than five nor more than 15 Business Days
+            following the date of such notice.
+
+      (ii)  On June 30, 2005 the Investor shall have the option to purchase up
+            to 1,986,097 Section 1.2(d) Shares for $10.07 per share, if any
+            Section 1.2(d) shares remain unsold as of such date. In the event
+            that, prior to June 14, 2005, all Section 1.2(d) Shares have not
+            been sold to the Investor and Section 1.2(d) Closing Notices have
+            not been delivered to the Investor with respect to all Section
+            1.2(d) Shares then remaining unsold, then (a) the Company shall
+            deliver a written notice (the "Section 1.2(d)(ii) Option Notice") to
+            the Investor not later than June 15, 2005 stating that the Investor
+            has a purchase option pursuant to this Section 1.2(d)(ii) and
+            specifying the number of Section 1.2(d)(ii) Shares covered by such
+            option, and (b) the Investor may exercise its option to purchase up
+            to such number of unsold Section 1.2(d) shares by delivering to the
+            Company at any time prior to June 21, 2005 an irrevocable written
+            notice specifying the number of previously unsold Section 1.2(d)
+            Shares that the Investor shall purchase, and stating that such
+            purchase shall take place at a Closing on June 30, 2005. If the
+            Company fails to timely deliver the Section 1.2(d)(ii) Option
+            Notice, then the notice date and Closing Date referred to in clause
+            (b) of the immediately preceding sentence shall each be extended by
+            a number of Business Days equal to the number of Business Days that
+            the Company was deficient in delivering the Section 1.2(d)(ii)
+            Option Notice.
+
+            (e) If the Investor Option Trigger does not occur on or prior to
+March 31, 2005, but the Company determines at any time thereafter with
+reasonable certainty that the Investor Option Trigger will likely occur on a
+date prior to December 31, 2005, then the Company shall promptly send to the
+Investor a notice stating such fact, and specifying the date on which the
+Investor Option Trigger is expected to occur (which date may not be less than 10
+
+                                       7
+<PAGE>
+
+Business Days following the date of such notice). Not later than ten Business
+Days following its receipt of such notice, the Investor may, in its sole
+discretion, elect (by delivering an irrevocable written notice to the Company)
+to have the provisions of Section 1.2(d) hereof apply to the Investor and the
+Company, despite the failure of the Investor Option Trigger to occur prior to
+March 31, 2005 (an "Extension Election"). If the Company fails to give such
+notice under this Section 1.2(e), then the Investor shall be entitled to deliver
+an Extension Election at any time within ten Business Days of the first date on
+which the Investor becomes aware of the fact that the Investor Option Trigger
+will likely occur after March 31, 2005 and prior to December 31, 2005. In the
+event that the Investor makes an Extension Election, then the provisions of
+Section 1.2(d) hereof shall apply upon the occurrence of the Investor Option
+Trigger except that all calendar dates referenced in Section 1.2(d) shall be
+extended by a number of Business Days equal to the number of Business Days
+between (x) March 31, 2005 and (y) the date on which the Investor Option Trigger
+occurs.
+
+            (f) Notwithstanding any other provision herein to the contrary, the
+number of Section 1.2(d) shares shall be reduced by the number of "Higher Price
+Participation Securities" (with such number calculated in terms of common-stock
+equivalent shares), if any, that the Investor purchases pursuant to Section 6.7
+hereof. "Higher Price Participation Securities" shall mean any Participation
+Securities as to which the Investor's net purchase price (or in the case of
+convertible securities, the Investor's effective conversion price, or, in the
+case of exchangeable securities, the Investor's effective exchange price)
+exceeds the Conversion Price then in effect for the Series B-1 Shares.
+
+II. REPRESENTATIONS AND WARRANTIES OF THE COMPANY.
+
+            Each of the Company and the Operating Partnership, jointly and
+severally, represent and warrant, as of the date of this Agreement and as of
+each Closing Date, that:
+
+                  2.1 NO REGISTRATION UNDER THE SECURITIES ACT.
+
+            Assuming the continuing accuracy of the Investor's representations
+set forth in Article III hereof and compliance by the Investor with the transfer
+restrictions set forth in the legends on the certificates evidencing the Series
+B Preferred Stock and Common Stock deliverable upon conversion thereof, it is
+not necessary in connection with the offer, sale and delivery of the Series B
+Preferred Stock in the manner contemplated by this Agreement to register the
+Series B Preferred Stock or the issuance to the Investor of the Common Stock
+under the Securities Act of 1933, as amended (together with the rules and
+regulations of the Securities and Exchange Commission (the "Commission")
+thereunder, the "Securities Act").
+
+                  2.2 CAPITALIZATION.
+
+            The Company has an authorized capitalization of 200 million shares
+of common stock, par value $.01 per share (the "Common Stock") and 50 million
+shares of preferred stock, par value $.01 per share; the outstanding shares of
+capital stock or, as applicable partnership or membership interests, of the
+Company and each direct or indirect subsidiary of the Company, including the
+Operating Partnership and its subsidiaries (each, a "Subsidiary" and
+collectively, the "Subsidiaries"), have been duly and validly authorized and
+issued and are fully paid and,
+
+                                       8
+<PAGE>
+
+with respect to shares of capital stock, membership interests and limited
+partnership interests, non-assessable (except to the to the extent such
+non-assessability may be affected by Section 17-607 of the Delaware Revised
+Uniform Limited Partnership Act or Section 18-607 of the Delaware Limited
+Liability Company Act), and, except as disclosed on Schedule 2.2 attached
+hereto, all of the outstanding shares of capital stock or partnership or
+membership interests of the Subsidiaries are directly or indirectly owned of
+record and beneficially by the Company, free and clear of any pledge, lien,
+encumbrance, security interest or other claim, and, except as disclosed on
+Schedule 2.15 attached hereto, there are no outstanding (i) securities or
+obligations of the Company or any of the Subsidiaries convertible into or
+exchangeable or redeemable for any capital stock or other equity interests of
+the Company or any such Subsidiary, (ii) warrants, rights or options to
+subscribe for or purchase from the Company or any such Subsidiary any such
+capital stock or other equity interests or any such convertible or exchangeable
+securities or obligations, or (iii) obligations of the Company or any such
+Subsidiary to issue any shares of capital stock or other equity interests, any
+such convertible or exchangeable or redeemable securities or obligation, or any
+such warrants, rights or options.
+
+                  2.3 ORGANIZATION; AUTHORITY
+
+            Each of the Company and the Subsidiaries (all of which Subsidiaries
+are named on Schedule 2.3 attached hereto) has been duly incorporated or
+organized and is validly existing as a corporation, limited partnership or
+limited liability company, as applicable, in good standing under the laws of its
+respective jurisdiction of incorporation or organization with full corporate or
+other power and authority to own its respective properties and to conduct its
+respective businesses as described in the Company's reports filed with the
+Commission since December 31, 2003 and prior to the date which is two days prior
+to the date of this Agreement pursuant to Section 13(a), 13(c), 14 or 15(d) of
+the Securities Exchange Act of 1934, as amended (such act, together with the
+rules and regulations of the Commission thereunder, the "Exchange Act"; and such
+reports being referred to herein as the "Exchange Act Reports"), and to execute
+and deliver this Agreement and the Registration Rights Agreement (each as
+defined below and together, the "Transaction Documents") and to consummate the
+transactions contemplated herein and in the Registration Rights Agreement.
+
+                  2.4 QUALIFICATION; DIVIDENDS; INVESTMENTS
+
+            Each of the Company and the Subsidiaries is duly qualified or
+licensed and is in good standing in each jurisdiction in which the nature or
+conduct of its business requires such qualification or license and in which the
+failure, individually or in the aggregate, to be so qualified or licensed could
+reasonably be expected to have a material adverse effect on the assets,
+business, operations, earnings, properties or condition (financial or otherwise)
+of the Company and the Subsidiaries taken as a whole (a "Material Adverse
+Effect"); except as disclosed on Schedule 2.4 attached hereto, no Subsidiary is
+prohibited or restricted, directly or indirectly, from paying dividends to the
+Company, or from making any other distribution with respect to such Subsidiary's
+capital stock or other equity interests or from repaying to the Company or any
+other Subsidiary any amounts that may from time to time become due under any
+loans or advances to such Subsidiary from the Company or such other Subsidiary,
+or from transferring any such Subsidiary's property or assets to the Company or
+to any other Subsidiary; other than as disclosed on Schedule 2.4 attached
+hereto, the Company does not own, directly or indirectly, any
+
+                                       9
+<PAGE>
+
+capital stock or other equity securities of any other corporation or any
+ownership interest in any partnership, joint venture or other association.
+
+                  2.5 OPERATING PARTNERSHIP
+
+            (a) The Second Amended and Restated Agreement of Limited
+Partnership, as amended through the date hereof, of the Operating Partnership
+(the "Partnership Agreement"), has been duly and validly authorized, executed
+and delivered by or on behalf of the partners of the Operating Partnership and
+constitutes a valid and binding agreement of the parties thereto, enforceable in
+accordance with its terms, except as enforceability may be limited by
+bankruptcy, insolvency, reorganization, moratorium or similar laws affecting
+creditors' rights generally or by general principles of equity;
+
+            (b) Ashford OP Limited Partner, LLC (the "Limited Partner") is a
+holder of units of limited partnership interest in the Operating Partnership
+representing an ownership interest in the Operating Partnership in the amount
+described in the Exchange Act Reports, (ii) Ashford OP General Partner, LLC (the
+"General Partner") is the holder of the sole general partner interest in the
+Operating Partnership, and (iii) the Company owns a 100% membership interest in
+the General Partner and in the Limited Partner, in each case free and clear of
+any pledge, lien, encumbrance, security interest or other claim.
+
+                  2.6 LEGAL COMPLIANCE; DEFAULTS
+
+            (a) The Company and the Subsidiaries are in compliance with all
+applicable federal, state, local or foreign laws, regulations, rules, decrees,
+judgments and orders, including those relating to transactions with affiliates,
+except where any failures to be in compliance could not, individually or in the
+aggregate, reasonably be expected to have a Material Adverse Effect;
+
+            (b) Neither the Company nor any Subsidiary is in breach of or in
+default under (nor has any event occurred which with notice, lapse of time, or
+both would constitute a breach of, or default under) its respective
+organizational documents, or in the performance or observance of any obligation,
+agreement, covenant or condition contained in any license, indenture, mortgage,
+deed of trust, loan or credit agreement or other agreement or instrument to
+which the Company or any Subsidiary is a party or by which any of them or their
+respective properties is bound, except for such breaches or defaults that,
+individually or in the aggregate, could not reasonably be expected to have a
+Material Adverse Effect, and is not in arrears in the payment of dividends on
+any series of its preferred securities.
+
+                  2.7 CONFLICTS
+
+            The execution, delivery and performance of the Transaction Documents
+and consummation of the transactions contemplated herein and therein will not
+(A) conflict with, or result in any breach of, or constitute a default (nor
+constitute any event which with notice, lapse of time, or both would constitute
+a breach of, or default) or give to others any rights of termination, amendment,
+acceleration or cancellation under (i) any provision of the organizational
+documents of the Company or any Subsidiary, or (ii) any provision of any
+license, indenture, mortgage, deed of trust, loan or credit agreement or other
+agreement or instrument to which the Company or any Subsidiary is a party or by
+which any of them or their respective
+
+                                       10
+<PAGE>
+
+assets or properties may be bound or affected, or under any federal, state,
+local or foreign law, regulation or rule or any decree, judgment or order
+applicable to the Company or any Subsidiary, except in the case of this clause
+(ii) for such breaches or defaults that, individually or in the aggregate, could
+not reasonably be expected to have a Material Adverse Effect; or (B) result in
+the creation or imposition of any lien, charge, claim or encumbrance upon any
+property or asset of the Company or any Subsidiary.
+
+                  2.8 AUTHORIZATION
+
+            Each of the Transaction Documents to which the Company and the
+Operating Partnership is a party has been duly authorized, executed and
+delivered by the Company and the Operating Partnership, as applicable, and is a
+legal, valid and binding agreement of the Company and the Operating Partnership,
+as applicable, enforceable in accordance with its terms, except as may be
+limited by bankruptcy, insolvency, reorganization, moratorium or similar laws
+affecting creditors' rights generally, and by general equitable principles.
+
+                  2.9 APPROVALS
+
+            No approval, authorization, consent or order of or filing with any
+federal, state, local or foreign governmental or regulatory commission, board,
+body, authority or agency or any other third party is required in connection
+with the Company's or the Operating Partnership's execution, delivery and
+performance of this Agreement, their consummation of the transactions
+contemplated herein or the Company's sale and delivery of the Series B Preferred
+Stock, other than (i) such as may be required by the securities or Blue Sky laws
+of the various states in connection with the offer or sale of the Series B
+Preferred Stock and Common Stock and by Federal and state securities laws with
+respect to the obligations of the Company under the Registration Rights
+Agreement, (ii) approval of the New York Stock Exchange, Inc. for the listing of
+the Common Stock deliverable upon conversion of the Series B-1 Preferred Stock
+and (iii) such approvals, authorizations, consents or orders or filings, the
+absence of which could not reasonably be expected to have a Material Adverse
+Effect, individually or in the aggregate.
+
+                  2.10 LICENSES; CONSENTS ETC.
+
+            Each of the Company and the Subsidiaries has all necessary licenses,
+authorizations, consents and approvals and has made all necessary filings
+required under any federal, state, local or foreign law, regulation or rule, and
+has obtained all necessary authorizations, consents and approvals from other
+persons, required in order to conduct their respective businesses as described
+in the Exchange Act Reports, except to the extent that any failure to have any
+such licenses, authorizations, consents or approvals, to make any such filings
+or to obtain any such authorizations, consents or approvals could not,
+individually or in the aggregate, reasonably be expected to have a Material
+Adverse Effect; neither the Company nor any of the Subsidiaries is in violation
+of, in default under, or has received any notice regarding a possible violation,
+default or revocation of any such license, authorization, consent or approval or
+any federal, state, local or foreign law, regulation or rule or any decree,
+judgment or order applicable to the Company or any of the Subsidiaries, the
+effect of which could reasonably be expected to result in a Material Adverse
+Effect; and no such license, authorization, consent or approval contains a
+materially burdensome restriction; neither the Company nor any of the
+
+                                       11
+<PAGE>
+
+Subsidiaries is required by any applicable law to obtain accreditation or
+certification from any governmental agency or authority in order to provide the
+products and services that it currently provides or that it proposes to provide
+as set forth in the Exchange Act Reports except to the extent that any failure
+to have such accreditation or certification could not, individually or in the
+aggregate, reasonably be expected to have a Material Adverse Effect.
+
+                  2.11 EXCHANGE ACT COMPLIANCE.
+
+            The Company has filed all documents required to be filed with the
+Commission pursuant to Sections 13(a), 13(c), 14 or 15(d) of the Exchange Act,
+and all documents filed by the Company with the Commission pursuant to the
+Securities Act or the Exchange Act, when so filed, complied in form in all
+material respects with such acts and did not contain an untrue statement of a
+material fact or omit to state a material fact required to be stated therein or
+necessary to make the statements therein, in light of the circumstances under
+which they were made, not misleading.
+
+                  2.12 LITIGATION
+
+            There are no actions, suits, proceedings, inquiries or
+investigations pending or, to the knowledge of the Company, threatened against
+the Company or any Subsidiary or any of their respective officers and directors
+or to which the properties, assets or rights of any such entity are subject, at
+law or in equity, before or by any federal, state, local or foreign governmental
+or regulatory commission, board, body, authority, arbitral panel or agency,
+where in any such case (i) (A) there is a reasonable possibility that such
+action, suit or proceeding will be determined adversely to the Company or such
+Subsidiary and (B) if so determined adversely, could reasonably be expected to
+result in a judgment, decree, award or order having a Material Adverse Effect or
+(ii) such action, suit or proceeding could reasonably be expected to materially
+impair the Company's consummation of the transactions contemplated by this
+Agreement or the compliance by the Company with the terms, conditions and
+provisions of this Agreement or the Series B Preferred Stock.
+
+                  2.13 FINANCIAL STATEMENTS; AUDITORS
+
+            (a) The financial statements, including the related supporting
+schedules and notes thereto, included (or incorporated by reference into) in the
+Exchange Act Reports present fairly the consolidated financial position of the
+entities to which such financial statements relate (the "Covered Entities") as
+of the dates indicated and the consolidated results of operations and changes in
+financial position and cash flows of the Covered Entities for the periods
+specified; such financial statements have been prepared in conformity with
+generally accepted accounting principles as applied in the United States and on
+a consistent basis during the periods involved and in accordance with Regulation
+S-X promulgated by the Commission; the financial data in the Exchange Act
+Reports fairly present the information shown therein and have been compiled on a
+basis consistent with the financial statements included in the Exchange Act
+Reports; no other financial statements or supporting schedules are required to
+be included in the Exchange Act Reports; the unaudited pro forma financial
+information (including the related notes) included in the Exchange Act Reports
+complies as to form in all material respects with the applicable accounting
+requirements of the Exchange Act and the Securities Act, and management of the
+
+                                       12
+<PAGE>
+
+Company believes that the assumptions underlying the pro forma adjustments are
+reasonable; such pro forma adjustments have been properly applied to the
+historical amounts in the compilation of the information and such information
+fairly presents with respect to the Company and the Subsidiaries, the financial
+position, results of operations and other information purported to be shown
+therein at the respective dates and for the respective periods specified; no
+other pro forma financial information is required to be included in the Exchange
+Act Reports;
+
+            (b) Ernst & Young LLP, whose reports on the consolidated financial
+statements of the Company and the Subsidiaries and the predecessor are filed
+with the Commission as part of the Exchange Act Reports or are incorporated by
+reference therein and any other accounting firm (including Holland Shipes Vann,
+P.C.) that has certified Company or predecessor financial statements (including
+financial statements of acquired properties) and delivered its reports with
+respect thereto, are, and were during the periods covered by their reports,
+independent public accountants as required by the Exchange Act and the
+Securities Act.
+
+                  2.14 NO MATERIAL ADVERSE CHANGE
+
+            Subsequent to the respective dates as of which information is given
+in the Exchange Act Reports, and except as may be otherwise stated in the
+Exchange Act Reports, there has not been any change, or any development or event
+that reasonably could be expected to result in a change, that has or reasonably
+could be expected to have a Material Adverse Effect, whether or not arising in
+the ordinary course of business.
+
+                  2.15 REGISTRATION OR SIMILAR RIGHTS
+
+            Except as set forth on Schedule 2.15 attached hereto, there are no
+persons with registration or other similar rights to have any equity or debt
+securities, including securities that are convertible into or exchangeable or
+redeemable for equity securities, registered by the Company or the Operating
+Partnership under the Securities Act.
+
+                  2.16 DUE AUTHORIZATION
+
+            The Series B Preferred Stock have been duly authorized and, when
+issued and duly delivered against payment therefor as contemplated by this
+Agreement, will be validly issued, fully paid and non-assessable, free and clear
+of any pledge, lien, encumbrance, security interest or other claim, and the
+issuance and sale of the Series B Preferred Stock by the Company is not subject
+to preemptive or other similar rights arising by operation of law, under the
+organizational documents of the Company or under any agreement to which the
+Company or any Subsidiary is a party or otherwise; at or prior to the Initial
+Closing, the Company will have executed and filed the Series B Preferred
+Articles Supplementary to the Company's Articles of Amendment and Restatement
+(the "Charter") with the Maryland State Department of Assessments and Taxation
+establishing the terms of the Series B Preferred Stock; the Preferred Units (as
+defined herein) have been duly authorized and, when issued and duly delivered
+against contribution of the net proceeds of the offering contemplated by this
+Agreement, will be validly issued, fully paid and non-assessable (except to the
+to the extent such non-assessability may be affected by Section 17-607 of the
+Delaware Revised Uniform Limited Partnership Act), free and clear of any pledge,
+lien, encumbrance, security interest or other claim, and the issuance and sale
+
+                                       13
+<PAGE>
+
+of the Preferred Units by the Operating Partnership to the Company is not
+subject to preemptive or other similar rights arising by operation of law, under
+the organizational documents of the Operating Partnership or under any agreement
+to which the Company or any Subsidiary is a party or otherwise; the Common Stock
+deliverable upon conversion of the Series B Preferred Stock will be duly and
+validly reserved for issuance (based on the initial conversion price hereof)
+and, when issued upon such conversion in accordance with the Series B Preferred
+Articles Supplementary, will be duly and validly issued, fully paid and
+nonassessable and will be issued in compliance with applicable federal and state
+securities laws.
+
+                  2.17 STABILIZATION
+
+            The Company has not taken, and will not take, directly or
+indirectly, any action that is designed to or that has constituted or that might
+reasonably be expected to cause or result in stabilization or manipulation of
+the price of any security of the Company to facilitate the sale or resale of the
+Series B Preferred Stock or the Common Stock deliverable upon conversion
+thereof.
+
+                  2.18 BROKER DEALER STATUS
+
+            Neither the Company nor any of its affiliates (i) is required to
+register as a "broker" or "dealer" in accordance with the provisions of the
+Exchange Act or (ii) directly, or indirectly through one or more intermediaries,
+controls or has any other association with (within the meaning of Article I of
+the By-laws of the National Association of Securities Dealers, Inc. (the
+"NASD")) any member firm of the NASD.
+
+                  2.19 LEGAL, TAX OR ACCOUNTING ADVICE
+
+            The Company has not relied upon the Investor or legal counsel for
+the Investor for any legal, tax or accounting advice in connection with the
+offering and sale of the Series B Preferred Stock or the Common Stock
+deliverable upon conversion thereof.
+
+                  2.20 CERTIFICATES
+
+            Any certificate signed by any officer of the Company or any
+Subsidiary delivered to the Investor or to counsel for the Investor pursuant to
+or in connection with this Agreement shall be deemed a representation and
+warranty by the Company to the Investor as to the matters covered thereby.
+
+                  2.21 OTHER ISSUANCES
+
+            Except as described in the Exchange Act Reports, neither the Company
+nor any Subsidiary has (i) sold or issued any securities during the six month
+period preceding the date hereof, including any sales pursuant to Rule 144A
+under, or Regulations D or S of, the Securities Act, other than shares of Common
+Stock issued pursuant to employee benefit plans, qualified stock options plans
+or other employee compensation plans or pursuant to outstanding options, rights
+or warrants, that would be required to be integrated with the sale of the Series
+B Preferred Stock or the Common Stock deliverable upon conversion thereof
+pursuant to this Agreement, or (ii) engaged in any form of general solicitation
+or general advertising (as those terms are used in
+
+                                       14
+<PAGE>
+
+Regulation D under the Securities Act) in connection with the Series B Preferred
+Shares or the Common Stock deliverable upon conversion thereof or in any manner
+involving a public offering within Section 4(2) of the Securities Act.
+
+                  2.22 SERIES B PREFERRED SHARE CERTIFICATES
+
+            The form of certificate used to evidence the Series B Preferred
+Stock complies in all material respects with all applicable statutory
+requirements, with any applicable requirements of the organizational documents
+of the Company.
+
+                  2.23 LOANS AND PARTICIPATION INTERESTS
+
+            All of the mezzanine loans of which the Company is the owner,
+directly or indirectly (the "Mezzanine Loans"), and all of the participation
+interests in loans of which the Company is the owner, directly or indirectly
+(the "Participation Interests," and such loans, together with the Mezzanine
+Loans, collectively are referred to hereinafter as the "Loans"), are set forth
+or described on Schedule 2.23 attached hereto. The Company is the sole owner and
+holder of the Mezzanine Loans and Participation Interests, and has not sold,
+assigned, hypothecated or otherwise encumbered such Mezzanine Loans and
+Participation Interests, except as set forth on Schedule 2.23 attached hereto;
+to the Company's knowledge, there is no offset, defense, counterclaim or right
+to rescission with respect to any of the notes or any of the other loan
+documents; neither the Company nor, to the knowledge of the Company, any other
+party has given or received a written notice of default under any Loans and, to
+the Company's knowledge, no event exists which, with the giving of notice or the
+passing of time, or both, would constitute an event of default thereunder; the
+Company has not subordinated its interest in the loans to which the
+Participation Interests relate to any other party except as set forth on
+Schedule 2.23 attached hereto.
+
+                  2.24 REAL PROPERTY
+
+            (a) The Company and the Subsidiaries have good and indefeasible
+title in fee simple to, or a valid leasehold interest in, all real property
+described on Schedule 2.24 attached hereto, and good title to all personal
+property owned by them, in each case free and clear of all liens, security
+interests, pledges, charges, encumbrances, encroachments, restrictions,
+mortgages and defects, except such as are disclosed on Schedule 2.24 attached
+hereto or such as do not materially and adversely affect the value of such
+property and do not interfere with the use made or proposed to be made of such
+property by the Company and the Subsidiaries; any real property, improvements,
+equipment and personal property held under lease by the Company or any
+Subsidiary are held under valid, existing and enforceable leases, with such
+exceptions as are disclosed on Schedule 2.24 attached hereto or are not material
+and do not interfere with the use made or proposed to be made of such real
+property, improvements, equipment and personal property by the Company or such
+Subsidiary; the Company or a Subsidiary has obtained an owner's or leasehold
+title insurance policy, from a title insurance company licensed to issue such
+policy, on any real property owned in fee or leased, as the case may be, by the
+Company or any Subsidiary, that insures the Company's or the Subsidiary's fee or
+leasehold interest, as the case may be, in such real property, which policies
+include only commercially reasonable exceptions, and with coverages in amounts
+at least equal to amounts that are generally deemed in the
+
+                                       15
+<PAGE>
+
+Company's industry to be commercially reasonable in the markets where the
+Company's properties are located, or a lender's title insurance policy insuring
+the lien of its mortgage securing the real property with coverage equal to the
+maximum aggregate principal amount of any indebtedness held by the Company or a
+Subsidiary and secured by the real property;
+
+            (b) All real property owned or leased by the Company or a Subsidiary
+is free of material structural defects and all building systems contained
+therein are in good working order in all material respects, subject to ordinary
+wear and tear or, in each instance, the Company has created an adequate reserve
+to effect reasonably required repairs, maintenance and capital expenditures; to
+the knowledge of the Company and the Operating Partnership, water, storm water,
+sanitary sewer, electricity and telephone service are all available at the
+property lines of such property over duly dedicated streets or perpetual
+easements of record benefiting such property; except as described on Schedule
+2.24 attached hereto, to the knowledge of the Company and the Operating
+Partnership, there is no pending or threatened special assessment, tax reduction
+proceeding or other action that, individually or in the aggregate, could
+reasonably be expected to increase or decrease the real property taxes or
+assessments of any of such property, that, individually or in the aggregate,
+could reasonably be expected to have a Material Adverse Effect;
+
+            (c) The mortgages and deeds of trust encumbering any real property
+owned in fee or leased by the Company or a Subsidiary (i) are not convertible
+(in the absence of foreclosure) into an equity interest in the real property or
+in the Company, the Operating Partnership or any Subsidiary, and none of the
+Company, the Operating Partnership or the Subsidiaries hold a participating
+interest therein, (ii) except as set forth on Schedule 2.24 attached hereto, are
+not and will not be cross-defaulted to any indebtedness other than indebtedness
+of the Company or any of the Subsidiaries, and (iii) are not and will not be
+cross-collateralized to any property not owned by the Company, the Operating
+Partnership or any of the Subsidiaries.
+
+                  2.25 PROCEEDINGS; CONTRACTS
+
+            The descriptions in the Exchange Act Reports of the legal or
+governmental proceedings, contracts, leases and other legal documents therein
+described present fairly the information required to be shown, and there are no
+legal or governmental proceedings, contracts, leases, or other documents of a
+character required to be described in the Exchange Act Reports or to be filed as
+exhibits to the Exchange Act Reports that are not described or filed as
+required; all agreements between the Company or any of the Subsidiaries and
+third parties expressly referenced in the Exchange Act Reports are legal, valid
+and binding obligations of the Company or one or more of the Subsidiaries,
+enforceable in accordance with their respective terms, except to the extent
+enforceability may be limited by bankruptcy, insolvency, reorganization,
+moratorium or similar laws affecting creditors' rights generally and by general
+equitable principles and, to the knowledge of the Company and the Operating
+Partnership, no party is in breach or default under any such agreements.
+
+                                       16
+<PAGE>
+
+                  2.26 INTELLECTUAL PROPERTY
+
+            The Company and each Subsidiary owns or possesses adequate licenses
+or other rights to use all patents, trademarks, service marks, trade names,
+copyrights, software and design licenses, trade secrets, manufacturing
+processes, other intangible property rights and know-how (collectively,
+"Intangibles") necessary to entitle the Company and each Subsidiary to conduct
+its business as described in the Exchange Act Reports, and neither the Company
+nor any Subsidiary has received notice of infringement of or conflict with (and
+the Company knows of no such infringement of or conflict with) asserted rights
+of others with respect to any Intangibles that, individually or in the
+aggregate, could reasonably be expected to have a Material Adverse Effect.
+
+                  2.27 ACCOUNTING CONTROLS
+
+            The Company and each of the Subsidiaries maintain a system of
+internal accounting controls sufficient to provide reasonable assurance that (i)
+transactions are executed in accordance with management's general or specific
+authorizations; (ii) transactions are recorded as necessary to permit
+preparation of financial statements in conformity with generally accepted
+accounting principles as applied in the United States and to maintain asset
+accountability; (iii) access to assets is permitted only in accordance with
+management's general or specific authorization; and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable
+intervals and appropriate action is taken with respect to any differences, and
+the Company has no reason to believe that there are any "material weaknesses"
+(as such term is used in United States generally accepted auditing standards) in
+the Company's internal controls over financial reporting or that it will be
+unable to comply with the applicable internal control over financial reporting
+requirements imposed by the Commission and other applicable regulatory bodies,
+if any, at the time that the Commission requires such internal controls to be
+effective.
+
+                  2.28 TAXES
+
+            Each of the Company, the Operating Partnership and the Subsidiaries
+has filed on a timely basis (including in accordance with any applicable
+extensions) all necessary federal, state, local and foreign income and franchise
+tax returns required to be filed through the date hereof or have properly
+requested extensions thereof, and have paid all taxes shown as due thereon, and
+if due and payable, any related or similar assessment, fine or penalty levied
+against the Company, the Operating Partnership or any of the Subsidiaries; no
+tax deficiency has been asserted against any such entity, and the Company and
+the Subsidiaries do not know of any tax deficiency that is likely to be asserted
+against any such entity that, individually or in the aggregate, if determined
+adversely to any such entity, could reasonably be expected to have a Material
+Adverse Effect; all tax liabilities are adequately provided for on the
+respective books of the Company and the Subsidiaries; there is no tax lien,
+whether imposed by any federal, state, local or other tax authority, outstanding
+against the assets, properties or business of the Company other than statutory
+liens in respect of taxes that are not delinquent; there are no applicable
+taxes, fees or other governmental charges payable by the Company or any of its
+Subsidiaries in connection with the execution and delivery of this Agreement or
+the issuance by the Company of the Series B Preferred Stock or the Common Stock
+deliverable upon conversion thereof.
+
+                                       17
+<PAGE>
+
+                  2.29 INSURANCE
+
+            Each of the Company and the Subsidiaries maintains insurance (issued
+by insurers of recognized financial responsibility) of the types and in the
+amounts generally deemed adequate for their respective businesses and consistent
+with insurance coverage maintained by similar companies in similar businesses,
+including, but not limited to, insurance covering real and personal property
+owned or leased by the Company and the Subsidiaries against theft, damage,
+destruction, environmental liabilities, acts of vandalism, terrorism,
+earthquakes, flood and all other risks customarily insured against, all of which
+insurance is in full force and effect.
+
+                  2.30 ENVIRONMENTAL, HEALTH & SAFETY
+
+            Neither the Company nor any of the Subsidiaries is in violation, or
+has received notice of any violation with respect to, any applicable
+environmental, safety or similar law, regulation or rule applicable to the
+business of the Company or any of the Subsidiaries; the Company and the
+Subsidiaries have received all permits, licenses or other approvals required of
+them under applicable federal and state occupational safety and health and
+environmental laws, regulations and rules to conduct their respective
+businesses, and the Company and the Subsidiaries are in compliance with all
+terms and conditions of any such permit, license or approval, except any such
+violation of law, regulation or rule, failure to receive required permits,
+licenses or other approvals or failure to comply with the terms and conditions
+of such permits, licenses or approvals that individually or in the aggregate,
+could not reasonably be expected to have a Material Adverse Effect.
+
+                  2.31 LABOR MATTERS; BENEFITS
+
+            (a) Neither the Company nor any Subsidiary is in violation of or has
+received notice of any violation with respect to any federal or state law,
+regulation or rule relating to discrimination in the hiring, termination,
+promotion, employment or pay of employees, nor any applicable federal or state
+wages and hours law, nor any state law, regulation or rule precluding the denial
+of credit due to the neighborhood in which a property is situated, the violation
+of any of which, individually or in the aggregate, could reasonably be expected
+to have a Material Adverse Effect; there is no strike or work stoppage or other
+labor dispute existing or, to the knowledge of the Company, threatened against
+the Company or its Subsidiaries. The Company does not have any knowledge as to
+any intentions of any key employee or any group of employees to leave the employ
+of the Company.
+
+            (b) The Company and each of the Subsidiaries are in compliance in
+all material respects with all presently applicable provisions of the Employee
+Retirement Income Security Act of 1974, as amended, including the regulations
+and published interpretations thereunder ("ERISA"); no "reportable event" (as
+defined in ERISA) has occurred with respect to any "pension plan" (as defined in
+ERISA) for which the Company or any of the Subsidiaries would have any material
+liability; the Company and each of the Subsidiaries have not incurred and do not
+expect to incur material liability under (i) Title IV of ERISA with respect to
+termination of, or withdrawal from, any "pension plan" or (ii) Section 412 or
+4971 of the Internal Revenue Code of 1986, as amended, including the regulations
+and published interpretations thereunder ("Code"); and each "pension plan" for
+which the Company or any of its Subsidiaries
+
+                                       18
+<PAGE>
+
+would have any material liability that is intended to be qualified under Section
+401(a) of the Code is so qualified in all material respects and nothing has
+occurred, whether by action or by failure to act, that would cause the loss of
+such qualification.
+
+                  2.32 IMPROPER PAYMENTS
+
+            (a) Neither the Company nor any of the Subsidiaries nor, to the
+Company's knowledge, any officer or director purporting to act on behalf of the
+Company or any of the Subsidiaries has at any time (i) made any payment outside
+the ordinary course of business to any investment officer or loan broker or
+person charged with similar duties of any entity to which the Company or any of
+the Subsidiaries sells or from which the Company or any of the Subsidiaries buys
+loans or servicing arrangements for the purpose of influencing such agent,
+officer, broker or person to buy loans or servicing arrangements from or sell
+loans to the Company or any of the Subsidiaries, or (ii) engaged in any
+transactions, maintained any bank account or used any corporate funds except for
+transactions, bank accounts and funds which have been and are reflected in the
+normally maintained books and records of the Company and the Subsidiaries.
+
+            (b) Neither the Company nor any of the Subsidiaries nor, to the
+knowledge of the Company or the Operating Partnership, any employee or agent of
+the Company or any of the Subsidiaries, has made any payment of funds of the
+Company or of any Subsidiary or received or retained any funds in violation of
+any law, rule or regulation or of a character required to be disclosed in the
+Exchange Act Reports.
+
+                  2.33 OFFICER AND DIRECTOR LOANS
+
+            There are no outstanding loans or advances or guarantees of
+indebtedness by the Company or any of the Subsidiaries to or for the benefit of
+any of the officers or directors of the Company or any of the Subsidiaries or
+any of the members of the families of any of them.
+
+                  2.34 SECURITIES ISSUANCES
+
+            All securities issued by the Company, any of the Subsidiaries or any
+trusts established by the Company or any Subsidiary, have been issued and sold
+in compliance with (i) all applicable federal and state securities laws and the
+laws of the applicable jurisdiction of incorporation of the issuing entity,
+except as, individually or in the aggregate, could not reasonably be expected to
+have a Material Adverse Effect, and (ii) to the extent applicable to the issuing
+entity, the requirements of the New York Stock Exchange.
+
+                  2.35 ENVIRONMENTAL
+
+            (a) Except as otherwise disclosed on Schedule 2.35 attached hereto,
+(i) none of the Operating Partnership, the Company, any of the Subsidiaries nor,
+to the knowledge of the Operating Partnership and the Company, any other owners
+of the property at any time or any other party has at any time, handled, stored,
+treated, transported, manufactured, spilled, leaked, or discharged, dumped,
+transferred or otherwise disposed of or dealt with, Hazardous Materials (as
+hereinafter defined) on, in, under, to or from any real property leased, owned
+or controlled, including any real property underlying any loan held or to be
+held by the Company or the Subsidiaries (collectively, the "Real Property"),
+other than by any such action taken in
+
+                                       19
+<PAGE>
+
+compliance with all applicable Environmental Statutes (hereinafter defined) or
+by the Operating Partnership, the Company, any of the Subsidiaries or any other
+party in connection with the ordinary use of residential, retail or commercial
+properties owned by the Operating Partnership; (ii) the Operating Partnership
+and the Company do not intend to use the Real Property or any subsequently
+acquired properties for the purpose of using, handling, storing, treating,
+transporting, manufacturing, spilling, leaking, discharging, dumping,
+transferring or otherwise disposing of or dealing with Hazardous Materials other
+than by any such action taken in compliance with all applicable Environmental
+Statues or by the Operating Partnership, the Company, any of the Subsidiaries or
+any other party in connection with the ordinary use of residential, retail or
+commercial properties owned by the Operating Partnership; (iii) none of the
+Operating Partnership, the Company, nor any of the Subsidiaries knows of any
+seepage, leak, discharge, release, emission, spill, or dumping of Hazardous
+Materials into waters on or adjacent to the Real Property or any other real
+property owned or occupied by any such party, or onto lands from which Hazardous
+Materials might seep, flow or drain into such waters; (iv) none of the Operating
+Partnership, the Company, nor any of the Subsidiaries has received any notice
+of, or has any knowledge of any occurrence or circumstance that, with notice or
+passage of time or both, would give rise to a claim under or pursuant to any
+federal, state or local environmental statute, regulation or rule or under
+common law, pertaining to Hazardous Materials on or originating from any of the
+Real Property or any assets described in the Exchange Act Reports or any other
+real property owned or occupied by any such party or arising out of the conduct
+of any such party, including without limitation a claim under or pursuant to any
+Environmental Statute; (v) the Real Property is not included or, to the
+Company's and the Operating Partnership's knowledge, proposed for inclusion on
+the National Priorities List issued pursuant to CERCLA (as hereinafter defined)
+by the United States Environmental Protection Agency (the "EPA") or, to the
+Operating Partnership's and the Company's knowledge, proposed for inclusion on
+any similar list or inventory issued pursuant to any other Environmental Statute
+or issued by any other Governmental Authority (as hereinafter defined); (vi) in
+the operation of the Company's and the Operating Partnership's businesses, the
+Company acquires, before acquisition of any real property, an environmental
+assessment of the real property and, to the extent they become aware of any
+condition that could reasonably be expected to result in liability associated
+with the presence or release of a Hazardous Material, or any violation or
+potential violation of any Environmental Statute, the Company and the Operating
+Partnership take all commercially reasonable action necessary or advisable
+(including any capital improvements) for clean up, closure or other compliance
+with such Environmental Statute;
+
+            (b) As used herein, "Hazardous Material" includes, without
+limitation any flammable explosives, radioactive materials, hazardous materials,
+hazardous wastes, toxic substances, or related materials, asbestos or any
+hazardous material as defined by any federal, state or local environmental law,
+regulation or rule including, without limitation, the Comprehensive
+Environmental Response, Compensation, and Liability Act of 1980, as amended, 42
+U.S.C. Sections 9601-9675 ("CERCLA"), the Hazardous Materials Transportation
+Act, as amended, 49 U.S.C. Sections 1801-1819, the Resource Conservation and
+Recovery Act, as amended, 42 U.S.C. Sections 6901-6992K, the Emergency Planning
+and Community Right-to-Know Act of 1986, 42 U.S.C. Sections 11001-11050, the
+Toxic Substances Control Act, 15 U.S.C. Sections 2601-2671, the Federal
+Insecticide, Fungicide and Rodenticide Act, 7 U.S.C. Sections 136-136y, the
+Clean Air Act, 42 U.S.C. Sections 7401-7642, the Clean Water Act (Federal Water
+Pollution Control Act), 33 U.S.C. Sections 1251-1387, the Safe Drinking Water
+
+                                       20
+<PAGE>
+
+Act, 42 U.S.C. Sections 300f-300j-26, and the Occupational Safety and Health
+Act, 29 U.S.C. Sections 651-678, as any of the above statutes may be amended
+from time to time, and in the regulations promulgated pursuant to each of the
+foregoing (individually, an "Environmental Statute" and collectively the
+"Environmental Statutes") or by any federal, state or local governmental
+authority having or claiming jurisdiction over the properties and assets
+described in the Exchange Act Reports (a "Governmental Authority");
+
+            (c) There are no costs or liabilities associated with the Real
+Property pursuant to any Environmental Statute (including, without limitation,
+any capital or operating expenditures required for clean-up, closure of
+properties or compliance with any Environmental Statute or any permit, license
+or approval, any related constraints on operating activities and any potential
+liabilities to third parties) that, individually or in the aggregate, could
+reasonably be expected to have a Material Adverse Effect;
+
+            (d) None of the entities that prepared Phase I or other
+environmental assessments with respect to the Real Property was employed for
+such purpose on a contingent basis or has any substantial interest in the
+Company or any of the Subsidiaries, and none of their directors, officers or
+employees is connected with the Company or any of the Subsidiaries as a
+promoter, selling agent, trustee, officer, director or employee.
+
+                  2.36 COMPLIANCE WITH LAWS REGARDING REAL PROPERTY
+
+            (A) None of the Operating Partnership, the Company nor any
+Subsidiary knows of any violation of any municipal, state or federal law, rule
+or regulation (including those pertaining to environmental matters) concerning
+the Real Property or any part thereof that, individually or in the aggregate,
+could reasonably be expected to have a Material Adverse Effect; (B) the Real
+Property complies with all applicable zoning laws, ordinances, regulations and
+deed restrictions or other covenants in all material respects and, if and to the
+extent there is a failure to comply, such failure does not materially impair the
+value of any of the Real Property and will not result in a forfeiture or
+reversion of title; (C) none of the Operating Partnership, the Company nor any
+Subsidiary has received from any governmental authority any written notice of
+any condemnation of or zoning change affecting the Real Property or any part
+thereof, and none of the Operating Partnership, the Company nor any Subsidiary
+knows of any such condemnation or zoning change which is threatened and which,
+individually or in the aggregate, if consummated could reasonably be expected to
+have a Material Adverse Effect; (D) all liens, charges, encumbrances, claims, or
+restrictions on or affecting the properties and assets (including the Real
+Property) of the Operating Partnership or any of the Subsidiaries that are
+required to be described in the Exchange Act Reports are disclosed on Schedule
+2.36 attached hereto; (E) no lessee of any portion of any of the Real Property
+is in default under any of the leases governing such properties and there is no
+event which, but for the passage of time or the giving of notice or both would
+constitute a default under any of such leases, except such defaults that
+individually or in the aggregate, could not reasonably be expected to have a
+Material Adverse Effect; and (F) no tenant under any lease pursuant to which the
+Operating Partnership or any of the Subsidiaries leases any Real Property has an
+option or right of first refusal to purchase the premises leased thereunder or
+the building of which such premises are a part, except as such options or rights
+of first refusal that, individually or in the aggregate, if exercised, could not
+reasonably be expected to have a Material Adverse Effect.
+
+                                       21
+<PAGE>
+
+                  2.37 RELATED PARTY TRANSACTIONS
+
+            No relationship, direct or indirect, exists between or among the
+Company or any of the Subsidiaries on the one hand, and the directors, officers,
+stockholders, customers or suppliers of the Company or any of the Subsidiaries
+on the other hand, that is required by the Exchange Act to be described in the
+Exchange Act Reports and that is not so described and set forth on Schedule 2.37
+attached hereto. No such relationship exists that will be required to be
+described in the Company's proxy statement to be filed with the Commission in
+connection with the Company's next annual meeting of shareholders that is not
+set forth on Schedule 2.37.
+
+                  2.38 INVESTMENT COMPANY
+
+            Neither the Company nor any of the Subsidiaries is and, after giving
+effect to the offering and sale of the Series B Preferred Stock, will be an
+"investment company" or an entity "controlled" by an "investment company", as
+such terms are defined in the Investment Company Act of 1940, as amended (the
+"Investment Company Act").
+
+                  2.39 REIT STATUS
+
+            Commencing with the taxable year ending December 31, 2003, the
+Company has been organized and operated in conformity with the requirements for
+qualification as a real estate investment trust (a "REIT") under the Code, and
+the current and proposed method of operation of the Company and the Subsidiaries
+described in the Exchange Act Reports will enable the Company to meet the
+requirements for qualification and taxation as a REIT under the Code, and the
+Operating Partnership is treated as a partnership for federal income tax
+purposes and not as a corporation or association taxable as a corporation; the
+Company intends to continue to qualify as a REIT for all subsequent years, and
+the Company does not know of any event that could reasonably be expected to
+cause the Company to fail to qualify as a REIT at any time; Remington Lodging
+and Hospitality, L.P. is an "eligible independent contractor" within the meaning
+of the Code.
+
+                  2.40 REGULATION
+
+            The conduct of business by the Company and the Subsidiaries as
+presently and proposed to be conducted is not subject to continuing oversight,
+supervision, regulation or examination by any governmental official or body of
+the United States or any other jurisdiction wherein the Company or the
+Subsidiaries conducts or proposes to conduct such business, except as described
+in the Exchange Act Reports and except such regulation as is applicable to
+commercial enterprises generally.
+
+                  2.41 FINANCIAL COVENANT COMPLIANCE
+
+            The Company would be able to incur $1.00 of additional indebtedness
+without violating any of the covenants set forth in Section 6.4 hereof.
+
+                                       22
+<PAGE>
+
+                  2.42 SOLVENCY
+
+            Based on the financial condition of the Company as of the applicable
+Closing Date, both prior to and after giving effect to the transactions
+contemplated by this Agreement to occur on such Closing Date, (i) the Company's
+fair saleable value of its assets exceeds the amount that will be required to be
+paid on or in respect of the Company's existing debts and other liabilities
+(including known contingent liabilities) as they mature; (ii) the Company's
+assets do not constitute unreasonably small capital to carry on its business for
+the current fiscal year as now conducted and as proposed to be conducted
+including its capital needs taking into account the particular capital
+requirements of the business conducted by the Company, and projected capital
+requirements and capital availability thereof; and (iii) the current cash flow
+of the Company, together with the proceeds the Company would receive, were it to
+liquidate all of its assets, after taking into account all anticipated uses of
+the cash, would be sufficient to pay all amounts on or in respect of its debt
+when such amounts are required to be paid. The Company does not intend to incur
+debts beyond its ability to pay such debts as they mature (taking into account
+the timing and amounts of cash to be payable on or in respect of its debt).
+
+III. REPRESENTATIONS AND WARRANTIES OF THE INVESTOR.
+
+            The Investor represents and warrants, as of the date of this
+Agreement and as of each Closing Date, that:
+
+                  3.1 POWER, AUTHORITY AND ENFORCEABILITY.
+
+            (a) The Investor has the requisite power and authority, and has
+taken all required action necessary, to execute, deliver and perform this
+Agreement and to purchase the Series B Preferred Stock hereunder.
+
+            (b) This Agreement has been duly executed and delivered by the
+Investor and constitutes the legal, valid and binding obligation of the Investor
+enforceable in accordance with its terms, except (i) as limited by applicable
+bankruptcy, insolvency, reorganization, moratorium, and other laws of general
+application affecting enforcement of creditors' rights generally, and (ii) as
+limited by laws relating to the availability of specific performance, injunctive
+relief, or other equitable remedies.
+
+                  3.2 COMPLIANCE WITH OTHER INSTRUMENTS.
+
+            The execution, delivery and performance of this Agreement by the
+Investor and the consummation by the Investor of the transactions contemplated
+hereby do not (i) result in a violation of the Investor's constituent documents
+or (ii) conflict with, or constitute a default under (or an event which with
+notice or lapse of time or both would become a default), or give to others any
+rights of termination, amendment, acceleration or cancellation of, any
+agreement, indenture or instrument to which the Investor is a party, or result
+in a violation of any law, rule, regulation, order, judgment or decree
+applicable to the Investor or by which any property or asset of the Investor is
+bound or affected (except for such conflicts, defaults, terminations,
+amendments, accelerations, cancellations and violations as would not materially
+impair the Investor's ability to perform its obligations under this Agreement).
+
+                                       23
+<PAGE>
+
+                  3.3 OWNERSHIP LIMITATIONS.
+
+            The Investor has received a copy of the Company's Charter and
+understands the restrictions on transfer and ownership of the Company's capital
+stock included therein related to the qualification by the Company as a real
+estate investment trust for federal income tax purposes pursuant to Sections 856
+through 860 of the Code.
+
+                  3.4 ORGANIZATION.
+
+            The Investor is a corporation duly organized, validly existing and
+in good standing under the laws of the State of Maryland.
+
+                  3.5 CONSENTS AND APPROVALS.
+
+            No approval, authorization, consent or order of or filing with any
+federal, state, local or foreign governmental or regulatory commission, board,
+body, authority or agency or any other third party is required in connection
+with the Investor's execution, delivery and performance of this Agreement, their
+consummation of the transactions contemplated herein or the Investor's purchase
+and ownership of the Series B Preferred Stock, other than (i) such as have been
+obtained, or will have been obtained at the Initial Closing Date or the relevant
+Closing Date, as the case may be, and (ii) such approvals, authorizations,
+consents or orders or filings, the absence of which could not reasonably be
+expected to have a material adverse effect, individually or in the aggregate, on
+the assets, business, operations, earnings, properties or condition (financial
+or otherwise) of the Investor.
+
+                  3.6 ACCREDITED INVESTOR.
+
+            The Investor is an "Accredited Investor" as such term is defined in
+Rule 501(a) promulgated under the Securities Act. The Investor represents and
+warrants that it has such knowledge and experience in financial and business
+matters as to be capable of evaluating the merits and risks of its or his
+investment in the Series B Preferred Stock.
+
+                  3.7 ABSENCE OF MARKET.
+
+            The Investor acknowledges that the Series B Preferred Stock lacks
+liquidity as compared with other investments since there is not, and there is
+not expected to be, any market therefor, and that the sale or transfer of the
+Series B Preferred Stock must comply with applicable federal and state
+securities laws, The Investor acknowledges that it must bear the economic risk
+of its investment in the Series B Preferred Stock for an indefinite period of
+time since none of the Series B Preferred Stock has been registered under the
+Securities Act and therefore cannot be sold unless such Series B Preferred Stock
+is subsequently registered pursuant to the terms of the Registration Rights
+Agreement attached hereto as Exhibit G or otherwise, or an exemption from
+registration is available.
+
+                  3.8 INVESTMENT PURPOSES.
+
+            The Investor is acquiring the Series B Preferred Stock for
+investment purposes only, for its own account, and not as nominee or agent for
+any other person or entity, and not
+
+                                       24
+<PAGE>
+
+with a view to, or for resale in connection with, any distribution thereof
+within the meaning of the Securities Act. The Investor further acknowledges that
+representatives of the Company have advised it that no state or federal agency
+or instrumentality has made any finding or determination as to the investment in
+the Series B Preferred Stock, nor has any state or federal agency or
+instrumentality made any recommendation with respect to any purchase or
+investment in the Series B Preferred Stock.
+
+                  3.9 ACCESS AND INFORMATION.
+
+            The Investor has had access to such financial and other information
+concerning the Company or any of its subsidiaries and the Series B Preferred
+Stock and Common Stock deliverable upon conversion thereof as it deems necessary
+in connection with its decision to purchase any of the Preferred Shares,
+including an opportunity to ask questions and request information from the
+Company. The Investor has obtained, in its judgment, sufficient information to
+evaluate the merits and risks of an investment in the Company, understands the
+business in which the Company and the Operating Partnership are engaged, and is
+able to evaluate the merits and risks of an investment in the Series B Preferred
+Stock.
+
+IV. CONDITIONS OF THE INVESTOR'S OBLIGATIONS AT EACH CLOSING.
+
+      The Investor's obligations to effect each Closing under this Agreement are
+subject to the satisfaction or waiver by the Investor on or before each such
+Closing of each of the following conditions:
+
+                  4.1 SERIES B PREFERRED ARTICLES SUPPLEMENTARY.
+
+            The Series B Preferred Articles Supplementary shall have been filed
+with and accepted for recording by the SDAT.
+
+                  4.2 REPRESENTATIONS AND WARRANTIES.
+
+            The representations and warranties of the Company contained in
+Article II shall be true on and as of the applicable Closing Date with the same
+effect as though such representations and warranties had been made on and as of
+the Closing Date.
+
+                  4.3 PERFORMANCE.
+
+            The Company shall have performed and complied with all agreements,
+obligations and conditions contained in this Agreement that are required to be
+performed or complied with by it on or before each Closing.
+
+                  4.4 OPINION OF COMPANY COUNSEL.
+
+            The Investor shall have received from Andrews Kurth LLP, Hogan &
+Hartson LLP and Richards, Layton & Finger, PA, all counsel for the Company,
+opinions substantially in the form attached hereto as Exhibit B-1 and from
+Andrews Kurth LLP, counsel for the Company, an opinion substantially in the form
+attached hereto as Exhibit B-2, together with a copy of any officer's
+certificate referenced in such opinion.
+
+                                       25
+<PAGE>
+
+                  4.5 WAIVER OF OWNERSHIP LIMITATIONS.
+
+            The Board of Directors (or a duly authorized committee thereof)
+shall have duly adopted a resolution in the form of Exhibit C hereto, thereby
+waiving the application of the Ownership Limit (as used in Article VI of the
+Charter) to the Investor and its affiliates to the extent provided in such
+resolution.
+
+                  4.6 AMENDMENT TO OPERATING PARTNERSHIP AGREEMENT.
+
+            Concurrent with the Initial Closing, the Operating Partnership shall
+issue preferred partnership interests with economic attributes substantially
+identical to those of the Series B Preferred Stock substantially in the form
+attached hereto as Exhibit D (the "Preferred Units"), and the general partner of
+the Operating Partnership shall cause such Preferred Units to be issued to the
+Company or a direct or indirect wholly owned subsidiary thereof.
+
+                  4.7 OFFICER'S CERTIFICATE.
+
+            The Company shall have delivered to the Investor on the Closing Date
+a certificate or certificates, signed by an authorized officer of the Company to
+the effect that the facts required to exist by Sections 4.1, 4.2, 4.3, 4.5, 4.6
+and, to the knowledge of the Company, Section 4.9 exist on such Closing Date.
+
+                  4.8 PROCEEDINGS.
+
+            All proceedings to be taken in connection with the transactions
+contemplated by this Agreement and all documents incidental thereto, shall be
+reasonably satisfactory in form and substance to the Investor; and the Investor
+shall have received copies of all documents which the Investor may reasonably
+request in connection with said transactions and copies of the records of all
+proceedings of the Company in connection therewith in form and substance
+reasonably satisfactory to the Investor.
+
+                  4.9 NO INJUNCTION.
+
+            There shall not be in effect any order, decree or injunction of a
+court or agency of competent jurisdiction which enjoins or prohibits
+consummation of the transactions contemplated hereby and there shall be no
+actual or, to the knowledge of any party hereto, threatened action, suit,
+arbitration, inquiry, proceedings or investigation by or before any governmental
+authority, court or agency of competent jurisdiction, which would reasonably be
+expected to materially impair the ability of the Company or the Investor to
+consummate the transactions contemplated hereby or of the Company to issue the
+Series B Preferred Stock.
+
+                  4.10 TAG ALONG AGREEMENT.
+
+            The Company's Chairman and President shall have entered into a Tag
+Along Agreement substantially in the form of Exhibit E attached hereto.
+
+                                       26
+<PAGE>
+
+                  4.11 REGISTRATION RIGHTS AGREEMENT.
+
+            On or before the Initial Closing Date, the Company and the Investor
+shall have entered into a Registration Rights Agreement substantially in the
+form attached hereto as Exhibit G.
+
+                  4.12 VOTING AGREEMENT.
+
+            On or before the Initial Closing Date, the Company and the parties
+listed therein shall have entered into a Voting Agreement substantially in the
+form attached hereto as Exhibit I.
+
+                  4.13 ACKNOWLEDGMENT LETTER.
+
+            On or before the Initial Closing Date, the Company shall have
+acknowledged and agreed to and delivered the Acknowledgment Letter substantially
+in the form attached hereto as Exhibit K.
+
+V. CONDITIONS OF THE COMPANY'S OBLIGATIONS AT EACH CLOSING.
+
+            The obligations of the Company to effect each Closing under this
+Agreement are subject to the fulfillment on or before each Closing of each of
+the following conditions:
+
+                  5.1 REPRESENTATIONS AND WARRANTIES.
+
+            The representations and warranties of the Investor contained in
+Article III shall be true on and as of each Closing Date with the same effect as
+though such representations and warranties had been made on and as of each
+Closing Date.
+
+                  5.2 PERFORMANCE.
+
+            The Investor shall have performed and complied with all agreements,
+obligations and conditions contained in this Agreement that are required to be
+performed or complied with by it on or before each Closing.
+
+                  5.3 NO INJUNCTION.
+
+            There shall not be in effect any order, decree or injunction of a
+court or agency of competent jurisdiction which enjoins or prohibits
+consummation of the transactions contemplated hereby and there shall be no
+actual or, to the knowledge of any party hereto, threatened action, suit,
+arbitration, inquiry, proceedings or investigation by or before any governmental
+authority, court or agency of competent jurisdiction, which would reasonably be
+expected to materially impair the ability of the Company or the Investor to
+consummate the transactions contemplated hereby or of the Company to issue the
+Series B Preferred Stock.
+
+                                       27
+<PAGE>
+
+VI. COVENANTS.
+
+                  6.1 NO GENERAL SOLICITATION; INTEGRATION.
+
+            Prior to the last Closing hereunder, none of the Company, the
+Operating Partnership or any affiliate of either of them will solicit any offer
+to buy or offer to sell the Series B Preferred Stock or the Common Stock
+deliverable upon conversion thereof by means of any form of general solicitation
+or general advertising (as those terms are used in Regulation D under the
+Securities Act) or in any manner involving a public offering within the meaning
+of Section 4(2) of the Securities Act. None of the Company, the Operating
+Partnership or any affiliate of either of them will sell, offer for sale or
+solicit offers to buy or otherwise negotiate in respect of any security (as
+defined in the Securities Act) which would be integrated with the sale of the
+Series B Preferred Stock or the Common Stock deliverable upon conversion thereof
+in a manner which would require registration under the Securities Act of the
+Series B Preferred Stock or the Common Stock deliverable upon conversion
+thereof.
+
+                  6.2 REPORTS.
+
+            After the date of this Agreement, the Company shall timely file all
+documents required to be filed with the Commission pursuant to Section 13(a),
+13(c), 14 or 15(d) of the Exchange Act or otherwise required to be filed with or
+provided to the Commission, the National Association of Securities Dealers, Inc.
+or the New York Stock Exchange or any other exchange on which the Company's
+securities are listed, and so long as any Series B Preferred Stock remain issued
+and outstanding and owned by the Investor, shall provide to the Investor as
+promptly as practicable copies of such documents, other than any such documents
+which are available through EDGAR, including without limitation, all financial
+statements of the Company filed with the Commission, and all supplemental
+information packages provided to securities analysts or investors.
+
+                  6.3 MAINTENANCE OF REIT STATUS.
+
+            Until the first day of the first calendar year in which no Series B
+Preferred Stock remain issued and outstanding, the Company shall continue to be
+taxed as a real estate investment trust pursuant to Sections 856 through 860 of
+the Code.
+
+                  6.4 FINANCIAL COVENANTS
+
+            So long as any Series B Preferred Stock remains issued and
+outstanding, none of the Company, the Operating Partnership nor any other direct
+or indirect subsidiary of the Company may directly or indirectly issue any
+Preferred Security, incur any additional Indebtedness or purchase or lease any
+interest in any real property (other than any additions, repairs or replacements
+to any real property in the ordinary course of business and consistent with past
+practice but in no event in excess of five percent of the undepreciated book
+value of any such real property prior to any such additions, repairs or
+replacements), if immediately following such issuance, incurrence, purchase or
+lease and after giving effect to such issuance, incurrence, purchase or lease
+and the application of the net proceeds therefrom and after giving effect to any
+and all other issuances, incurrences, purchases or leases that occurred during
+the period from the last day of the immediately preceding fiscal quarter to and
+including the date of
+
+                                       28
+<PAGE>
+
+the calculation and the application of the net proceeds therefrom (i) the ratio
+of Proportionately Consolidated Adjusted EBITDA to Proportionately Consolidated
+Fixed Charges for the four fiscal quarters immediately preceding such issuance,
+incurrence, purchase or lease (assuming all issuances, incurrences, purchases or
+leases taken into account in the calculation had occurred at the beginning of
+the applicable four fiscal quarters) would be less than 1.25x to 1 and (ii) the
+ratio of Proportionately Consolidated Total Debt to Proportionately Consolidated
+Total Undepreciated Real Estate Assets would exceed 75.0%. Any breach of any
+covenant set forth in this Section 6.4 shall be deemed to continue until cured,
+and shall be deemed to be cured from and after the earliest date following such
+breach on which the Company could incur $1.00 of additional indebtedness without
+causing an additional breach of such covenants, as certified in writing to the
+Investor by the Chief Financial Officer of the Company. For the avoidance of
+doubt, attached hereto as Exhibit J is an example of the calculation of the
+financial covenants contained in this Section 6.4 calculated as of September 30,
+2004
+
+            For purposes of this Section 6.4, the following definitions
+shall apply:
+
+            (a)   "Adjusted EBITDA" shall mean with respect to any person for
+                  any period, EBITDA for such person for such period minus a
+                  reserve for capital expenditures in the amount of 4% of gross
+                  revenues of such person for such period.
+
+            (b)   "Capital Lease Obligations" shall mean with respect to any
+                  person as of any date of determination thereof the obligations
+                  of such person to pay rent or other amounts under any lease of
+                  (or other arrangement conveying the right to use) real or
+                  personal property, or a combination thereof, which obligations
+                  are required to be classified and accounted for as capital
+                  leases on a balance sheet of such person under GAAP and the
+                  amount of such obligations shall be the capitalized amount
+                  thereof determined in accordance with GAAP.
+
+            (c)   "EBITDA" shall mean with respect to any person for any period
+                  the sum of the amount of the following items recognized by
+                  such person for such period, without duplication, as reflected
+                  in such person's consolidated financial statements prepared in
+                  accordance with GAAP:
+
+                  (i)   Net income before taking into account minority
+                        interests, extraordinary items and gains or losses from
+                        debt restructurings and sales of property, if any;
+
+                  (ii)  Interest expense;
+
+                  (iii) Rent or other payments under operating leases with a
+                        remaining term exceeding ten years;
+
+                  (iv)  Amortization of deferred financing costs, stock-based
+                        compensation and goodwill, if any;
+
+                                       29
+<PAGE>
+
+                  (v)   Federal state and local income tax expense (or provision
+                        for income taxes); and
+
+                  (vi)  Depreciation of real property.
+
+            (d)   "Fixed Charges" shall mean with respect to any person for any
+                  period the sum of the amount of the following items recognized
+                  by such person for such period, without duplication, as
+                  reflected in such person's consolidated financial statements
+                  prepared in accordance with GAAP (provided that the amounts
+                  described in clauses (vi) and (ix) below shall be included
+                  whether or not they are reflected in such person's financial
+                  statements prepared in accordance with GAAP):
+
+                  (i)   Interest expense (including without limitation
+                        amortization of debt discounts);
+
+                  (ii)  Interest capitalized in such period;
+
+                  (iii) The interest component of any rent or other payments
+                        under Capital Lease Obligations;
+
+                  (iv)  Rent or other payments under operating leases with a
+                        remaining term exceeding ten years;
+
+                  (v)   Any sums payable on account of any "net payments" made
+                        to a counterparty under any agreement pertaining to any
+                        interest rate swap, cap or other interest rate
+                        protection product;
+
+                  (vi)  Interest expense (including without limitation
+                        amortization of debt discounts) pertaining to the
+                        Indebtedness of any other entity which has been
+                        guaranteed by such person whether or not such interest
+                        expense is reflected in such person's financial
+                        statements prepared in accordance with GAAP;
+
+                  (vii) Any regularly-scheduled amortization of indebtedness,
+                        including without limitation the amortization component
+                        of rent or other payments under Capital Lease
+                        Obligations (excluding any "balloon" payment at the
+                        maturity of any debt instrument);
+
+                  (viii) Any Preferred Security distributions, in each case,
+                        accrued pursuant to the terms of such securities with
+                        respect to such period, whether or not actually earned,
+                        declared or paid (and whether or not required to be
+                        accrued in accordance with GAAP), except distributions
+                        on the Series B Preferred Stock.
+
+            (e)   "GAAP" shall mean United States generally accepted accounting
+                  principles.
+
+                                       30
+<PAGE>
+
+            (f)   "Indebtedness" shall mean, with respect to any person, as of
+                  the date of determination thereof, debt as reflected in such
+                  person's consolidated financial statements prepared in
+                  accordance with GAAP plus the sum of the following with
+                  respect to such person, as of such date of determination,
+                  without duplication:
+
+                  (i)   All obligations for borrowed money or with respect to
+                        deposits or advances of any kind;
+
+                  (ii)  All obligations evidenced by bonds, debentures, notes or
+                        similar instruments;
+
+                  (iii) All obligations upon which interest charges are
+                        customarily paid;
+
+                  (iv)  All obligations under conditional sale or other title
+                        retention agreements relating to property acquired;
+
+                  (v)   All obligations in respect of the deferred purchase
+                        price of property or services (excluding accounts
+                        payable incurred in the ordinary course of business
+                        which are not more than sixty (60) days past due);
+
+                  (vi)  All Indebtedness of others secured by (or for which the
+                        holder of such Indebtedness has an existing right,
+                        contingent or otherwise to be secured by) any Lien on
+                        property owned or acquired by such person
+
+                  (vii) All Indebtedness of others guaranteed by such person;
+
+                  (viii) All Capital Lease Obligations and obligations in
+                        respect of synthetic leases
+
+                  (ix)  All obligations, contingent or otherwise, as an account
+                        party in respect of letters of credit and letters of
+                        guaranty;
+
+                  (x)   All obligations, contingent or otherwise, in respect of
+                        bankers' acceptances;
+
+                  (xi)  All obligations in respect of any Swap Agreements;
+                        provided, that the amount of Indebtedness under a Swap
+                        Agreement shall be determined based upon the Swap
+                        Termination Value of such Swap Agreement; and
+
+                  (xii) All senior participations or similar interests held by
+                        third parties in debt instruments held by such person.
+
+            (g)   "Lien" shall mean, with respect to any asset, as of any date
+                  of determination thereof, (a) any mortgage, deed of trust,
+                  lien, pledge,
+
+                                       31
+<PAGE>
+
+                  hypothecation, encumbrance, charge or security interest in, on
+                  or of such asset, (b) the interest of a vendor or a lessor
+                  under any conditional sale agreement, capital lease or title
+                  retention agreement (or any financing lease having
+                  substantially the same economic effect as any of the
+                  foregoing) relating to such asset and (c) in the case of
+                  securities, any purchase option, call or similar right of a
+                  third party with respect to such securities, but,
+                  notwithstanding the foregoing, the definition of Lien shall
+                  not include liens for Federal, state, local and foreign income
+                  and franchise taxes not yet due and payable or that are being
+                  contested in good faith by appropriate proceedings or any
+                  mechanics', carriers', workmen's, repairmen's or other similar
+                  liens arising or incurred in the ordinary course of business.
+
+            (h)   "Net Indebtedness" shall mean, for any person, Indebtedness of
+                  such person less such person's unrestricted cash and
+                  unrestricted cash equivalents.
+
+            (i)   "Preferred Security" shall mean, as of any date of
+                  determination thereof, with respect to the Company any
+                  security issued and outstanding which is not Series B
+                  Preferred Stock or Fully Junior Stock (as defined in the
+                  Series B Preferred Articles Supplementary), with respect to
+                  the Operating Partnership any security of the Operating
+                  Partnership issued and outstanding which is not a Fully Junior
+                  Unit (as defined in the Partnership Agreement), and with
+                  respect to any other subsidiary of the Company any security
+                  issued and outstanding which is senior in any way to the
+                  Operating Partnership's or the Company's direct or indirect
+                  interest in such subsidiary (including without limitation by
+                  having preference or priority in either (i) the payment of
+                  dividends or other distributions or (ii) the distribution of
+                  assets on any liquidation, dissolution or winding up of the
+                  subsidiary).
+
+            (j)   "Proportionately Consolidated Adjusted EBITDA" for any period
+                  shall mean the sum, without duplication, of (i) Adjusted
+                  EBITDA of the Company minus (ii) the Company's equity in net
+                  income of Unconsolidated Affiliates as reflected on the
+                  Company's consolidated financial statements plus (iii) the
+                  Company's aggregate proportionate share (based on the
+                  Company's ownership interest in each Unconsolidated Affiliate)
+                  of the Adjusted EBITDA of all Unconsolidated Affiliates.
+
+            (k)   "Proportionately Consolidated Fixed Charges" for any period
+                  shall mean the sum, without duplication, of (i) the Fixed
+                  Charges of the Company plus (ii) the Company's aggregate
+                  proportionate share (based on the Company's ownership interest
+                  in each Unconsolidated Affiliate) of the Fixed Charges of all
+                  Unconsolidated Affiliates.
+
+            (l)   "Proportionately Consolidated Total Debt" shall mean, as of
+                  any date of determination thereof, the sum, without
+                  duplication, of (i) the Net
+
+                                       32
+<PAGE>
+
+                  Indebtedness of the Company plus (ii) the Company's aggregate
+                  proportionate share (based on the Company's ownership interest
+                  in each Unconsolidated Affiliate) of the Net Indebtedness of
+                  all Unconsolidated Affiliates plus (iii) the aggregate
+                  liquidation preference (or if there is no such stated
+                  liquidation preference, the amount the holder of such
+                  Preferred Security would receive upon the liquidation,
+                  dissolution or winding up of the issuer of such security) of
+                  all outstanding Preferred Securities of the Company, the
+                  Operating Partnership and any other consolidated subsidiary
+                  plus (iv) the Company's aggregate proportionate share (based
+                  on the Company's ownership interest in each Unconsolidated
+                  Affiliate) of the aggregate liquidation preference (or if
+                  there is no such stated liquidation preference, the amount the
+                  holder of such Preferred Security would receive upon the
+                  liquidation of the issuer of such security) of all outstanding
+                  Preferred Securities of all Unconsolidated Affiliates.
+
+            (m)   "Proportionately Consolidated Undepreciated Real Estate
+                  Assets" shall mean, as of any date of determination thereof,
+                  the sum without limitation of (i) the Undepreciated Real
+                  Estate Assets of the Company plus (ii) the Company's aggregate
+                  proportionate share (based on the Company's ownership interest
+                  in each Unconsolidated Affiliate) of the Undepreciated Real
+                  Estate Assets of all Unconsolidated Affiliates.
+
+            (n)   "Swap Agreement" shall mean any agreement, with respect to any
+                  swap, forward, future or derivative transaction or option or
+                  similar agreement involving, or settled by reference to, one
+                  or more rates, currencies, commodities, equity or debt
+                  instruments or securities, or economic, financial or pricing
+                  indices or measures of economic, financial or pricing risk or
+                  value or any similar transaction or any combination of these
+                  transactions; provided that no phantom stock or similar plan
+                  providing for payments only on account of services provided by
+                  current or former directors, officers, employees or
+                  consultants of the Company or any of its subsidiaries shall be
+                  a Swap Agreement.
+
+            (o)   "Swap Termination Value" shall mean, with respect to any one
+                  or more Swap Agreements, after taking into account the effect
+                  of any legally enforceable netting agreement relating to such
+                  Swap Agreements, (i) for any date on or after the date such
+                  Swap Agreements have been closed out and termination values
+                  determined in accordance therewith, such termination values,
+                  and (ii) for any date prior to the date referenced in clause
+                  (i), the amounts determined as the mark-to-market values for
+                  such Swap Agreements, as determined based upon one or more
+                  mid-market or other readily available quotations provided by
+                  any recognized dealer in such Swap Agreements.
+
+            (p)   "Unconsolidated Affiliate" shall mean any entity in which the
+                  Company has an ownership interest and whose financial results
+                  are not consolidated with those of the Company.
+
+                                       33
+<PAGE>
+
+            (q)   "Undepreciated Real Estate Assets" shall mean, with respect to
+                  any person, as of any date of determination thereof, the sum,
+                  without duplication, of (i) the greater of (x) undepreciated
+                  book value of all real estate assets (including construction
+                  in process, if any) as reflected in such person's consolidated
+                  financial statements prepared in accordance with GAAP and (y)
+                  the purchase price such person paid for such real estate
+                  assets and (ii) any loans or other debt securities owned
+                  directly or indirectly by such person valued at the lower of
+                  the amount reflected on such person's balance sheet in
+                  accordance with GAAP and the principal balance of such loans
+                  or other debt securities
+
+                  6.5 STOCKHOLDER APPROVAL
+
+            The Company shall provide each of its stockholders entitled to vote
+at its next special or annual meeting of stockholders with a proxy statement
+soliciting each such stockholder's affirmative vote at such stockholder meeting
+for approval of the Company's issuance of the Series B-1 Preferred Stock and
+Common Stock deliverable upon conversion thereof in excess of the Principal
+Market Limit (as defined in the Series B Preferred Articles Supplementary) as
+described in the Transaction Documents in accordance with applicable law and the
+rules and regulations of the Principal Market on which the Company's Common
+Stock is then listed, and the Company shall use its best efforts to solicit its
+stockholders' approval of such issuance of the Series B-1 Preferred Stock and
+the Common Stock deliverable upon conversion thereof and to cause the Board of
+Directors of the Company to recommend to the stockholders that they approve such
+proposal. In the event such stockholder approval is not obtained at the first
+special or annual meeting after the date hereof, the Company shall seek such
+approval at each subsequent special or annual meeting of stockholders thereafter
+until so approved.
+
+            If such stockholder approval is not obtained at the first special or
+annual meeting of stockholders, until such approval is obtained, any holder of
+10% or more of Series B Preferred Stock may at any time, and from time to time,
+request the Company to solicit interpretive advice from the Principal Market on
+which the Company's Common Stock is then listed as to whether all or any portion
+of the Series B-2 Preferred Stock may be converted to Series B-1 Preferred Stock
+without stockholder approval in accordance with the rules and regulations of the
+Principal Market. The Company shall solicit such interpretive advice pursuant to
+such request within ten days and, if the Principal Market provides a favorable
+response to the effect that conversion may occur without violating the rules and
+regulations of the Principal Market, then the Board of Directors shall determine
+that stockholder approval is not required and the Series B-2 Preferred Stock
+shall convert in accordance with the terms thereof.
+
+                  6.6 NO PUBLIC DISCLOSURE.
+
+            Except as set forth in the form of press release attached hereto as
+Exhibit F, neither party to this Agreement, nor any affiliate of such party,
+will make any public disclosure (including any filing with the Commission)
+concerning the transactions contemplated by this Agreement unless each of the
+parties hereto has been provided with a reasonable time to review such
+disclosure. Unless in the reasonable opinion of counsel to the party proposing
+to make such disclosure (or whose affiliate proposes to make such disclosure) it
+is determined that such
+
+                                       34
+<PAGE>
+
+disclosure is required by applicable law or the rules and regulations of any
+regulatory or self-regulatory agency, such party will not make any such public
+disclosure without the other party's prior written consent, which shall not be
+unreasonably withheld.
+
+                  6.7 PARTICIPATION RIGHTS.
+
+            (a) Until the later of (i) the 31st day after the date on which the
+Investor has purchased the full 993,049 shares of Series B Preferred Stock which
+may be purchased pursuant to Section 1.2(c) and (ii) the earlier of (x) May 1,
+2005 and (y) the 31st day after the date on which the Investor has purchased the
+full 5,461,767 shares of Series B Preferred Stock which may be purchased
+pursuant to Section 1.2(d) or (e), if, at any time from time-to-time, the
+Company or any Subsidiary directly or indirectly grants, issues, sells, or
+agrees to grant issue or sell any equity security of the Company or any security
+that is convertible into, or exchangeable for, or has a value determined on the
+basis of the value of, equity securities of the Company for consideration
+consisting solely of cash (provided, however, that any non-cash consideration,
+the inclusion of which has no economic effect and is intended to evade the
+effect of this section, shall be treated as cash consideration hereunder) (the
+"Participation Securities"), then the Investor shall be entitled to purchase,
+upon the same terms and conditions as the other purchasers of such Participation
+Securities, an amount of Participation Securities as the Investor shall elect
+(but not more than 20% of the aggregate amount of such Participation Securities
+issued to all other purchasers at such time), at a price equal to the price paid
+by such other purchasers, minus the amount of any underwriting discounts,
+commissions placement fees or similar discounts, commissions or fees paid by the
+Company.
+
+            (b) In connection with any issuance of Participation Securities, the
+Company shall either, (x) at least 10 Business Days prior to any such proposed
+issuance or sale of Participation Securities, mail by recognized overnight
+courier a notice to the Investor stating (i) that a proposed sale will occur and
+that the Investor has the right to participate pursuant to the provisions in
+subsection (a) above, (ii) the date of the proposed closing of the sale, (iii)
+the amount of Participation Securities that the Investor has the right to
+purchase, and (iv) the instructions determined by the Company, consistent with
+this Section 6.7, that the Investor must follow in order to purchase the
+Participation Securities on the same terms and conditions as the other
+investors, including the anticipated closing date for such issuance, or (y)
+within 2 Business Days after an issuance or sale of Participation Securities,
+mail by recognized overnight courier a notice to the Investor stating (i) that a
+sale has occurred and that the Investor has the right to purchase securities
+equivalent to the Participation Securities ("Equivalent Securities") pursuant to
+the provisions in subsection (a) above, (ii) the date of the closing of the
+sale, (iii) the amount of Equivalent Securities that the Investor has the right
+to purchase, and (iv) the instructions determined by the Company, consistent
+with this Section 6.7, that the Investor must follow in order to purchase the
+Equivalent Securities on the same terms and conditions as the other investors.
+
+            (c) Within 5 Business Days after receiving the notice contemplated
+by clause (x) of subsection (b) above, the Investor must send a notice to the
+Company stating the amount of Participation Securities it elects to purchase. If
+the Investor fails to so notify the Company within such 5 Business Day period,
+the Investor shall have waived its right to purchase such Participation
+Securities under this Section 6.7.
+
+                                       35
+<PAGE>
+
+            (d) Within 10 Business Days after receiving the notice contemplated
+by clause (y) of subsection (b) above, the Investor must send a notice to the
+Company stating the amount of Equivalent Securities it elects to purchase. If
+the Investor fails to so notify the Company within such 10 Business Day period,
+the Investor shall have waived its right to purchase such Equivalent Securities
+under this Section 6.7.
+
+            (e) The Investor shall not sell or otherwise transfer any securities
+acquired pursuant to this Section 6.7 for a period of 180 days following the
+acquisition of such securities; provided, however, that the Investor may (i)
+sell or otherwise transfer such securities to a controlled affiliate (which
+shall agree to be bound by this restriction on transfer as a condition to such
+transfer) or (ii) pledge such securities as collateral for a bona fide credit
+arrangement with a commercial bank or other institutional lender, and in the
+event that such lender takes possession of the securities pursuant to a
+foreclosure or other default remedy, such lender may sell or otherwise transfer
+such securities without restriction (subject to any applicable restrictions
+imposed by Federal or State securities laws).
+
+            (f) Prior to the issuance of Equivalent Securities, the Company and
+the Investor shall enter into a registration rights agreement with respect to
+such Equivalent Securities which is substantially identical to the Registration
+Rights Agreement in the form of Exhibit G attached hereto.
+
+                  6.8 ANNUAL OPINION OF COMPANY COUNSEL.
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, the Company shall, no later than March 31 of each year, cause its
+independent public accountants or a nationally recognized law firm to provide
+the Investor an opinion substantially in the form attached hereto as Exhibit
+B-2, together with a copy of any officer's certificate referenced in such
+opinion, with such modifications to such opinion as necessary to reflect
+developments subsequent to the date hereof so long as such developments do not
+result in a change in the basic legal conclusions expressed therein.
+
+                  6.9 INVESTMENT COMPANY.
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, the Company shall use its best efforts not to become an "investment
+company", as defined in the Investment Company Act.
+
+                  6.10 LISTING OF COMMON STOCK.
+
+            The Company covenants and agrees that it shall cause the Common
+Stock deliverable upon conversion of the Series B Preferred Stock to be listed
+on each securities exchange or quoted on each interdealer quotation system, if
+any, on which similar securities issued by the Company are then listed or
+quoted, no later than the date of such conversion.
+
+                  6.11 OPERATING PARTNERSHIP SECURITIES.
+
+            The Company shall contribute the proceeds it receives at each
+Closing to the Operating Partnership and shall cause the Operating Partnership
+to issue Preferred Units to the
+
+                                       36
+<PAGE>
+
+Company or a direct or indirect wholly owned subsidiary thereof and the Company
+shall cause the Operating Partnership to keep such Preferred Units outstanding
+for so long as the Series B Preferred Stock are outstanding. So long as any of
+the Series B Preferred Stock remains issued and outstanding, the Operating
+Partnership shall not amend the limited partnership agreement for the Operating
+Partnership in any way that materially and adversely affects the Preferred Units
+or the Series B Preferred Stock, including without limitation taking any action
+which, if taken by the Company, would require the approval of the holders of the
+Series B Preferred Stock under Section 11(c)(ii) of the Series B-1 Preferred
+Articles Supplementary or Section 11(b)(ii) of the Series B-2 Preferred Articles
+Supplementary.
+
+                  6.12 PUBLICLY TRADED PARTNERSHIP
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, the Company shall use its best efforts not to become a "publicly
+traded partnership", as defined in the Code.
+
+                  6.13 PROHIBITION ON ISSUANCE OF SERIES B PREFERRED STOCK
+
+            The Company shall not issue any Series B Preferred Stock to any
+person other than the Investor or any person approved in writing by the
+Investor, in its sole discretion, and then only in compliance with the terms of
+the Series B Preferred Articles Supplementary and the Company's Charter.
+
+                  6.14 DIRECTOR INDEPENDENCE
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, the Company shall comply with the rules of the New York Stock
+Exchange in effect as of the date of this Agreement regarding director
+independence (or the then current rules, provided that such rules are no less
+restrictive than the rules in place as of the date of this Agreement).
+
+                  6.15 RELATED PARTY TRANSACTIONS
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, the Company shall not enter into any transaction with any related
+party unless (i) if such transaction is covered by the provisions of the Mutual
+Exclusivity Agreement dated as of August 29, 2003 by and between the Operating
+Partnership, the Company, Remington Hotel Corporation, Remington Lodging &
+Hospitality, L.P., Archie Bennett, Jr. and Montgomery J. Bennett, it is approved
+as contemplated therein (provided, however, that if the terms of such agreement
+are amended or waived with respect to such approval, the most restrictive
+provisions of such agreement, before or after any of such amendments or waivers,
+shall apply for purposes hereof) or (ii) if not covered under such agreement, by
+at least 75% of all of the Company's disinterested independent directors.
+
+                  6.16 COMPLIANCE CERTIFICATE
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, not later than the filing deadline of each of the Company's
+Quarterly Reports on Form 10-Q and Annual Reports on Form 10-K (or any
+substitute forms as may be adopted by the Commission), the Company shall prepare
+and deliver to the Investor a certificate, substantially in the form of Exhibit
+H attached hereto, executed by a senior executive of the Company certifying that
+the
+
+                                       37
+<PAGE>
+
+Company is in compliance with all covenants contained herein and in the Series B
+Preferred Articles Supplementary and setting forth a detailed calculation with
+respect to the Company's compliance with the financial covenants contained
+herein and therein.
+
+                  6.17 INTERNAL ACCOUNTING CONTROLS
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, the Company and each of the Subsidiaries shall maintain a system of
+internal accounting controls sufficient to provide reasonable assurance that (i)
+transactions are executed in accordance with management's general or specific
+authorizations; (ii) transactions are recorded as necessary to permit
+preparation of financial statements in conformity with generally accepted
+accounting principles as applied in the United States and to maintain asset
+accountability; (iii) access to assets is permitted only in accordance with
+management's general or specific authorization; and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable
+intervals and appropriate action is taken with respect to any differences.
+
+                  6.18 TAG ALONG AGREEMENT
+
+            The Company shall cause its Chairman and President to entered into a
+Tag Along Agreement substantially in the form of Exhibit E attached hereto.
+
+                  6.19 MERGER; CONSOLIDATION
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, prior to the consummation of any merger or consolidation of the
+Company and another entity in which the Company is not the surviving corporation
+and in which it is proposed to issue to the holders of the Series B Preferred
+Stock stock of the surviving corporation with substantially similar rights,
+preferences, powers and other terms in the surviving corporation as the Series B
+Preferred Stock have with respect to the Company, except for changes that do not
+materially adversely affect the holders of the Series B Preferred Stock in a
+transaction as to which the holders are not entitled to vote pursuant to Section
+11(d)(iii) of the Series B-1 Preferred Articles Supplementary or Section
+11(b)(iii) of the Series B-2 Preferred Articles Supplementary ("Substantially
+Similar Securities"), the Company shall provide a certificate to the Investor
+which shall certify that the proposed shares are Substantially Similar
+Securities and set forth in detail the terms of such shares, including without
+limitation, copies of applicable proposed articles supplementary, certificates
+of designation or amendment and other documentation in order to provide a basis
+for assessing such certification. On or before the 10th Business Day after the
+Investor's receipt of such certificate and documents, the Investor shall deliver
+a written notice to the Company if it determines, in its reasonable judgment,
+that such shares are not Substantially Similar Securities. The Company shall not
+consummate any such merger or consolidation for which the Company has received a
+notice from the Investor pursuant to this Section.
+
+                  6.20 TENDER OFFER
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, the Company shall not approve, or make a recommendation to its
+shareholders in favor of, any tender offer for the Common Stock unless, as a
+part of such tender offer, the Investor is
+
+                                       38
+<PAGE>
+
+permitted to directly tender its Series B Preferred Stock (including the Series
+B-2 Preferred Stock as if such Series B-2 Preferred Stock had been converted
+into Series B-1 Preferred Stock even if the Series B-2 Preferred Stock is then
+not convertible in accordance with the terms of the Series B-2 Preferred
+Articles Supplementary) at the applicable Conversion Rate (as defined in the
+Series B-1 Preferred Articles Supplementary) without first converting such
+Series B Preferred Stock into Common Stock.
+
+                  6.21 RESTRICTIONS ON PAYMENT OF DIVIDENDS
+
+            So long as any of the Series B Preferred Stock remains issued and
+outstanding, the Company shall not enter into any agreement or other arrangement
+which restricts or limits or would reasonably be likely to result in a
+restriction or limitation on the payment of dividends on the Series B Preferred
+Stock.
+
+                  6.22 OPERATING PARTNERSHIP DISTRIBUTIONS
+
+            At any time that the Company would be prohibited by the Series B
+Preferred Articles Supplementary from paying dividends on any securities which
+are junior in priority to the Series B Preferred Stock, the Operating
+Partnership shall not declare or pay or set apart for payment or make any
+distribution on any of its securities which are junior in priority to the Units.
+
+                  6.23 REGISTRATION RIGHTS AGREEMENT
+
+            The Company and the Investor shall enter into a Registration Rights
+Agreement substantially in the form of Exhibit G attached hereto.
+
+                  6.24 CORPORATE FINANCING RULE
+
+            The Investor shall supply such information as the Company may
+reasonably request from time to time to facilitate the Company's compliance with
+the National Association of Securities Dealers Inc.'s Corporate Financing Rule.
+
+                  6.25 VOTING AGREEMENT
+
+            The Company shall cause the parties listed therein to enter into a
+Voting Agreement substantially in the form of Exhibit I attached hereto.
+
+                  6.26 FGSB PORTFOLIO AGREEMENT
+
+            The Company shall deliver to the Investor a complete copy of the
+FGSB Portfolio Agreement together with all exhibits and schedules as soon as
+practicable after such agreement is executed. As soon as practicable after the
+closing under the FGSB Portfolio Agreement, the Company shall deliver to the
+Investor a full set of closing documents therefor.
+
+                  6.27 ACKNOWLEDGMENT LETTER
+
+            The Company shall acknowledge and agree to and deliver the
+Acknowledgment Letter substantially in the form of Exhibit K attached hereto.
+
+                                       39
+<PAGE>
+
+VII. MISCELLANEOUS
+
+                  7.1 SURVIVAL OF WARRANTIES AND COVENANTS.
+
+            The warranties and representations of the Company and the Investor
+contained in or made pursuant to Articles II and III of this Agreement shall
+survive the last Closing hereunder through and until the expiration of the
+statute of limitations applicable to each such warranty or representation. The
+covenants contained in or made pursuant to Article VI of this Agreement shall
+survive the last Closing hereunder indefinitely, except for any provisions which
+expire by their terms. All other representations and warranties contained in or
+made in this Agreement shall survive the last Closing hereunder for a period of
+three years. The representations and warranties contained in this Agreement
+shall in no way be affected by any investigation of the subject matter thereof
+made by or on behalf of the Investor or the Company.
+
+                  7.2 SUCCESSORS AND ASSIGNS.
+
+            Except as otherwise provided herein, the terms and conditions of
+this Agreement shall inure to the benefit of and be binding upon the respective
+successors and assigns of the parties hereto. Except as expressly set forth
+herein, nothing in this Agreement is intended to confer upon any party other
+than the parties hereto or their respective successors and assigns any rights,
+remedies, obligations, or liabilities under or by reason of this Agreement.
+Notwithstanding any assignment hereunder, the each party hereto shall remain
+liable for its obligations hereunder.
+
+                  7.3 GOVERNING LAW.
+
+            This Agreement shall be governed by and construed in accordance with
+the laws of the State of Maryland, without giving effect to the conflict of law
+provisions thereof. Each party hereby irrevocably submits to the non-exclusive
+jurisdiction of the state and federal courts sitting in the city of Chicago for
+the adjudication of any dispute hereunder or in connection herewith or with any
+transaction contemplated hereby or discussed herein, and hereby irrevocably
+waives, and agrees not to assert in any suit, action or proceeding, any claim
+that it is not personally subject to the jurisdiction of any such court, that
+such suit, action or proceeding is brought in an inconvenient forum or that the
+venue of such suit, action or proceeding is improper. Each party hereby
+irrevocably waives personal service of process and consents to process being
+served in any such suit, action or proceeding by mailing a copy thereof to such
+party at the address for such notices to it under this Agreement and agrees that
+such service shall constitute good and sufficient service of process and notice
+thereof. Nothing contained herein shall be deemed to limit in any way any right
+to serve process in any manner permitted by law. EACH PARTY HEREBY IRREVOCABLY
+WAIVES ANY RIGHT IT MAY HAVE, AND AGREES NOT TO REQUEST, A JURY TRIAL FOR THE
+ADJUDICATION OF ANY DISPUTE HEREUNDER OR IN CONNECTION WITH OR ARISING OUT OF
+THIS AGREEMENT OR ANY TRANSACTION CONTEMPLATED HEREBY.
+
+                  7.4 REMEDIES
+
+            Except as expressly provided to the contrary in this Agreement, the
+rights, obligations and remedies created by this Agreement are cumulative and in
+addition to any other
+
+                                       40
+<PAGE>
+
+rights, obligations, or remedies otherwise available under applicable law or in
+equity, including without limitation, specific performance and injunctive
+relief. Except as expressly provided herein, nothing herein shall be considered
+an election of remedies.
+
+                  7.5 TIME OF ESSENCE.
+
+            With regard to all dates and time periods set forth or referred to
+in this Agreement, time is of the essence.
+
+                  7.6 COUNTERPARTS.
+
+            This Agreement may be executed in two or more counterparts, each of
+which shall be deemed an original, but all of which together shall constitute
+one and the same instrument.
+
+                  7.7 TITLES AND SUBTITLES.
+
+            The title and subtitles used in this Agreement are used for
+convenience only and are not to be considered in construing or interpreting this
+Agreement.
+
+                  7.8 NOTICES.
+
+            Unless otherwise provided, any notice required or permitted under
+this Agreement shall be given in writing and shall be deemed effectively given
+(a) upon personal delivery to the party to be notified, (b) on the fifth
+Business Day after deposit with the United States Post Office, by registered or
+certified mail, postage prepaid, (c) on the next Business Day after dispatch via
+the overnight services of a nationally recognized overnight courier or (d) upon
+confirmation of transmission by facsimile, all addressed to the party to be
+notified at the address indicated for such party below, or at such other address
+as such party may designate by ten (10) days' advance written notice to the
+other parties. Notices should be provided in accordance with this Section at the
+following addresses:
+
+If to the Investor, to:
+
+      Security Capital Preferred Growth Incorporated
+      1 Bank One Plaza
+      10 S. Dearborn St., Suite 1400
+      Chicago, Illinois 60603
+      Attention:  David E. Rosenbaum
+                  Facsimile  (312) 385-8333
+
+      and
+
+      Security Capital Preferred Growth Incorporated
+      1 Bank One Plaza
+      10 S. Dearborn St., Suite 1400
+      Chicago, Illinois 60603
+
+                                       41
+<PAGE>
+
+      Attention:  Corporate Secretary
+                  Facsimile  (312) 385-8333
+
+with a copy to:
+
+      Edward J. Schneidman, Esq.
+      Mayer, Brown, Rowe & Maw LLP
+      190 South LaSalle
+      Chicago, IL  60603
+      Facsimile:  (312) 701-7711
+
+If to the Company, to:
+
+      Ashford Hospitality Trust, Inc.
+      14185 Dallas Parkway, Suite 1100
+      Dallas, TX 75254
+      Attention:  David A. Brooks
+      Facsimile:  (972) 490-9605
+
+      with a copy to:
+
+      David Barbour, Esq.
+      Andrews Kurth LLP
+      1717 Main Street, Suite 3700
+      Dallas, TX 75201
+      Facsimile:  (214) 659-4401
+
+                  7.9 FINDER'S FEES.
+
+            Each party represents that it neither is nor will be obligated for
+any finders' fee or commission in connection with this transaction. The Investor
+agrees to indemnify and hold harmless the Company from any liability for any
+commission or compensation in the nature of a finders' fee (and the costs and
+expenses of defending against such liability or asserted liability) for which
+the Investor or any of its officers, employees or representatives is
+responsible. The Company agrees to indemnify and hold harmless the Investor from
+any liability for any commission or compensation in the nature of a finders' fee
+(and the costs and expenses of defending against such liability or asserted
+liability) for which the Company or any of its officers, employees or
+representatives is responsible.
+
+                  7.10 EXPENSES.
+
+            Each party shall pay all costs and expenses that it incurs with
+respect to the negotiation, execution, delivery and performance of this
+Agreement; provided, however, that the Company shall reimburse the Investor for
+its internal and external costs, fees and expenses (including, without
+limitation, legal and accounting costs, fees and expenses) in connection with
+the Investor's assessment, due diligence review, structuring, negotiation,
+documentation and
+
+                                       42
+<PAGE>
+
+consummation of the transactions contemplated hereby, subject to the limitations
+provided herein. Because of the difficulty of estimating certain internal costs,
+the parties have agreed to the payment by the Company to the Investor of such
+internal and external costs, fees and expenses in an amount and in accordance
+with the schedule set forth on Exhibit L attached hereto, and the Company shall
+not be responsible for any of the Investor's costs, fees or expenses in excess
+of, or in addition to, those set forth on Exhibit L. Notwithstanding the
+foregoing, if any action at law or in equity is necessary to enforce or
+interpret the terms of this Agreement, any related agreement or the Series B
+Preferred Articles Supplementary, the prevailing party shall be entitled to
+reasonable attorneys' fees, costs and necessary disbursements in addition to any
+other relief to which such party may be entitled.
+
+                  7.11 AMENDMENTS AND WAIVERS.
+
+            Any term of this Agreement may be amended, and the observance of any
+term of this Agreement may be waived (either generally or in a particular
+instance and either retroactively or prospectively), only with the written
+consent of the Company and the Investor. Any amendment or waiver effected in
+accordance with this paragraph shall be binding upon each holder of any
+securities purchased under this Agreement at the time outstanding (including
+securities into which such securities are convertible), each future holder of
+all such securities, and the Company. No course of action or dealing, renewal,
+release or extension of any provision of this Agreement or any related
+agreement, or single or partial exercise of any such provision, or delay,
+failure or omission on the Investor's part in enforcing any such provision shall
+affect the obligations of the Company or the Operating Partnership or operate as
+a waiver of such provision or preclude any other or further exercise of such
+provision. No waiver by the Investor of any one or more defaults by any the
+Company or the Operating Partnership in the performance of any of the provisions
+of this Agreement or any related agreement shall operate or be construed as a
+waiver of any future default, whether of a like or different nature, and each
+such waiver shall be limited solely to the express terms and provisions of such
+waiver.
+
+                  7.12 SEVERABILITY.
+
+            Any provision of this Agreement held to be invalid, illegal or
+unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective
+to the extent of such invalidity, illegality or unenforceability without
+affecting the validity, legality and enforceability of the remaining provisions
+hereof, and the invalidity of a particular provision in a particular
+jurisdiction shall not invalidate such provision in any other jurisdiction.
+
+                  7.13 ENTIRE AGREEMENT.
+
+            This Agreement constitutes the entire agreement among the parties
+with respect to the subject matter hereof and supersedes any prior agreement or
+understanding, written or oral, relating to the subject matter of this
+Agreement, including without limitation the confidentiality agreement dated as
+of April 27, 2004 between the Company and the Investor, and no party shall be
+liable or bound to any other party in any manner by any warranties,
+representations or covenants except as specifically set forth herein.
+
+                                       43
+<PAGE>
+
+                  7.14 RULES OF CONSTRUCTION
+
+            The following rules shall apply to the construction and
+interpretation of this Agreement:
+
+            (a) Singular words shall connote the plural number as well as the
+      singular and vice versa, and the masculine shall include the feminine and
+      the neuter.
+
+            (b) All references in this Agreement to particular articles,
+      sections, subsections, clauses or exhibits are references to articles,
+      sections, subsections, clauses or exhibits of this Agreement.
+
+            (c) The table of contents and headings contained in this Agreement
+      are solely for convenience of reference and shall not constitute a part of
+      this Agreement nor shall they affect its meaning, construction or effect.
+
+            (d) Any reference to a party shall include a reference to such
+      party's successors and permitted assigns.
+
+            (e) Each party hereto and its counsel have reviewed and revised (or
+      requested revisions of) this Agreement and have participated in the
+      preparation of this Agreement, and therefore any usual rules of
+      construction requiring that ambiguities are to be resolved against a
+      particular party shall not be applicable in the construction and
+      interpretation of this Agreement or any exhibits to this Agreement.
+
+            (f) The word "will" means "shall," and the word "shall" means
+      "will."
+
+                  7.15 BUSINESS RELATIONSHIP
+
+            This Agreement shall not create any agency, employment, joint
+venture or partnership between the parties. Neither party shall have the
+authority, nor shall any party attempt, to create any obligation on behalf of
+any other party.
+
+                  7.16 SIGNATORY EXCULPATION
+
+            The signatories for the Company, the Operating Partnership and the
+Investor are executing this Agreement in their capacity as representatives of
+the Company, the Operating Partnership and the Investor, respectively, and not
+individually and, therefore, shall have no personal or individual liability of
+any kind in connection with this Agreement or the transactions contemplated
+hereby.
+
+                  7.17 INCORPORATION BY REFERENCE
+
+            All of the exhibits, schedules and other attachments to this
+Agreement are by this reference incorporated in this Agreement and made a part
+of this Agreement.
+
+                                       44
+<PAGE>
+
+                  7.18 FURTHER ASSURANCES
+
+            The parties hereto each covenant and agree to sign, execute and
+deliver, or to cause to be signed, executed and delivered, and to do or make, or
+cause to be done or made, upon the written request of the other party, any and
+all agreements, instruments, papers, deeds, acts or things, supplemental,
+confirmatory or otherwise, as may be reasonably required by any party for the
+purpose of or in connection with consummating the transactions described in this
+Agreement.
+
+                                       45
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first above written.
+
+                                        SECURITY CAPITAL PREFERRED
+                                        GROWTH INCORPORATED
+
+                                        By:   /s/ DAVID E. ROSENBAUM
+                                              -----------------------------
+                                        Name: David E. Rosenbaum
+                                        Its:  Senior Vice-President
+
+                                        ASHFORD HOSPITALITY TRUST, INC.
+
+                                        By:   /s/ MONTY BENNETT
+                                              ------------------------------
+                                        Name: Monty Bennett
+                                        Its:  President & CEO
+
+                                        ASHFORD HOSPITALITY LIMITED PARTNERSHIP
+
+                                        By: Ashford OP General Partner LLC, its
+                                        sole general partner
+
+                                        By: Ashford Hospitality Trust, Inc., its
+                                        sole member
+
+                                        By:   /s/ MONTY BENNETT
+                                              ------------------------------
+                                        Name  Monty Bennett
+                                        Its:  President & CEO
+

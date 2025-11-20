@@ -1,0 +1,100 @@
+
+<PAGE>
+
+                                                                          Page 1
+Chase Manhattan Auto Owner Trust 2003-A
+                                             Statement to Certificateholders
+                                             December 15 2004
+<TABLE>
+<CAPTION>
+
+        DISTRIBUTION IN DOLLARS
+               ORIGINAL            PRIOR                                                                                CURRENT
+                FACE             PRINCIPAL                                                REALIZED        DEFERRED     PRINCIPAL
+CLASS          VALUE              BALANCE       PRINCIPAL        INTEREST       TOTAL      LOSES          INTEREST      BALANCE
+<S>        <C>               <C>             <C>              <C>           <C>            <C>        <C>           <C>
+A1         404,000,000.00              0.00           0.00            0.00           0.00   0.00            0.00              0.00
+A2         518,000,000.00     18,100,444.52  18,100,444.52       19,005.47  18,119,449.99   0.00            0.00              0.00
+A3         520,000,000.00    520,000,000.00  25,348,854.04      658,666.67  26,007,520.71   0.00            0.00    494,651,145.96
+A4         517,700,000.00    517,700,000.00           0.00      888,718.33     888,718.33   0.00            0.00    517,700,000.00
+CERT        50,300,000.00     50,300,000.00   1,228,724.45       85,510.00   1,314,234.45   0.00            0.00     49,071,275.55
+TOTALS   2,010,000,000.00  1,106,100,444.52  44,678,023.01    1,651,900.47  46,329,923.48   0.00            0.00  1,061,422,421.51
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+
+    FACTOR INFORMATION PER $1000 OF ORIGINAL FACE                                                                PASS-THROUGH RATES
+                            PRIOR                                                          CURRENT                          CURRENT
+                          PRINCIPAL                                                        PRINCIPAL                      PASS THRU
+CLASS      CUSIP            FACTOR         PRINCIPAL       INTEREST        TOTAL           FACTOR        CLASS                 RATE
+<S>      <C>            <C>               <C>              <C>           <C>            <C>              <C>     <C>
+A1       161581CR2          0.00000000     0.00000000      0.00000000     0.00000000        0.00000000     A1            1.200000 %
+A2       161581CS0         34.94294309    34.94294309      0.03669010    34.97963319        0.00000000     A2            1.260000 %
+A3       161581CT8      1,000.00000000    48.74779623      1.26666667    50.01446290      951.25220377     A3            1.520000 %
+A4       161581CU5      1,000.00000000     0.00000000      1.71666666     1.71666666    1,000.00000000     A4            2.060000 %
+CERT     161581CV3      1,000.00000000    24.42792147      1.70000000    26.12792147      975.57207853     CERT          2.040000 %
+TOTALS                    550.29872862    22.22787214      0.82184103    23.04971317      528.07085647
+</TABLE>
+
+
+
+IF THERE ARE ANY QUESTIONS OR PROBLEMS WITH THIS STATEMENT, PLEASE CONTACT THE
+ADMINISTRATOR LISTED BELOW:
+Kelly M Crosson
+JPMorgan Chase Bank, N.A. - Structured Finance Services
+4 NY Plaza, 6th floor,
+New York, New York 10004
+Tel: (212) 623-5439
+Fax: (212) 623-5932
+Email: kelly.crosson@jpmorgan.com
+
+                 Copyright (C) 2001 J.P. Morgan Chase & Co. All rights reserved.
+
+<PAGE>
+
+                                                                          Page 2
+Chase Manhattan Auto Owner Trust 2003-A
+
+                                                 December 15 2004
+                                                 STATEMENT TO CERTIFICATEHOLDERS
+
+<TABLE>
+<S>                     <C>                      <C>                                                             <C>
+                                                 Due Period                                                                    18
+                                                 Due Period Beginning Date                                               11/01/04
+                                                 Due Period End Date                                                     11/30/04
+                                                 Determination Date                                                      12/10/04
+
+Section 5.8(iii)        Servicing Fee                                                                                  921,750.37
+Section 5.8(iii)        Servicing Fee per $1000                                                                        0.45858227
+
+Section 5.8(iv)         Administration Fee                                                                               1,000.00
+Section 5.8(iv)         Administration Fee per $1000                                                                   0.00049751
+
+Section 5.8(vi)         Pool Balance at the end of the Collection Period                                         1,061,422,425.13
+
+Section 5.8(vii)        Repurchase Amounts for Repurchased Receivable
+                        By Seller                                                                                            0.00
+                        By Servicer                                                                                     79,003.26
+                        TOTAL                                                                                           79,003.26
+
+Section 5.8(viii)       Realized Net Losses for Collection Period                                                      333,939.59
+
+Section 5.8(ix)         Reserve Account Balance after Disbursement                                                  18,574,892.44
+
+Section 5.8(x)          Specified Reserve Account Balance                                                           18,574,892.44
+
+Section 5.8(xi)         Yield Supplement Account Balance                                                             1,253,306.22
+
+Section 5.8(xii)        Total Distribution Amount                                                                   49,326,943.23
+                        Servicing Fee                                                                                  921,750.37
+                        Administration Fee                                                                               1,000.00
+                        Noteholders Distribution Amount                                                             45,015,689.03
+                        Certificateholders Distribution Amount                                                       1,314,234.45
+                        Deposit to Reserve Account                                                                   2,074,269.38
+</TABLE>
+
+                 Copyright (C) 2001 J.P. Morgan Chase & Co. All rights reserved.
+

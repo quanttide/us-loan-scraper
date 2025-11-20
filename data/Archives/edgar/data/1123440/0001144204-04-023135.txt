@@ -1,0 +1,193 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SNTnIowev5IpnIAIrHHhF7baawPVeQwOf+RKfui9OffMZIbEAHOG6ko6bG/VbF46
+ YYUKLbpIDRBM/pKRY+fF9w==
+
+<SEC-DOCUMENT>0001144204-04-023135.txt : 20041230
+<SEC-HEADER>0001144204-04-023135.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230113713
+ACCESSION NUMBER:		0001144204-04-023135
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041229
+ITEM INFORMATION:		Changes in Registrant.s Certifying Accountant
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHINA FINANCE, INC.
+		CENTRAL INDEX KEY:			0001123440
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURETY INSURANCE [6351]
+		IRS NUMBER:				870650976
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-46114
+		FILM NUMBER:		041232920
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 PAVONIA AVENUE
+		STREET 2:		SUITE 615
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+		BUSINESS PHONE:		2012160880
+
+	MAIL ADDRESS:	
+		STREET 1:		111 PAVONIA AVENUE
+		STREET 2:		SUITE 615
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KUBLA KHAN INC
+		DATE OF NAME CHANGE:	20000908
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+  ---------------------------------------------------------------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                       PURSUANT TO SECTION 13 OR 15(D) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+       Date of Report (Date of earliest event reported): December 29, 2004
+
+
+                               CHINA FINANCE, INC.
+- --------------------------------------------------------------------------------
+               (Exact name of registrant as specified in charter)
+
+
+<TABLE>
+<S>                                                      <C>                               <C>
+                 UTAH                                    333-46114                         87-0650976
+- -------------------------------------------------------------------------------------------------------------
+     (State or other jurisdiction                 (Commission File Number)               (IRS Employer
+           of incorporation)                                                          Identification No.)
+
+          11 PAVONIA AVENUE, SUITE 615, JERSEY CITY, NEW JERSEY                              07310
+- -------------------------------------------------------------------------------------------------------------
+                 (Address of principal executive offices)                                  (Zip Code)
+</TABLE>
+
+
+Registrant's telephone number, including area code:  (201) 216-0880
+                                                     ---------------
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A2. below):
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))
+
+
+
+<PAGE>
+
+
+ITEM 4.01. CHANGES IN REGISTRANT'S CERTIFYING ACCOUNTANTS
+
+         On December 29, 2004, China Finance, Inc. (the "Company") dismissed its
+principal independent accountant, Weinberg & Company, P.A. ("Weinberg"), which
+dismissal became effective immediately. The decision to dismiss Weinberg as the
+Company's principal independent accountant was approved by the Company's Board
+of Directors. Weinberg was engaged by the Company on July 28, 2004 and was
+dismissed as of December 29, 2004 (the "Engagement Period"), and, due to the
+fact that the Company's fiscal year end is December 31, did not perform an audit
+of the Company's financial statements. In connection with the Company's
+acquisition of Value Global International Limited ("Value Global"), Weinberg
+performed an audit of the financial statements of Shenzhen Shiji Ruicheng
+Guaranty & Investment Co., Ltd. ("Shiji Ruicheng"), which was then a
+wholly-owned subsidiary of Value Global and which is now a wholly-owned
+subsidiary of the Company.
+
+         During the Engagement Period, there were no disagreements between the
+Company and Weinberg on any matter of accounting principles or practices,
+financial statement disclosure, or auditing scope or procedure, which
+disagreements, if not resolved to Weinberg's satisfaction, would have caused
+Weinberg to make reference to the subject matter of the disagreement in
+connection with its report, and there were no disagreements between the Company
+and Weinberg on any matter of accounting principles or practices, financial
+statement disclosure, or auditing scope or procedure, which disagreements, if
+not resolved to Weinberg's satisfaction, would have caused Weinberg to make
+reference to the subject matter of the disagreement in connection with its
+report for Shiji Ruicheng. None of the reportable events described under Item
+304(a)(1)(iv) of Regulation S-B occurred within the most recent fiscal year of
+the Company ended December 31, 2003.
+
+         Weinberg did not perform an audit of the Company's financial statements
+and therefore never issued an audit report. The audit report of Weinberg on the
+financial statements of Shiji Ruicheng did not contain any adverse opinion or
+disclaimer of opinion, and such audit report was not qualified or modified as to
+uncertainty, audit scope or accounting principles. The Company has requested
+that Weinberg furnish a letter addressed to the Securities and Exchange
+Commission stating whether it agrees with the statements made by the Company
+herein. The Company will file the letter it receives from Weinberg by amendment
+to this Current Report on Form 8-K.
+
+         The Company has now engaged Rotenberg & Company, LLP ("Rotenberg") as
+its principal independent accountants, which engagement became effective as of
+December 29, 2004. The decision to engage Rotenberg was approved by the
+Company's Board of Directors. During the two most recent fiscal years of the
+Company ended December 31, 2003 and 2002, and through the date of the engagement
+of Rotenberg on December 29, 2004, the Company did not consult with Rotenberg
+regarding any of the matters or events set forth in Item 304(a)(2)(i) and (ii)
+of Regulation S-B.
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                       CHINA FINANCE, INC.
+
+
+
+                                       By: /s/ Charles Wang
+                                           -------------------------------------
+                                           Charles Wang
+                                           Chief Financial Officer and Secretary
+
+Dated:  December 29, 2004
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

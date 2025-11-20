@@ -1,0 +1,306 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C/OoqlLuA67QlnmW7NQ21pygf3X7u8J8Sc6rQAWfh/hM5FzCLcjEuBydJnpeO56W
+ 4W3MTaNqlx2jBOB55uOvNA==
+
+<SEC-DOCUMENT>0001125282-04-006470.txt : 20041223
+<SEC-HEADER>0001125282-04-006470.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223165225
+ACCESSION NUMBER:		0001125282-04-006470
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHASE MANHATTAN AUTO OWNER TRUST 2003-A
+		CENTRAL INDEX KEY:			0001234316
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-74600-03
+		FILM NUMBER:		041224710
+
+	BUSINESS ADDRESS:	
+		STREET 1:		802 DELAWARE AVE
+		STREET 2:		13TH FLOOR
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHASE MANHATTAN BANK USA
+		CENTRAL INDEX KEY:			0000869090
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				222382028
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19191
+		FILM NUMBER:		041224711
+
+	BUSINESS ADDRESS:	
+		STREET 1:		802 DELAWARE AVE
+		STREET 2:		13TH FLOOR
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		3025755033
+
+	MAIL ADDRESS:	
+		STREET 1:		802 DELAWARE AVE 13TH FL
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>b402953_8k.txt
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+     Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+
+Date of Report (Date of earliest event reported): December 15, 2004
+
+
+                 CHASE MANHATTAN AUTO OWNER TRUST, SERIES 2003-A
+                             (Issuer of securities)
+
+                 CHASE MANHATTAN BANK USA, NATIONAL ASSOCIATION
+             (Exact name of registrant as specified in its charter)
+
+United States                         333-74600              22-2382028
+- ---------------------------------     ------------------     -------------------
+(State or other jurisdiction          (Commission            (IRS Employer
+of incorporation)                     File Number)           Identification No.)
+
+
+White Clay Center, Building 200, Newark, DE          19711
+- ------------------------------------------------------------------------
+(Address of principal executive offices)             (Zip Code)
+
+Registrant's telephone number, including area code:  (302) 575-5000
+
+
+- ----------------------------------------------------------------
+(Former name or former address, if changed since last report.)
+
+
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[  ] Written communications pursuant to Rule 425 under the Securities Act
+     (17 CFR 230.425)
+
+[  ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+[  ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+[  ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+SECTION 8 - OTHER EVENTS
+
+Item 8.01 Other Events.
+
+Chase Manhattan Bank USA, National Association is the registrant of the Chase
+Manhattan Auto Owner Trust, Series 2003-A ("Series 2003-A"), which issued
+multiple classes of Asset Backed Securities. On or about December 15, 2004,
+JPMorgan Chase Bank, as Paying Agent, made the payments to the holders of the
+Securities of Series 2003-A contemplated by the related Indenture.
+
+A copy of the Monthly Statement to Securityholders with respect to such
+distribution, delivered pursuant to the related Sale and Servicing Agreement, is
+being filed as an exhibit to this Current Report on Form 8-K.
+
+
+SECTION 9 - FINANCIAL STATEMENTS AND EXHIBITS
+
+Item 9.01 Financial Statements and Exhibits.
+
+(c) Exhibits.
+
+Exhibit No.                Description
+- -----------                -----------
+
+   99.1                    Monthly Reports with respect to the December 15, 2004
+                           distribution.
+
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                               CHASE MANHATTAN BANK USA,
+                                               NATIONAL ASSOCIATION, as Servicer
+
+
+                                               By: /s/ Patricia M. Garvey
+                                                  -------------------------
+                                               Name: Patricia M. Garvey
+                                               Title:  Vice President
+                                               Date: December 16, 2004
+
+<PAGE>
+
+                                         INDEX TO EXHIBITS
+                                         ----------------------------
+
+Exhibit No.                              Description
+- -----------                              -----------
+      99.1                               Monthly Reports with respect to the
+                                         distribution to Securityholders on
+                                         December 15, 2004.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>b402953_ex99-1.txt
+<DESCRIPTION>MONTHLY REPORTS
+<TEXT>
+<PAGE>
+
+                                                                          Page 1
+Chase Manhattan Auto Owner Trust 2003-A
+                                             Statement to Certificateholders
+                                             December 15 2004
+<TABLE>
+<CAPTION>
+
+        DISTRIBUTION IN DOLLARS
+               ORIGINAL            PRIOR                                                                                CURRENT
+                FACE             PRINCIPAL                                                REALIZED        DEFERRED     PRINCIPAL
+CLASS          VALUE              BALANCE       PRINCIPAL        INTEREST       TOTAL      LOSES          INTEREST      BALANCE
+<S>        <C>               <C>             <C>              <C>           <C>            <C>        <C>           <C>
+A1         404,000,000.00              0.00           0.00            0.00           0.00   0.00            0.00              0.00
+A2         518,000,000.00     18,100,444.52  18,100,444.52       19,005.47  18,119,449.99   0.00            0.00              0.00
+A3         520,000,000.00    520,000,000.00  25,348,854.04      658,666.67  26,007,520.71   0.00            0.00    494,651,145.96
+A4         517,700,000.00    517,700,000.00           0.00      888,718.33     888,718.33   0.00            0.00    517,700,000.00
+CERT        50,300,000.00     50,300,000.00   1,228,724.45       85,510.00   1,314,234.45   0.00            0.00     49,071,275.55
+TOTALS   2,010,000,000.00  1,106,100,444.52  44,678,023.01    1,651,900.47  46,329,923.48   0.00            0.00  1,061,422,421.51
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+
+    FACTOR INFORMATION PER $1000 OF ORIGINAL FACE                                                                PASS-THROUGH RATES
+                            PRIOR                                                          CURRENT                          CURRENT
+                          PRINCIPAL                                                        PRINCIPAL                      PASS THRU
+CLASS      CUSIP            FACTOR         PRINCIPAL       INTEREST        TOTAL           FACTOR        CLASS                 RATE
+<S>      <C>            <C>               <C>              <C>           <C>            <C>              <C>     <C>
+A1       161581CR2          0.00000000     0.00000000      0.00000000     0.00000000        0.00000000     A1            1.200000 %
+A2       161581CS0         34.94294309    34.94294309      0.03669010    34.97963319        0.00000000     A2            1.260000 %
+A3       161581CT8      1,000.00000000    48.74779623      1.26666667    50.01446290      951.25220377     A3            1.520000 %
+A4       161581CU5      1,000.00000000     0.00000000      1.71666666     1.71666666    1,000.00000000     A4            2.060000 %
+CERT     161581CV3      1,000.00000000    24.42792147      1.70000000    26.12792147      975.57207853     CERT          2.040000 %
+TOTALS                    550.29872862    22.22787214      0.82184103    23.04971317      528.07085647
+</TABLE>
+
+
+
+IF THERE ARE ANY QUESTIONS OR PROBLEMS WITH THIS STATEMENT, PLEASE CONTACT THE
+ADMINISTRATOR LISTED BELOW:
+Kelly M Crosson
+JPMorgan Chase Bank, N.A. - Structured Finance Services
+4 NY Plaza, 6th floor,
+New York, New York 10004
+Tel: (212) 623-5439
+Fax: (212) 623-5932
+Email: kelly.crosson@jpmorgan.com
+
+                 Copyright (C) 2001 J.P. Morgan Chase & Co. All rights reserved.
+
+<PAGE>
+
+                                                                          Page 2
+Chase Manhattan Auto Owner Trust 2003-A
+
+                                                 December 15 2004
+                                                 STATEMENT TO CERTIFICATEHOLDERS
+
+<TABLE>
+<S>                     <C>                      <C>                                                             <C>
+                                                 Due Period                                                                    18
+                                                 Due Period Beginning Date                                               11/01/04
+                                                 Due Period End Date                                                     11/30/04
+                                                 Determination Date                                                      12/10/04
+
+Section 5.8(iii)        Servicing Fee                                                                                  921,750.37
+Section 5.8(iii)        Servicing Fee per $1000                                                                        0.45858227
+
+Section 5.8(iv)         Administration Fee                                                                               1,000.00
+Section 5.8(iv)         Administration Fee per $1000                                                                   0.00049751
+
+Section 5.8(vi)         Pool Balance at the end of the Collection Period                                         1,061,422,425.13
+
+Section 5.8(vii)        Repurchase Amounts for Repurchased Receivable
+                        By Seller                                                                                            0.00
+                        By Servicer                                                                                     79,003.26
+                        TOTAL                                                                                           79,003.26
+
+Section 5.8(viii)       Realized Net Losses for Collection Period                                                      333,939.59
+
+Section 5.8(ix)         Reserve Account Balance after Disbursement                                                  18,574,892.44
+
+Section 5.8(x)          Specified Reserve Account Balance                                                           18,574,892.44
+
+Section 5.8(xi)         Yield Supplement Account Balance                                                             1,253,306.22
+
+Section 5.8(xii)        Total Distribution Amount                                                                   49,326,943.23
+                        Servicing Fee                                                                                  921,750.37
+                        Administration Fee                                                                               1,000.00
+                        Noteholders Distribution Amount                                                             45,015,689.03
+                        Certificateholders Distribution Amount                                                       1,314,234.45
+                        Deposit to Reserve Account                                                                   2,074,269.38
+</TABLE>
+
+                 Copyright (C) 2001 J.P. Morgan Chase & Co. All rights reserved.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

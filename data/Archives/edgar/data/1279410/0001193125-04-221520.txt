@@ -1,0 +1,270 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PpvNnbyFZSFdXjsph/kZE/Ign8yzcuVeKXJCBh5jFC3Hy8JYbtxjhC4JD9Lf7lHc
+ 8Xb/1+hJ+/M6oY9/NROFlw==
+
+<SEC-DOCUMENT>0001193125-04-221520.txt : 20041230
+<SEC-HEADER>0001193125-04-221520.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230150321
+ACCESSION NUMBER:		0001193125-04-221520
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041229
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PLACER SIERRA BANCSHARES
+		CENTRAL INDEX KEY:			0001279410
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				943411134
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50652
+		FILM NUMBER:		041233832
+
+	BUSINESS ADDRESS:	
+		STREET 1:		525 J STREET
+		CITY:			SACRAMENTO
+		STATE:			CA
+		ZIP:			95814
+		BUSINESS PHONE:		9165544821
+
+	MAIL ADDRESS:	
+		STREET 1:		525 J STREET
+		CITY:			SACRAMENTO
+		STATE:			CA
+		ZIP:			95814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>WASHINGTON, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE
+COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report (Date of earliest event reported): December 29, 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>PLACER SIERRA BANCSHARES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact Name of Registrant as Specified in Charter) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>California</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>0-50652</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>94-3411134</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or Other Jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>525 J Street, Sacramento, California 95814</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>95814</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of Principal Executive Offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s
+telephone number, including area code: (916) 554-4750 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2"><B>(Former Name or Former Address, if Changed Since Last Report) Not Applicable </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 5.02 Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers.
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Effective January 1, 2005, Sandra Smoley and Christi Black will be
+elected to the Board of Directors of Placer Sierra Bancshares (NasdaqNMS: PLSB). Ms. Smoley will serve on the Compensation Committee of the Board of Directors. Ms. Black will serve on the Governance and Nominating Committee of the Board of
+Directors. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01 Financial Statements and Exhibits </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">December 29, 2004, press release. </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Placer Sierra Bancshares</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Date: December 30, 2004</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ Ronald Bachli</FONT></P><HR WIDTH="74%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Ronald Bachli</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Chairman and Chief Executive Officer (principal executive officer)</FONT></P></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">EXHIBIT INDEX </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit<BR>Number</B></FONT><BR><HR WIDTH="42" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">December 29, 2004, press release.</FONT></P></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>DECEMBER 29, 2004, PRESS RELEASE.
+<TEXT>
+<HTML><HEAD>
+<TITLE>December 29, 2004, press release.</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>News Release </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>FOR IMMEDIATE RELEASE </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">December 29, 2004 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Media Contacts: </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Ronald Bachli </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">President and CEO </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Placer Sierra Bancshares </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">916.554.4700 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>PLACER SIERRA BANCSHARES ELECTS SMOLEY </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>AND BLACK TO BOARD OF DIRECTORS </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Sacramento, Calif., December 29, 2004 &#151; </B>Placer Sierra Bancshares (Nasdaq: PLSB), a $1.9 billion commercial banking company serving the Central and Southern
+California markets, announced today it has elected Sandra Smoley and Christi Black to its Board of Directors. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Smoley brings over 30 years of experience dealing with local and state government agencies. Currently president and chief executive officer of The Sandy
+Smoley Group, a health-care consulting firm in Sacramento, Smoley has held several positions for the State of California, including a four-year appointment to the California Medical Assistance Commission in 1999. In addition, Smoley was instrumental
+in developing legislature which resulted in a comprehensive welfare reform program, among many other accomplishments while secretary of the Health and Welfare Agency for the State of California in the 1990s. Smoley has served on numerous boards
+throughout her career, including those of California banks. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">&#147;We are very fortunate to have Sandy Smoley on our Board. She brings a strong understanding of both the economic and social condition of our region. Among her many </FONT>
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px">
+<FONT FACE="Times New Roman" SIZE="2">attributes are the negotiation and consensus-building skills important for a director of such a fast-paced organization. Sandy also has a dynamic personality
+and is very well respected in the capitol region,&#148; said Randy Reynoso, President and Chief Operating Officer of Placer Sierra Bancshares. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Christi Black has 20 years&#146; experience in marketing communications, social marketing and public affairs in California. She began her career in higher
+education, teaching at community colleges before moving to non-profit management. After gaining valuable experience in community development, public affairs and program operations, she transferred this expertise into forming a successful consulting
+practice that catered to government agencies, policy collaboratives and non-profit organizations. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Black joined Ogilvy Public Relations Worldwide, one of the country&#146;s Top 10 largest agencies, when Ogilvy acquired her company in 2001. She manages
+client accounts throughout California and serves on Ogilvy&#146;s international management committee. Black is respected in the industry as a successful business owner, an insightful strategic planner, and an expert on managing social marketing
+programs to reach ethnically and geographically diverse populations. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">&#147;Ms. Black and Ms. Smoley add a depth and breadth to our board which will help to take this company to the next level. We want our company to continually strive for excellence by being innovative and forward thinking. It&#146;s
+critical to our success that we understand and connect with the communities we serve. Christi and Sandy bring the right kind of thinking and experience to help make that happen,&#148; said Ron Bachli, Chairman and Chief Executive Officer of Placer
+Sierra Bancshares. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">With the addition of Ms. Smoley and Ms. Black, Placer Sierra Bancshares now has 8 directors, 7 of whom
+are independent. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About Placer Sierra Bancshares </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Placer Sierra Bancshares is a Northern California-based bank holding company
+for Placer Sierra Bank with 31 branches in an eight-county area of Northern California, including Placer, Sacramento, El Dorado, Sierra, Nevada, Amador, San Joaquin and Calaveras counties and 9 branches in Southern California&#146;s Orange and Los
+Angeles counties. Placer Sierra Bank and its divisions, Sacramento Commercial Bank, Bank of Orange County and Bank of Lodi, offers its customers the resources of a large financial institution and the resourcefulness and superior customer service of
+a community bank. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Placer Sierra Bank offers a broad array of
+deposit products and services for both commercial and retail customers. These products include electronic banking, cash management services, electronic bill payment and investment services with an emphasis on relationship banking. Placer Sierra Bank
+also provides competitive loan products such as commercial loans and lines of credit, commercial real estate loans, Small Business Administration loans, residential mortgage loans, home equity lines of credit and construction loans. For more
+information, please visit www.placersierrabank.com. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Placer
+Sierra Bancshares is publicly traded on NASDAQ under the stock symbol PLSB. For more information about Placer Sierra Bancshares, please visit www.placersierrabancshares.com. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">### </FONT></P>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

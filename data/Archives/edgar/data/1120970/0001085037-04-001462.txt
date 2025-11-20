@@ -1,0 +1,114 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ If1ZNN003P8QmDApRaJVyjvl90lMCSD50+WMVkI3LEydu1L/7YzLhdDt45Ssl9/Y
+ d38EEDIxF+dfjYIH5IlUlg==
+
+<SEC-DOCUMENT>0001085037-04-001462.txt : 20041221
+<SEC-HEADER>0001085037-04-001462.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041220180024
+ACCESSION NUMBER:		0001085037-04-001462
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041216
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDSPRING INC
+		CENTRAL INDEX KEY:			0001120970
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		IRS NUMBER:				650955118
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-32429
+		FILM NUMBER:		041215273
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8585 E. HARTFORD DRIVE
+		STREET 2:		SUITE 400
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85255
+		BUSINESS PHONE:		480-505-4040
+
+	MAIL ADDRESS:	
+		STREET 1:		8585 E. HARTFORD DRIVE
+		STREET 2:		SUITE 400
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85255
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLDSPRING
+		DATE OF NAME CHANGE:	20030821
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STARTCALL COM INC
+		DATE OF NAME CHANGE:	20010305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k122004.htm
+<TEXT>
+<HTML>
+<HEAD>
+
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>OMB APPROVAL</TITLE>
+<META NAME="keywords" CONTENT="D/WLM/665064.1">
+<META NAME="doccomm" CONTENT="29041-0001">
+</HEAD>
+<BODY>
+
+<B><FONT SIZE=2><P ALIGN="CENTER">UNITED STATES SECURITIES AND<BR>
+EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</P>
+</FONT><FONT FACE="Arial"><P ALIGN="CENTER">FORM 8-K</P>
+</FONT><FONT SIZE=2><P ALIGN="CENTER">CURRENT REPORT<BR>
+</B>Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934</P>
+<P ALIGN="CENTER">Date of Report (Date of earliest event reported)  <B>December 16, 2004</P>
+<P ALIGN="CENTER">GOLDSPRING, INC.<BR>
+</B>(Exact name of registrant as specified in its charter)</P>
+<B><P>Florida</B><BR>
+(State or other jurisdiction of incorporation)</P>
+<B><P>000-32429</B><BR>
+(Commission File Number)</P>
+<B><P>65-0955118</B><BR>
+(IRS Employer Identification No.)</P>
+<B><P>8585 East Hartford Drive, Suite 400, Scottsdale, AZ  85255</B><BR>
+(Address of principal executive offices and Zip Code)</P>
+<P>Registrant's telephone number, including area code  <B>480-505-4040</P>
+<P>N/A<BR>
+</B>(Former name or former address, if changed since last report)</P>
+<P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+<P>[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+<P>[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+<P>[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+<P>[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+<B><P>Item 7.01  Regulation FD Disclosure</P>
+</B><P>We have been advised by Bema Gold Corporation that it has terminated negotiations pursuant to the Letter of Intent dated August 18, 2004, for our 100% acquisition of Bema Gold's Yarnell Mining Company, located in Yarnell, next to Wickenberg, Az.  The proposed closing date for the acquisition had been recently extended, but given recent events involving changes in our management, Bema has advised that it seeks to terminate negotiations pending resolution of any outstanding issues relating to such management changes.  Bema has confirmed that it will revisit negotiations for the acquisition in mid-January and we remain hopeful that the acquisition can be successfully consummated. </P>
+<B><P ALIGN="CENTER">SIGNATURES</P>
+</B><P>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<B><P>GOLDSPRING, INC.</P>
+</B><U><P>/s/ Stephen Parent&#9;</U><BR>
+Stephen Parent, President and Director</P>
+<P>Date: December 20, 2004</P></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,2081 @@
+
+<PAGE>
+
+                                                                    EXHIBIT 10.2
+
+                                CCO HOLDINGS, LLC
+                           CCO HOLDINGS CAPITAL CORP.
+
+                                  $550,000,000
+
+                       SENIOR FLOATING RATE NOTES DUE 2010
+
+                   EXCHANGE AND REGISTRATION RIGHTS AGREEMENT
+
+                                                               December 15, 2004
+
+Credit Suisse First Boston LLC
+Citigroup Global Markets Inc.
+As representatives ("Representatives") of the Several Purchasers
+     c/o Credit Suisse First Boston LLC
+     Eleven Madison Avenue
+     New York, New York 10010-3629
+
+Ladies and Gentlemen:
+
+         CCO Holdings, LLC, a Delaware limited liability company (the
+"Company"), and CCO Holdings Capital Corp., a Delaware corporation ("CCO
+Holdings Capital" and, together with the Company, the "Issuers"), propose,
+subject to the terms and conditions stated herein, to issue and sell to the
+Purchasers (as defined herein) upon the terms set forth in the Purchase
+Agreement (as defined herein) $550,000,000 aggregate principal amount of their
+Senior Floating Rate Notes due 2010, issued on December 15, 2004. As an
+inducement to the Purchasers to enter into the Purchase Agreement and in
+satisfaction of a condition to the obligations of the Purchasers thereunder, the
+Issuers agree with the Purchasers for the benefit of holders (as defined herein)
+from time to time of the Registrable Securities (as defined herein) as follows:
+
+         1. Certain Definitions. For purposes of this Exchange and Registration
+Rights Agreement, the following terms shall have the following respective
+meanings:
+
+         "Agreement" shall mean this Exchange and Registration Rights Agreement.
+
+         "Base Interest" shall mean the interest that would otherwise accrue on
+the Notes under the terms thereof and the Indenture, without giving effect to
+the provisions of this Exchange and Registration Rights Agreement.
+
+         The term "broker-dealer" shall mean any broker or dealer registered
+with the Commission under the Exchange Act.
+
+         "Closing Date" shall mean December 15, 2004.
+
+         "Commission" shall mean the United States Securities and Exchange
+Commission, or any other federal agency at the time administering the Exchange
+Act or the Securities Act, whichever is the relevant statute for the particular
+purpose.
+
+         "Effective Time," in the case of (i) an Exchange Offer Registration,
+shall mean the time and date as of which the Commission declares the Exchange
+Offer Registration Statement
+
+<PAGE>
+
+effective or as of which the Exchange Offer Registration Statement otherwise
+becomes effective and (ii) a Shelf Registration, shall mean the time and date as
+of which the Commission declares the Shelf Registration Statement effective or
+as of which the Shelf Registration Statement otherwise becomes effective.
+
+         "Electing Holder" shall mean any holder of Registrable Securities that
+has returned a completed and signed Notice and Questionnaire to the Issuers in
+accordance with Section 3(e)(ii) or 3(e)(iii) hereof.
+
+         "Exchange Act" shall mean the Securities Exchange Act of 1934, or any
+successor thereto, and the rules, regulations and forms promulgated thereunder,
+all as the same shall be amended from time to time.
+
+         "Exchange Notes" shall have the meaning assigned thereto in Section
+2(a) hereof.
+
+         "Exchange Offer" shall have the meaning assigned thereto in Section
+2(a) hereof.
+
+         "Exchange Offer Registration" shall have the meaning assigned thereto
+in Section 3(c) hereof.
+
+         "Exchange Offer Registration Statement" shall have the meaning assigned
+thereto in Section 2(a) hereof.
+
+         "Exchanging Dealer" shall have the meaning assigned thereto in Section
+6(a) hereof.
+
+         The term "holder" shall mean, unless the context otherwise indicates,
+each of the Purchasers and other persons who acquire Registrable Securities from
+time to time (including, without limitation, any successors or assigns), in each
+case for so long as such person is a registered holder of any Registrable
+Securities.
+
+         "Indenture" shall mean the Indenture governing the Notes, dated as of
+December 15, 2004 between the Issuers and Wells Fargo Bank, N.A., as Trustee, as
+the same shall be amended from time to time.
+
+         "Losses" shall have the meaning assigned thereto in Section 6(d)
+hereof.
+
+         "Notes" shall mean, collectively, the Senior Floating Rate Notes due
+2010 of the Issuers to be issued and sold to the Purchasers pursuant to the
+Purchase Agreement, and Notes issued in exchange therefor or in lieu thereof,
+pursuant to the Indenture.
+
+         "Notice and Questionnaire" means a Notice of Registration Statement and
+Selling Securityholder Questionnaire substantially in the form of Exhibit A
+hereto.
+
+         The term "person" shall mean a corporation, association, partnership,
+organization, limited liability company, business, individual, government or
+political subdivision thereof or governmental agency.
+
+         "Purchase Agreement" shall mean the Purchase Agreement, dated December
+1, 2004, between the Purchasers and the Issuers relating to the Notes.
+
+         "Purchasers" shall mean the Purchasers named in Schedule I to the
+Purchase Agreement.
+
+                                       2
+<PAGE>
+
+         "Registrable Securities" shall mean the Notes (and to the extent set
+forth in clause (i) of this paragraph and in Section 2(d), certain Exchange
+Notes); provided, however, that a Note or Exchange Note shall cease to be a
+Registrable Security when (i) in the circumstances contemplated by Section 2(a)
+hereof, such Note has been exchanged for an Exchange Note in an Exchange Offer
+as contemplated in Section 2(a) hereof (provided that any Exchange Note that,
+pursuant to the penultimate sentence of Section 2(a), is included in a
+prospectus for use in connection with resales by broker-dealers shall be deemed
+to be a Registrable Security with respect to Sections 5, 6 and 9 hereof until
+resale of such Registrable Security has been effected within the 180-day period
+referred to in Section 2(a)(y)); (ii) in the circumstances contemplated by
+Section 2(b) hereof, a Shelf Registration Statement registering such Note or
+Exchange Note under the Securities Act has been declared or becomes effective
+and such Note or Exchange Note has been sold or otherwise transferred by the
+holder thereof pursuant to and in a manner contemplated by such effective Shelf
+Registration Statement; (iii) such Note or Exchange Note is sold pursuant to
+Rule 144 under circumstances in which any legend borne by such Note or Exchange
+Note relating to restrictions on transferability thereof, under the Securities
+Act or otherwise, is removed by the Issuers or pursuant to the Indenture; (iv)
+such Note or Exchange Note is eligible to be sold pursuant to paragraph (k) of
+Rule 144; or (v) such Note or Exchange Note shall cease to be outstanding.
+
+         "Registration Default" shall have the meaning assigned thereto in
+Section 2(c) hereof.
+
+         "Registration Default Period" shall have the meaning assigned thereto
+in Section 2(c) thereof.
+
+         "Registration Expenses" shall have the meaning assigned thereto in
+Section 4 hereof.
+
+         "Resale Period" shall have the meaning assigned thereto in Section 2(a)
+hereof.
+
+         "Restricted Holder" shall mean (i) a holder that is an affiliate of the
+Issuers within the meaning of Rule 405, (ii) a holder who acquires Exchange
+Notes outside the ordinary course of such holder's business, (iii) a holder who
+has arrangements or understandings with any person to participate in the
+Exchange Offer for the purpose of distributing Exchange Notes and (iv) a holder
+that is a broker-dealer, but only with respect to Exchange Notes received by
+such broker-dealer pursuant to an Exchange Offer in exchange for Registrable
+Securities acquired by the broker-dealer directly from the Issuers.
+
+         "Rule 144," "Rule 405" and "Rule 415" shall mean, in each case, such
+rule promulgated under the Securities Act (or any successor provision), as the
+same shall be amended from time to time.
+
+         "Securities Act" shall mean the Securities Act of 1933, or any
+successor thereto, and the rules, regulations and forms promulgated thereunder,
+all as the same shall be amended from time to time.
+
+         "Shelf Registration" shall have the meaning assigned thereto in Section
+2(b) hereof.
+
+         "Shelf Registration Statement" shall have the meaning assigned thereto
+in Section 2(b) hereof.
+
+         "Special Interest" shall have the meaning assigned thereto in Section
+2(c) hereof.
+
+                                       3
+<PAGE>
+
+         "Transfer Restricted Notes" shall have the meaning assigned thereto in
+Section 2(c) hereof.
+
+         "Trust Indenture Act" shall mean the Trust Indenture Act of 1939, or
+any successor thereto, and the rules, regulations and forms promulgated
+thereunder, all as the same shall be amended from time to time.
+
+         Unless the context otherwise requires, any reference herein to a
+"Section" or "clause" refers to a Section or clause, as the case may be, of this
+Exchange and Registration Rights Agreement, and the words "herein," "hereof" and
+"hereunder" and other words of similar import refer to this Exchange and
+Registration Rights Agreement as a whole and not to any particular Section or
+other subdivision.
+
+         2. Registration Under the Securities Act.
+
+                  (a) Except as set forth in Section 2(b) below, the Issuers
+agree to file under the Securities Act, as soon as practicable, but no later
+than 90 days after the Closing Date, a registration statement relating to an
+offer to exchange (such registration statement, the "Exchange Offer Registration
+Statement", and such offer, the "Exchange Offer") any and all of the Notes for a
+like aggregate principal amount of notes issued by the Issuers, which notes are
+substantially identical in all material respects to the Notes (and are entitled
+to the benefits of the Indenture which has been qualified under the Trust
+Indenture Act), except that they have been registered pursuant to an effective
+registration statement under the Securities Act and do not contain provisions
+for the additional interest contemplated in Section 2(c) below (such notes
+hereinafter called "Exchange Notes"). The Issuers agree to use their reasonable
+best efforts to cause the Exchange Offer Registration Statement to become or be
+declared effective under the Securities Act as soon as practicable, but no later
+than 210 days after the Closing Date. The Exchange Offer will be registered
+under the Securities Act on the appropriate form and will comply with the
+Exchange Act. The Issuers further agree to use their reasonable best efforts to
+complete the Exchange Offer promptly, but no later than 30 business days or
+longer, if required by the federal securities laws, after such registration
+statement has become effective, hold the Exchange Offer open for at least 20
+business days (calculated in accordance with the Exchange Act) and exchange
+Exchange Notes for all Registrable Securities that have been properly tendered
+and not withdrawn on or prior to the expiration of the Exchange Offer. The
+Exchange Offer will be deemed to have been completed only if the Exchange Notes
+received by holders, other than Restricted Holders, in the Exchange Offer in
+exchange for Registrable Securities are, upon receipt, transferable by each such
+holder without restriction under the Securities Act and the Exchange Act and
+without material restrictions under the blue sky or securities laws of a
+substantial majority of the States of the United States of America. The Exchange
+Offer shall be deemed to have been completed upon the earlier to occur of (i)
+the Issuers having exchanged the Exchange Notes for all outstanding Registrable
+Securities pursuant to the Exchange Offer and (ii) the Issuers having exchanged,
+pursuant to the Exchange Offer, Exchange Notes for all Registrable Securities
+that have been properly tendered and not withdrawn before the expiration of the
+Exchange Offer. The Issuers agree (x) to include in the Exchange Offer
+Registration Statement a prospectus for use in any resales by any holder of
+Exchange Notes that is a broker-dealer and (y) to keep such Exchange Offer
+Registration Statement effective for a period (the "Resale Period") beginning
+when Exchange Notes are first issued in the Exchange Offer and ending upon the
+earlier of the expiration of the 180th day after the Exchange Offer has been
+completed or such time as such broker-dealers no longer own any Registrable
+Securities. With respect to such Exchange Offer Registration Statement, such
+holders shall have the benefit of the rights of indemnification and contribution
+set forth in Sections 6(a), (c), (d) and (e) hereof.
+
+                                       4
+<PAGE>
+
+                  (b) If (i) on or prior to the time the Exchange Offer is
+completed existing law or Commission policy or interpretations are changed such
+that the Exchange Notes received by holders, other than Restricted Holders, in
+the Exchange Offer in exchange for Registrable Securities are not or would not
+be, upon receipt, transferable by each such holder without restriction under the
+Securities Act, (ii) the Exchange Offer Registration Statement has not been
+declared effective under the Securities Act within 210 days following the
+Closing Date, or completed within 30 business days after the effectiveness of
+the Exchange Offer Registration Statement, or longer, if required by the federal
+securities laws, (iii) any Purchaser so requests with respect to Registrable
+Securities that are not eligible to be exchanged for Exchange Notes in the
+Exchange Offer and that are held by it following the consummation of the
+Exchange Offer, or (iv) the Exchange Offer is not available to any holder (other
+than a Purchaser), the Issuers shall, in lieu of (or, in the case of clause
+(iii) or (iv), in addition to) conducting the Exchange Offer contemplated by
+Section 2(a), file a "shelf" registration statement in accordance with the
+remainder of this Section 2(b) below, under the Securities Act. The Issuers
+shall, on or prior to 30 business days after the time such obligation to file
+arises, file a "shelf" registration statement providing for the registration of,
+and the sale on a continuous or delayed basis by the holders of, all the
+Registrable Securities, pursuant to Rule 415 or any similar rule that may be
+adopted by the Commission (such filing, the "Shelf Registration" and such
+registration statement, the "Shelf Registration Statement"). The Issuers agree
+to use their reasonable best efforts (x) to cause the Shelf Registration
+Statement to become or be declared effective by the Commission no later than 90
+days after such obligation to file arises and to keep such Shelf Registration
+Statement continuously effective for a period ending on the earlier of (i) the
+second anniversary of the Effective Time or (ii) such time as there are no
+longer any Registrable Securities outstanding; provided, however, that no holder
+(other than a Purchaser) shall be entitled to be named as a selling
+securityholder in the Shelf Registration Statement or to use the prospectus
+forming a part thereof for resales of Registrable Securities unless such holder
+is an Electing Holder, and (y) after the Effective Time of the Shelf
+Registration Statement, promptly upon the request of any holder of Registrable
+Securities that is not then an Electing Holder, to take any action reasonably
+necessary to enable such holder to use the prospectus forming a part thereof for
+resales of Registrable Securities, including, without limitation, any action
+necessary to identify such holder as a selling securityholder in the Shelf
+Registration Statement, provided, however, that nothing in this clause (y) shall
+relieve any such holder of the obligation to return a completed and signed
+Notice and Questionnaire to the Issuers in accordance with Section 3(e)(iii)
+hereof. The Issuers further agree to supplement or make amendments to the Shelf
+Registration Statement, as and when required by the rules, regulations or
+instructions applicable to the registration form used by the Issuers for such
+Shelf Registration Statement or by the Securities Act for shelf registration,
+and the Issuers agree to furnish to each Electing Holder copies of any such
+supplement or amendment prior to its being used or promptly following its filing
+with the Commission.
+
+                  (c) In the event that (i) the Issuers have not filed the
+Exchange Offer Registration Statement or Shelf Registration Statement on or
+before the date on which such registration statement is required to be filed
+pursuant to Section 2(a) or 2(b), respectively, or (ii) such Exchange Offer
+Registration Statement or Shelf Registration Statement has not become effective
+or been declared effective by the Commission on or before the date on which such
+registration statement is required to become or be declared effective pursuant
+to Section 2(a) or 2(b), respectively, or (iii) the Exchange Offer has not been
+completed within 30 business days after the initial effective date of the
+Exchange Offer Registration Statement relating to the Exchange Offer (if the
+Exchange Offer is then required to be made) or (iv) any Exchange Offer
+Registration Statement or Shelf Registration Statement required by Section 2(a)
+or 2(b) hereof is filed and becomes or is declared effective but shall
+thereafter either be withdrawn by the Issuers or shall become subject to an
+effective stop order issued pursuant to Section 8(d) of the Securities
+
+                                       5
+<PAGE>
+
+Act suspending the effectiveness of such registration statement (except as
+specifically permitted herein) without being succeeded immediately by an
+additional registration statement filed and declared effective (each such event
+referred to in clauses (i) through (iv), a "Registration Default" and each
+period during which a Registration Default has occurred and is continuing, a
+"Registration Default Period"), then, as liquidated damages for such
+Registration Default, subject to the provisions of Section 9(b), special
+interest ("Special Interest"), in addition to the Base Interest, shall accrue on
+the aggregate principal amount of the outstanding Transfer Restricted Notes (as
+defined below) affected by such Registration Default at a per annum rate of
+0.25% for the first 90 days of the Registration Default Period, at a per annum
+rate of 0.50% for the second 90 days of the Registration Default Period, at a
+per annum rate of 0.75% for the third 90 days of the Registration Default Period
+and at a per annum rate of 1.00% thereafter for the remaining portion of the
+Registration Default Period. All accrued Special Interest shall be paid in cash
+by the Issuers on each Interest Payment Date (as defined in the Indenture).
+Notwithstanding the foregoing and anything in this Agreement to the contrary, in
+the case of an event referred to in clause (ii) above, a "Registration Default"
+shall be deemed not to have occurred so long as the Issuers have used and are
+continuing to use their reasonable best efforts to cause such Exchange Offer
+Registration Statement or Shelf Registration Statement, as the case may be, to
+become or be declared effective. For purposes of this Agreement, "Transfer
+Restricted Notes" shall mean, with respect to any Registration Default, any
+Notes or Exchange Notes which have not ceased being Registrable Securities
+pursuant to the definition thereof in Section 1 of this Agreement.
+
+                  (d) If any Purchaser determines that it is not eligible to
+participate in the Exchange Offer with respect to the exchange of Registrable
+Securities constituting any portion of an unsold allotment, at the request of
+such Purchaser, then, subject to any prohibitions or restrictions imposed by any
+applicable law or regulations, the Issuers shall use their commercially
+reasonable efforts to issue and deliver to such Purchaser, in exchange for such
+Registrable Securities, a like principal amount of Exchange Notes. Such issuance
+shall not be deemed to be part of the Exchange Offer. The Issuers shall use
+their commercially reasonable efforts to cause the CUSIP Service Bureau to issue
+the same CUSIP number for Exchange Notes described in this Section 2(d) as for
+Exchange Notes issued pursuant to the Exchange Offer. Any such Exchange Notes
+shall, at the time of issuance, and subject to the limitations set forth in
+Section 1 hereof, constitute Registrable Securities for purposes of this
+Agreement (other than Section 2(a) hereof).
+
+                  (e) The Issuers shall use their reasonable best efforts to
+take all actions necessary or advisable to be taken by them to ensure that the
+transactions contemplated herein are effected as so contemplated in Section 2(a)
+or 2(b) hereof.
+
+                  (f) Any reference herein to a registration statement as of any
+time shall be deemed to include any document incorporated, or deemed to be
+incorporated, therein by reference as of such time and any reference herein to
+any post-effective amendment to a registration statement as of any time shall be
+deemed to include any document incorporated, or deemed to be incorporated,
+therein by reference as of such time.
+
+         3. Registration Procedures.
+
+         If the Issuers file a registration statement pursuant to Section 2(a)
+or Section 2(b), the following provisions shall apply:
+
+                  (a) At or before the Effective Time of the Exchange Offer or
+the Shelf Registration, as the case may be, the Issuers shall cause the
+Indenture to be qualified under the Trust Indenture Act of 1939.
+
+                                       6
+<PAGE>
+
+                  (b) In the event that such qualification would require the
+appointment of a new trustee under the Indenture, the Issuers shall appoint a
+new trustee thereunder pursuant to the applicable provisions of the Indenture.
+
+                  (c) In connection with the Issuers' obligations with respect
+to the registration of Exchange Notes as contemplated by Section 2(a) (the
+"Exchange Offer Registration"); if applicable, the Issuers shall, as soon as
+practicable (or as otherwise specified):
+
+                           (i) prepare and file with the Commission, as soon as
+                  practicable but no later than 90 days after the Closing Date,
+                  an Exchange Offer Registration Statement on any form which may
+                  be utilized by the Issuers and which shall permit the Exchange
+                  Offer and resales of Exchange Notes by broker-dealers during
+                  the Resale Period to be effected as contemplated by Section
+                  2(a), and use their reasonable best efforts to cause such
+                  Exchange Offer Registration Statement to become or be declared
+                  effective as soon as practicable thereafter, but no later than
+                  210 days after the Closing Date;
+
+                           (ii) as soon as practicable prepare and file with the
+                  Commission such amendments and supplements to such Exchange
+                  Offer Registration Statement and the prospectus included
+                  therein as may be necessary to effect and maintain the
+                  effectiveness of such Exchange Offer Registration Statement
+                  for the periods and purposes contemplated in Section 2(a)
+                  hereof and as may be required by the applicable rules and
+                  regulations of the Commission and the instructions applicable
+                  to the form of such Exchange Offer Registration Statement, and
+                  promptly provide each broker-dealer holding Exchange Notes
+                  with such number of copies of the prospectus included therein
+                  (as then amended or supplemented), in conformity in all
+                  material respects with the requirements of the Securities Act
+                  and the Trust Indenture Act, as such broker-dealer reasonably
+                  may request prior to the expiration of the Resale Period, for
+                  use in connection with resales of Exchange Notes;
+
+                           (iii) promptly notify the Purchasers, and each
+                  broker-dealer that has requested or received copies of the
+                  prospectus included in such registration statement, and
+                  confirm such advice in writing, (A) when such Exchange Offer
+                  Registration Statement or the prospectus included therein or
+                  any prospectus amendment or supplement or post-effective
+                  amendment has been filed, and, with respect to such Exchange
+                  Offer Registration Statement or any post-effective amendment,
+                  when the same has become effective, (B) of any comments by the
+                  Commission and by the blue sky or securities commissioner or
+                  regulator of any state with respect thereto, or any request by
+                  the Commission for amendments or supplements to such Exchange
+                  Offer Registration Statement or prospectus or for additional
+                  information, (C) of the issuance by the Commission of any stop
+                  order suspending the effectiveness of such Exchange Offer
+                  Registration Statement or the initiation or, to the knowledge
+                  of the Issuers, threatening of any proceedings for that
+                  purpose, (D) if at any time the representations and warranties
+                  of the Issuers contemplated by Section 5 hereof cease to be
+                  true and correct in all material respects, (E) of the receipt
+                  by the Issuers of any notification with respect to the
+                  suspension of the qualification of the Exchange Notes for sale
+                  in any jurisdiction or the initiation or, to the knowledge of
+                  the Issuers, threatening of any proceeding for such purpose,
+                  or (F) at any time during the Resale Period when a prospectus
+                  is required to be delivered under the Securities Act, that
+                  such
+
+                                       7
+<PAGE>
+
+                  Exchange Offer Registration Statement, prospectus, prospectus
+                  amendment or supplement or post-effective amendment does not
+                  conform in all material respects to the applicable
+                  requirements of the Securities Act and the Trust Indenture
+                  Act, or contains an untrue statement of a material fact or
+                  omits to state any material fact required to be stated therein
+                  or necessary to make the statements therein not misleading in
+                  light of the circumstances then existing;
+
+                           (iv) in the event that the Issuers would be required,
+                  pursuant to Section 3(c)(iii)(F) above, to notify the
+                  Purchasers and any broker-dealers holding Exchange Notes, the
+                  Issuers shall prepare and furnish to each such holder a
+                  reasonable number of copies of a prospectus supplemented or
+                  amended so that, as thereafter delivered to purchasers of such
+                  Exchange Notes during the Resale Period, such prospectus
+                  conforms in all material respects to the applicable
+                  requirements of the Securities Act and the Trust Indenture Act
+                  and shall not contain an untrue statement of a material fact
+                  or omit to state a material fact required to be stated therein
+                  or necessary to make the statements therein not misleading in
+                  light of the circumstances then existing;
+
+                           (v) use their reasonable best efforts to obtain the
+                  withdrawal of any order suspending the effectiveness of such
+                  Exchange Offer Registration Statement or any post-effective
+                  amendment thereto as soon as practicable;
+
+                           (vi) use their reasonable best efforts to (A)
+                  register or qualify the Exchange Notes under the securities
+                  laws or blue sky laws of such jurisdictions as are
+                  contemplated by Section 2(a) no later than the commencement of
+                  the Exchange Offer, (B) keep such registrations or
+                  qualifications in effect and comply with such laws so as to
+                  permit the continuance of offers, sales and dealings therein
+                  in such jurisdictions until the expiration of the Resale
+                  Period and (C) take any and all other actions as may be
+                  reasonably necessary or advisable to enable each broker-dealer
+                  holding Exchange Notes to consummate the disposition thereof
+                  in such jurisdictions; provided, however, that neither of the
+                  Issuers shall be required for any such purpose to (1) qualify
+                  as a foreign corporation or limited liability company, as the
+                  case may be, in any jurisdiction wherein it would not
+                  otherwise be required to qualify but for the requirements of
+                  this Section 3(c)(vi), (2) consent to general service of
+                  process in any such jurisdiction or (3) make any changes to
+                  its certificate of incorporation or by-laws (or other
+                  organizational document) or any agreement between it and
+                  holders of its ownership interests;
+
+                           (vii) use their reasonable best efforts to obtain the
+                  consent or approval of each governmental agency or authority,
+                  whether federal, state or local, which may be required to
+                  effect the Exchange Offer Registration, the Exchange Offer and
+                  the offering and sale of Exchange Notes by broker-dealers
+                  during the Resale Period;
+
+                           (viii) provide a CUSIP number for all Exchange Notes,
+                  not later than the applicable Effective Time;
+
+                           (ix) comply with all applicable rules and regulations
+                  of the Commission, and make generally available to their
+                  securityholders as soon as practicable but no later than
+                  eighteen months after the effective date of such
+
+                                       8
+<PAGE>
+
+                  Exchange Offer Registration Statement, an earning statement of
+                  the Company and its subsidiaries complying with Section 11(a)
+                  of the Securities Act (including, at the option of the
+                  Company, Rule 158 thereunder);
+
+                           (x) mail to each holder a copy of the prospectus
+                  forming part of the Exchange Offer Registration Statement,
+                  together with an appropriate letter of transmittal and related
+                  documents;
+
+                           (xi) utilize the services of a depositary for the
+                  Exchange Offer with an address in the Borough of Manhattan in
+                  New York City, which may be the Trustee, any new trustee under
+                  the Indenture, or an affiliate of any of them;
+
+                           (xii) permit holders to withdraw tendered Notes at
+                  any time prior to the close of business, New York time, on the
+                  last business day on which the Exchange Offer is open;
+
+                           (xiii) prior to the Effective Time, provide a
+                  supplemental letter to the Commission (i) stating that the
+                  Issuers are conducting the Exchange Offer in reliance on the
+                  position of the Commission in Exxon Capital Holdings
+                  Corporation (pub. avail. May 13, 1988), Morgan Stanley and
+                  Co., Inc. (pub. avail. June 5, 1991); and (ii) including a
+                  representation that the Issuers have not entered into any
+                  arrangement or understanding with any person to distribute the
+                  Exchange Notes to be received in the Exchange Offer and that,
+                  to the best of the Issuers' information and belief, each
+                  holder participating in the Exchange Offer is acquiring the
+                  Exchange Notes in the ordinary course of business and has no
+                  arrangement or understanding with any person to participate in
+                  the distribution of the Exchange Notes;
+
+                           (xiv) provide the Representatives, in advance of
+                  filing thereof with the Commission, a draft of such Exchange
+                  Offer Registration Statement substantially in the form to be
+                  filed with the Commission, each prospectus included therein or
+                  filed with the Commission and each amendment or supplement
+                  thereto (including any documents incorporated by reference
+                  therein after the initial filing), and shall use their
+                  commercially reasonable efforts to reflect in each such
+                  document, when so filed with the Commission, such comments as
+                  are reasonably proposed;
+
+                           (xv) if requested by a Purchaser, promptly
+                  incorporate in the prospectus contained in the Exchange Offer
+                  Registration Statement such information as is required by the
+                  applicable rules and regulations of the Commission, and as
+                  such Purchaser specifies should be included therein relating
+                  to the terms of the sale of such Registrable Securities,
+                  including, without limitation, information (i) with respect to
+                  the principal amount of Registrable Securities being sold by
+                  such Purchaser, the name and description of such Purchaser,
+                  agent or underwriter, the offering price of such Registrable
+                  Securities, and any discount, commission or other compensation
+                  payable in respect thereof and the purchase price being paid
+                  therefor by such underwriters and (ii) with respect to any
+                  other material terms of the offering of the Registrable
+                  Securities to be sold by such Purchaser; and make all required
+                  filings of such prospectus supplement or post-effective
+                  amendment upon notification of the matters to be incorporated
+                  in such prospectus supplement or post-effective amendment; and
+
+                                       9
+<PAGE>
+
+                           (xvi) for a reasonable period prior to the filing of
+                  such Exchange Offer Registration Statement, make available at
+                  reasonable times at the Issuers' principal place of business,
+                  or such other reasonable place for inspection by Purchasers
+                  such financial and other relevant information and books and
+                  records of the Issuers, each of their subsidiaries and, as
+                  relevant, Parent Companies (as defined herein), and cause each
+                  of their officers, employees, counsel and independent
+                  certified public accountants, to supply all relevant
+                  information and to respond to such inquiries, as shall be
+                  reasonably necessary, in the judgment of the Purchasers'
+                  counsel, to conduct a reasonable investigation within the
+                  meaning of Section 11 of the Securities Act; provided,
+                  however, that each such party shall be required to maintain in
+                  confidence and not to disclose to any other person any
+                  information or records reasonably designated by the Issuers as
+                  being confidential, until such time as (A) such information
+                  becomes a matter of public record (whether by virtue of its
+                  inclusion in such registration statement or otherwise, except
+                  as a result of a breach of this or any other obligation of
+                  confidentiality to the Issuers), or (B) such person shall be
+                  required so to disclose such information pursuant to a
+                  subpoena or order of any court or other governmental agency or
+                  body having jurisdiction over the matter (subject to the
+                  requirements of such order, and only after such person shall
+                  have given the Issuers prompt prior written notice of such
+                  requirement), or (C) such information is required to be set
+                  forth in such Exchange Offer Registration Statement or the
+                  prospectus included therein or in an amendment to such
+                  Exchange Offer Registration Statement or an amendment or
+                  supplement to such prospectus in order that such Exchange
+                  Offer Registration Statement, prospectus, amendment or
+                  supplement, as the case may be, complies with applicable
+                  requirements of the federal securities laws and the rules and
+                  regulations of the Commission and does not contain an untrue
+                  statement of a material fact or omit to state therein a
+                  material fact required to be stated therein or necessary to
+                  make the statements therein not misleading in light of the
+                  circumstances then existing, provided further, however, that
+                  notwithstanding anything to the contrary in this clause (xvi),
+                  any such person (and each employee, representative, or other
+                  agent of such person) may disclose to any and all persons,
+                  without limitation, the U.S. tax treatment and any facts that
+                  may be relevant to the tax structure of the matters covered by
+                  and relating to this Agreement (including opinions or other
+                  tax analysis that are provided to such party relating to such
+                  tax treatment and tax structure); provided, however, that no
+                  person (and no employee, representative, or other agent of any
+                  person) shall disclose any other information that is not
+                  relevant to understanding the tax treatment and tax structure
+                  of the matters covered by and relating to this Agreement
+                  (including the identity of any party and any information that
+                  could lead another to determine the identity of any party), or
+                  any other information to the extent that such non-disclosure
+                  is reasonably necessary in order to comply with applicable
+                  securities law.
+
+                  (d) As soon as practicable after the close of the Exchange
+Offer, the Issuers shall:
+
+                           (i) accept for exchange all Registrable Securities
+                  tendered and not validly withdrawn pursuant to the Exchange
+                  Offer;
+
+                           (ii) deliver to the Trustee for cancellation all
+                  Notes so accepted for exchange; and
+
+                                       10
+<PAGE>
+
+                           (iii) cause the Trustee promptly to authenticate and
+                  deliver to each holder a principal amount of Exchange Notes
+                  equal to the principal amount of the Registrable Securities of
+                  such Holder so accepted for exchange.
+
+                  (e) In connection with the Issuers' obligations with respect
+to the Shelf Registration, if applicable, the Issuers shall, as soon as
+practicable (or as otherwise specified):
+
+                           (i) prepare and file with the Commission within the
+                  time periods specified in Section 2(b), a Shelf Registration
+                  Statement on any form which may be utilized by the Issuers and
+                  which shall register all the Registrable Securities for resale
+                  by the holders thereof in accordance with such method or
+                  methods of disposition as may be specified by such of the
+                  holders as, from time to time, may be Electing Holders and use
+                  their reasonable best efforts to cause such Shelf Registration
+                  Statement to become or be declared effective within the time
+                  periods specified in Section 2(b);
+
+                           (ii) not less than 30 calendar days prior to the
+                  Effective Time of the Shelf Registration Statement, mail the
+                  Notice and Questionnaire to the holders of Registrable
+                  Securities; no holder shall be entitled to be named as a
+                  selling securityholder in the Shelf Registration Statement as
+                  of the Effective Time, and no holder shall be entitled to use
+                  the prospectus forming a part thereof for resales of
+                  Registrable Securities at any time, unless such holder has
+                  returned a completed and signed Notice and Questionnaire to
+                  the Issuers by the deadline for response set forth therein;
+                  provided, however, holders of Registrable Securities shall
+                  have at least 28 calendar days from the date on which the
+                  Notice and Questionnaire is first mailed to such holders to
+                  return a completed and signed Notice and Questionnaire to the
+                  Issuers;
+
+                           (iii) after the Effective Time of the Shelf
+                  Registration Statement, upon the request of any holder of
+                  Registrable Securities that is not then an Electing Holder,
+                  promptly send a Notice and Questionnaire to such holder;
+                  provided that the Issuers shall not be required to take any
+                  action to name such holder as a selling securityholder in the
+                  Shelf Registration Statement or to enable such holder to use
+                  the prospectus forming a part thereof for resales of
+                  Registrable Securities until such holder has returned a
+                  completed and signed Notice and Questionnaire to the Issuers;
+
+                           (iv) as soon as practicable prepare and file with the
+                  Commission such amendments and supplements to such Shelf
+                  Registration Statement and the prospectus included therein as
+                  may be necessary to effect and maintain the effectiveness of
+                  such Shelf Registration Statement for the period specified in
+                  Section 2(b) and as may be required by the applicable rules
+                  and regulations of the Commission and the instructions
+                  applicable to the form of such Shelf Registration Statement,
+                  and furnish to the Electing Holders copies of any such
+                  supplement or amendment simultaneously with or prior to its
+                  being used or filed with the Commission;
+
+                           (v) comply with the provisions of the Securities Act
+                  with respect to the disposition of all the Registrable
+                  Securities covered by such Shelf Registration Statement in
+                  accordance with the intended methods of disposition by the
+                  Electing Holders provided for in such Shelf Registration
+                  Statement;
+
+                                       11
+<PAGE>
+
+                           (vi) provide (A) the Electing Holders, (B) the
+                  underwriters (which term, for purposes of this Exchange and
+                  Registration Rights Agreement, shall include a person deemed
+                  to be an underwriter within the meaning of Section 2(a)(11) of
+                  the Securities Act), if any, thereof, (C) any sales or
+                  placement agent therefor, (D) counsel for any such underwriter
+                  or agent, (E) not more than one counsel for all the Electing
+                  Holders and (F) the Representatives, in advance of filing
+                  thereof with the Commission, a draft of such Shelf
+                  Registration Statement, each prospectus included therein or
+                  filed with the Commission and each amendment or supplement
+                  thereto (including any documents incorporated by reference
+                  therein after the initial filing), in each case in
+                  substantially the form to be filed with the Commission, and
+                  shall use their commercially reasonable efforts to reflect in
+                  each such document, when so filed with the Commission, such
+                  comments as are reasonably proposed;
+
+                           (vii) for a reasonable period prior to the filing of
+                  such Shelf Registration Statement, and throughout the period
+                  specified in Section 2(b), make available at reasonable times
+                  at the Issuers' principal place of business, or such other
+                  reasonable place for inspection by the persons referred to in
+                  Section 3(e)(vi) who shall certify to the Issuers that they
+                  have a current intention to sell the Registrable Securities
+                  pursuant to the Shelf Registration such financial and other
+                  relevant information and books and records of the Issuers,
+                  each of their subsidiaries and, as relevant, Parent Companies,
+                  and cause each of their officers, employees, counsel and
+                  independent certified public accountants to supply all
+                  relevant information and to respond to such inquiries, as
+                  shall be reasonably necessary, in the judgment of the
+                  respective counsel referred to in such Section, to conduct a
+                  reasonable investigation within the meaning of Section 11 of
+                  the Securities Act; provided, however, that each such party
+                  shall be required to maintain in confidence and not to
+                  disclose to any other person any information or records
+                  reasonably designated by the Issuers as being confidential,
+                  until such time as (A) such information becomes a matter of
+                  public record (whether by virtue of its inclusion in such
+                  registration statement or otherwise, except as a result of a
+                  breach of this or any other obligation of confidentiality to
+                  the Issuers), or (B) such person shall be required so to
+                  disclose such information pursuant to a subpoena or order of
+                  any court or other governmental agency or body having
+                  jurisdiction over the matter (subject to the requirements of
+                  such order, and only after such person shall have given the
+                  Issuers prompt prior written notice of such requirement), or
+                  (C) such information is required to be set forth in such Shelf
+                  Registration Statement or the prospectus included therein or
+                  in an amendment to such Shelf Registration Statement or an
+                  amendment or supplement to such prospectus in order that such
+                  Shelf Registration Statement, prospectus, amendment or
+                  supplement, as the case may be, complies with applicable
+                  requirements of the federal securities laws and the rules and
+                  regulations of the Commission and does not contain an untrue
+                  statement of a material fact or omit to state therein a
+                  material fact required to be stated therein or necessary to
+                  make the statements therein not misleading in light of the
+                  circumstances then existing, provided further, however, that
+                  notwithstanding anything to the contrary in this clause (vii),
+                  any such person (and each employee, representative, or other
+                  agent of such person) may disclose to any and all persons,
+                  without limitation, the U.S. tax treatment and any facts that
+                  may be relevant to the tax structure of the matters covered by
+                  and relating to this Agreement (including opinions or other
+                  tax analysis that are provided to such party relating to such
+                  tax treatment and tax
+
+                                       12
+<PAGE>
+
+                  structure); provided, however, that no person (and no
+                  employee, representative, or other agent of any person) shall
+                  disclose any other information that is not relevant to
+                  understanding the tax treatment and tax structure of the
+                  matters covered by and relating to this Agreement (including
+                  the identity of any party and any information that could lead
+                  another to determine the identity of any party), or any other
+                  information to the extent that such non-disclosure is
+                  reasonably necessary in order to comply with applicable
+                  securities law;
+
+                           (viii) promptly notify each of the Purchasers, the
+                  Electing Holders, any sales or placement agent therefor and
+                  any underwriter thereof (which notification may be made
+                  through any managing underwriter that is a representative of
+                  such underwriter for such purpose) and confirm such advice in
+                  writing, (A) when such Shelf Registration Statement or the
+                  prospectus included therein or any prospectus amendment or
+                  supplement or post-effective amendment has been filed, and,
+                  with respect to such Shelf Registration Statement or any
+                  post-effective amendment, when the same has become effective,
+                  (B) of any comments by the Commission and by the blue sky or
+                  securities commissioner or regulator of any state with respect
+                  thereto, or any request by the Commission for amendments or
+                  supplements to such Shelf Registration Statement or prospectus
+                  or for additional information, (C) of the issuance by the
+                  Commission of any stop order suspending the effectiveness of
+                  such Shelf Registration Statement or the initiation or, to the
+                  knowledge of the Issuers, threatening of any proceedings for
+                  that purpose, (D) if at any time the representations and
+                  warranties of the Issuers contemplated by Section 3(e)(xvii)
+                  or Section 5 hereof cease to be true and correct in all
+                  material respects, (E) of the receipt by the Issuers of any
+                  notification with respect to the suspension of the
+                  qualification of the Registrable Securities for sale in any
+                  jurisdiction or the initiation or, to the knowledge of the
+                  Issuers, threatening of any proceeding for such purpose, or
+                  (F) if at any time when a prospectus is required to be
+                  delivered under the Securities Act, that such Shelf
+                  Registration Statement, prospectus, prospectus amendment or
+                  supplement or post-effective amendment does not conform in all
+                  material respects to the applicable requirements of the
+                  Securities Act and the Trust Indenture Act, or contains an
+                  untrue statement of a material fact or omits to state any
+                  material fact required to be stated therein or necessary to
+                  make the statements therein not misleading in light of the
+                  circumstances then existing;
+
+                           (ix) use their reasonable best efforts to obtain the
+                  withdrawal of any order suspending the effectiveness of such
+                  Shelf Registration Statement or any post-effective amendment
+                  thereto as soon as practicable;
+
+                           (x) if requested by any managing underwriter or
+                  underwriters, any placement or sales agent or any Electing
+                  Holder, promptly incorporate in a prospectus supplement or
+                  post-effective amendment such information as is required by
+                  the applicable rules and regulations of the Commission, and as
+                  such managing underwriter or underwriters, such agent or such
+                  Electing Holder specifies should be included therein relating
+                  to the terms of the sale of such Registrable Securities,
+                  including, without limitation, information (i) with respect to
+                  the principal amount of Registrable Securities being sold by
+                  such Electing Holder or agent or to any underwriters, the name
+                  and description of such Electing Holder, agent or underwriter,
+                  the offering price of such Registrable Securities, and any
+                  discount, commission or other compensation payable in respect
+                  thereof
+
+                                       13
+<PAGE>
+
+                  and the purchase price being paid therefor by such
+                  underwriters and (ii) with respect to any other material terms
+                  of the offering of the Registrable Securities to be sold by
+                  such Electing Holder or agent or to such underwriters; and
+                  make all required filings of such prospectus supplement or
+                  post-effective amendment upon notification of the matters to
+                  be incorporated in such prospectus supplement or
+                  post-effective amendment;
+
+                           (xi) furnish to each Electing Holder, each placement
+                  or sales agent, if any, therefor, each underwriter, if any,
+                  thereof and the respective counsel referred to in Section
+                  3(e)(vi) hereof an executed copy (or, in the case of an
+                  Electing Holder, a conformed copy) of such Shelf Registration
+                  Statement, each such amendment and supplement thereto (in each
+                  case including all exhibits thereto (in the case of an
+                  Electing Holder of Registrable Securities, upon request) and
+                  documents incorporated by reference therein) and such number
+                  of copies of such Shelf Registration Statement (excluding
+                  exhibits thereto and documents incorporated by reference
+                  therein unless specifically so requested by such Electing
+                  Holder, agent or underwriter, as the case may be) and of the
+                  prospectus included in such Shelf Registration Statement
+                  (including, without limitation, each preliminary prospectus
+                  and any summary prospectus), in conformity in all material
+                  respects with the applicable requirements of the Securities
+                  Act and the Trust Indenture Act, and such other documents, as
+                  such Electing Holder, agent, if any, and underwriter, if any,
+                  may reasonably request in order to facilitate the offering and
+                  disposition of the Registrable Securities owned by such
+                  Electing Holder, offered or sold by such agent or underwritten
+                  by such underwriter and to permit such Electing Holder, agent
+                  and underwriter to satisfy the prospectus delivery
+                  requirements of the Securities Act; and the Issuers hereby
+                  consent to the use of such prospectus (including, without
+                  limitation, such preliminary and summary prospectus) and any
+                  amendment or supplement thereto by each such Electing Holder
+                  and by any such agent and underwriter, in each case in the
+                  form most recently provided to such person by the Issuers, in
+                  connection with the offering and sale of the Registrable
+                  Securities covered by the prospectus (including, without
+                  limitation, such preliminary and summary prospectus) or any
+                  supplement or amendment thereto;
+
+                           (xii) use their reasonable best efforts to (A)
+                  register or qualify the Registrable Securities to be included
+                  in such Shelf Registration Statement under such securities
+                  laws or blue sky laws of such jurisdictions as any Electing
+                  Holder and each placement or sales agent, if any, therefor and
+                  underwriter, if any, thereof shall reasonably request, (B)
+                  keep such registrations or qualifications in effect and comply
+                  with such laws so as to permit the continuance of offers,
+                  sales and dealings therein in such jurisdictions during the
+                  period the Shelf Registration is required to remain effective
+                  under Section 2(b) above and for so long as may be necessary
+                  to enable any such Electing Holder, agent or underwriter to
+                  complete its distribution of Notes pursuant to such Shelf
+                  Registration Statement and (C) take any and all other actions
+                  as may be reasonably necessary or advisable to enable each
+                  such Electing Holder, agent, if any, and underwriter, if any,
+                  to consummate the disposition in such jurisdictions of such
+                  Registrable Securities; provided, however, that none of the
+                  Issuers shall be required for any such purpose to (1) qualify
+                  as a foreign corporation or limited liability company, as the
+                  case may be, in any jurisdiction wherein it would not
+                  otherwise be required to qualify but for the requirements of
+                  this Section 3(d)(xii), (2) consent to general
+
+                                       14
+<PAGE>
+
+                  service of process in any such jurisdiction or (3) make any
+                  changes to its certificate of incorporation or by-laws (or
+                  other organizational document) or any agreement between it and
+                  holders of its ownership interests;
+
+                           (xiii) use their reasonable best efforts to obtain
+                  the consent or approval of each governmental agency or
+                  authority, whether federal, state or local, which may be
+                  required to effect the Shelf Registration or the offering or
+                  sale in connection therewith or to enable the selling holder
+                  or holders to offer, or to consummate the disposition of,
+                  their Registrable Securities;
+
+                           (xiv) unless any Registrable Securities shall be in
+                  book-entry only form, cooperate with the Electing Holders and
+                  the managing underwriters, if any, to facilitate the timely
+                  preparation and delivery of certificates representing
+                  Registrable Securities to be sold, which certificates, if so
+                  required by any securities exchange upon which any Registrable
+                  Securities are listed, shall be penned, lithographed or
+                  engraved, or produced by any combination of such methods, on
+                  steel engraved borders, and which certificates shall not bear
+                  any restrictive legends; and, in the case of an underwritten
+                  offering, enable such Registrable Securities to be in such
+                  denominations and registered in such names as the managing
+                  underwriters may request at least two business days prior to
+                  any sale of the Registrable Securities;
+
+                           (xv) provide a CUSIP number for all Registrable
+                  Securities, not later than the applicable Effective Time;
+
+                           (xvi) enter into one or more underwriting agreements,
+                  engagement letters, agency agreements, "best efforts"
+                  underwriting agreements or similar agreements, as appropriate,
+                  including customary provisions relating to indemnification and
+                  contribution (but no less favorable than those set forth in
+                  Section 6 with respect to all parties indemnified under
+                  Section 6), unless such provisions are acceptable to Electing
+                  Holders of at least 50% in aggregate principal amount and any
+                  managing underwriters, and take such other actions in
+                  connection therewith as any Electing Holders of at least 20%
+                  in aggregate principal amount of the Registrable Securities at
+                  the time outstanding shall request in order to expedite or
+                  facilitate the disposition of such Registrable Securities;
+
+                           (xvii) whether or not an agreement of the type
+                  referred to in Section 3(e)(xvi) hereof is entered into, and
+                  whether or not any portion of the offering contemplated by the
+                  Shelf Registration is an underwritten offering or is made
+                  through a placement or sales agent or any other entity, (A)
+                  make such representations and warranties to the Electing
+                  Holders and the placement or sales agent, if any, therefor and
+                  the underwriters, if any, thereof in form, substance and scope
+                  as are customarily made in connection with an offering of debt
+                  securities pursuant to any appropriate agreement or to a
+                  registration statement filed on the form applicable to the
+                  Shelf Registration; (B) obtain an opinion of counsel to the
+                  Issuers in customary form, subject to customary limitations,
+                  assumptions and exclusions, and covering such matters, of the
+                  type customarily covered by such an opinion, as the managing
+                  underwriters, if any, or as any Electing Holders of at least
+                  20% in aggregate principal amount of the Registrable
+                  Securities at the time outstanding may reasonably request,
+                  addressed to such Electing Holder or
+
+                                       15
+<PAGE>
+
+                  Electing Holders and the placement or sales agent, if any,
+                  therefor and the underwriters, if any, thereof and dated the
+                  date of the Effective Time of such Shelf Registration
+                  Statement (and if such Shelf Registration Statement
+                  contemplates an underwritten offering of a part or all of the
+                  Registrable Securities, dated the date of the closing under
+                  the underwriting agreement relating thereto) (it being agreed
+                  that the matters to be covered by such opinion shall include
+                  the matters set forth in paragraphs (b), (c) and (d) of
+                  Section 7 of the Purchase Agreement to the extent applicable
+                  to an offering of this type); (C) obtain a "cold comfort"
+                  letter or letters from the independent certified public
+                  accountants of the Issuers addressed to the selling Electing
+                  Holders, the placement or sales agent, if any, therefor or the
+                  underwriters, if any, thereof, dated (i) the effective date of
+                  such Shelf Registration Statement and (ii) the effective date
+                  of any prospectus supplement to the prospectus included in
+                  such Shelf Registration Statement or post-effective amendment
+                  to such Shelf Registration Statement which includes unaudited
+                  or audited financial statements as of a date or for a period
+                  subsequent to that of the latest such statements included in
+                  such prospectus (and, if such Shelf Registration Statement
+                  contemplates an underwritten offering pursuant to any
+                  prospectus supplement to the prospectus included in such Shelf
+                  Registration Statement or post-effective amendment to such
+                  Shelf Registration Statement which includes unaudited or
+                  audited financial statements as of a date or for a period
+                  subsequent to that of the latest such statements included in
+                  such prospectus, dated the date of the closing under the
+                  underwriting agreement relating thereto), such letter or
+                  letters to be in customary form and covering such matters of
+                  the type customarily covered by letters of such type; (D)
+                  deliver such documents and certificates, including, without
+                  limitation, officers' certificates, as may be reasonably
+                  requested by any Electing Holders of at least 20% in aggregate
+                  principal amount of the Registrable Securities at the time
+                  outstanding or the placement or sales agent, if any, therefor
+                  and the managing underwriters, if any, thereof to evidence the
+                  accuracy of the representations and warranties made pursuant
+                  to clause (A) above or those contained in Section 5(a) hereof
+                  and the compliance with or satisfaction of any agreements or
+                  conditions contained in the underwriting agreement or other
+                  similar agreement entered into by the Issuers pursuant to
+                  Section 3(e)(xvi); and (E) undertake such obligations relating
+                  to expense reimbursement, indemnification and contribution as
+                  are provided in Section 6 hereof;
+
+                           (xviii) notify in writing each holder of Registrable
+                  Securities of any proposal by the Issuers to amend or waive
+                  any provision of this Exchange and Registration Rights
+                  Agreement pursuant to Section 9(h) hereof and of any amendment
+                  or waiver effected pursuant thereto, each of which notices
+                  shall contain the substance of the amendment or waiver
+                  proposed or effected, as the case may be;
+
+                           (xix) in the event that any broker-dealer registered
+                  under the Exchange Act shall underwrite any Registrable
+                  Securities or participate as a member of an underwriting
+                  syndicate or selling group or "assist in the distribution"
+                  (within the meaning of the Conduct Rules (the "Conduct Rules")
+                  of the National Association of Securities Dealers, Inc.
+                  ("NASD") or any successor thereto, as amended from time to
+                  time) thereof, whether as a holder of such Registrable
+                  Securities or as an underwriter, a placement or sales agent or
+                  a broker or dealer in respect thereof, or otherwise, assist
+                  such broker-dealer in complying with the
+
+                                       16
+<PAGE>
+
+                  requirements of such Conduct Rules, including, without
+                  limitation, by (A) if such Conduct Rules shall so require,
+                  engaging a "qualified independent underwriter" (as defined in
+                  such Conduct Rules) to participate in the preparation of the
+                  Shelf Registration Statement relating to such Registrable
+                  Securities, to exercise usual standards of due diligence in
+                  respect thereto and, if any portion of the offering
+                  contemplated by such Shelf Registration Statement is an
+                  underwritten offering or is made through a placement or sales
+                  agent, to recommend the yield of such Registrable Securities,
+                  (B) indemnifying any such qualified independent underwriter to
+                  the extent of the indemnification of underwriters provided in
+                  Section 6 hereof (or to such other customary extent as may be
+                  requested by such underwriter), and (C) providing such
+                  information to such broker-dealer as may be required in order
+                  for such broker-dealer to comply with the requirements of the
+                  Conduct Rules; and
+
+                           (xx) comply with all applicable rules and regulations
+                  of the Commission, and make generally available to its
+                  securityholders as soon as practicable but in any event not
+                  later than eighteen months after the effective date of such
+                  Shelf Registration Statement, an earning statement of the
+                  Company and its subsidiaries complying with Section 11(a) of
+                  the Securities Act (including, at the option of the Company,
+                  Rule 158 thereunder).
+
+                  (f) In the event that the Issuers would be required, pursuant
+to Section 3(e)(viii)(F) hereof, to notify the Electing Holders, the placement
+or sales agent, if any, therefor and the managing underwriters, if any, thereof,
+the Issuers shall prepare and furnish to each of the Electing Holders, to each
+placement or sales agent, if any, and to each such underwriter, if any, a
+reasonable number of copies of a prospectus supplemented or amended so that, as
+thereafter delivered to purchasers of Registrable Securities, such prospectus
+conforms in all material respects to the applicable requirements of the
+Securities Act and the Trust Indenture Act, and shall not contain an untrue
+statement of a material fact or omit to state a material fact required to be
+stated therein or necessary to make the statements therein not misleading in
+light of the circumstances then existing. Each Electing Holder agrees that upon
+receipt of any notice from the Issuers pursuant to Section 3(e)(viii)(F) hereof,
+such Electing Holder shall forthwith discontinue the disposition of Registrable
+Securities pursuant to the Shelf Registration Statement applicable to such
+Registrable Securities until such Electing Holder shall have received copies of
+such amended or supplemented prospectus, and if so directed by the Issuers, such
+Electing Holder shall deliver to the Issuers (at the Issuers' expense) all
+copies, other than permanent file copies, then in such Electing Holder's
+possession of the prospectus covering such Registrable Securities at the time of
+receipt of such notice.
+
+                  (g) In the event of a Shelf Registration, in addition to the
+information required to be provided by each Electing Holder in its Notice and
+Questionnaire, the Issuers may require such Electing Holder to furnish to the
+Issuers such additional information regarding such Electing Holder and such
+Electing Holder's intended method of distribution of Registrable Securities as
+may be required in order to comply with the Securities Act. Each such Electing
+Holder agrees to notify the Issuers as promptly as practicable of any inaccuracy
+or change in information previously furnished by such Electing Holder to the
+Issuers or of the occurrence of any event in either case as a result of which
+any prospectus relating to such Shelf Registration contains or would contain an
+untrue statement of a material fact regarding such Electing Holder or such
+Electing Holder's intended method of disposition of such Registrable Securities
+or omits to state any material fact regarding such Electing Holder or such
+Electing Holder's intended method of disposition of such Registrable Securities
+required to be stated therein or necessary to
+
+                                       17
+<PAGE>
+
+make the statements therein not misleading in light of the circumstances then
+existing, and promptly to furnish to the Issuers any additional information
+required to correct and update any previously furnished information or required
+so that such prospectus shall not contain, with respect to such Electing Holder
+or the disposition of such Registrable Securities, an untrue statement of a
+material fact or omit to state a material fact required to be stated therein or
+necessary to make the statements therein not misleading in light of the
+circumstances then existing.
+
+         4. Registration Expenses.
+
+         The Issuers agree, subject to the last sentence of this Section 4, to
+bear and to pay or cause to be paid promptly all expenses incident to the
+Issuers' performance of or compliance with this Exchange and Registration Rights
+Agreement, including, without limitation, (a) all Commission and any NASD
+registration, filing and review fees and expenses including, without limitation,
+fees and disbursements of counsel for the placement or sales agent or
+underwriters in connection with such registration, filing and review, (b) all
+fees and expenses in connection with the qualification of the Notes for offering
+and sale under the securities laws and blue sky laws referred to in Section
+3(e)(xii) hereof and determination of their eligibility for investment under the
+laws of such jurisdictions as any managing underwriters or the Electing Holders
+may designate, including, without limitation, any fees and disbursements of
+counsel for the Electing Holders or underwriters in connection with such
+qualification and determination, (c) all expenses relating to the preparation,
+printing, production, distribution and reproduction of each registration
+statement required to be filed hereunder, each prospectus included therein or
+prepared for distribution pursuant hereto, each amendment or supplement to the
+foregoing, the expenses of preparing the Notes for delivery and the expenses of
+printing or producing any underwriting agreements, agreements among
+underwriters, selling agreements and blue sky or legal investment memoranda and
+all other documents in connection with the offering, sale or delivery of Notes
+to be disposed of (including, without limitation, certificates representing the
+Notes), (d) messenger, telephone and delivery expenses relating to the offering,
+sale or delivery of Notes and the preparation of documents referred in clause
+(c) above, (e) fees and expenses of the Trustee under the Indenture, any agent
+of the Trustee and any reasonable fees and expenses for counsel for the Trustee
+and of any collateral agent or custodian, (f) internal expenses (including,
+without limitation, all salaries and expenses of the Issuers' officers and
+employees performing legal or accounting duties), (g) fees, disbursements and
+expenses of counsel and independent certified public accountants of the Issuers
+(including, without limitation, the expenses of any opinions or "cold comfort"
+letters required by or incident to such performance and compliance), (h) fees,
+disbursements and expenses of any "qualified independent underwriter" engaged
+pursuant to Section 3(e)(xix) hereof, (i) reasonable fees, disbursements and
+expenses of one counsel for the Electing Holders retained in connection with a
+Shelf Registration, as selected by the Electing Holders of at least a majority
+in aggregate principal amount of the Registrable Securities held by Electing
+Holders (which counsel shall be reasonably satisfactory to the Issuers), (j) any
+fees charged by securities rating services for rating the Notes, and (k)
+reasonable fees, expenses and disbursements of any other persons, including,
+without limitation, special experts, retained by the Issuers in connection with
+such registration (collectively, the "Registration Expenses"). To the extent
+that any Registration Expenses are incurred, assumed or paid by any holder of
+Registrable Securities or any placement or sales agent therefor or underwriter
+thereof, the Issuers shall reimburse such person for the full amount of the
+Registration Expenses so incurred, assumed or paid promptly after receipt of a
+request therefor. Notwithstanding the foregoing, the holders of the Registrable
+Securities being registered shall pay all agency fees and commissions and
+underwriting discounts and commissions attributable to the sale of such
+Registrable Securities
+
+                                       18
+<PAGE>
+
+and the fees and disbursements of any counsel or other advisors or experts
+retained by such holders (severally or jointly), other than the counsel and
+experts specifically referred to above.
+
+         5. Representations, Warranties and Covenants.
+
+         Except with respect to clauses (a) and (b) below, the Issuers represent
+and warrant to, and agree with, each Purchaser and each of the holders from time
+to time of Registrable Securities the information set forth in this Section 5.
+
+         With respect to clauses (a) and (b) below, the Issuers covenant that:
+
+                  (a) Each registration statement covering Registrable
+Securities and each prospectus (including, without limitation, any preliminary
+or summary prospectus) contained therein or furnished pursuant to Section 3(e)
+or Section 3(c) hereof and any further amendments or supplements to any such
+registration statement or prospectus, when it becomes effective or is filed with
+the Commission, as the case may be, and, in the case of an underwritten offering
+of Registrable Securities, at the time of the closing under the underwriting
+agreement relating thereto, will conform in all material respects to the
+requirements of the Securities Act and the Trust Indenture Act and will not
+contain an untrue statement of a material fact or omit to state a material fact
+required to be stated therein or necessary to make the statements therein not
+misleading; and at all times subsequent to the Effective Time when a prospectus
+would be required to be delivered under the Securities Act, other than from (i)
+such time as a notice has been given to holders of Registrable Securities
+pursuant to Section 3(e)(viii)(F) or Section 3(c)(iii)(F) hereof until (ii) such
+time as the Issuers furnishes an amended or supplemented prospectus pursuant to
+Section 3(f) or Section 3(c)(iv) hereof, each such registration statement, and
+each prospectus (including, without limitation, any preliminary or summary
+prospectus) contained therein or furnished pursuant to Section 3(e) or Section
+3(c) hereof, as then amended or supplemented, will conform in all material
+respects to the requirements of the Securities Act and the Trust Indenture Act
+and will not contain an untrue statement of a material fact or omit to state a
+material fact required to be stated therein or necessary to make the statements
+therein not misleading in the light of the circumstances then existing;
+provided, however, that this covenant shall not apply to any statements or
+omissions made in reliance upon and in conformity with information furnished in
+writing to the Issuers by a holder of Registrable Securities expressly for use
+therein.
+
+                  (b) Any documents incorporated by reference in any prospectus
+referred to in Section 5(a) hereof, when they become or became effective or are
+or were filed with the Commission, as the case may be, will conform or conformed
+in all material respects to the requirements of the Securities Act or the
+Exchange Act, as applicable, and none of such documents will contain or
+contained an untrue statement of a material fact or will omit or omitted to
+state a material fact required to be stated therein or necessary to make the
+statements therein not misleading; provided, however, that this covenant shall
+not apply to any statements or omissions made in reliance upon and in conformity
+with information furnished in writing to the Issuers by a holder of Registrable
+Securities expressly for use therein.
+
+                  (c) The compliance by the Issuers with all the provisions of
+this Exchange and Registration Rights Agreement and the consummation of the
+transactions herein contemplated will not conflict with or result in a material
+breach of any of the terms or provisions of, or constitute a default under, any
+indenture, mortgage, deed of trust, loan agreement, lease, license, franchise
+agreement, permit or other material agreement or instrument to which either of
+the Issuers or any of Charter Communications, Inc. ("CCI"), Charter
+Communications Holding
+
+                                       19
+<PAGE>
+
+Company, LLC ("CCH LLC"), Charter Communications Holdings, LLC ("Holdings"), CCH
+I, LLC ("CCH I") and CCH II, LLC (collectively with CCI, CCH LLC, Holdings and
+CCH I, the "Parent Companies") or the Issuers' subsidiaries is a party or by
+which either of the Issuers or any of their Parent Companies or the Issuers'
+subsidiaries is bound or to which any of the property or assets of the Issuers
+or any of their Parent Companies or the Issuers' subsidiaries is subject, nor
+will such action result in any violation of the provisions of the certificate of
+formation or limited liability company agreement of the Company or the
+certificate of incorporation or bylaws of CCO Holdings Capital or any statute or
+any order, rule or regulation of any court or governmental agency or body,
+including without limitation, the Communications Act of 1934, as amended, the
+Cable Communications Policy Act of 1984, as amended, the Cable Television
+Consumer Protection and Competition Act of 1992, as amended, and the
+Telecommunications Act of 1996 (collectively, the "Cable Acts") or any order,
+rule or regulation of the Federal Communications Commission (the "FCC"), having
+jurisdiction over the Issuers or any of their Parent Companies or the Issuers'
+subsidiaries or any of their properties, except for any such violation which
+would not materially impair the Issuers' ability to comply herewith; and no
+consent, approval, authorization, order, registration or qualification of or
+with any such court or governmental agency or body is required, including,
+without limitation, under the Cable Acts or any order, rule or regulation of the
+FCC, for the consummation by the Issuers of the transactions contemplated by
+this Exchange and Registration Rights Agreement, except the registration under
+the Securities Act of the Notes, qualification of the Indenture under the Trust
+Indenture Act and such consents, approvals, authorizations, registrations or
+qualifications as may be required under State Notes or blue sky laws in
+connection with the offering and distribution of the Notes.
+
+                  (d) This Exchange and Registration Rights Agreement has been
+duly authorized, executed and delivered by the Issuers.
+
+         6. Indemnification.
+
+                  (a) The Issuers, jointly and severally, agree to indemnify and
+hold harmless each holder of Registrable Securities or Exchange Notes, as the
+case may be, covered by any Exchange Offer Registration Statement or Shelf
+Registration Statement (including each Purchaser and, with respect to any
+prospectus delivery as contemplated in Section 3(c)(ii) or (iv) hereof, each
+holder (which may include any Purchaser) that is a broker-dealer and elects to
+exchange for Exchange Notes any Registrable Securities that it acquired for its
+own account as a result of market-making activities or other trading activities
+(but not directly from the Issuers or any affiliate of the Issuers) for Exchange
+Notes) (each an "Exchanging Dealer"), the affiliates, directors, officers,
+employees and agents of each such holder and each person who controls any such
+holder within the meaning of either the Securities Act or the Exchange Act
+against any and all losses, claims, damages or liabilities, joint or several, to
+which they or any of them may become subject under the Securities Act, the
+Exchange Act or other Federal or state statutory law or regulation, at common
+law or otherwise, insofar as such losses, claims, damages or liabilities (or
+actions in respect thereof) arise out of or are based upon any untrue statement
+or alleged untrue statement of a material fact contained in the Exchange Offer
+Registration Statement or Shelf Registration Statement as originally filed or in
+any amendment thereof, or in any preliminary prospectus or the prospectus
+included in any registration statement, or in any amendment thereof or
+supplement thereto, or arise out of or are based upon the omission or alleged
+omission to state therein a material fact required to be stated therein or
+necessary to make the statements therein not misleading, and agrees to reimburse
+each such indemnified party, as incurred, for any legal or other expenses
+reasonably incurred by them in connection with investigating or defending any
+such loss, claim, damage, liability or action; provided, however,
+
+                                       20
+<PAGE>
+
+that the Issuers will not be liable in any case to the extent that any such
+loss, claim, damage or liability arises out of or is based upon any such untrue
+statement or alleged untrue statement or omission or alleged omission made
+therein in reliance upon and in conformity with written information furnished to
+the Issuers by or on behalf of any such holder specifically for inclusion
+therein. This indemnity agreement will be in addition to any liability which the
+Issuers may otherwise have.
+
+                  The Issuers, jointly and severally, also agree to indemnify or
+contribute as provided in Section 6(d) to Losses of any underwriter of
+Registrable Securities or Exchange Notes, as the case may be, registered under a
+Shelf Registration Statement, their directors, officers, employees or agents and
+each person who controls such underwriter within the meaning of either the
+Securities Act or the Exchange Act, on substantially the same basis as that of
+the indemnification of the Purchasers and the selling Holders provided in this
+Section 6(a) and shall, if requested by any holder, enter into an underwriting
+agreement reflecting such agreement, as provided in Section 3(e)(xvi) hereof.
+
+                  (b) Each holder of Registrable Securities or Exchange Notes
+covered by an Exchange Offer Registration Statement or Shelf Registration
+Statement (including each Purchaser and, with respect to any prospectus delivery
+as contemplated in Section 3(c)(ii or iv) or Section 3(f) hereof, each
+Exchanging Dealer) severally agrees to indemnify and hold harmless the Issuers
+and each of their affiliates, directors, employees, members, managers and agents
+and each Person who controls the Issuers within the meaning of either the
+Securities Act or the Exchange Act, to the same extent as the foregoing
+indemnity from the Issuers to each such holder, but only with reference to
+written information relating to such holder furnished to the Issuers by or on
+behalf of such holder specifically for inclusion in the documents referred to in
+the foregoing indemnity. This indemnity agreement will be in addition to any
+liability which any such holder may otherwise have.
+
+                  (c) Promptly after receipt by an indemnified party under this
+Section 6 or notice of the commencement of any action, such indemnified party
+will, if a claim in respect thereof is to be made against the indemnifying party
+under this Section 6, notify the indemnifying party in writing of the
+commencement thereof; but the failure so to notify the indemnifying party (i)
+will not relieve it from liability under paragraph (a) or (b) above unless and
+to the extent such action and such failure results in the forfeiture by the
+indemnifying party of substantial rights and defenses; and (ii) will not, in any
+event, relieve the indemnifying party from any obligations to any indemnified
+party other than the indemnification obligation provided in paragraph (a) or (b)
+above. The indemnifying party shall be entitled to participate therein and, to
+the extent that it shall wish, jointly with any other indemnifying party
+similarly notified, to assume the defense thereof, with counsel satisfactory to
+such indemnified party (who shall not, except with the consent of the
+indemnified party, be counsel to the indemnifying party), and, except as
+provided in the next sentence, after notice from the indemnifying party to such
+indemnified party of its election to so assume the defense thereof, the
+indemnifying party shall not be liable to such indemnified party for any legal
+expenses of other counsel or any other expenses, in each case subsequently
+incurred by such indemnified party, in connection with the defense thereof other
+than reasonable costs of investigation. Notwithstanding the indemnifying party's
+rights in the prior sentence, the indemnified party shall have the right to
+employ its own counsel (and one local counsel), and the indemnifying party shall
+bear the reasonable fees, costs and expenses of such separate counsel if (i) the
+use of counsel chosen by the indemnifying party to represent the indemnified
+party would present such counsel with a conflict of interest; (ii) the actual or
+potential defendants in, or targets of, any such action include both the
+indemnified party and the indemnifying party and the indemnified party shall
+have reasonably concluded that there may be
+
+                                       21
+<PAGE>
+
+legal defenses available to it and/or other indemnified parties which are
+different from or additional to those available to the indemnifying party; (iii)
+the indemnifying party shall not have employed counsel satisfactory to the
+indemnified party to represent the indemnified party within a reasonable time
+after notice of the institution of such action; or (iv) the indemnifying party
+shall authorize the indemnified party to employ separate counsel at the expense
+of the indemnifying party. No indemnifying party shall, in connection with any
+one action or separate but substantially similar or related actions in the same
+jurisdiction arising out of the same general circumstances or allegations, be
+liable for the fees and expenses of more than one separate firm of attorneys (in
+addition to any local counsel) for all indemnified parties. An indemnifying
+party shall not be liable under this Section 6 to any indemnified party
+regarding any settlement or compromise or consent to the entry of any judgment
+with respect to any pending or threatened claim, action, suit or proceeding in
+respect of which indemnification or contribution may be sought hereunder
+(whether or not the indemnified parties are actual or potential parties to such
+claim or action) unless such settlement, compromise or consent is consented to
+by such indemnifying party, which consent shall not be unreasonably withheld.
+
+                  (d) In the event that the indemnity provided in paragraph (a)
+or (b) of this Section 6 is unavailable to or insufficient to hold harmless an
+indemnified party for any reason, then each applicable indemnifying party agrees
+to contribute to the aggregate losses, claims, damages and liabilities
+(including, without limitation, legal or other expenses reasonably incurred in
+connection with investigating or defending same) (collectively "Losses") to
+which such indemnifying party may be subject in such proportion as is
+appropriate to reflect the relative benefits received by the indemnifying party
+on the one hand and by the indemnified party on the other from the offering of
+the Notes. If, however, the allocation provided by the immediately preceding
+sentence is not permitted by applicable law or if the indemnified party failed
+to give the notice required under subsection (c) above, then each indemnifying
+party shall contribute to such amount paid or payable by such indemnified party
+in such proportion as is appropriate to reflect not only such relative benefits
+but also the relative fault of the indemnifying party on the one hand and the
+indemnified party on the other in connection with the statements or omissions
+which resulted in such losses, claims, damages or liabilities (or actions in
+respect thereof), as well as any other relevant equitable considerations.
+Benefits received by the Issuers shall be deemed to be equal to the sum of (x)
+the total net proceeds from the initial placement of the Notes (before deducting
+expenses) reflected in the Purchase Agreement and (y) the total amount of
+Special Interest which the Issuers were not required to pay as a result of
+registering the securities covered by the Exchange Offer Registration Statement
+or Shelf Registration Statement which resulted in such Losses. Benefits received
+by the Purchasers shall be deemed to be equal to the total purchase discounts
+and commissions as reflected in the Purchase Agreement, and benefits received by
+any other holders shall be deemed to be equal to the proceeds received from the
+sale of the Registrable Securities or Exchange Notes, as applicable. Benefits
+received by any underwriter shall be deemed to be equal to the total
+underwriting discounts and commissions, as set forth in the prospectus forming a
+part of the Exchange Offer Registration Statement or Shelf Registration
+Statement which resulted in such Losses. The relative fault shall be determined
+by reference to, among other things, whether the untrue or alleged untrue
+statement of a material fact or the omission or alleged omission to state a
+material fact relates to information supplied by the indemnifying party on the
+one hand or the Indemnified party on the other and the parties' relative intent,
+knowledge, access to information and opportunity to correct or prevent such
+statement or omission. The parties agree that it would not be just and equitable
+if contribution pursuant to this subsection (d) were determined by pro rata
+allocation (even if the holders or any agents or underwriters or all of them
+were treated as one entity for such purpose) or by any other method of
+allocation which does not take account of the equitable considerations referred
+to above in this subsection (d). The amount paid or payable by an indemnified
+party as a result of the losses,
+
+                                       22
+<PAGE>
+
+claims, damages or liabilities (or actions in respect thereof) referred to above
+in this subsection (d) shall be deemed to include any legal or other expenses
+reasonably incurred by such indemnified party in connection with investigating
+or defending any such action or claim. Notwithstanding the provisions of this
+subsection (d), no holder shall be required to contribute any amount in excess
+of the amount by which the dollar amount of the proceeds received by such holder
+from the sale of Registrable Securities (after deducting any fees, discounts and
+commissions applicable thereto) exceeds the amount of any damages which such
+holder has otherwise been required to pay by reason of such untrue or alleged
+untrue statement or omission or alleged omission, and no underwriter shall be
+required to contribute any amount in excess of the amount by which the total
+price of the Registrable Securities underwritten by it and distributed to the
+public exceeds the amount of any damages which such underwriter has otherwise
+been required to pay by reason of such untrue or alleged untrue statement or
+omission or alleged omission. The holders' and any underwriters' obligations in
+this subsection (d) to contribute are several in proportion to the principal
+amount of Registrable Securities registered or underwritten, as the case may be,
+by them, and not joint. Notwithstanding the provisions of this paragraph (d), no
+person guilty of fraudulent misrepresentation (within the meaning of Section
+11(f) of the Securities Act) shall be entitled to contribution from any person
+who was not guilty of such fraudulent misrepresentation. For purposes of this
+Section 6, each person who controls any holder, agent or underwriter within the
+meaning of either the Securities Act or the Exchange Act and each director,
+officer, employee and agent of a holder, agent or underwriter shall have the
+same rights to contribution as such holder, agent or underwriter, and each
+person who controls the Issuers within the meaning of either the Securities Act
+or the Exchange Act and each officer and director of the Issuers shall have the
+same rights to contribution as the Issuers, subject in each case to the
+applicable terms and conditions of this paragraph (d).
+
+                  (e) The provisions of this Section will remain in full force
+and effect, regardless of any investigation made by or on behalf of any holder
+or the Issuers or any of the officers, directors or controlling persons referred
+to in this Section hereof, and will survive the sale by a holder of securities
+covered by an Exchange Offer Registration Statement or Shelf Registration
+Statement.
+
+         7. Underwritten Offerings.
+
+                  (a) Selection of Underwriters. If any of the Registrable
+Securities covered by the Shelf Registration are to be sold pursuant to an
+underwritten offering, the managing underwriter or underwriters thereof shall be
+designated by Electing Holders holding at least a majority in aggregate
+principal amount of the Registrable Securities to be included in such offering,
+provided that such designated managing underwriter or underwriters is or are
+reasonably acceptable to the Issuers.
+
+                  (b) Participation by Holders. Each holder of Registrable
+Securities hereby agrees with each other such holder that no such holder may
+participate in any underwritten offering hereunder unless such holder (i) agrees
+to sell such holder's Registrable Securities on the basis provided in any
+underwriting arrangements approved by the persons entitled hereunder to approve
+such arrangements and (ii) completes and executes all questionnaires, powers of
+attorney, indemnities, underwriting agreements and other documents reasonably
+required under the terms of such underwriting arrangements.
+
+         8. Rule 144.
+
+                                       23
+<PAGE>
+
+         Each of the Issuers covenants to the holders of Registrable Securities
+that to the extent it shall be required to do so under the Exchange Act, it
+shall timely file the reports required to be filed by it under the Exchange Act
+or the Securities Act (including, without limitation, the reports under Section
+13 and 15(d) of the Exchange Act referred to in subparagraph (c)(1) of Rule 144
+adopted by the Commission under the Securities Act), and shall take such further
+action as any holder of Registrable Securities may reasonably request, all to
+the extent required from time to time to enable such holder to sell Registrable
+Securities without registration under the Securities Act within the limitations
+of the exemption provided by Rule 144 under the Securities Act, or any similar
+or successor rule or regulation hereafter adopted by the Commission. Upon the
+request of any holder of Registrable Securities in connection with that holder's
+sale pursuant to Rule 144, the Issuers shall deliver to such holder a written
+statement as to whether it has complied with such requirements.
+
+         9. Miscellaneous.
+
+                  (a) No Inconsistent Agreements. The Issuers represent,
+warrant, covenant and agree that they have not granted, and shall not grant,
+registration rights with respect to Registrable Securities or any other Notes
+which would be inconsistent with the terms contained in this Exchange and
+Registration Rights Agreement.
+
+                  (b) Specific Performance. The parties hereto acknowledge that
+there would be no adequate remedy at law if the Issuers fail to perform any of
+their obligations hereunder and that the Purchasers and the holders from time to
+time of the Registrable Securities may be irreparably harmed by any such
+failure, and accordingly agree that the Purchasers and such holders, in addition
+to any other remedy to which they may be entitled at law or in equity, shall be
+entitled to compel specific performance of the obligations of the Issuers under
+this Exchange and Registration Rights Agreement in accordance with the terms and
+conditions of this Exchange and Registration Rights Agreement, in any court of
+the United States or any State thereof having jurisdiction.
+
+                  (c) Notices. All notices, requests, claims, demands, waivers
+and other communications hereunder shall be in writing and shall be deemed to
+have been duly given (i) when delivered by hand, if delivered personally or by
+courier, (ii) when sent by facsimile (with written confirmation of receipt),
+provided that a copy is mailed by registered or certified mail, return receipt
+requested or (iii) three days after being deposited in the mail (registered or
+certified mail, postage prepaid, return receipt requested) as follows: If to the
+Issuers, c/o CCO Holdings, LLC, 12405 Powerscourt Drive, St. Louis, Missouri,
+63131, Attention: Secretary, and if to a holder, to the address of such holder
+set forth in the security register or other records of the Issuers, or to such
+other address as the Issuers or any such holder may have furnished to the other
+in writing in accordance herewith, with a copy in like manner c/o Credit Suisse
+First Boston LLC Attn: [_____________], Eleven Madison Avenue, New York, New
+York 10010 (fax: (212) [________]). Notices of change of address shall be
+effective only upon receipt.
+
+                  (d) Parties in Interest. All the terms and provisions of this
+Exchange and Registration Rights Agreement shall be binding upon, shall inure to
+the benefit of and shall be enforceable by the parties hereto and the holders
+from time to time of the Registrable Securities and the respective successors
+and assigns of the parties hereto and such holders. In the event that any person
+shall acquire Registrable Securities, in any manner, whether by gift, bequest,
+purchase, operation of law or otherwise, such transferee shall, without any
+further writing or action of any kind, be deemed a beneficiary hereof for all
+purposes and such Registrable Securities shall be held subject to all the terms
+of this Exchange and Registration Rights
+
+                                       24
+<PAGE>
+
+Agreement, and by taking and holding such Registrable Securities such transferee
+shall be entitled to receive the benefits, and be conclusively deemed to have
+agreed to be bound by all the applicable terms and provisions, of this Exchange
+and Registration Rights Agreement. If the Issuers shall so request, any such
+successor, assign or transferee shall agree in writing to acquire and hold the
+Registrable Securities subject to all the applicable terms hereof.
+
+                  (e) Survival. The respective indemnities, agreements,
+representations, warranties and each other provision set forth in this Exchange
+and Registration Rights Agreement or made pursuant hereto shall remain in full
+force and effect regardless of any investigation (or statement as to the results
+thereof) made by or on behalf of any holder of Registrable Securities, any
+director, officer or partner of such holder, any agent or underwriter or any
+director, officer or partner thereof, or any controlling person of any of the
+foregoing, and shall survive delivery of and payment for the Registrable
+Securities pursuant to the Purchase Agreement and the transfer and registration
+of Registrable Securities by such holder and the consummation of an Exchange
+Offer.
+
+                  (f) GOVERNING LAW. THIS EXCHANGE AND REGISTRATION RIGHTS
+AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE
+STATE OF NEW YORK.
+
+                  (g) Headings. The descriptive headings of the several Sections
+and paragraphs of this Exchange and Registration Rights Agreement are inserted
+for convenience only, do not constitute a part of this Exchange and Registration
+Rights Agreement and shall not affect in any way the meaning or interpretation
+of this Exchange and Registration Rights Agreement.
+
+                  (h) Entire Agreement; Amendments. This Exchange and
+Registration Rights Agreement and the other writings referred to herein
+(including, without limitation, the Indenture and the form of Notes) or
+delivered pursuant hereto which form a part hereof contain the entire
+understanding of the parties with respect to its subject matter. This Exchange
+and Registration Rights Agreement supersedes all prior agreements and
+understandings between the parties with respect to its subject matter. This
+Exchange and Registration Rights Agreement may be amended and the observance of
+any term of this Exchange and Registration Rights Agreement may be waived
+(either generally or in a particular instance and either retroactively or
+prospectively) only by a written instrument duly executed by the Issuers and the
+holders of at least a majority in aggregate principal amount of the Registrable
+Securities at the time outstanding. Each holder of any Registrable Securities at
+the time or thereafter outstanding shall be bound by any amendment or waiver
+effected pursuant to this Section 9(h), whether or not any notice, writing or
+marking indicating such amendment or waiver appears on such Registrable
+Securities or is delivered to such holder.
+
+                  (i) Inspection. For so long as this Exchange and Registration
+Rights Agreement shall be in effect, this Exchange and Registration Rights
+Agreement and a complete list of the names and addresses of all the holders of
+Registrable Securities shall be made available for inspection and copying, upon
+reasonable prior notice, on any business day during normal business hours by any
+holder of Registrable Securities for proper purposes only (which shall include
+any purpose related to the rights of the holders of Registrable Securities under
+the Notes, the Indenture and this Exchange and Registration Rights Agreement) at
+the offices of the Issuers at the address thereof set forth in Section 9(c)
+above and at the office of the Trustee under the Indenture.
+
+                                       25
+<PAGE>
+
+                  (j) Counterparts. This agreement may be executed by the
+parties in counterparts, each of which shall be deemed to be an original, but
+all such respective counterparts shall together constitute one and the same
+instrument.
+
+                  (k) Severability. In the event that any one of more of the
+provisions contained herein, or the application thereof in any circumstances, is
+held invalid, illegal or unenforceable in any respect for any reason, the
+validity, legality and enforceability of any such provision in every other
+respect and of the remaining provisions hereof shall not be in any way impaired
+or affected thereby, it being intended that all of the rights and privileges of
+the parties shall be enforceable to the fullest extent permitted by law.
+
+                  (l) Securities Held by the Issuers, etc. Whenever the consent
+or approval of holders of a specified percentage of principal amount of
+Registrable Securities or Exchange Notes is required hereunder, Registrable
+Securities or Exchange Notes, as applicable, held by the Issuers or their
+affiliates (other than subsequent holders of Registrable Securities or Exchange
+Notes if such subsequent holders are deemed to be affiliates solely by reason of
+their holdings of such Registrable Securities or Exchange Notes) shall not be
+counted in determining whether such consent or approval was given by the holders
+of such required percentage.
+
+                                       26
+<PAGE>
+
+         SIGNATURE PAGE TO THE REGISTRATION RIGHTS AGREEMENT If the foregoing is
+in accordance with your understanding, please sign and return to us counterparts
+hereof, and upon the acceptance hereof by you, on behalf of each of the
+Purchasers, this letter and such acceptance hereof shall constitute a binding
+agreement between each of the Purchasers and the Issuers. It is understood that
+your acceptance of this letter on behalf of each of the Purchasers is pursuant
+to the authority set forth in a form of Agreement among Purchasers, the form of
+which shall be submitted to the issuers for examination upon request, but
+without warranty on your part as to the authority of the signers thereof.
+
+                                              Very truly yours,
+
+                                              CCO HOLDINGS, LLC,
+                                                  as an Issuer
+
+                                              By:_______________________________
+                                                 Name:
+                                                 Title:
+
+                                              CCO HOLDINGS CAPITAL CORP.,
+                                                  as an Issuer
+
+                                              By:_______________________________
+                                                 Name:
+                                                 Title:
+
+               SIGNATURE PAGE TO THE REGISTRATION RIGHTS AGREEMENT
+
+<PAGE>
+
+Accepted as of the date hereof:
+
+CREDIT SUISSE FIRST BOSTON LLC
+Citigroup Global Markets Inc.
+as Representatives of the Several Purchasers
+
+By: CREDIT SUISSE FIRST BOSTON LLC
+
+By:___________________________________________
+   Name:
+   Title:
+
+               SIGNATURE PAGE TO THE REGISTRATION RIGHTS AGREEMENT
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+                                CCO HOLDINGS, LLC
+                           CCO HOLDINGS CAPITAL CORP.
+
+                         INSTRUCTION TO DTC PARTICIPANTS
+
+                                (Date of Mailing)
+
+                     URGENT - IMMEDIATE ATTENTION REQUESTED
+
+                        DEADLINE FOR RESPONSE: [DATE](a)
+
+         The Depository Trust Company ("DTC") has identified you as a DTC
+Participant through which beneficial interests in the CCO Holdings, LLC (the
+"Company") and CCO Holdings Capital Corp. (together with the Company, the
+"Issuers'") Senior Floating Rate Notes due 2010 issued on December 15, 2004 (the
+"Notes") are held.
+
+         The Issuers are in the process of registering the Notes under the
+Securities Act of 1933, as amended, for resale by the beneficial owners thereof.
+In order to have their Notes included in the registration statement, beneficial
+owners must complete and return the enclosed Notice of Registration Statement
+and Selling Securityholder Questionnaire.
+
+         It is important that beneficial owners of the Notes receive a copy of
+the enclosed materials as soon as possible as their rights to have the Notes
+included in the registration statement depend upon their returning the Notice
+and Questionnaire by [Deadline For Response]. Please forward a copy of the
+enclosed documents to each beneficial owner that holds interests in the Notes
+through you. If you require more copies of the enclosed materials or have any
+questions pertaining to this matter, please contact the Issuers c/o CCO
+Holdings, LLC, 12405 Powerscourt Drive, St. Louis, Missouri, 63131, Attention:
+Secretary.
+
+         (a) Not less than 28 calendar days from date of mailing.
+
+                                      A-1
+<PAGE>
+
+                                CCO HOLDINGS, LLC
+                        CCO HOLDINGS CAPITAL CORPORATION
+
+                        Notice of Registration Statement
+                                       and
+                      Selling Securityholder Questionnaire
+
+                                     (Date)
+
+         Reference is hereby made to the Exchange and Registration Rights
+Agreement (the "Exchange and Registration Rights Agreement") between CCO
+Holdings, LLC and CCO Holdings Capital Corp. (together, the "Issuers"), and the
+Purchasers named therein. Pursuant to the Exchange and Registration Rights
+Agreement, the Issuers have filed with the United States Securities and Exchange
+Commission (the "Commission") a registration statement on Form S-1 (the "Shelf
+Registration Statement") for the registration and resale under Rule 415 of the
+Securities Act of 1933, as amended (the "Securities Act"), of the Issuers'
+Senior Floating Rate Notes due 2010 issued on December 15, 2004 (the "Notes"). A
+copy of the Exchange and Registration Rights Agreement is attached hereto. All
+capitalized terms not otherwise defined herein shall have the meanings ascribed
+thereto in the Exchange and Registration Rights Agreement.
+
+         Each beneficial owner of Registrable Securities is entitled to have the
+Registrable Securities beneficially owned by it included in the Shelf
+Registration Statement. In order to have Registrable Securities included in the
+Shelf Registration Statement, this Notice of Registration Statement and Selling
+Securityholder Questionnaire ("Notice and Questionnaire") must be completed,
+executed and delivered to the Issuers' counsel at the address set forth herein
+for receipt ON OR BEFORE [Deadline for Response]. Beneficial owners of
+Registrable Securities who do not complete, execute and return this Notice and
+Questionnaire by such date (i) will not be named as selling securityholders in
+the Shelf Registration Statement and (ii) may not use the Prospectus forming a
+part thereof for resales of Registrable Securities.
+
+         Certain legal consequences arise from being named as a selling
+securityholder in the Shelf Registration Statement and related prospectus.
+Accordingly, holders and beneficial owners of Registrable Securities are advised
+to consult their own securities law counsel regarding the consequences of being
+named or not being named as a selling securityholder in the Shelf Registration
+Statement and related prospectus.
+
+                                      A-2
+<PAGE>
+
+                                    ELECTION
+
+         The undersigned holder (the "Selling Securityholder") of Registrable
+Securities hereby elects to include in the Shelf Registration Statement the
+Registrable Securities beneficially owned by it and listed below in Item (3).
+The undersigned, by signing and returning this Notice and Questionnaire, agrees
+to be bound with respect to such Registrable Securities by the terms and
+conditions of this Notice and Questionnaire and the Exchange and Registration
+Rights Agreement, including, without limitation, Section 6 of the Exchange and
+Registration Rights Agreement, as if the undersigned Selling Securityholder were
+an original party thereto.
+
+         Upon any sale of Registrable Securities pursuant to the Shelf
+Registration Statement, the Selling Securityholder will be required to deliver
+to the Issuers and the Trustee the Notice of Transfer Pursuant to Registration
+Statement set forth in Exhibit B to the Exchange and Registration Rights
+Agreement.
+
+         The Selling Securityholder hereby provides the following information to
+the Issuers and represents and warrants that such information is accurate and
+complete:
+
+                                  QUESTIONNAIRE
+
+(1)     (a) Full Legal Name of Selling Securityholder:
+
+         (b) Full Legal Name of Registered Holder (if not the same as in (a)
+above) of Registrable Securities Listed in Item (3) below:
+
+         (c) Full Legal Name of DTC Participant (if applicable and if not the
+same as (b) above) Through Which Registrable Securities Listed in Item (3) below
+are Held:
+
+(2)      Address for Notices to Selling Securityholder:
+
+         _______________________________
+
+         _______________________________
+
+         _______________________________
+
+         Telephone:      _______________________________
+
+         Fax:            _______________________________
+
+         Contact Person: _______________________________
+
+                                      A-3
+<PAGE>
+
+(3)      Beneficial Ownership of Notes:
+
+         Except as set forth below in this Item (3), the undersigned does not
+beneficially own any Notes.
+
+         (a)      Principal amount of Registrable Securities beneficially owned:
+
+                  ______________________________________________________________
+
+                  CUSIP No(s). of such Registrable Securities: _________________
+
+         (b)      Principal amount of Notes other than Registrable Securities
+                  beneficially owned:
+
+                  ______________________________________________________________
+
+                  CUSIP No(s). of such other Notes: ____________________________
+
+         (c)      Principal amount of Registrable Securities which the
+                  undersigned wishes to be included in the Shelf Registration
+                  Statement: ___________________________________________________
+
+                  CUSIP No(s). of such Registrable Securities to be included in
+                  the Shelf Registration Statement: ____________________________
+
+(4)      Beneficial Ownership of Other Securities of the Issuers:
+
+         Except as set forth below in this Item (4), the undersigned Selling
+         Securityholder is not the beneficial or registered owner of any other
+         securities of the Issuers other than the Notes listed above in Item
+         (3).
+
+         State any exceptions here:
+
+(5)      Relationships with the Issuers:
+
+         Except as set forth below, neither the Selling Securityholder nor any
+         of its affiliates, officers, directors or principal equity holders (5%
+         or more) has held any position or office or has had any other material
+         relationship with the Issuers (or their respective predecessors or
+         affiliates) during the past three years.
+
+         State any exceptions here:
+
+(6)      Plan of Distribution:
+
+         Except as set forth below, the undersigned Selling Securityholder
+         intends to distribute the Registrable Securities listed above in Item
+         (3) only as follows (if at all): Such Registrable Securities may be
+         sold from time to time directly by the undersigned Selling
+         Securityholder or, alternatively, through underwriters, broker-dealers
+         or agents. Such Registrable Securities may be sold in one or more
+         transactions at fixed prices, at prevailing market prices at the time
+         of sale, at varying prices determined at the time of sale, or at
+         negotiated prices. Such sales may be effected in transactions (which
+         may involve crosses or block transactions) (i) on any national
+         securities exchange or quotation service on which the Registered Notes
+         may be listed or quoted at the time of sale, (ii) in the
+         over-the-counter market, (iii) in transactions otherwise than on such
+         exchanges or
+
+                                      A-4
+<PAGE>
+
+         services or in the over-the-counter market, or (iv) through the writing
+         of options. In connection with sales of the Registrable Securities or
+         otherwise, the Selling Securityholder may enter into hedging
+         transactions with broker-dealers, which may in turn engage in short
+         sales of the Registrable Securities in the course of hedging the
+         positions they assume. The Selling Securityholder may also sell
+         Registrable Securities short and deliver Registrable Securities to
+         close out such short positions, or loan or pledge Registrable
+         Securities to broker-dealers that in turn may sell such Notes.
+
+         State any exceptions here:
+
+By signing below, the Selling Securityholder acknowledges that it understands
+its obligation to comply, and agrees that it will comply, with the provisions of
+the Exchange Act including, without limitation, Regulation M.
+
+In the event that the Selling Securityholder transfers all or any portion of the
+Registrable Securities listed in Item (3) above after the date on which such
+information is provided to the Issuers, the Selling Securityholder agrees to
+notify the transferee(s) at the time of the transfer of its rights and
+obligations under this Notice and Questionnaire and the Exchange and
+Registration Rights Agreement.
+
+By signing below, the Selling Securityholder consents to the disclosure of the
+information contained herein in its answers to Items (1) through (6) above and
+the inclusion of such information in the Shelf Registration Statement and
+related Prospectus. The Selling Securityholder understands that such information
+will be relied upon by the Issuers in connection with the preparation of the
+Shelf Registration Statement and related Prospectus.
+
+In accordance with the Selling Securityholder's obligation under Section 3(e) of
+the Exchange and Registration Rights Agreement to provide such information as
+may be required by law for inclusion in the Shelf Registration Statement, the
+Selling Securityholder agrees to promptly notify the Issuers of any inaccuracies
+or changes in the information provided herein which may occur subsequent to the
+date hereof at any time while the Shelf Registration Statement remains in
+effect. All notices hereunder and pursuant to the Exchange and Registration
+Rights Agreement shall be made in writing, by hand-delivery, first-class mail,
+or air courier guaranteeing overnight delivery as follows:
+
+         (i) To the Issuers:
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+                                      A-5
+<PAGE>
+
+         (ii) With a copy to:
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+Once this Notice and Questionnaire is executed by the Selling Securityholder and
+received by the Issuers' counsel, the terms of this Notice and Questionnaire,
+and the representations and warranties contained herein, shall be binding on,
+shall inure to the benefit of and shall be enforceable by the respective
+successors, heirs, personal representatives, and assigns of the Issuers and the
+Selling Securityholder (with respect to the Registrable Securities beneficially
+owned by such Selling Securityholder and listed in Item (3) above). This
+Agreement shall be governed in all respects by the laws of the State of New York
+without giving effect to any provisions relating to conflicts of laws.
+
+IN WITNESS WHEREOF, the undersigned, by authority duly given, has caused this
+Notice and Questionnaire to be executed and delivered either in person or by its
+duly authorized agent.
+
+Dated: ____________________
+
+________________________________________________________________________________
+         Selling Securityholder
+         (Print/type full legal name of beneficial owner of Registrable
+         Securities)
+
+         By ______________________________________
+            Name:
+            Title:
+
+PLEASE RETURN THE COMPLETED AND EXECUTED NOTICE AND QUESTIONNAIRE FOR RECEIPT ON
+OR BEFORE [DEADLINE FOR RESPONSE] TO THE ISSUERS' COUNSEL AT:
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+         _________________________
+
+                                      A-6
+<PAGE>
+
+                                                                       EXHIBIT B
+
+              NOTICE OF TRANSFER PURSUANT TO REGISTRATION STATEMENT
+
+Wells Fargo Bank, N.A.
+CCO Holdings, LLC
+CCO Holdings Capital Corp.
+c/o Wells Fargo Bank, N.A.
+[Address]
+[Address]
+Attention: Trust Officer
+
+         Re: CCO Holdings, LLC
+         and CCO Holdings Capital Corp.
+         (together, the "Issuers") Senior Floating Rate Notes due 2010 issued
+         on December 15, 2004
+
+Dear Sirs:
+
+Please be advised that ________________ has transferred $___________ aggregate
+principal amount of the above-referenced Notes pursuant to an effective
+Registration Statement on Form S-1 (File No. 333-____) filed by the Issuers.
+
+We hereby certify that the prospectus delivery requirements, if any, of the
+Securities Act of 1933, as amended, have been satisfied and that the above-named
+beneficial owner of the Notes is named as a "Selling Holder" in the prospectus
+dated [date] or in supplements thereto, and that the aggregate principal amount
+of the Notes transferred are the Notes listed in such prospectus opposite such
+owner's name.
+
+Dated:
+
+         Very truly yours,
+
+         __________________________________
+                  (Name)
+
+         By: ______________________________
+                 (Authorized Signature)
+
+                                       B-1
+

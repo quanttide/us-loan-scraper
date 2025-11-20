@@ -1,0 +1,209 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Qe6pV6yr+55zuM/ZKnVxZP/9nVHu21oL9POSwtyCM4bexS3F2RCx9Y5I3qFlRT2t
+ XdnqIkXGX63TI1ri3d1fug==
+
+<SEC-DOCUMENT>0001137050-04-000268.txt : 20041230
+<SEC-HEADER>0001137050-04-000268.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230121014
+ACCESSION NUMBER:		0001137050-04-000268
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041227
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIGITAL NETWORK ALLIANCE INTERNATIONAL, INC.
+		CENTRAL INDEX KEY:			0001116204
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				522175896
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50002
+		FILM NUMBER:		041233039
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4750 TABLE MESA DRIVE
+		CITY:			BOULDER
+		STATE:			CO
+		ZIP:			80303
+		BUSINESS PHONE:		2395982300
+
+	MAIL ADDRESS:	
+		STREET 1:		15/F EAST WING
+		STREET 2:		SINCERE INSURANCE BUILDING
+		CITY:			6 HENNESSY ROAD, WANCHAI
+		STATE:			K3
+		ZIP:			00000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SHEFFIELD PRODUCTS INC / DE
+		DATE OF NAME CHANGE:	20000606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>apnewdiredgar1230.htm
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>dgnewdir8k</TITLE>
+<META NAME="date" CONTENT=>
+</HEAD>
+<BODY style="line-height:12pt; font-size:10pt; color:#000000">
+<BR>
+<BR>
+<BR>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center><B>UNITED STATES</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center><B>Washington, D.C. 20549</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center><B>FORM 8-K</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>CURRENT REPORT</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>Date of Report (Date of earliest event reported): December 27, 2004</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center><B>DIGITAL NETWORK ALLIANCE INTERNATIONAL, INC.</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>(Exact name of registrant as specified in its charter)</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<TABLE style="margin-right:72pt; font-size:10pt" cellspacing=0><TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" valign=top width=175.2><P style="margin:0pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>Delaware</P>
+<P style="margin:0pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>(State of Incorporation)</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" valign=top width=192><P style="margin:0pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>0-50002</P>
+<P style="margin:0pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>(Commission File No.)</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" valign=top width=234><P style="margin:0pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>52-2175896</P>
+<P style="margin:0pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>(IRS Employer Identification No.)</P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>15/F East Wing</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>Sincere Insurance Building</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>6 Hennessy Road, Wanchai</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>Hong Kong</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>&nbsp;(Address of principal executive offices)</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt" align=center><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>852&#150;3104-9012</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>Registrant&#146;s telephone number)</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>SHEFFIELD PRODUCTS, INC.</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt" align=center>(Former Name or Former Address If Changed Since Last Report)</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:-10.25pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">[ &nbsp;]</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:-10.25pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">[ &nbsp;] </P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:-10.25pt; padding-left:36pt; text-indent:-36pt; width:504pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">[ &nbsp;]</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; padding-left:36pt; width:504pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:-10.25pt; padding-left:36pt; text-indent:-36pt; width:504pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">[ &nbsp;]</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; padding-left:36pt; width:504pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+<BR>
+<BR>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:11pt; font-family:Courier New; font-size:9pt" align=center>1</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<BR>
+
+<P style="page-break-before:always; margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt"><B>SECTION 5 - CORPORATE GOVERNANCE AND MANAGEMENT</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt"><B>ITEM 5.02 &nbsp;DEPARTURE OF DIRECTORS OR PRINCIPAL OFFICERS; ELECTION OF DIRECTORS; APPOINTMENT OF PRINCIPAL OFFICERS</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">On December 27, 2004, the existing directors of the Company appointed three new independent directors to serve with them as members of the board of directors. &nbsp;&nbsp;The three new directors appointed on that date were Leslie Terh Chiew Kim, David Ho and Paul Y.L. Tong.</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">There is no arrangement or understanding between any of the new directors and any other persons pursuant to which the new directors were selected as directors. &nbsp;There were no transactions during the last two years, or proposed transactions, to which the Company was or is to be a party, in which any of the new directors had or is to have a direct or indirect material interest. </P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:-10.25pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">&nbsp;</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">The new directors have not been appointed to any committees of the Board of Directors. &nbsp;The Company does not currently have standing audit, nominating or compensation committees of the Board of Directors or any other committees performing similar functions. All such applicable functions are currently being performed by the Board of Directors as a whole. &nbsp;</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt"><B><U>Biographical Information</U></B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">Biographical information regarding the three newly appointed independent directors follows:</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt"><B><U>Leslie Terh Chiew Kim</U></B>. &nbsp;Mr. Terh is retired as a business executive and as a military officer (Lt-Col, retired). &nbsp;From 1981 to 1985 he was Assistant Sales Manager in Southeast Asia for Radio Holland BV, a Dutch Multinational company which is part of the NedLloyd Group. &nbsp;From 1988 to 1995 he was General Manager in Southeast Asia for Racal Electronics, a British Multinational company, and from 1995 to 1997, he was General Manager and Director of Projects for Asia Pacific Telecommunications Corporation, a Canadian Multinational company. &nbsp;From 1963 to 1980 he was an active duty military officer in Singapore, where his appointments included serving as Commanding Officer of the School of Signal, Commanding Officer of the 1<SUP>st</SUP> Signal Battalion, Dy Chief of Signals, Head of Mindef Combined Arms and Joint Doctrine team 
+and Chief Instructor, Singapore Command and Staff College. &nbsp;&nbsp;From 1980 to 1992 he was in the military reserves during which time his appointments included serving as Infantry Brigade Commander of the 6<SUP>th</SUP> Division and Division Support Command Commander of the 9<SUP>th</SUP> Division. Mr. Kim trained in a number of military academies, including the Federation Military College in Sungei Besi, Selangor, Malaysia, the British Royal Signals School in Yorkshire, UK, the School of Advanced Training for Officers (SAFTI), the Advanced Signal Officers Course, US Army Signal School, Fort Monmouth, New Jersey, and the Singapore Command and Staff College. &nbsp;</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt"><B><U>David Ho</U></B>. &nbsp;Mr. Ho is the founder of Caltex South China Investments Limited, a petroleum company, and since 1982, has been its Executive Vice Chairman. &nbsp;Through a private venture capital fund he also has interests in various other Asia Pacific and European companies with interests in manufacturing, leisure, media, construction, meat processing and real estate. &nbsp;Mr. Ho has a B Sc. Mining Engineer degree from the University of Newcastle Upon-Tyne, England.</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+
+<BR>
+<BR>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:11pt; font-family:Courier New; font-size:9pt" align=center>2</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<BR>
+
+<P style="page-break-before:always; margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt"><B><U>Paul Y.L. Tong</U></B>. &nbsp;Since 2001, Dr. Tong has served as a director for several companies including serving as non-executive director of Global China Group Holdings Ltd., a Hong Kong investment holding company, executive director of Hip Hing Constructions Co. Ltd, executive director of Lifestyle International Holdings Limited, Chairman (Asia Pacific) of Parsons Brinckerhoff International, Pte Ltd., &nbsp;Singapore, an international engineering consultant, &nbsp;and Senior Consultant to New World China Land Ltd, a Chinese property development and investment company based in Hong Kong. &nbsp;From 1998 to 2001, Dr. Tong was an executive director of Lai Sun Development of Hong Kong, as well as Vice Chairman of Lai Fung Holdings Ltd. &nbsp;From 1995 to 1998, Dr. Tong was CEO of Pacific Century Regional Developments Ltd., a Singapore property, in
+frastructure and life insurance company. &nbsp;He has BSc and MSc degrees from Hong Kong University, and a PhD from the University of Manchester.</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:396pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<BR>
+<BR>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:11pt; font-family:Courier New; font-size:9pt" align=center>3</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<BR>
+<BR>
+
+<P style="page-break-before:always; margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt"><B>SIGNATURE</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt"><B>DIGITAL NETWORK ALLIANCE INTERNATIONAL, INC.</B></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:-10.25pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">By: /s/</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">&nbsp;Terence Yap</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; text-indent:36pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">President, CEO and Director</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">Date: December 30, 2004</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:10pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:10.25pt; font-family:Courier New; font-size:10pt">&nbsp;</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+<BR>
+<BR>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; line-height:11pt; font-family:Courier New; font-size:9pt" align=center>4</P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+<P style="margin-top:0pt; margin-right:72pt; margin-bottom:0pt; width:540pt; font-family:Courier New; font-size:9pt"><BR></P>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

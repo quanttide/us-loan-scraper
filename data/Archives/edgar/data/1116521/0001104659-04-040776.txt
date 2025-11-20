@@ -1,0 +1,1119 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ptpw4nggsgR7UpyN8jzWppF4ASEpMxAuYaM1rR6pEXrvgV1xNnjlftevbsJ8F1gX
+ 4BKkYtBKBDPNkqJCa1vzWQ==
+
+<SEC-DOCUMENT>0001104659-04-040776.txt : 20041222
+<SEC-HEADER>0001104659-04-040776.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222092333
+ACCESSION NUMBER:		0001104659-04-040776
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20041216
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVAYA INC
+		CENTRAL INDEX KEY:			0001116521
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				223713430
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15951
+		FILM NUMBER:		041219163
+
+	BUSINESS ADDRESS:	
+		STREET 1:		211 MOUNT AIRY RD
+		CITY:			BASKING RIDGE
+		STATE:			NJ
+		ZIP:			07920
+		BUSINESS PHONE:		9089536000
+
+	MAIL ADDRESS:	
+		STREET 1:		211 MOUNT AIRY ROAD
+		CITY:			BASKING RIDGE
+		STATE:			NJ
+		ZIP:			07920
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LUCENT EN CORP
+		DATE OF NAME CHANGE:	20000612
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04-15217_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US" link="#333366" vlink="purple">
+
+<div style="font-family:Times New Roman;">
+
+<div style="border:none;border-top:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">WASHINGTON, D. C. 20549</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM 8-K</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT PURSUANT TO</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">&#160;SECTION 13
+OR 15(D) OF THE</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date
+of Report (Date of earliest event reported): <b><font style="font-weight:bold;">December 16,
+2004</font></b></font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">AVAYA INC.</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact
+name of registrant as specified in its charter)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.46%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.88%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.38%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-15951</font></b></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0in .7pt 0in .7pt;width:33.34%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">22-3713430</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.46%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State
+  or other jurisdiction</font></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.88%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.38%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission</font></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0in .7pt 0in .7pt;width:33.34%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS
+  Employer</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.46%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">of
+  incorporation)</font></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.88%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.38%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">File
+  Number)</font></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0in .7pt 0in .7pt;width:33.34%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Identification
+  No.)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.46%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.88%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.38%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0in .7pt 0in .7pt;width:33.34%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="64%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:64.72%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">211 Mount Airy Road<br>
+  Basking Ridge, NJ</font></b></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="33%" valign="bottom" style="padding:0in .7pt 0in .7pt;width:33.34%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">07920</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="64%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:64.72%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address
+  of principal executive offices)</font></p>
+  </td>
+  <td width="1%" valign="top" style="padding:0in .7pt 0in .7pt;width:1.94%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0in .7pt 0in .7pt;width:33.34%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Zip
+  Code)</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s
+telephone number, including area code: <b><font style="font-weight:bold;">(908) 953-6000</font></b></font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following
+provisions:</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</p>
+
+<div style="border:none;border-bottom:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\eudelhofen\04-15217-1\task260430\15217-1-ba.htm',USER='eudelho',CD='Dec 22 07:10 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item&nbsp;1.01.
+Entry into a Material Definitive Agreement.</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Performance Vesting
+Restricted Stock Unit Awards</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On December 16, 2004, the Committee approved awards of performance
+vesting restricted stock units (&#147;RSUs&#148;) made to executive officers of the
+Company pursuant to the terms of the Avaya Inc. 2004 Long Term Incentive
+Plan.&#160; The RSUs will vest upon the date
+the Committee determines that the Company&#146;s diluted earnings per share for the
+fiscal year ended September 30, 2007 is at least equal to a specified target;
+provided, however, that the percentage of RSUs that may vest shall be
+determined based on a schedule to be attached to each RSU agreement; provided,
+further, however, that if the aggregate earnings per share total calculated by
+combining the Company&#146;s diluted earnings per share for each of the fiscal years
+ended September 30, 2005, 2006 and 2007 is less than a specified target, then
+all RSUs shall be forfeited and cancelled.&#160;
+Attached as Exhibit 10.1 is the form of Avaya Inc. 2004 Long Term
+Incentive Plan Performance Vesting Restricted Stock Unit Award Agreement.&#160; However, information regarding earnings per
+share and other targets have been omitted as they involve confidential business
+information, the disclosure of which would have an adverse effect on the
+Company.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Tenovis Special Incentive
+Plan</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On December 16, 2004, the
+Compensation Committee (the &#147;Committee&#148;) of the Board of Directors of Avaya
+Inc. (the &#147;Company&#148;) approved a special incentive plan designed to promote a
+successful integration of the recent acquisition of Tenovis Germany GmbH and
+its subsidiaries (collectively, &#147;Tenovis&#148;) and the achievement of three
+metrics:&#160; targeted revenue for Germany,
+targeted revenue for the EMEA region, and contribution margin for the EMEA
+region for the calendar year 2005.&#160; EMEA
+consists of the European, Middle Eastern and African operations of the Company.&#160; Participants in the plan include certain
+employees of the Company involved in the integration and management of Tenovis,
+including executive officers of the Company.&#160;
+Under the arrangement, the aggregate amount available for all awards to
+eligible participants, including executive officers, is not expected to be
+material to the </font><font size="2" style="font-size:10.0pt;">Company.&#160; Because the plan does not exist in any formal
+document, only a written description thereof has been included with this Form
+8-K as Exhibit 10.2.&#160; However,
+information regarding the target metrics has been omitted as it involves
+confidential business information, the disclosure of which would have an
+adverse effect on the Company.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 8.01&#160; Other Events.</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Attached as Exhibit 99.1 is a press release issued by
+the Company in connection with the redemption of the C</font><font size="2" style="font-size:10.0pt;">ompany&#146;s Liquid
+Yield Option&#153; Notes due 2021 (LYONs).</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\eudelhofen\04-15217-1\task260430\15217-1-ba.htm',USER='eudelho',CD='Dec 22 07:10 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item&nbsp;9.01.
+Financial Statements and Exhibits.</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.1</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Avaya Inc. 2004 Long Term Incentive Plan
+Performance Vesting Restricted Stock Unit Award Agreement.</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.2</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Written description of the Tenovis
+Special Incentive Plan.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Press
+Release of Avaya Inc., dated December 20, 2004.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\eudelhofen\04-15217-1\task260430\15217-1-ba.htm',USER='eudelho',CD='Dec 22 07:10 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="62%" valign="top" style="padding:0in 0in 0in 0in;width:62.22%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="37%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:37.78%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">AVAYA INC.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="62%" valign="top" style="padding:0in 0in 0in 0in;width:62.22%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="37%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:37.78%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="62%" valign="top" style="padding:0in 0in 0in 0in;width:62.22%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="37%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:37.78%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="62%" valign="top" style="padding:0in 0in 0in 0in;width:62.22%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: December 21,
+  2004</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.86%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="6%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:6.16%;">
+  <p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/&nbsp;&nbsp;</font></p>
+  </td>
+  <td width="27%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:27.74%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pamela F. Craven</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="62%" valign="top" style="padding:0in 0in 0in 0in;width:62.22%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.86%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:6.16%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="27%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:27.74%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pamela F. Craven</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="62%" valign="top" style="padding:0in 0in 0in 0in;width:62.22%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.86%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.16%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="27%" valign="top" style="padding:0in 0in 0in 0in;width:27.74%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Senior Vice President,
+  General<br>
+  Counsel and Secretary</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\eudelhofen\04-15217-1\task260430\15217-1-ba.htm',USER='eudelho',CD='Dec 22 07:10 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>a04-15217_1ex10d1.htm
+<DESCRIPTION>EX-10.1
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US" link="#333366" vlink="purple">
+
+<div style="font-family:Times New Roman;"><p style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit 10.1</font></b></p><p style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">AVAYA INC. 2004 LONG TERM
+INCENTIVE PLAN (&#147;PLAN&#148;)</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">PERFORMANCE VESTING RESTRICTED
+STOCK UNIT AWARD AGREEMENT</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="77%" valign="top" style="padding:0in .7pt 0in .7pt;width:77.38%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman"><font style="font-size:10.0pt;">Name</font>&nbsp;</font></p>
+  </td>
+  <td width="22%" valign="top" style="padding:0in .7pt 0in .7pt;width:22.62%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman"><font style="font-size:10.0pt;">Grant Date</font>&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="77%" valign="top" style="padding:0in .7pt 0in .7pt;width:77.38%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="22%" valign="top" style="padding:0in .7pt 0in .7pt;width:22.62%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="77%" valign="top" style="padding:0in .7pt 0in .7pt;width:77.38%;">
+  <p style="margin:0in 0in .0001pt 2.0in;"><b><font size="2" face="Times New Roman"><font style="font-size:10.0pt;font-weight:bold;">&#171;FirstName&#187;</font>&nbsp;&#171;LastName&#187;</font></b></p>
+  </td>
+  <td width="22%" valign="top" style="padding:0in .7pt 0in .7pt;width:22.62%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&#171;GrantDate&#187;</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="77%" valign="top" style="padding:0in .7pt 0in .7pt;width:77.38%;">
+  <p style="margin:0in 0in .0001pt 2.0in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="22%" valign="top" style="padding:0in .7pt 0in .7pt;width:22.62%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="77%" valign="top" style="padding:0in .7pt 0in .7pt;width:77.38%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Capitalized terms not otherwise defined herein shall
+  have the same meanings as in the Plan.</font></p>
+  </td>
+  <td width="22%" valign="top" style="padding:0in .7pt 0in .7pt;width:22.62%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">You have been granted as
+of the Grant Date set forth above,<b><font style="font-weight:bold;"> &#171;RSUs&#187;  </font></b>restricted stock units (&#147;Restricted Stock Units&#148;)
+(subject to Section 1 below). Upon termination of the restrictions related
+thereto, each Restricted Stock Unit will be converted into one share of Avaya
+Inc. (&#147;Avaya&#148;) common stock, par value $.01 (&#147;Shares&#148;), subject to the terms
+and conditions of the Plan and this Agreement.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">Vesting of Award</font></u></b>.&#160; The Restricted Stock Units shall vest and
+become nonforfeitable upon the date the Committee determines that the following
+condition has been satisfied:&#160; that Avaya&#146;s
+diluted earnings per share (determined in accordance with U.S. Generally
+Accepted Accounting Principles (&#147;GAAP&#148;) and as adjusted by the Items (defined
+below)) (&#147;EPS&#148;) for the fiscal year ended September 30, 2007, shall be at least
+$XXX; provided, however, that the percentage of Restricted Stock Units that may
+vest and become nonforfeitable shall be determined based on the schedule
+attached hereto as Appendix A; provided, further, however, that if the
+aggregate EPS total calculated by combining Avaya&#146;s EPS for each of the fiscal
+years ended September 30, 2005, 2006 and 2007 is less than $XXX, then all
+Restricted Stock Units shall be forfeited and cancelled (the date on which any
+Restricted Stock Unit vests being the &#147;Vesting Date&#148; for such Restricted Stock
+Unit).&#160; Consistent with the terms of the
+Plan, the Committee may, in its discretion, reduce the amount of any Award
+subject to Article 22 of the Plan based on such criteria as it shall determine,
+including but not limited to individual merit.</p>
+
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;Items&#148; shall
+include:</font></p>
+
+<p style="margin:0in 0in .0001pt .25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .75in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(i)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>any
+of the following items that has an impact on net income for a fiscal year of
+more than $XX million:</p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">a.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>extraordinary items
+(net of applicable taxes),</p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">b.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>cumulative effects
+of changes in accounting principles, and</p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">c.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>nonrecurring items
+(net of applicable taxes) including, but not limited to, gains or losses on
+asset dispositions and sales of divisions, business units or subsidiaries,
+restructuring charges, gains and losses from qualified benefit plan
+curtailments and settlements, and income or expenses related to deferred tax
+assets, and</p>
+
+<p style="margin:0in 0in .0001pt .25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .75in;text-indent:-.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(ii)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>any
+of the following items that has an impact on EPS for a fiscal year of more than
+$XX per share:</p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">a.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>gains and losses
+(net of applicable taxes) from the sales of securities, and</p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">b.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>the issuance or
+exercise of any dilutive securities such as convertible debt, preferred stock,
+warrants, restricted stock units or stock options.</p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\creyer\04-15217-1\task260419\15217-1-ka.htm',USER='creyer',CD='Dec 22 06:52 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The period
+beginning October 1, 2004 and ending on the day prior to the Vesting Date for a
+Restricted Stock Unit is herein referred to as the &#147;Restriction Period&#148; with
+respect to such Restricted Stock Unit.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 13.5pt;text-indent:-13.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">Termination
+of Employment</font></u></b>.&#160; Upon
+termination of your employment for any reason other than death or disability as
+described below, including without limitation, retirement and termination as a
+result of your employer ceasing to be either Avaya or a Subsidiary, any
+Restricted Stock Units that are not vested shall be forfeited and cancelled.
+Transfer to and from Avaya and any Subsidiary shall not be considered a
+termination of employment for purposes of this Agreement.&#160; Nor shall it be considered a termination of
+employment for purposes of this Agreement if you are placed on an approved
+leave of absence, unless the Committee shall otherwise determine.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .75in;text-indent:-40.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;&nbsp;(a)</font><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Death</b>
+- - If you die prior to the Vesting Date, then the Restriction Period will end
+and the award will be paid only if the condition set forth in Section 1 is met
+after your date of death, in which case the award will be paid as soon as
+practicable after the Vesting Date according to the following formula and all
+other Restricted Stock Units not so paid will be forfeited and cancelled:&#160; the number of Restricted Stock Units that
+will vest shall be determined by multiplying the total number of Restricted
+Stock Units subject to this award by a fraction, the numerator of which shall
+be equal to the number of complete months which you survived following October
+1, 2004, and the denominator of which shall be equal to the number of complete
+months in the Restriction Period.&#160; In all
+other instances if you die prior to the Vesting Date your award will be
+forfeited and cancelled.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .75in;text-indent:-40.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)</font><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Disability</b>
+- - &#147;Disability&#148; means termination of employment under circumstances where you
+qualify for and receive payments under a long-term disability pay plan
+maintained by Avaya or any Subsidiary or as required by or available under
+applicable local law.&#160; If your employment
+is terminated prior to the Vesting Date, then the Restriction Period will end
+and the award will be paid only if the condition set forth in Section 1 is met
+after your date of termination, in which case the award will be paid as soon as
+practicable after the Vesting Date according to the following formula and all
+other Restricted Stock Units not so paid will be forfeited and cancelled:&#160; the number of Restricted Stock Units that
+will vest shall be determined by multiplying the total number of Restricted
+Stock Units subject to this award by a fraction, the numerator of which shall
+be equal to the number of complete months you were employed by Avaya or any
+Subsidiary following October 1, 2004, and the denominator of which shall be
+equal to the number of complete months in the Restriction Period.&#160; In all other instances if you terminate your
+employment as a result of a Disability, your award will be forfeited.</p>
+
+<p style="margin:0in 0in .0001pt .75in;text-indent:-40.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">Delivery of Shares</font></u></b>.&#160;&#160; As soon as practicable after termination of
+the Restriction Period, and subject to Section 6, the Company will deliver a
+certificate representing the Shares being distributed to you or to your legal
+representative.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">Transferability</font></u>.</b>&#160; Unless otherwise provided for in the Plan,
+you may not transfer, pledge, assign, sell or otherwise alienate your
+Restricted Stock Units.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">No Right of Employment</font></u></b>.&#160; Neither the Plan nor this Restricted Stock
+Unit Award shall be construed as giving you the right to be retained in the
+employ of Avaya or any Subsidiary.</p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\creyer\04-15217-1\task260419\15217-1-ka.htm',USER='creyer',CD='Dec 22 06:52 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">Taxes</font></u></b>.&#160; Avaya shall deduct or cause to be deducted
+from, or collect or cause to be collected with respect to, your Restricted
+Stock Units any federal, state, or local taxes required by law to be withheld
+or paid with respect to your Restricted Stock Units, and you or your legal
+representative or beneficiaries shall be required to pay any such amounts.&#160; Avaya shall have the right to take such
+action as may be necessary, in Avaya&#146;s opinion, to satisfy such obligations.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">7.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">Beneficiary</font></u></b>.&#160; You may, in accordance with procedures
+established by the Committee, designate one or more beneficiaries to receive
+all or part of this award in case of your death, and you may change or revoke
+such designation at any time.&#160; Such
+designation shall not be effective unless and until the Senior Vice President-
+Human Resources shall determine, on advice of counsel, that resale of Shares by
+your beneficiary(ies) does not require any registration, qualification, consent
+or approval of any securities exchange or governmental or regulatory agency or
+authority.&#160; In the event of your death,
+any portion of this Award that is subject to such a designation (to the extent
+such designation is valid, effective and enforceable under this Agreement and
+applicable law) shall be distributed to such beneficiary or beneficiaries in
+accordance with this Agreement.&#160; Any
+other portion of this Award shall be distributed to your estate.&#160; If there shall be any question as to the
+legal right of any beneficiary to receive a distribution hereunder, or to the
+extent your designation is not effective, such portion will be delivered to
+your estate, in which event neither Avaya nor any Subsidiary shall have any
+further liability to anyone with respect to such award.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">8.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">Governing Law</font></u></b>.&#160; The validity, construction and effect of this
+Agreement shall be determined in accordance with the laws of the State of
+Delaware without giving effect to principles of conflicts of law.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">9.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><u><font style="font-weight:bold;">Subject to Plan</font></u></b>.&#160; This Agreement and grant of Restricted Stock
+Units are subject to all of the terms and conditions of the Plan.</p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Please indicate your
+acceptance of terms 1-9, and acknowledge that you have received a copy of the
+Plan, as currently in effect, by signing at the place provided and returning
+the original of this Agreement.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="56%" valign="top" style="padding:0in 0in 0in 0in;width:56.5%;">
+  <p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ACCEPTED AND AGREED</font></b>:</p>
+  </td>
+  <td width="43%" valign="top" style="padding:0in 0in 0in 0in;width:43.5%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Avaya Inc.</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="56%" valign="top" style="padding:0in 0in 0in 0in;width:56.5%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURE</font></b></p>
+  </td>
+  <td width="43%" valign="top" style="padding:0in 0in 0in 0in;width:43.5%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">BY</font></b></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\creyer\04-15217-1\task260419\15217-1-ka.htm',USER='creyer',CD='Dec 22 06:52 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>a04-15217_1ex10d2.htm
+<DESCRIPTION>EX-10.2
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US" link="#333366" vlink="purple">
+
+<div style="font-family:Times New Roman;">
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit
+10.2</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Written Description of
+the Tenovis Special Incentive Plan</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On December 16, 2004, the
+Compensation Committee (the &#147;Committee&#148;) of the Board of Directors of Avaya
+Inc. (the &#147;Company&#148;) approved a special incentive plan designed to promote a
+successful integration of the recent acquisition of Tenovis Germany GmbH and
+its subsidiaries (collectively, &#147;Tenovis&#148;) and the achievement of three
+metrics:&#160; targeted revenue for Germany,
+targeted revenue for the EMEA region, and contribution margin for the EMEA
+region for the calendar year 2005.&#160; EMEA
+consists of the European, Middle Eastern and African operations of the
+Company.&#160; Participants in the plan
+include certain employees of the Company involved in the integration and
+management of Tenovis, including executive officers of the Company.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Based on the level of
+involvement and impact, participants are eligible for an award equal to a
+percentage of their base salaries.&#160;
+Participants must be on payroll on December 31, </font><font size="2" style="font-size:10.0pt;">2005 to be eligible for the payment. The
+plan provides that no payments will be made to certain executive officers under
+the plan unless a minimum percentage payout under the Avaya Inc. Short Term
+Incentive Plan is achieved for fiscal 2005.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\sshaik\04-15217-1\task260404\15217-1-kc.htm',USER='abalakumaravel',CD='Dec 22 18:03 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>a04-15217_1ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US" link="#333366" vlink="purple">
+
+<div>
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit
+99.1</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="39%" valign="top" style="padding:0in 0in 0in 0in;width:39.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Media
+  Inquiries:</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="39%" valign="top" style="padding:0in 0in 0in 0in;width:39.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Investor
+  Inquiries:</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="39%" valign="top" style="padding:0in 0in 0in 0in;width:39.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Lynn Newman</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Matthew Booher</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="39%" valign="top" style="padding:0in 0in 0in 0in;width:39.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">908-953-8692 (office)</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">908-953-7500 (office)</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="39%" valign="top" style="padding:0in 0in 0in 0in;width:39.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">973-993-8033
+  (home)</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">mbooher@avaya.com</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="39%" valign="top" style="padding:0in 0in 0in 0in;width:39.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">lynnnewman@avaya.com</font></p>
+  </td>
+  <td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;letter-spacing:2.1pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-variant:normal !important;letter-spacing:0pt;">AVAYA ANNOUNCES COMPLETION OF REDEMPTION OF LIQUID YIELD OPTION</font></b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#153;</font><font size="2" face="Times New Roman" style="font-size:10.0pt;font-variant:normal !important;letter-spacing:0pt;"> NOTES (LYONs) DUE 2021</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:0in;"><u><font size="2" face="Times New Roman" style="font-size:10.0pt;">For Immediate Release:&#160; Monday,
+December 20, 2004</font></u></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">BASKING RIDGE,
+N.J.,&#160; - Avaya Inc. (NYSE:AV), a leading
+global provider of business communications software, systems and services,
+today announced that at 5:00 p.m. on December 20, 2004, $61,000 principal
+amount at maturity of the company&#146;s Liquid Yield Option&#153; Notes due 2021
+(LYONs), which represented all outstanding LYONs, were redeemed for cash.&#160; Holders will receive the redemption price of
+$545.67 per $1,000 principal amount at maturity of LYONs.&#160; Since Avaya delivered to holders its notice
+of redemption on November 18, 2004, holders of $548.7 million principal amount
+at maturity of LYONs converted their outstanding LYONs into 20,546,199 shares
+of Avaya common stock pursuant to the terms of the indenture.&#160; As provided in the indenture, each $1,000
+principal amount at maturity of LYONs was exchangeable for 37.4437 shares of
+Avaya common stock.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Prior to the
+conversions and the redemption of the LYONs, Avaya&#146;s diluted share count
+included 20,548,503 shares related to the LYONs as required pursuant to SFAS
+128.&#160; Of these shares, 20,546,199 shares
+were issued in connection with the conversions of the LYONs described above and
+will continue to be included in Avaya&#146;s diluted share count in future periods
+and 2,284 shares were related to LYONs redeemed for cash and accordingly, will
+be excluded from Avaya&#146;s diluted share count in future periods.&#160; An aggregate of 20 fractional shares was
+cashed out in connection with the conversion transactions.&#160; Because the shares issued in connection with
+the conversions of the LYONs were already included in Avaya&#146;s diluted share
+count, the conversions of the LYONs will not result in an increase in Avaya&#146;s
+diluted share count.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;The LYONs
+redemption and recent senior secured notes tender are the latest steps in Avaya&#146;s
+longstanding financial strategy to de-lever our balance sheet and strengthen
+our capital structure,&#148; said Garry K. McGuire, chief financial officer and
+senior vice president, corporate development, Avaya.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">more</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\eudelhofen\04-15217-1\task260430\15217-1-mm.htm',USER='eudelho',CD='Dec 22 07:09 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Avaya said its
+total debt has been reduced to approximately $370 million, substantially all of
+which it assumed in connection with the company&#146;s recent acquisition of Tenovis
+GmbH &amp; Co. KG.&#160; The assumed Tenovis
+debt includes $279 million related to an accounts receivable securitization and
+$68 million of real estate financing obligations.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">About Avaya</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Avaya Inc. designs, builds and manages communications networks for more
+than one million businesses worldwide, including more than 90 percent of the
+FORTUNE 500&#174;. Focused on businesses large to small, Avaya is a world leader in
+secure and reliable Internet Protocol telephony systems and communications
+software applications and services.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Driving the convergence of voice and data communications with business
+applications &#150; and distinguished by comprehensive worldwide services &#150; Avaya
+helps customers leverage existing and new networks to achieve superior business
+results.&#160; For more information visit the
+Avaya website: http://www.avaya.com</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Liquid Yield Option&#153; Notes is a trademark of Merrill, Lynch &amp; Co.,
+Inc.</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\eudelhofen\04-15217-1\task260430\15217-1-mm.htm',USER='eudelho',CD='Dec 22 07:09 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

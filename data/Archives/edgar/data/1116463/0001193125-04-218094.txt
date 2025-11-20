@@ -1,0 +1,488 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UaLUI9PtorQAouer5heJXURPaNbF14ASePcNkU3pLUQQg5c8cg7nUuZ8zXkhYwr5
+ uUuio0w6zi2chQ8Ma/DOpQ==
+
+<SEC-DOCUMENT>0001193125-04-218094.txt : 20041222
+<SEC-HEADER>0001193125-04-218094.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222110238
+ACCESSION NUMBER:		0001193125-04-218094
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ORASURE TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001116463
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				364370966
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16537
+		FILM NUMBER:		041219447
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 WEBSTER ST
+		CITY:			BETHLEHEM
+		STATE:			PA
+		ZIP:			18015
+		BUSINESS PHONE:		5036416115
+
+	MAIL ADDRESS:	
+		STREET 1:		150 WEBSTER ST
+		CITY:			BETHLEHEM
+		STATE:			PA
+		ZIP:			18015
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE
+COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="3"><B>PURSUANT TO SECTION 13 OR 15(d) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report (Date of earliest event reported): December 22, 2004
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>OraSure Technologies, Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact
+Name of Registrant as Specified in Charter) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>001-16537</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>36-4370966</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or Other Jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>220 East First Street</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Bethlehem, Pennsylvania</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>18015-1360</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of Principal Executive Offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s
+telephone number, including area code: 610-882-1820 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under
+any of the following provisions: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Securities Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 7.01 &#150; Regulation FD Disclosure </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">On December 22, 2004, OraSure Technologies, Inc. (the &#147;Company&#148;) issued a press release (i) announcing that The Centers for
+Disease Control and Prevention will purchase approximately $2.3 million of the Company&#146;s OraQuick</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><I>ADVANCE</I><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT> Rapid HIV-1/2
+Antibody Tests, and (ii) updating the Company&#146;s financial guidance for 2005. A copy of the press release is attached as Exhibit 99 to this Form 8-K and is incorporated herein by reference. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01 &#150; Financial Statements and Exhibits </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>(c) Exhibits </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Number</B></FONT></P><HR WIDTH="42"
+SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release dated December 22, 2004, (i) announcing that The Centers for Disease Control and Prevention will purchase approximately $2.3 million of the Company&#146;s OraQuick<FONT
+FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>&reg;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT> <I>ADVANCE</I><FONT FACE="Times New Roman" SIZE="1"
+COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT> Rapid HIV-1/2 Antibody Tests, and (ii) updating the Company&#146;s financial guidance
+for 2005.</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Signatures </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities and Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned, hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">O<SMALL>RA</SMALL>S<SMALL>URE</SMALL> T<SMALL>ECHNOLOGIES</SMALL>, I<SMALL>NC</SMALL>.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Date: December 22, 2004</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ Jack E. Jerrett</FONT></P><HR WIDTH="73%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Jack E. Jerrett</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Senior Vice President, General Counsel</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">and Secretary</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><U>Index to Exhibits</U> </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT><BR><HR WIDTH="63" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release dated December 22, 2004, (i) announcing that The Centers for Disease Control and Prevention will purchase approximately $2.3 million of the Company&#146;s OraQuick<FONT
+FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>&reg;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT> <I>ADVANCE</I><FONT FACE="Times New Roman" SIZE="1"
+COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT> Rapid HIV-1/2 Antibody Tests, and (ii) updating the Company&#146;s financial guidance
+for 2005.</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>dex99.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top">
+
+<IMG SRC="g7926679266.jpg" ALT="LOGO"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><U>Investor Contact</U>: </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Ronald H. Spair </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Chief Financial Officer </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">610-882-1820 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><U>Investorinfo@orasure.com</U> </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><U>www.orasure.com </U> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><U>Media Contact: </U> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Ron Ticho or Jennifer Moritz </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Zer0 to 5ive </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">610-360-0205 or 917-748-4006 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">rticho@orasure.com or jmoritz@0to5.com </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2"><B>CDC TO PURCHASE $2.3 MILLION WORTH OF </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>ORAQUICK<FONT FACE="Times New Roman" SIZE="1"
+COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></B><B><I><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">ADVANCE</FONT></I></B><B><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT> RAPID HIV-1/2 ANTIBODY TESTS
+</FONT></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>- </I></B><I>Company Updates Financial
+Guidance for 2005 -</I> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>BETHLEHEM, PA</B> &#150; December 22, 2004 &#150;
+OraSure Technologies, Inc. (Nasdaq NM:OSUR), the market leader in oral fluid diagnostics, announced today that The Centers for Disease Control and Prevention (&#147;CDC&#148;) will purchase approximately $2.3 million of the Company&#146;s
+OraQuick</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><I>ADVANCE</I><B><FONT FACE="Times New Roman" SIZE="1"
+COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT></B> Rapid HIV-1/2 Antibody Tests. The CDC purchase is expected to be fulfilled by
+September 30, 2005. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">This is the first bulk purchase of the
+OraQuick</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><I>ADVANCE</I><B><FONT FACE="Times New Roman" SIZE="1"
+COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT></B> test. Two other bulk purchases of the Company&#146;s OraQuick</FONT><FONT
+FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"> Rapid HIV-1 Antibody test totaling $4 million were previously made by the CDC in June and December of
+2003. The CDC is purchasing the OraQuick</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><I>ADVANCE</I><B><FONT FACE="Times New Roman"
+SIZE="1" COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT></B> tests for further distribution to and use by state health departments,
+clinics and other entities in the public health sector in the United States. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">&#147;We are extremely grateful for the CDC&#146;s continuing support of rapid HIV testing and are very pleased to announce this procurement of our new OraQuick</FONT><FONT FACE="Times New Roman" SIZE="1"
+COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><I>ADVANCE</I><B><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT></B> test,&#148; said Douglas A. Michels, President and CEO of OraSure Technologies. &#147;We believe our OraQuick</FONT><FONT FACE="Times New Roman"
+SIZE="1" COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><I>ADVANCE</I><B><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT></B> test is the most versatile and comprehensive rapid HIV test available, and OraSure is committed to working with the CDC and other government and
+state agencies to implement rapid HIV testing on a large scale across the country.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">&#147;With today&#146;s third bulk purchase of OraSure&#146;s rapid HIV test by the CDC, I am optimistic that expanded distribution of the test will result in increased identification of infected individuals, a
+critical step in addressing the significant public health problems that the spread of HIV/AIDS poses for our country,&#148; said Senator Rick Santorum (R-PA), Chairman of the Senate Republican Conference. &#147;OraSure&#146;s rapid HIV test plays an
+important role in complementing our public health strategies for research, prevention initiatives and efforts to expand access to quality health care and services for those who need them.&#148; </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The OraQuick</FONT><FONT FACE="Times New Roman" SIZE="1"
+COLOR="#000000"><SUP><SUP>&reg;</SUP><SUP></SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><I>ADVANCE</I><B><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>&#153;<FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"></FONT></SUP><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT></FONT></B> Rapid HIV-1/2 Antibody Test, manufactured and sold by OraSure Technologies, is the first and only U.S. Food and Drug Administration
+(&#147;FDA&#148;) approved and CLIA (Clinical Laboratory Improvements Amendments Act of 1988) waived rapid, point-of-care test that can detect antibodies to both HIV-1 and HIV-2 in 20 minutes, using oral fluid, finger-stick or venipuncture whole
+blood and plasma specimens. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Updated Financial Guidance for 2005 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As previously announced, OraSure expects total revenues for 2005 to increase by 25% over 2004 levels, to approximately $67.5 million. In
+addition, OraSure expects to achieve full-year profitability for 2005, with net income ranging from $0.06 to $0.08 per share. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About OraSure Technologies </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">OraSure Technologies develops, manufactures and markets oral fluid specimen collection devices and tests and other diagnostic products using its proprietary technologies,
+including immunoassays and other in vitro diagnostic tests and other medical devices. These products are sold in the United States and certain foreign countries to clinical laboratories, hospitals, clinics, community-based organizations and other
+public health organizations, distributors, government agencies, physicians&#146; offices, and commercial and industrial entities. For more information on the Company, please visit <U>www.orasure.com.</U> </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Important Information </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">This press release contains certain forward-looking statements, including with respect to revenues, net income and products. Actual results
+could be significantly different. Factors that could affect results include the ability to market products; impact of competitors, competing products and technology changes; ability to develop, commercialize and market new products; market
+acceptance of oral fluid testing products and up-converting phosphor technology products; ability to fund research and development and other projects and operations; ability to maintain new or existing product distribution channels; reliance on sole
+supply sources for critical product components; availability of related products produced by third parties; ability to obtain, and timing of obtaining, necessary regulatory approvals; ability to comply with applicable regulatory requirements;
+history of losses and ability to achieve sustained profitability; volatility of our stock price; uncertainty relating to patent protection and potential patent infringement claims; availability of licenses to patents or other technology; ability to
+enter into international manufacturing agreements; obstacles to international marketing and manufacturing of products; ability to sell products internationally; loss or impairment of sources of capital; ability to meet financial covenants in
+agreements with financial institutions; ability to retain qualified personnel; exposure to product liability and other types of litigation; changes in international, federal or state laws and regulations; changes in relationships with strategic
+partners and reliance on strategic partners for the performance of critical activities under collaborative arrangements; changes in accounting practices or interpretation of accounting requirements; customer consolidations and inventory practices;
+equipment failures and ability to obtain needed raw materials and components; the impact of terrorist attacks and civil unrest; ability to complete consolidation or restructuring activities; ability to identify, complete and realize the full
+benefits of potential acquisitions; and general political, business and economic conditions. These and other factors are discussed more fully in the Securities and Exchange Commission (&#147;SEC&#148;) filings of OraSure Technologies, including its
+registration statements, its Annual Report on Form 10-K for the year ended December 31, 2003, its Quarterly Reports on Form 10-Q, and its other filings with the SEC. Although forward-looking statements help to provide complete information about
+future prospects, readers should keep in mind that forward-looking statements may not be reliable. The forward-looking statements are made as of the date of this press release and OraSure Technologies undertakes no duty to update these statements.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"># # # </FONT></P>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g7926679266.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g7926679266.jpg
+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
+&HHHH`__9
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

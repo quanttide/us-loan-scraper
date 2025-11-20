@@ -1,0 +1,172 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RgkZGonGKFo7cO3D0tSn5KQyeVWUG0afyVUZeF4yIAH9HoU8cvj+CCVz78ipHaUo
+ 4xVnZXlFosjO0nwRa3x/ng==
+
+<SEC-DOCUMENT>0001019056-04-001498.txt : 20041228
+<SEC-HEADER>0001019056-04-001498.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041227180012
+ACCESSION NUMBER:		0001019056-04-001498
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SERVICE 1ST BANCORP
+		CENTRAL INDEX KEY:			0001225078
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				320061893
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50323
+		FILM NUMBER:		041227218
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2800 W MARCH LANE SUITE 120
+		CITY:			STOCKTON
+		STATE:			CA
+		ZIP:			95219
+		BUSINESS PHONE:		2099567800
+
+	MAIL ADDRESS:	
+		STREET 1:		2800 W MARCH LANE SUITE 120
+		CITY:			STOCKTON
+		STATE:			CA
+		ZIP:			95219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>service_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                       Pursuant to Section 13 or 15(d) of
+                       The Securities Exchange Act of 1934
+
+       Date of Report (Date of earliest event reported): December 23, 2004
+
+
+                               SERVICE 1ST BANCORP
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+             CALIFORNIA                  333-104244            32-0061893
+    ----------------------------       -------------         -------------
+    (State or other jurisdiction       (File Number)       (I.R.S. Employer
+          of incorporation)                              identification number)
+
+
+           2800 West March Lane, Suite 120, Stockton, California 95219
+           -----------------------------------------------------------
+              (Address of principal executive offices and zip code)
+
+
+                                 (209) 956-7800
+              ----------------------------------------------------
+              (Registrant's telephone number, including area code)
+
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[ ]   Written communications pursuant to Rule 425 under the Securities Act (17
+      CFR 230.425)
+[ ]   Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+      CFR 240.14a-12)
+[ ]   Pre-commencement communications pursuant to Rule 14d-2(b) under the
+      Exchange Act (17 CFR 240.14d-2(b))
+[ ]   Pre-commencement communications pursuant to Rule 13e-4(c) under the
+      Exchange Act (17 CFR 240.13c-4(c))
+
+                                  Page 1 of 3
+<PAGE>
+
+Item 3.02.     Unregistered Sales of Equity Securities.
+               ----------------------------------------
+
+               Registrant completed the sale of 376,208 shares of its common
+               stock for cash in the total amount of $4,420,444.00 in a private
+               placement to accredited investors on December 23, 2004, in
+               compliance with Commission Rule 505 of Regulation D. The
+               securities sold are "restricted securities" that may not be sold
+               or transferred until expiration of the applicable holding period.
+
+               The Registrant relied upon information provided by each purchaser
+               including questionnaires and representations and warranties in a
+               stock purchase agreement, to comply with the exemption from
+               registration under Rule 505. The Registrant engaged an
+               independent firm to analyze the price at which the shares of
+               common stock were to be sold and to issue a fairness opinion
+               related thereto. There were no underwriting discounts or
+               commissions as the Registrant did not engage the services of an
+               underwriter or agent and all sales were conducted directly with
+               the purchasers by the Registrant.
+
+               The proceeds of the sales referenced above, less the costs
+               incurred consisting primarily of professional fees and fees for
+               the fairness opinion, will be used to increase the capital ratios
+               of the Registrant and its bank subsidiary, Service 1st Bank, in
+               accordance with the capital plan discussed below and also for
+               general operations purposes.
+
+               As previously disclosed in Registrant's Quarterly Report on Form
+               10-QSB for the period ended September 30, 2004, filed with the
+               Commission on November 15, 2004, the Registrant committed to
+               raise $3 to $5 million in additional Tier 1 capital by December
+               31, 2004 to achieve a leverage ratio of 8.5% or higher, in
+               accordance with a capital plan adopted in response to the
+               Company's asset growth and directives by the California
+               Department of Financial Institutions and the FDIC, the state and
+               federal regulators for Registrant's subsidiary, Service 1st Bank.
+
+                                  Page 2 of 3
+<PAGE>
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+December 27, 2004
+
+Service 1st Bancorp
+
+
+By: /s/ JOHN O. BROOKS
+    ----------------------------
+    John O. Brooks
+    Chairman and Chief
+    Executive Officer
+
+                                  Page 3 of 3
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

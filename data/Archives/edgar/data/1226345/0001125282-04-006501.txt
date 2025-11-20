@@ -1,0 +1,285 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KWSLHQa4Hbg2fsQaUOdsLuGWpMhLk4vKIyoKcIsXBfFT1RsxcbVrxZC8iVJfldfA
+ VCFWYKakwjDjZyY74WzBJg==
+
+<SEC-DOCUMENT>0001125282-04-006501.txt : 20041223
+<SEC-HEADER>0001125282-04-006501.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223172750
+ACCESSION NUMBER:		0001125282-04-006501
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHASE CREDIT CARD OWNER TRUST 2003-2
+		CENTRAL INDEX KEY:			0001226345
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-103210-02
+		FILM NUMBER:		041225207
+
+	BUSINESS ADDRESS:	
+		STREET 1:		802 DELAWARE AVENUE
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHASE MANHATTAN BANK USA
+		CENTRAL INDEX KEY:			0000869090
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				222382028
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19191
+		FILM NUMBER:		041225208
+
+	BUSINESS ADDRESS:	
+		STREET 1:		802 DELAWARE AVE
+		STREET 2:		13TH FLOOR
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		3025755033
+
+	MAIL ADDRESS:	
+		STREET 1:		802 DELAWARE AVE 13TH FL
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>b402982_8k.txt
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+     Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+
+Date of Report (Date of earliest event reported):     December 15, 2004
+
+                  CHASE CREDIT CARD OWNER TRUST, SERIES 2003-2
+                             (Issuer of Securities)
+
+                 CHASE MANHATTAN BANK USA, NATIONAL ASSOCIATION
+                 ----------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+United States                       333-103210          22-2382028
+- ----------------------------        ------------        -------------------
+(State or other jurisdiction        (Commission         (IRS Employer
+of incorporation)                   File Number)        Identification No.)
+
+
+White Clay Center, Building 200, Newark, DE                19711
+- ---------------------------------------------------------------------------
+(Address of principal executive offices)                   (Zip Code)
+
+Registrant's telephone number, including area code:  (302) 575-5000
+
+
+- --------------------------------------------------------------
+(Former name or former address, if changed since last report.)
+
+
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[  ] Written communications pursuant to Rule 425 under the Securities Act
+     (17 CFR 230.425)
+
+[  ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+[  ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+[  ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+SECTION 8 - OTHER EVENTS
+
+Item 8.01 Other Events.
+
+Chase Manhattan Bank USA, National Association is the registrant of the Chase
+Credit Card Owner Trust, Series 2003-2 ("Series 2003-2"), which issued multiple
+classes of Asset Backed Notes. On or about December 15, 2004, JPMorgan Chase
+Bank, as Paying Agent, made the distributions to holders of its Notes of Series
+2003-2 contemplated by the related indenture.
+
+A copy of the Monthly Noteholders Statement with respect to such distribution,
+delivered pursuant to Section 7.3 of the related indenture, is being filed as an
+exhibit to this Current Report on Form 8-K.
+
+
+SECTION 9 - FINANCIAL STATEMENTS AND EXHIBITS
+
+Item 9.01 Financial Statements and Exhibits.
+
+(c) Exhibits.
+
+Exhibit No.              Description
+- -----------              -----------
+
+   99.1                  Monthly Reports with respect to the December 15, 2004
+                         distribution.
+
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                     CHASE MANHATTAN BANK USA,
+                                     NATIONAL ASSOCIATION, as Administrator
+
+
+                                     By: /s/  Patricia M. Garvey
+                                         -------------------------------
+                                     Name:  Patricia M. Garvey
+                                     Title: Vice President
+                                     Date:  December 16, 2004
+
+
+
+
+<PAGE>
+
+
+
+
+
+                                INDEX TO EXHIBITS
+                                -----------------
+
+Exhibit No.                    Description
+- -----------                    -----------
+   99.1                        Monthly Reports with respect to the distribution
+                               to Noteholders on December 15, 2004.
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>b402982_ex99-1.txt
+<DESCRIPTION>EX-99.1
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 99.1
+
+
+                         CHASE MANHATTAN BANK USA, N.A.
+                              NOTEHOLDERS STATEMENT
+
+                      CHASE CREDIT CARD OWNER TRUST 2003-2
+
+
+
+<TABLE>
+<CAPTION>
+
+Section 7.3 Indenture                                                            Distribution Date:              12/15/2004
+- ----------------------------------------------------------------------------------------------------------------------------
+<S>                                                                <C>           <C>                             <C>
+
+(i)     Amount of the distribution allocable to principal of the Notes
+             Class A Principal Payment                                      0.00
+             Class B Principal Payment                                      0.00
+             Class C Principal Payment                                      0.00
+                       Total
+
+        Amount of the distribution allocable to the principal on the Notes per
+             $1,000 of the initial principal balance of the Notes
+             Class A Principal Payment                                      0.00
+             Class B Principal Payment                                      0.00
+             Class C Principal Payment                                      0.00
+                       Total
+
+(ii)    Amount of the distribution allocable to the interest on the Notes
+             Class A Note Interest Requirement                      2,063,600.00
+             Class B Note Interest Requirement                        190,726.67
+             Class C Note Interest Requirement                        340,695.00
+                       Total                                        2,595,021.67
+
+        Amount of the distribution allocable to the interest on the Notes per
+             $1,000 of the initial principal balance of the Notes
+             Class A Note Interest Requirement                           1.83333
+             Class B Note Interest Requirement                           2.03333
+             Class C Note Interest Requirement                           2.82500
+
+(iii)   Aggregate Outstanding Principal Balance of the Notes
+             Class A Note Principal Balance                        1,125,600,000
+             Class B Note Principal Balance                           93,800,000
+             Class C Note Principal Balance                          120,600,000
+
+(iv)    Amount on deposit in Owner Trust Spread Account            13,400,000.00
+
+(v)     Required Owner Trust Spread Account Amount                 13,400,000.00
+</TABLE>
+
+
+
+                                                   By:
+                                                       --------------------
+
+                                                   Name:  Patricia M. Garvey
+                                                   Title: Vice President
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

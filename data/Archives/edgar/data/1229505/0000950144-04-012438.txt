@@ -1,0 +1,2577 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TP9/9YiIveNV5mwx7GmWXrfKdSe+aRJv3e0A1pirTFkDXUsDHl1VsWGNUsvBXtf9
+ 0C5dHMZz6+mWia0AlS4I7g==
+
+<SEC-DOCUMENT>0000950144-04-012438.txt : 20041228
+<SEC-HEADER>0000950144-04-012438.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228151444
+ACCESSION NUMBER:		0000950144-04-012438
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARDENT HEALTH SERVICES LLC
+		CENTRAL INDEX KEY:			0001229505
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-GENERAL MEDICAL & SURGICAL HOSPITALS, NEC [8062]
+		IRS NUMBER:				621862223
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-110117
+		FILM NUMBER:		041228442
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ARDENT HEALTH SERVICES
+		STREET 2:		ONE BURTON HILLS BLVD STE 250
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37215
+		BUSINESS PHONE:		6152963000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BURTON HILLS BLVD STE 250
+		CITY:			NASHVILLE
+		STATE:			TN
+		ZIP:			37215
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>g92514e8vk.htm
+<DESCRIPTION>ARDENT HEALTH SERVICES LLC    8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>ARDENT HEALTH SERVICES LLC    8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="35%">
+
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 12pt"><B>CURRENT REPORT</B>
+
+
+
+<P align="center" style="font-size: 12pt"><B>Pursuant to Section&nbsp;13 or 15(d) of the<BR>
+Securities Exchange Act of 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of earliest event reported): <B>December&nbsp;22, 2004</B>
+
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="35%">
+
+
+<P align="center" style="font-size: 24pt"><B>ARDENT HEALTH SERVICES LLC</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>333-110117</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>62-1862223</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification No.)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>One Burton Hills Boulevard, Suite&nbsp;250, Nashville, TN</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>37215</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: <B>(615)&nbsp;296-3000</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Not Applicable</B><BR>
+(Former name or former address, if changed since last report)
+
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD> Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">Item&nbsp;1.01. Entry into a Material Definitive Agreement</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">Item&nbsp;9.01. Financial Statements and Exhibits</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002"> SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003"> EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="g92514exv10w1.txt">EX-10.1  FIFTH AMENDMENT TO CREDIT AGREEMENT</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+
+
+
+
+
+
+<!-- link1 "Item&nbsp;1.01. Entry into a Material Definitive Agreement" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;1.01. Entry into a Material Definitive Agreement.</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December&nbsp;23, 2004, Ardent Health Services LLC (the &#147;Registrant&#148;),
+Ardent Health Services, Inc. (the &#147;Borrower&#148;), a wholly owned subsidiary of the
+Registrant, and certain subsidiaries of the Borrower entered into the Fifth
+Amendment (the &#147;Fifth Amendment&#148;) to Credit Agreement, dated as of August&nbsp;19,
+2003, among the Borrower, the Registrant, the other Guarantors party thereto,
+Citicorp North America, Inc. as Administrative Agent and the other Lenders
+party thereto.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the Fifth Amendment, certain financial statement reporting and
+related certificate and notice requirements for the third quarter ended
+September&nbsp;30, 2004 and the fiscal year ending December&nbsp;31, 2004 have been
+modified as follows: (i)&nbsp;the date for delivery of financial statements for the
+Borrower and its subsidiaries for the quarter ended September&nbsp;30, 2004 and the
+fiscal year ending December&nbsp;31, 2004 have been extended to May&nbsp;2, 2005; (ii)
+the Borrower may delay the filing of its Form 10-Q for the quarter ended
+September&nbsp;30, 2004 with the Securities and Exchange Commission until May&nbsp;2,
+2005; and (iii)&nbsp;the Borrower may delay the filing of its Form 10-K for the
+fiscal year ending December&nbsp;31, 2004 with the Securities and Exchange
+Commission until May&nbsp;2, 2005. In addition, the Fifth Amendment provides for,
+among other things, (i)&nbsp;the payment of an amendment fee to each Lender that
+elects to be a party to the Fifth Amendment, (ii)&nbsp;consent to certain
+dispositions of property not otherwise permitted under the terms of the Credit
+Agreement and (iii)&nbsp;until May&nbsp;2, 2005, the ability of the Borrower to (A)
+request up to $35&nbsp;million of revolving loans and letters of credit at any time
+and (B)&nbsp;request new loans or convert or continue existing loans to accrue
+interest at the eurodollar rate of interest.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The foregoing description of the Fifth Amendment is qualified in its
+entirety by reference to the Fifth Amendment, a copy of which is attached
+hereto as Exhibit&nbsp;10.1 and is incorporated herein by reference.
+
+<!-- link1 "Item&nbsp;9.01. Financial Statements and Exhibits" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits.</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;Exhibits.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description of Exhibit</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Fifth Amendment to Credit
+Agreement, dated as of December&nbsp;23,
+2004, among Ardent Health Services, Inc., as Borrower, Ardent
+Health Services LLC and certain of its subsidiaries as
+Guarantors, Citicorp North America, Inc., as Administrative
+Agent, Swing Line Lender and L/C Issuer and the other Lenders
+party thereto</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 " SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="46%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left"><B>ARDENT HEALTH SERVICES LLC</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ R. Dirk Allison</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Name: R. Dirk Allison</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Title: Executive Vice President and
+Chief Financial Officer</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">Date: December 28, 2004
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 " EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description of Exhibit</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Fifth Amendment to Credit
+Agreement, dated as of December&nbsp;23,
+2004, among Ardent Health Services, Inc., as Borrower, Ardent
+Health Services LLC and certain of its subsidiaries as
+Guarantors, Citicorp North America, Inc., as Administrative
+Agent, Swing Line Lender and L/C Issuer and the other Lenders
+party thereto</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>g92514exv10w1.txt
+<DESCRIPTION>EX-10.1  FIFTH AMENDMENT TO CREDIT AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.1
+
+                               FIFTH AMENDMENT TO
+                                CREDIT AGREEMENT
+
+      THIS FIFTH AMENDMENT to Credit Agreement (this "Amendment") dated as of
+December 23, 2004 is by and among Ardent Health Services, Inc., a Delaware
+corporation (the "Borrower"), the Guarantors, the Lenders party hereto and
+Citicorp North America, Inc., as Administrative Agent (in such capacity, "CNAI"
+or the "Administrative Agent") on behalf of itself and the Lenders. All
+capitalized terms used herein but not otherwise defined herein shall have the
+meanings provided to such terms in the Credit Agreement (as defined below).
+
+                               W I T N E S S E T H
+
+      WHEREAS, a credit facility was established in favor of the Borrower
+pursuant to the terms of that certain Credit Agreement dated as of August 19,
+2003 among the Borrower, the Guarantors, the Lenders and CNAI (as successor to
+Bank One, NA), as Administrative Agent, as amended by that certain First
+Amendment to Credit Agreement dated as of December 31, 2003, that certain Second
+Amendment to Credit Agreement dated as of July 12, 2004, that certain Third
+Amendment to Credit Agreement dated as of August 12, 2004 and that certain
+Fourth Amendment to Credit Agreement dated as of November 12, 2004 (as further
+amended, modified and supplemented from time to time, the "Credit Agreement");
+
+      WHEREAS, the Borrower has requested the Required Lenders and the Required
+Revolving Lenders to amend the Credit Agreement as set forth herein; and
+
+      WHEREAS, the Required Lenders and the Required Revolving Lenders have
+agreed to amend the Credit Agreement on the terms and conditions set forth
+herein.
+
+      NOW, THEREFORE, IN CONSIDERATION of the premises and other good and
+valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties hereto agree as follows:
+
+      1. Amendments. The Credit Agreement is amended in the following respects:
+
+            (a) The following definitions are hereby added to Section 1.01 in
+      the appropriate alphabetical order and shall read as follows:
+
+                  "Operative Period" means the period from the Fifth Amendment
+            Effective Date through the earlier of (i) the date all financial
+            statements of the Parent and its Subsidiaries required by Section
+            7.01 for the fiscal quarter ended September 30, 2004 and for the
+            fiscal year ended December 31, 2004 as well as all financial
+            statements that are being restated pursuant to Section 7.01(d) are
+            delivered to the Administrative Agent and the Lenders and (ii) May
+            2, 2005.
+
+                  "Fifth Amendment Effective Date" means December 23, 2004.
+
+                  "Samaritan Hospital" means that certain hospital located at
+            310 South Limestone Street in Lexington, Kentucky.
+
+            (b) The definition of "Permitted Acquisition" in Section 1.01 is
+      hereby amended by adding the following new sentences to the end of such
+      definition to read as follows:
+
+<PAGE>
+
+                  Notwithstanding clauses (c)(iv), (v) and (vii) of the first
+            sentence of this definition, during the Operative Period the Loan
+            Parties shall be permitted to make Acquisitions of behavioral
+            hospitals and assets related thereto in an aggregate amount not to
+            exceed $11,000,000; provided that each such behavioral hospital
+            shall have attained a positive EBITDA for the most recent
+            twelve-month period preceding such Acquisition, for which financial
+            statements are available; provided that such Acquisition is
+            otherwise consummated in compliance with each other provision in
+            clause (c) of this definition. For purposes of the preceding
+            sentence, "EBITDA" shall mean, for the applicable twelve-month
+            period, the sum of (i) net income of the applicable behavioral
+            hospital for such period, (ii) an amount which in the determination
+            of net income of such behavioral hospital for such period has been
+            deducted for interest expense, taxes and depreciation and
+            amortization expense, all as determined in accordance with GAAP,
+            (iii) any non-recurring fees, charges and cash expenses which in the
+            determination of net income of such behavioral hospital for such
+            period has been deducted, and (iv) any other non-cash charges which
+            in the determination of net income of such behavioral hospital for
+            such period has been deducted.
+
+            (c) A new proviso is hereby added immediately prior to the semicolon
+      (";") now appearing at the end of Section 7.01(a)(i) to read as follows:
+
+            ; provided that, notwithstanding the foregoing, with respect to the
+            fiscal year ended December 31, 2004 only, the Loan Parties shall
+            have until May 2, 2005 to deliver to the Administrative Agent and
+            the Lenders all the financial statements required by Section
+            7.01(a)(i) as of the end of the fiscal year ended December 31, 2004
+
+            (d) A new proviso is hereby added immediately prior to the period
+      (".") now appearing at the end of Section 7.01(a)(ii) to read as follows:
+
+            ; provided that, notwithstanding the foregoing, with respect to the
+            fiscal year ended December 31, 2004 only, the Loan Parties shall
+            have until May 2, 2005 to deliver to the Administrative Agent and
+            the Lenders all the financial statements required by Section
+            7.01(a)(ii) as of the end of the fiscal year ended December 31, 2004
+
+            (e) Section 7.01(b)(i) is hereby amended by deleting the reference
+      to "January 14, 2005" in such Section and replacing it with "May 2, 2005."
+
+            (f) Section 7.01(b)(ii) is hereby amended by deleting the reference
+      to "January 14, 2005" in such Section and replacing it with "May 2, 2005."
+
+            (g) Section 7.01(d) is hereby amended to read as follows:
+
+                  In the event that the Loan Parties shall be required, or shall
+            elect at the advice of their independent auditor, to restate any
+            financial statements of the Parent and its Subsidiaries delivered
+            prior to the Fourth Amendment Effective Date pursuant to this
+            Agreement upon the completion of the Loan Parties' internal review
+            of accounting practices at Lovelace conducted and concluded prior to
+            May 2, 2005, no breach of this Agreement prior to the Fourth
+            Amendment Effective Date due to the failure to timely deliver the
+            financial statements that are subject to such restatement under this
+            Section 7.01(d) or due to the inaccuracy of any representation
+            delivered or deemed delivered pursuant to Section 6.05(a), (b), (d)
+            or (e) or Section 6.15 due to the inaccuracy of previously delivered
+            financial statements shall be deemed to have occurred or resulted
+            therefrom unless and until the Loan
+
+                                       2
+<PAGE>
+
+            Parties shall fail to deliver to the Administrative Agent and the
+            Lenders (i) on or prior to May 2, 2005 any such restated financial
+            statements in accordance with the terms hereof and (ii) on or before
+            the date that is twenty-one (21) days after the delivery of the
+            financial statements for the fiscal year ended December 31, 2004, a
+            duly completed Compliance Certificate in accordance with 7.02(b) for
+            the fiscal year ending December 31, 2004 demonstrating compliance
+            with all financial covenants set forth in Section 8.11 as of the
+            fiscal quarter ending December 31, 2004.
+
+            (h) Section 7.02(b) is hereby amended by adding a new proviso to the
+      end of such Section to read as follows:
+
+            provided that, with respect to the fiscal year ending December 31,
+            2004 only, the Borrower shall have until the date that is twenty-one
+            (21) days after the delivery of the financial statements for the
+            fiscal year ended December 31, 2004, to deliver to the
+            Administrative Agent and each Lender such duly completed Compliance
+            Certificate; provided further that the Borrower shall not be
+            obligated to deliver a Compliance Certificate for any financial
+            statements restated pursuant to Section 7.01(d) hereof or for the
+            financial statements delivered for the fiscal quarter ended
+            September 30, 2004.
+
+            (i) The proviso at the end of the first sentence of Section 7.08 is
+      hereby amended to read as follows:
+
+                  provided that, notwithstanding the foregoing, the Loan
+            Parties' failure to file within the time periods specified in the
+            SEC's rules and regulations the financial statements of the Parent
+            and its Subsidiaries for the fiscal quarter ended September 30, 2004
+            and the fiscal year ended December 31, 2004 shall not constitute a
+            breach of this Section 7.08 unless and until the Loan Parties shall
+            fail to file such financial statements with the SEC on or before May
+            2, 2005.
+
+            (j) Section 8.05 is hereby amended by adding a new sentence to the
+      end of such Section to read as follows:
+
+            Notwithstanding the foregoing, if the Borrower sells the Samaritan
+            Hospital or consummates the Summit Equity Disposition (as defined in
+            the Third Amendment) during the Operative Period, the Borrower shall
+            not have to comply with the provisions of clause (f)(i) with respect
+            to the sale of the Samaritan Hospital or the Summit Equity
+            Disposition.
+
+      2. Acknowledgement. The parties hereto acknowledge and agree that, subject
+to the terms of this Section 2, during the Operative Period the Borrower may
+request Loans from the Lenders and request that the L/C Issuer issue Letters of
+Credit pursuant to the terms of Section 2.01 and 2.02 of the Credit Agreement,
+as applicable. The Lenders and the L/C Issuer hereby agree to provide such
+requested Loans or Letters of Credit, as applicable, to the Borrower during the
+Operative Period, provided that (a) during the Operative Period the Total
+Revolver Outstandings shall not exceed THIRTY FIVE MILLION DOLLARS
+($35,000,000), (b) on the date such Loans or Letters of Credit are requested, no
+Default or Event of Default exists or would result from such Credit Extension,
+(c) the Borrower has complied with the provisions of Sections 5.02(c), (d) and
+(e) of the Credit Agreement and (d) the Borrower has complied with the
+provisions of Section 5.02(a) of the Credit Agreement other than with respect to
+the representations set forth in Section 6.05(a), (b), (d) or (e) or Section
+6.15 of the Credit Agreement with respect to the financial statements delivered
+under the Credit Agreement prior to the Fourth Amendment Effective Date. At the
+time of delivery of the Loan Notice with respect to any such Borrowing pursuant
+to
+
+                                       3
+<PAGE>
+
+this Section 2, the amount that the Borrower reasonably and in good faith
+estimates will be the Cash Amount (as defined below) at 5:00 p.m. on the
+requested date of such Borrowing (after giving effect to such Borrowing) shall
+not exceed $10,000,000, and such Loan Notice shall contain a statement to that
+effect. For purposes of this Amendment, the "Cash Amount" at any time on any day
+shall be equal to (i) the aggregate amount of collected balances of all cash and
+Cash Equivalents of the Loan Parties on such day, minus (ii) the aggregate
+amount of the payments in such cash and Cash Equivalents that will be made (and
+will reduce such cash and Cash Equivalents) at or after such time on such day.
+Notwithstanding anything to the contrary in the Loan Documents, during the
+Operative Period, each Loan Notice shall be in the form of Exhibit A attached
+hereto.
+
+      3. Consent.
+
+      (a) Subject to the satisfaction of the conditions precedent set forth in
+Section 4 of this Amendment, the Administrative Agent and the Lenders hereby (i)
+consent to the Summit Equity Disposition (as defined in the Third Amendment)
+notwithstanding the terms of Sections 8.05(c) of the Credit Agreement and (ii)
+agree that neither the transfer of assets from Summit to Newco (in each case, as
+defined in the Third Amendment) nor the Summit Equity Disposition shall count
+toward the basket for permitted Dispositions contained in Section 8.05(e) of the
+Credit Agreement; provided, that the Summit Equity Disposition is consummated on
+or before May 2, 2005.
+
+      (b) Subject to the satisfaction of the conditions precedent set forth in
+Section 4 of this Amendment, the Administrative Agent and the Lenders hereby
+agree that the sale of the Samaritan Hospital shall not count toward the basket
+for permitted Dispositions contained in Section 8.05(e) of the Credit Agreement;
+provided, that the sale of the Samaritan Hospital is consummated on or before
+May 2, 2005.
+
+      (c) Subject to the satisfaction of the conditions precedent set forth in
+Section 4 of this Amendment, the Administrative Agent and the Lenders hereby
+agree that, notwithstanding the Borrower's inability to comply with the
+provisions of Section 5.02(a) with respect to the representations set forth in
+Section 6.05(a), (b), (d) or (e) or Section 6.15 of the Credit Agreement with
+respect to the financial statements delivered under the Credit Agreement prior
+to the Fourth Amendment Effective Date, each Loan outstanding during the
+Operative Period may be requested as, converted to or continued as a Eurodollar
+Rate Loan.
+
+      (d) Subject to the satisfaction of the conditions precedent set forth in
+Section 4 of this Amendment, the Administrative Agent and the Lenders hereby
+agree that, notwithstanding the provisions of Section 8.05(a) of the Credit
+Agreement, Lovelace shall be permitted to ground lease that certain real
+property substantially described on Exhibit B attached hereto.
+
+      4. Conditions Precedent. This Amendment shall be effective as of the date
+hereof upon satisfaction of the following conditions precedent:
+
+            (a) receipt by the Administrative Agent of this Amendment executed
+      by the Borrower, the Guarantors, the Required Lenders, the Required
+      Revolving Lenders and the Administrative Agent; and
+
+            (b) receipt by the Administrative Agent, on behalf of each Lender
+      who executes this Amendment on or before 5:00 P.M. Eastern Standard Time
+      on December 22, 2004, a consent fee equal to 0.50% of (i) with respect to
+      each Lender holding a Revolving Commitment, such Lender's Revolving
+      Commitment and (ii) with respect to each Lender holding a portion of the
+      Term Loan, such Lender's Pro Rata Share of the outstanding Term Loan.
+
+                                       4
+<PAGE>
+
+      5. Miscellaneous.
+
+            (a) The Credit Agreement, as amended hereby, and the obligations of
+      the Loan Parties thereunder and under the other Loan Documents shall
+      remain in full force and effect according to their terms.
+
+            (b) Each Guarantor (i) acknowledges and consents to all of the terms
+      and conditions of this Amendment, (ii) affirms all of its obligations
+      under the Loan Documents, (iii) agrees that this Amendment and all
+      documents executed in connection herewith do not operate to reduce or
+      discharge its obligations under the Credit Agreement or the other Loan
+      Documents and (iv) hereby confirms and agrees that its Guaranty shall
+      continue and remain in full force and effect after giving effect to this
+      Amendment and that, notwithstanding any contrary terms in such Guaranty,
+      such Guaranty now applies to the Credit Agreement as amended by this
+      Amendment.
+
+            (c) The Borrower and the Guarantors hereby represent and warrant as
+      follows:
+
+                  (i) Each Loan Party has taken all necessary action to
+            authorize the execution, delivery and performance of this Amendment.
+
+                  (ii) This Amendment has been duly executed and delivered by
+            the Loan Parties and constitutes each of the Loan Parties' legal,
+            valid and binding obligations, enforceable in accordance with its
+            terms, except as such enforceability may be subject to (A)
+            bankruptcy, insolvency, reorganization, fraudulent conveyance or
+            transfer, moratorium or similar laws affecting creditors' rights
+            generally and (B) general principles of equity (regardless of
+            whether such enforceability is considered in a proceeding at law or
+            in equity).
+
+                  (iii) No consent, approval, authorization or order of, or
+            filing, registration or qualification with, any court or
+            governmental authority or third party is required in connection with
+            the execution, delivery or performance by any Loan Party of this
+            Amendment, other than those that have already been obtained and are
+            in full force and effect as of the date hereof.
+
+            (d) The Loan Parties represent and warrant to the Lenders that (i)
+      the representations and warranties of the Loan Parties set forth in
+      Article VI of the Credit Agreement (other than the representations
+      delivered or deemed delivered pursuant to Section 6.05(a), (b), (d) or (e)
+      or Section 6.15 of the Credit Agreement with respect to the financial
+      statements delivered under the Credit Agreement prior to the Fourth
+      Amendment Effective Date) and in each other Loan Document are true and
+      correct in all material respects as of the date hereof with the same
+      effect as if made on and as of the date hereof, except to the extent such
+      representations and warranties expressly relate solely to an earlier date
+      and (ii) no event has occurred and is continuing which constitutes a
+      Default or an Event of Default.
+
+            (e) The Borrower agrees to pay all reasonable costs and expenses of
+      the Administrative Agent in connection with the preparation, execution and
+      delivery of this Amendment, including without limitation the reasonable
+      fees and expenses of Moore & Van Allen, PLLC.
+
+            (f) This Amendment may be executed in any number of counterparts,
+      each of which when so executed and delivered shall be an original, but all
+      of which shall constitute one and the same instrument. Delivery of an
+      executed counterpart of this Amendment by telecopy shall be
+
+                                       5
+<PAGE>
+
+      effective as an original and shall constitute a representation that an
+      executed original shall be delivered.
+
+            (g) THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES
+      HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED AND INTERPRETED IN ACCORDANCE
+      WITH THE LAWS OF THE STATE OF NEW YORK.
+
+                            [Signature Pages Follow]
+
+                                       6
+<PAGE>
+
+      IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of
+this Amendment to be duly executed and delivered as of the date and year first
+above written.
+
+BORROWER:                           ARDENT HEALTH SERVICES, INC.,
+                                    a Delaware corporation
+
+                                    By: /s/ Stephen C. Petrovich
+                                        ----------------------------------------
+                                    Name: Stephen C. Petrovich
+                                    Title: Senior Vice President, General
+                                           Counsel and Secretary
+
+GUARANTORS:                         ARDENT HEALTH SERVICES LLC,
+                                    a Delaware limited liability company
+
+                                    By: /s/ Stephen C. Petrovich
+                                        ----------------------------------------
+                                    Name: Stephen C. Petrovich
+                                    Title: Senior Vice President, General
+                                           Counsel and Secretary
+
+                                    AHS ALBUQUERQUE HOLDINGS, LLC,
+                                    a New Mexico limited liability company
+                                    AHS CUMBERLAND HOSPITAL, LLC,
+                                    a Virginia limited liability company
+                                    AHS KENTUCKY HOLDINGS, INC.,
+                                    a Delaware corporation
+                                    AHS KENTUCKY HOSPITALS, INC.,
+                                    a Delaware corporation
+                                    AHS LOUISIANA HOLDINGS, INC.,
+                                    a Delaware corporation
+                                    AHS LOUISIANA HOSPITALS, INC.,
+                                    a Delaware corporation
+                                    AHS MANAGEMENT COMPANY, INC.,
+                                    a Tennessee corporation
+                                    AHS NEW MEXICO HOLDINGS, INC.,
+                                    a New Mexico corporation
+                                    AHS SAMARITAN HOSPITAL, LLC,
+                                    a Kentucky limited liability company
+                                    AHS S.E.D. MEDICAL LABORATORIES, INC.,
+                                    a New Mexico corporation
+                                    AHS SUMMIT HOSPITAL, LLC,
+                                    a Delaware limited liability company
+                                    ARDENT MEDICAL SERVICES, INC.,
+                                    a Delaware corporation
+                                    BEHAVIORAL HEALTHCARE CORPORATION,
+                                    a Delaware corporation
+
+                                    By: /s/ Stephen C. Petrovich
+                                        ----------------------------------------
+                                    Name: Stephen C. Petrovich
+                                    Title: Senior Vice President of each of the
+                                           foregoing Guarantors
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                    BHC MANAGEMENT SERVICES OF NEW MEXICO, LLC,
+                                    a Delaware limited liability company
+                                    BHC MANAGEMENT SERVICES OF STREAMWOOD, LLC,
+                                    a Delaware limited liability company
+                                    BHC MEADOWS PARTNER, INC.,
+                                    a Delaware corporation
+                                    BHC MONTEVISTA HOSPITAL, INC.,
+                                    a Nevada corporation
+                                    BHC OF INDIANA, GENERAL PARTNERSHIP,
+                                    a Tennessee general partnership
+                                    BHC ALHAMBRA HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC BELMONT PINES HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC CEDAR VISTA HOSPITAL, INC.,
+                                    a California corporation
+                                    BHC COLUMBUS HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC FAIRFAX HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC FOX RUN HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC FREMONT HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC GULF COAST MANAGEMENT GROUP, INC.,
+                                    a Tennessee corporation
+                                    BHC HEALTH SERVICES OF NEVADA, INC.,
+                                    a Nevada corporation
+                                    BHC HERITAGE OAKS HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC HOSPITAL HOLDINGS, INC.,
+                                    a Delaware corporation
+                                    BHC INTERMOUNTAIN HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC LEBANON HOSPITAL, INC.,
+                                    a Tennessee corporation
+                                    BHC MANAGEMENT HOLDINGS, INC.,
+                                    a Delaware corporation
+                                    BHC MANAGEMENT SERVICES, LLC,
+                                    a Delaware limited liability company
+                                    BHC MANAGEMENT SERVICES OF INDIANA, LLC,
+                                    a Delaware limited liability company
+                                    BHC MANAGEMENT SERVICES OF KENTUCKY, LLC,
+                                    a Delaware limited liability company
+
+                                    By: /s/ Stephen C. Petrovich
+                                        ----------------------------------------
+                                    Name: Stephen C. Petrovich
+                                    Title: Senior Vice President of each of the
+                                           foregoing Guarantors
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 BHC OF NORTHERN INDIANA, INC.,
+                                 a Tennessee corporation
+                                 BHC PHYSICIAN SERVICES OF KENTUCKY, LLC,
+                                 a Delaware limited liability company
+                                 BHC PINNACLE POINTE HOSPITAL, INC.,
+                                 a Tennessee corporation
+                                 BHC PROPERTIES, INC.,
+                                 a Tennessee corporation
+                                 BHC SIERRA VISTA HOSPITAL, INC.,
+                                 a Tennessee corporation
+                                 BHC SPIRIT OF ST. LOUIS HOSPITAL, INC.,
+                                 a Tennessee corporation
+                                 BHC STREAMWOOD HOSPITAL, INC.,
+                                 a Tennessee corporation
+                                 BHC WINDSOR HOSPITAL, INC.,
+                                 an Ohio corporation
+                                 COLUMBUS HOSPITAL, LLC,
+                                 a Delaware limited liability company
+                                 INDIANA PSYCHIATRIC INSTITUTES, INC.,
+                                 a Delaware corporation
+                                 LEBANON HOSPITAL, LLC,
+                                 a Delaware limited liability company
+                                 MESILLA VALLEY GENERAL PARTNERSHIP,
+                                 a New Mexico general partnership
+                                 MESILLA VALLEY MENTAL HEALTH ASSOCIATES, INC.,
+                                 a New Mexico corporation
+                                 NORTHERN INDIANA HOSPITAL, LLC,
+                                 a Delaware limited liability company
+                                 VALLE VISTA, LLC,
+                                 a Delaware limited liability company
+                                 WILLOW SPRINGS, LLC,
+                                 a Delaware limited liability company
+                                 AHS RESEARCH AND REVIEW, LLC,
+                                 a New Mexico limited liability company
+                                 BHC NORTHWEST PSYCHIATRIC HOSPITAL, LLC,
+                                 a Delaware limited liability company
+
+                                 By: /s/ Stephen C. Petrovich
+                                     ----------------------------------------
+                                 Name: Stephen C. Petrovich
+                                 Title: Senior Vice President of each of the
+                                        foregoing Guarantors
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 AHS ACADEMIC HEALTH CENTER, LLC., a Delaware
+                                 limited liability company
+                                 AHS BRISTOW HOSPITAL, LLC, a Delaware limited
+                                 liability company
+                                 AHS CLEVELAND HOSPITAL, LLC, a Delaware limited
+                                 liability company
+                                 AHS CUSHING HOSPITAL, LLC, a Delaware limited
+                                 liability company
+                                 AHS EASTERN OKLAHOMA MEDICAL CENTER, LLC, a
+                                 Delaware limited liability company
+                                 AHS HENRYETTA HOSPITAL, LLC, a Delaware limited
+                                 liability company
+                                 AHS HILLCREST MEDICAL CENTER, LLC, a Delaware
+                                 limited liability company
+                                 AHS HILLCREST SPECIALTY HOSPITAL, LLC, a
+                                 Delaware limited liability company
+                                 AHS MANAGEMENT SERVICES OF OKLAHOMA, LLC, a
+                                 Delaware limited liability company
+                                 AHS OKLAHOMA HEALTH SYSTEM, LLP, a Delaware
+                                 limited liability partnership
+                                 AHS OKLAHOMA HOLDINGS, INC., a Delaware
+                                 corporation
+                                 AHS OKLAHOMA HOSPITALS, INC., a Delaware
+                                 corporation
+                                 AHS OKLAHOMA PHYSICIAN GROUP, LLC, a
+                                 Delaware limited liability company
+                                 AHS PAWNEE HOSPITAL, LLC, a Delaware limited
+                                 liability company
+                                 AHS RIVERSIDE PHO, LLC, a Delaware limited
+                                 liability company
+                                 AHS TULSA HOLDINGS, LLC, a Delaware limited
+                                 liability company
+                                 AHS TULSA REGIONAL MEDICAL CENTER, LLC, a
+                                 Delaware limited liability company
+                                 AHS WAGONER HOSPITAL, LLC, a Delaware limited
+                                 liability company
+                                 BHC MANAGEMENT SERVICES OF LOUISIANA, LLC, a
+                                 Delaware limited liability company
+                                 BHC MANAGEMENT SERVICES OF TULSA, LLC, a
+                                 Delaware limited liability company
+
+                                 By: /s/ Stephen C. Petrovich
+                                     ----------------------------------------
+                                 Name: Stephen C. Petrovich
+                                 Title: Senior Vice President of each of the
+                                        foregoing Guarantors
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 BLOOMINGTON MEADOWS, G.P., a
+                                 Delaware general partnership
+
+                                 By: BHC of Indiana, General Partnership,
+                                     its partner
+
+                                     By:   BHC Valle Vista Hospital, Inc., as
+                                           a partner
+
+                                           By: /s/ Stephen C. Petrovich
+                                               --------------------------------
+                                           Name: Stephen C. Petrovich
+                                           Title: Senior Vice President of each
+                                                  of the foregoing Guarantors.
+
+                                     By:   Indiana Psychiatric Institutes, Inc.,
+                                           its partner
+
+                                           By: /s/ Stephen C. Petrovich
+                                               --------------------------------
+                                           Name: Stephen C. Petrovich
+                                           Title: Senior Vice President of each
+                                                  of the foregoing Guarantors
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+ADMINISTRATIVE
+AGENT:
+
+                                 CITICORP NORTH AMERICA, INC.,
+                                 as Administrative Agent and Swing Line Lender
+
+                                 By: /s/ Richard C. Zogheb
+                                     -------------------------------
+                                 Name: Richard C. Zogheb
+                                 Title: Vice President
+
+L/C ISSUERS:                     BANK ONE, NA,
+                                 as an L/C Issuer
+
+                                 By: /s/ Timothy K. Boyle
+                                     -------------------------------
+                                 Name: Timothy K. Boyle
+                                 Title: First Vice President
+
+                                 CITIBANK N.A.,
+                                 as an L/C Issuer
+
+                                 By: /s/ Richard C. Zogheb
+                                     -------------------------------
+                                 Name: Richard C. Zogheb
+                                 Title: Vice President
+
+                                 BANK OF OKLAHOMA, N.A.,
+                                 as an L/C Issuer
+
+                                 By: /s/ Holly Byrne
+                                     -------------------------------
+                                 Name: Holly Byrne
+                                 Title: AVP
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+LENDERS:                         CITICORP NORTH AMERICA, INC.
+
+                                 By: /s/ Richard C. Zogheb
+                                     -------------------------------
+                                 Name: Richard C. Zogheb
+                                 Title: Vice President
+
+                                 BANK ONE, NA,
+
+                                 By: /s/ Timothy K. Boyle
+                                     -------------------------------
+                                 Name: Timothy K. Boyle
+                                 Title: First Vice President
+
+                                 BANK OF AMERICA, N.A.
+
+                                 By: /s/ Gabriela Millhorn
+                                     -------------------------------
+                                 Name: Gabriela Millhorn
+                                 Title: Principal
+
+                                 BANK OF OKLAHOMA, N.A.
+
+                                 By: /s/ Holly Byrne
+                                     -------------------------------
+                                 Name: Holly Byrne
+                                 Title: AVP
+
+                                 FIFTH THIRD BANK, N.A.
+
+                                 By: /s/ Sandy Hamrick
+                                     -------------------------------
+                                 Name: Sandy Hamrick
+                                 Title:
+
+                                 GENERAL ELECTRIC CAPITAL CORPORATION
+
+                                 By: /s/ Jeffrey P. Hoffman
+                                     -------------------------------
+                                 Name: Jeffrey P. Hoffman
+                                 Title: Authorized Signatory
+
+                                 OLD NATIONAL BANK
+
+                                 By: /s/ Darrin McCauley
+                                     -------------------------------
+                                 Name: Darrin McCauley
+                                 Title: Senior Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 WELLS FARGO BANK N.A.
+
+                                 By: /s/ Michael Rogholt
+                                     -------------------------------
+                                 Name: Michael Rogholt
+                                 Title: Vice President
+
+                                 UBS AG, CAYMAN ISLANDS BRANCH
+
+                                 By: /s/ Sailoz Sikka
+                                     -------------------------------
+                                 Name: Sailoz Sikka
+                                 Title: Associate Director
+
+                                 By: /s/ David J. Kalal
+                                     -------------------------------
+                                 Name: David J. Kalal
+                                 Title: Executive Director
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 BIRCHWOOD FUNDING LLC
+
+
+                                 By: /s/ Diana M. Himes
+                                     -------------------------------
+                                 Name: Diana M. Himes
+                                 Title: Assistant Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+
+                                         Landmark II COO LTD Aladdin Capital
+
+                                         By: /s/ William S. Luthris
+                                             -----------------------------------
+                                         Name:   William S. Luthris
+                                         Title:  Authorized Signature
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+
+ARES III CLO Ltd.                        Ares IX CLO Ltd
+
+By: ARES CLO Management LLC              By: Ares CLO Management IX, L.P,
+                                             Investment Manager
+
+By: /s/ Jeff Moore                       By: Ares CLO GP IX, LLC,
+    --------------------------------         Its General Partner
+Name:   JEFF MOORE
+Title:  VICE PRESIDENT
+
+Ares VII CLO Ltd.
+
+By: Ares CLO Management VII, L.P.,       By: /s/ Jeff Moore
+    Investment Manager                       -----------------------------------
+                                         Name:   JEFF MOORE
+By: Ares CLO GP VII, LLC,                Title:  VICE PRESIDENT
+    Its General Partner
+
+                                         ARES ENHANCED LOAN INVESTMENT
+                                         STRATEGY, LTD.
+
+By: /s/ Jeff Moore                       By: Ares Enhanced Loan Management, L.P,
+    --------------------------------         Investment Manager
+Name:   JEFF MOORE
+Title:  VICE PRESIDENT                   By: Ares Enhanced Loan GP, LLC
+                                             Its General Partner
+
+Ares VIII CLO Ltd.
+
+By: Ares CLO Management VIII, L.P,       By: /s/ Jeff Moore
+    Investment Manager                       -----------------------------------
+                                         Name:   JEFF MOORE
+By: Ares CLO GP VIII, LLC,               Title:  VICE PRESIDENT
+    Its General Partner
+
+By: /s/ Jeff Moore
+    --------------------------------
+Name:   JEFF MOORE
+Title:  VICE PRESIDENT
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                                    HEWETT'S ISLAND CLO II, LTD.
+                            By: CypressTree Investment Management Company, Inc.,
+                                                            as Portfolio Manager
+
+                                         /s/ Jeffrey Megar
+                                         ---------------------------------------
+                                         Name:  Jeffrey Megar
+                                         Title: Managing Director
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         ATRIUM III
+
+                                         By: /s/ David Lerner
+                                             -----------------------------------
+                                         Name:  DAVID H. LERNER
+                                         Title: AUTHORIZED SIGNATORY
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         CSAM FUNDING II
+
+                                         By: /s/ David H. Lerner
+                                             -----------------------------------
+                                         Name:   DAVID H. LERNER
+                                         Title:  AUTHORIZED SIGNATORY
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         CSAM FUNDING III
+
+                                         By: /s/ David H. Lerner
+                                             -----------------------------------
+                                         Name:   DAVID H. LERNER
+                                         Title:  AUTHORIZED SIGNATORY
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         CSAM SLF
+
+                                         By: /s/ David H. Lerner
+                                             -----------------------------------
+                                         Name:   DAVID H. LERNER
+                                         Title:  AUTHORIZED SIGNATORY
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         ACCESS INSTITUTIONAL LOAN FUND
+                                         By: Deerfield Capital Management LLC as
+                                         its Portfolio Manager
+
+                                         By: /s/ Dale Burrow
+                                             -----------------------------------
+                                         Name:   Dale Burrow
+                                         Title:  Senior Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         BRYN MAWR CLO, Ltd.
+                                         By: Deerfield Capital Management LLC as
+                                         its Collateral Manager
+
+                                         By: /s/ Dale Burrow
+                                             -----------------------------------
+                                         Name:   Dale Burrow
+                                         Title:  Senior Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         FOREST CREEK CLO, Ltd.
+                                         By: Deerfield Capital Management LLC as
+                                         its Collateral Manager
+
+                                         By: /s/ Dale Burrow
+                                             -----------------------------------
+                                         Name:   Dale Burrow
+                                         Title:  Senior Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         LONG GROVE CLO, LIMITED
+                                         By: Deerfield Capital Management LLC as
+                                         its Collateral Manager
+
+                                         By: /s/ Dale Burrow
+                                             -----------------------------------
+                                         Name:   Dale Burrow
+                                         Title:  Senior Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         MARKET SQUARE CLO, Ltd.
+                                         By: Deerfield Capital Management LLC as
+                                         its Collateral Manager
+
+                                         By: /s/ Dale Burrow
+                                             -----------------------------------
+                                         Name:   Dale Burrow
+                                         Title:  Senior Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         MUIRFIELD TRADING LLC
+
+
+                                         By: /s/ Diana M. Himes
+                                             -----------------------------------
+                                         Name:   Diana M. Himes
+                                         Title:  Assistant Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         ROSEMONT CLO, Ltd.
+                                         By: Deerfield Capital Management LLC as
+                                         its Collateral Manager
+
+                                         By: /s/ Dale Burrow
+                                             -----------------------------------
+                                         Name:   Dale Burrow
+                                         Title:  Senior Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         BIG SKY III SENIOR LOAN TRUST
+                                         BY: EATON VANCE MANAGEMENT
+                                             AS INVESTMENT ADVISOR
+
+                                         By: /s/ Michael B. Botthof
+                                             -----------------------------------
+                                         Name:   Michael B. Botthof
+                                         Title:  Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         COSTANTINUS & EATON VANCE CDO V, L.P,
+                                         BY: EATON VANCE MANAGEMENT
+                                             AS INVESTMENT ADVISOR
+
+                                         By: /s/ Michael B. Botthof
+                                             -----------------------------------
+                                         Name:   Michael B. Botthof
+                                         Title:  Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         EATON VANCE CDO III, LTD.
+                                         BY: EATON VANCE MANAGEMENT
+                                             AS INVESTMENT ADVISOR
+
+                                         By: /s/ Michael B. Botthof
+                                             -----------------------------------
+                                         Name:   Michael B. Botthof
+                                         Title:  Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         EATON VANCE CDO VI, LTD.
+                                         BY: EATON VANCE MANAGEMENT
+                                             AS INVESTMENT ADVISOR
+
+                                         By: /s/ Michael B. Botthof
+                                             -----------------------------------
+                                         Name:   Michael B. Botthof
+                                         Title:  Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         EATON VANCE INSTITUTIONAL SENIOR LOAN
+                                         FUND
+                                         BY: EATON VANCE MANAGEMENT
+                                             AS INVESTMENT ADVISOR
+
+                                         By: /s/ Michael B. Botthof
+                                             -----------------------------------
+                                         Name:   Michael B. Botthof
+                                         Title:  Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         EATON VANCE
+                                         LIMITED DURATION INCOME FUND
+                                         BY: EATON VANCE MANAGEMENT
+                                             AS INVESTMENT ADVISOR
+
+                                         By: /s/ Michael B. Botthof
+                                             -----------------------------------
+                                         Name:   Michael B. Botthof
+                                         Title:  Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                         EATON VANCE SENIOR
+                                         FLOATING-RATE TRUST
+                                         BY: EATON VANCE MANAGEMENT
+                                             AS INVESTMENT ADVISOR
+
+                                         By: /s/ Michael B. Botthof
+                                             -----------------------------------
+                                         Name:   Michael B. Botthof
+                                         Title:  Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+<PAGE>
+
+                                  EATON VANCE FLOATING-RATE
+                                        INCOME TRUST
+                                  BY: EATON VANCE MANAGEMENT
+                                      AS INVESTMENT ADVISOR
+
+                           By:    /s/ Michael B. Botthof
+                                  ----------------------------------
+                           Name:  Michael B. Botthof
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  EATON VANCE SENIOR INCOME TRUST
+                                     BY: EATON VANCE MANAGEMENT
+                                         AS INVESTMENT ADVISOR
+
+                           By:    /s/ Michael B. Botthof
+                                  ----------------------------------
+                           Name:  Michael B. Botthof
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                              GRAYSON & CO
+                                  BY: BOSTON MANAGEMENT AND RESEARCH
+                                          AS INVESTMENT ADVISOR
+
+                           By:    /s/ Michael B. Botthof
+                                  ----------------------------------
+                           Name:  Michael B. Botthof
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  SENIOR DEBT PORTFOLIO
+                                  By: Boston Management and Research
+                                      as Investment Advisor
+
+                           By:    /s/ Michael B. Botthof
+                                  ----------------------------------
+                           Name:  Michael B. Botthof
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  TOLLI & CO.
+                                  BY: EATON VANCE MANAGEMENT
+                                      AS INVESTMENT ADVISOR
+
+                           By:    /s/ Michael B. Botthof
+                                  ----------------------------------
+                           Name:  Michael B. Botthof
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           FIRST TRUST/FOUR CORNERS SENIOR
+                           FLOATING RATE INCOME FUND II
+                           By: Four Corners Capital Management, LLC
+                           As Sub-Adviser
+
+                           By:    /s/ Adam Brown
+                                  ----------------------------------
+                           Name:  ADAM BROWN
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           FORTRESS PORTFOLIO TRUST
+                           By: Four Corners Capital Management, LLC
+                           As Investment Manager
+
+                           By:    /s/ Adam Brown
+                                  ----------------------------------
+                           Name:  ADAM BROWN
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           MACQUARIE/FIRST TRUST GLOBAL
+                           INFRASTRUCTURE/UTILITIES
+                           DIVIDEND & INCOME FUND
+                           By: Four Corners Capital Management, LLC
+                           As Sub-Adviser
+
+                           By:    /s/ Adam Brown
+                                  ----------------------------------
+                           Name:  ADAM BROWN
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           SEMINOLE FUNDING LLC
+
+
+                           By:    /s/ Diana M. Himes
+                                  ----------------------------------
+                           Name:  Diana M. Himes
+                           Title: Assistant Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           FRANKLIN CLO I, LIMITED
+
+                           By:    /s/ Madeline Lam
+                                  ----------------------------------
+                           Name:  Madeline Lam
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           FRANKLIN CLO III, LIMITED
+
+                           By:    /s/ Madeline Lam
+                                  ----------------------------------
+                           Name:  Madeline Lam
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           FRANKLIN CLO IV, LIMITED
+
+                           By:    /s/  Madeline Lam
+                                  ----------------------------------
+                           Name: Madeline Lam
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           FRANKLIN FLOATING RATE
+                              DAILY ACCESS FUND
+
+                           By:    /s/ Madeline Lam
+                                  ----------------------------------
+                           Name:  Madeline Lam
+                           Title: Asst. Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           FRANKLIN FLOATING RATE MASTER SERIES
+
+                           By:    /s/ Madeline Lam
+                                  ----------------------------------
+                           Name:  Madeline Lam
+                           Title: Asst. Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           FRANKLIN FLOATING RATE TRUST
+
+                           By:    /s/ Madeline Lam
+                                  ----------------------------------
+                           Name:  Madeline Lam
+                           Title: Asst. Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           EMERALD ORCHARD LIMITED
+
+                           By:    /s/ Masood Fikree
+                                  ----------------------------------
+                           Name:  Masood Fikree
+                           Title: Attorney-in-Fact
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           HIGHLAND FLOATING RATE ADVANTAGE FUND
+                           BY: Highland Capital Management, L.P., its
+                           Investment Advisor
+
+                           By:    /s/ David W. Lancelot
+                                  ----------------------------------
+                           Name:  David W. Lancelot
+                           Title: Chief Financial Officer
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           HIGHLAND FLOATING RATE LIMITED
+                           LIABILITY COMPANY
+                           BY: Highland Capital Management L.P., it
+                           Investment Advisor
+
+                           By:    /s/ David W. Lancelot
+                                  ----------------------------------
+                           Name:  David W. Lancelot
+                           Title: Chief Financial Officer
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           LOAN FUNDING VII LLC
+                           BY: Highland Capital Management, L.P.
+                           as Collateral Manager
+
+                           By:    /s/ David W. Lancelot
+                                  ----------------------------------
+                           Name:  David W. Lancelot
+                           Title: Chief Financial Officer
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           LOAN STAR STATE TRUST
+                           BY ITS INVESTMENT MANAGER, HIGHLAND CAPITAL
+                           MANAGEMENT, L.P.
+                           BY ITS GENERAL PARTNER, STRAND ADVISORS, INC.
+
+                           By:    /s/ David W. Lancelot
+                                  ----------------------------------
+                           Name:  David W. Lancelot
+                           Title: Chief Financial Officer
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           ELF FUNDING TRUST I
+                           BY: Highland Capital Management, L.P.
+                           as Collateral Manager
+
+                           By:    /s/ David W. Lancelot
+                                  ----------------------------------
+                           Name:  David W. Lancelot
+                           Title: Chief Financial Officer
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           ING PRIME RATE TRUST
+                           By: ING INVESTMENT MANAGEMENT, CO.
+                               AS ITS INVESTMENT MANANGER
+
+                           By:    /s/ Mohamed Basma
+                                  ----------------------------------
+                           Name:  Mohamed Basma
+                           Title: Vice President
+
+                           ING SENIOR INCOME FUND
+                           BY: ING INVESTMENT MANAGEMENT, CO.
+                               AS ITS INVESTMENT MANAGER
+
+                           By:    /s/ Mohamed Basma
+                                  ----------------------------------
+                           Name:  Mohamed Basma
+                           Title: Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           AIM FLOATING RATE FUND
+                           By: INVESCO Senior Secured Management, Inc.
+                               As Sub-Advisor
+
+                           By:    /s/ Thomas H.B. Ewald
+                                  ----------------------------------
+                           Name:  Thomas H.B. Ewald
+                           Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           AVALON CAPITAL LTD.
+                           By: INVESCO Senior Secured Management, Inc.
+                               As Portfolio Advisor
+
+                           By:    /s/ Thomas H.B. Ewald
+                                  ----------------------------------
+                           Name:  Thomas H.B. Ewald
+                           Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           AVALON CAPITAL LTD. 2
+                           By: INVESCO Senior Secured Management, Inc.
+                               as Portfolio Advisor
+
+                           By:    /s/ Thomas H.B. Ewald
+                                  ----------------------------------
+                           Name:  Thomas H.B. Ewald
+                           Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+<PAGE>
+                                     CHAMPLAIN CLO, LTD.
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         As Collateral Manager
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     CHARTER VIEW PORTFOLIO
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         As Investment Advisor
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     DIVERSIFIED CREDIT PORTFOLIO LTD.
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         as Investment Advisor
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     INVESCO EUROPEAN CDO I.S.A.
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         As Collateral Manager
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     LOAN FUNDING IX LLC
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         As Portfolio Manager
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     PETRUSSE EUROPEAN CLO S.A.
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         As Collateral Manager
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     SAGAMORE CLO LTD.
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         As Collateral Manager
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     SARATOGA CLO I, LIMITED
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         As Asset Manager
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     SEQUILS-LIBERTY, LTD.
+                                     By: INVESCO Senior Secured Management, Inc.
+                                         As Collateral Manager
+
+                                     By: /s/ Thomas H.B. Ewald
+                                        ------------------------------------
+                                     Name: Thomas H.B. Ewald
+                                     Title: Authorized Signatory
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     Premium Loan Trust I, Ltd.
+
+                                     By: /s/ Timothy S. Van Kirk
+                                        ------------------------------------
+                                     Name: Timothy S. Van Kirk
+                                     Title: Managing Director
+
+<PAGE>
+
+                                     LCM I LIMITED PARTNERSHIP
+                                     By: Lyon Capital Management LLC
+                                         As Collateral Manager
+
+
+                                     By: /s/ Farboud Tavangar
+                                        ------------------------------------
+                                     Name:
+                                     Title: LYON CAPITAL MANAGEMENT LLC
+                                            Farboud Tavangar
+                                            Senior Portfolio Manager
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     LCM II LIMITED PARTNERSHIP
+                                     By: Lyon Capital Management LLC,
+                                         As Collateral Manager
+
+
+                                     By: /s/ Farboud Tavangar
+                                        ------------------------------------
+                                     Name:
+                                     Title: LYON CAPITAL MANAGEMENT LLC
+                                            Farboud Tavangar
+                                            Senior Portfolio Manager
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     RIVIERA FUNDING LLC
+
+
+                                     By: /s/ Diana M. Himes
+                                        ------------------------------------
+                                     Name: Diana M. Himes
+                                     Title: Assistant Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                   Master Senior Floating Rate Trust
+
+                                   BY: /s/ Savitri Alex
+                                      ------------------------------------
+                                          SAVITRI ALEX
+                                          AUTHORIZED SIGNATORY
+
+                                   Floating Rate Income Strategies Fund II, Inc.
+
+                                   By: /s/ Savitri Alex
+                                      ------------------------------------
+                                          SAVITRI ALEX
+                                          AUTHORIZED SIGNATORY
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     VENTURE IV CDO LIMITED
+                                     Its Investment Advisor MJX Asset Mgmt, LLC
+
+                                     By: /s/ Kenneth Ostmann
+                                        ------------------------------------
+                                     Name: Kenneth Ostmann
+                                     Title: Director
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     Morgan Stanley Prime Income Trust.
+
+                                     By: /s/ illegible
+                                        ------------------------------------
+                                     Name:
+                                     Title: Executive Director
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                     Mountain Capital CLO III Ltd
+
+
+                                     By: /s/ Chris Siddons
+                                        ------------------------------------
+                                     Name: Chris Siddons
+                                     Title: Director
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 ADDISON CDO, LIMITED
+                                 By: Pacific Investment Management Company LLC,
+                                     as its Investment Advisor
+
+                                     BY: /s/ Mohan V. Phansalkar
+                                        ------------------------------------
+                                             MOHAN V. PHANSALKAR
+                                             MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 JISSEKIKUN FUNDING, LTD.
+                                 By: Pacific Investment Management Company LLC,
+                                     as its Investment Advisor
+
+                                     BY: /s/ Mohan V. Phansalkar
+                                        ------------------------------------
+                                             MOHAN V. PHANSALKAR
+                                             MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 LOAN FUNDING III LLC
+                                 By: Pacific Investment Management Company LLC,
+                                     as its Investment Advisor
+
+                                     BY: /s/ Mohan V. Phansalkar
+                                        ------------------------------------
+                                             MOHAN V. PHANSALKAR
+                                             MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                 PIMCO FLOATING INCOME FUND
+                                 By: Pacific Investment Management Company LLC,
+                                     as its Investment Advisor, acting through
+                                     Investors Fiduciary Trust Company in the
+                                     Nominee Name of IFTCO
+
+                                     BY: /s/ Mohan V. Phansalkar
+                                        ------------------------------------
+                                             MOHAN V. PHANSALKAR
+                                             MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+<PAGE>
+
+                           PIMCO FLOATING RATE INCOME FUND
+                           By: Pacific Investment Management Company LLC,
+                               as its Investment Advisor, acting through
+                               Investors Fiduciary Trust Company in the
+                               Nominee Name of IFTCO
+
+                               BY: /s/ Mohan V. Phansalkar
+                                   -----------------------------------
+                                   MOHAN V. PHANSALKAR
+                                   MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           PIMCO FLOATING RATE STRATEGY FUND
+                           By: Pacific Investment Management Company LLC,
+                               as its Investment Advisor, acting through
+                               Investors Fiduciary Trust Company in the
+                               Nominee Name of IFTCO
+
+                               BY: /s/ Mohan V. Phansalkar
+                                   -----------------------------------
+                                   MOHAN V. PHANSALKAR
+                                   MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           PIMCO HIGH YIELD FUND
+                           By: Pacific Investment Management Company LLC,
+                               as its Investment Advisor for the PIMCO High
+                               Yield Fund, acting through Investors Fiduciary
+                               Trust Company in the Nominee Name of IFTCO
+
+                               BY: /s/ Mohan V. Phansalkar
+                                   -----------------------------------
+                                   MOHAN V. PHANSALKAR
+                                   MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                           SEQUILS-MAGNUM, LTD.
+                           By: Pacific Investment Management Company LLC,
+                               as its Investment Advisor
+
+                               BY: /s/ Mohan V. Phansalkar
+                                   -----------------------------------
+                                   MOHAN V. PHANSALKAR
+                                   MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+<PAGE>
+
+                                  SOUTHPORT CLO, LIMITED
+                                  By: Pacific Investment Management Company LLC,
+                                      as its Investment Advisor
+
+                                      BY: /s/ Mohan V. Phansalkar
+                                         --------------------------------------
+                                              MOHAN V. PHANSALKAR
+                                              MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  WAVELAND - INGOTS, LTD.
+                                  By: Pacific Investment Management Company LLC,
+                                      as its Investment Advisor
+
+                                      BY: /s/ Mohan V. Phansalkar
+                                         --------------------------------------
+                                              MOHAN V. PHANSALKAR
+                                              MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  WRIGLEY CDO, LTD.
+                                  By: Pacific Investment Management Company LLC,
+                                      as its Investment Advisor
+
+                                      BY: /s/ Mohan V. Phansalkar
+                                         --------------------------------------
+                                              MOHAN V. PHANSALKAR
+                                              MANAGING DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  PPM MONARCH BAY FUNDING LLC
+
+
+                                  By: /s/ Diana M. Himes
+                                      -----------------------------------------
+                                  Name:  Diana M. Himes
+                                  Title: Assistant Vice President
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+
+                                  BOSTON HARBOR CLO 2004-1, Ltd.
+
+                                  /s/ Beth Mazor
+                                  ---------------------------------------------
+                                  By:  Beth Mazor
+                                  Title: V.P.
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  EAGLE LOAN TRUST
+                                  BY: STANFIELD CAPITAL PARTNERS, LLC
+                                      AS ITS COLLATERAL MANAGER
+
+                                      By: /s/ Christopher E. Jansen
+                                          -------------------------------------
+                                      Name:  Christopher E. Jansen
+                                      Title: Managing Partner
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                    STANFIELD ARBITRAGE CDO, LTD.
+                                  BY: STANFIELD CAPITAL PARTNERS LLC
+                                       AS ITS COLLATERAL MANAGER
+
+                                  By: /s/ Christopher E. Jansen
+                                      -----------------------------------------
+                                  Name:  Christopher E. Jansen
+                                  Title: Managing Partner
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  STANFIELD MODENA CLO, LTD.
+                                  BY: STANFIELD CAPITAL PARTNERS, LLC
+                                      AS ITS ASSET MANAGER
+
+                                  By: /s/ Christopher E. Jansen
+                                      -----------------------------------------
+                                  Name:  Christopher E. Jansen
+                                  Title: Managing Partner
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  Stanfield/RMF Transatlantic CDO Ltd.
+                                    By: Stanfield Capital Partners LLC
+                                        as its Collateral Manager
+
+                                  By: /s/ Christopher E. Jansen
+                                      -----------------------------------------
+                                  Name:  Christopher E. Jansen
+                                  Title: Managing Partner
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  APEX ( Trimaran) CDO I, LTD.
+                                  By: Trimaran Advisors, LLC
+
+                                  By: /s/ David M. Millison
+                                      -----------------------------------------
+                                  Name:  David M. Millison
+                                  Title: Managing Director
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  VAN KAMPEN
+                                  SENIOR INCOME TRUST
+                                  BY: VAN KAMPEN INVESTMENT ADVISORY CORP.
+
+                                  By: /s/ Brad Langs
+                                      -----------------------------------------
+                                  Name: BRAD LANGS
+                                  Title: EXECUTIVE DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  VAN KAMPEN
+                                  SENIOR LOAN FUND
+                                  BY: VAN KAMPEN INVESTMENT ADVISORY CORP.
+
+                                  By: /s/ Brad Langs
+                                      -----------------------------------------
+                                  Name: BRAD LANGS
+                                  Title: EXECUTIVE DIRECTOR
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  FOOTHILL INCOME TRUST II L.D.
+                                  by FIT II G.P, LLC
+                                  Its General Partner
+
+                                  By: /s/ Dennis Ascher
+                                      -----------------------------------------
+                                  Name:  Dennis Ascher
+                                  Title: Managing Member
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                  WESTERN ASSET FLOATING RATE HIGH INCOME
+                                  FUND, LLC
+
+                                  By: /s/ illegible
+                                      ------------------------------------
+                                  Name:
+                                  Title:
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+<PAGE>
+
+                                    EXHIBIT A
+
+                               FORM OF LOAN NOTICE
+
+Date:  __________, 200__
+
+To:   Citicorp North America, Inc., as Administrative Agent
+
+Re:   Credit Agreement (as amended, modified, supplemented and extended from
+      time to time, the "Credit Agreement") dated as of August 19, 2003 among
+      Ardent Health Services, Inc., a Delaware corporation (the "Borrower"), the
+      Guarantors identified therein, the Lenders identified therein, and
+      Citicorp North America, Inc., as Administrative Agent. Capitalized terms
+      used but not otherwise defined herein have the meanings provided in the
+      Credit Agreement.
+
+Ladies and Gentlemen:
+
+The undersigned hereby requests (select one):
+
+[ ] A Borrowing of Revolving Loans
+
+[ ] A Borrowing of Incremental Term Loans
+
+[ ] A conversion or continuation of Revolving Loans
+
+[ ] A conversion or continuation of Incremental Term Loans
+
+1.    On _______________, 200__ (which is a Business Day).
+
+2.    In the amount of $__________.
+
+3.    Comprised of __________ (Type of Loan requested).
+
+4.    For Eurodollar Rate Loans: with an Interest Period of __________ months.
+
+With respect to any Borrowing or any conversion or continuation requested
+herein, the Borrower hereby represents and warrants that (i) in the case of a
+Borrowing of Revolving Loans, such request complies with the requirements of the
+proviso to the first sentence of Section 2.01(a) of the Credit Agreement, (ii)
+in the case of a Borrowing or any conversion or continuation, each of the
+conditions set forth in Section 5.02 of the Credit Agreement have been satisfied
+on and as of the date of such Borrowing or such conversion or continuation other
+than those in Section 5.02(a) with respect to the representations set forth in
+Section 6.05(a), (b), (d) or (e) or Section 6.15 of the Credit Agreement with
+respect to the financial statements delivered under the Credit Agreement prior
+to the Fourth Amendment Effective Date and (iii) in the case of a Borrowing of
+an Incremental Term Loan, each of the conditions set forth in Section 5.03 of
+the Credit Agreement have been satisfied.
+
+                                 ARDENT HEALTH SERVICES, INC.,
+                                 a Delaware corporation
+
+                                 By:_________________________
+                                 Name:
+                                 Title:
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                    EXHIBIT B
+
+                                Legal Description
+
+                                                    ARDENT HEALTH SERVICES, INC.
+                                             FIFTH AMENDMENT TO CREDIT AGREEMENT
+
+<PAGE>
+
+                                LEGAL DESCRIPTION
+                                       FOR
+                             A PORTION OF TRACT 1-A
+                          ST. JOSEPH WEST MESA HOSPITAL
+                           PARADISE HEIGHTS - UNIT ONE
+
+Being that certain parcel of land situate within the Town of Alameda Grant in
+projected Section 1, Township I1 North, Range 2 East, New Mexico Principal
+Meridian, Bernalillo County, New Mexico, comprised of a portion of Tract 1-A,
+St. Joseph West Mesa Hospital, Paradise Heights, Unit One, as shown and
+designated on the plat which was filed for record in the Office of the County
+Clerk of Bernalillo County, New Mexico, on December 15, 1983, in Map Book C22,
+Folio 163; and being more particularly described as follows:
+
+BEGINNING, FOR A TIE, at the northwest comer of said Tract 1-A, whence the
+U.S.G.S. Brass Tablet stamped "Black 2, 1977", having New Mexico State Plane
+coordinate values (Central Zone) of Y=1,530,241.52 and X=372,920.43 bears
+S.38(degree)2l 19" E.. a distance of 1773.37 feet; thence,
+
+S.89(degree)43'09" E., a distance of 421.64 feet along the northerly boundary
+line of said Tract 1-A to the northeast comer of the parcel of land herein
+described; thence,
+
+Along the proposed lot line of the parcel of land herein described as follows:
+
+S.00(degree)16'51"W., a distance of 262.77 feet to a point; thence,
+
+S.66(degree)47'04"E., a distance of 84.96 feet to a point; thence,
+
+S.23(degree)12'21"W., a distance of 143.98 feet to a point; thence,
+
+N.66(degree)47'04"W., a distance of 218.47 feet to a point; thence,
+
+S.23(degree)12'56"W., a distance of 225.88 feet to a point; thence,
+
+S.66(degree)47'04"E., a distance of 83.07 feet to a point; thence,
+
+S.23(degree)12'04"W., a distance of 103.00 feet to a point on the northerly
+right-of-way line of McMahon Boulevard, N.W. being the southeasterly corner of
+the parcel of land herein described; thence,
+
+N.66(degree)47'04"W., a distance of 207.16 feet along the northerly right-of-way
+line of McMahon Boulevard, N.W. to the southwest corner of said Tract 1-A;
+thence
+
+N.00(degree)15'46"E., a distance of 597.89 feet to the northwest corner and
+POINT OF BEGINNING of the parcel of land herein described, and containing
+219,207 square feet (5.0323 acres), more or less.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

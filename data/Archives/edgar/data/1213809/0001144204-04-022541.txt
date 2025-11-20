@@ -1,0 +1,303 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UMiDqzLKN4M+0mp2YTlRJ0zXmoTOa3wpDg1mm/l6k1S3X843wHWmR7j8w0uxykYq
+ KA5tbj9g3wlbgwC+6ySMxA==
+
+<SEC-DOCUMENT>0001144204-04-022541.txt : 20041223
+<SEC-HEADER>0001144204-04-022541.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041222205514
+ACCESSION NUMBER:		0001144204-04-022541
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Changes in Registrant.s Certifying Accountant
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DYADIC INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0001213809
+		STANDARD INDUSTRIAL CLASSIFICATION:	PLASTICS FOAM PRODUCTS [3086]
+		IRS NUMBER:				450486747
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-102629
+		FILM NUMBER:		041222221
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 INTERNATIONAL POINTE DRIVE
+		STREET 2:		SUITE 404
+		CITY:			JUPITER
+		STATE:			FL
+		ZIP:			33477
+		BUSINESS PHONE:		561-743-8333
+
+	MAIL ADDRESS:	
+		STREET 1:		140 INTERNATIONAL POINTE DRIVE
+		STREET 2:		SUITE 404
+		CITY:			JUPITER
+		STATE:			FL
+		ZIP:			33477
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CCP WORLDWIDE INC
+		DATE OF NAME CHANGE:	20030110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>
+Unassociated Document
+</TITLE>
+<!-- Licensed to: v-->
+<!-- Document Created using EDGARIZER HTML -->
+<!-- Copyright 2004 EDGARfilings, Ltd., an IEC company.-->
+<!-- All rights reserved EDGARfilings.com -->
+</HEAD>
+<BODY><DIV><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>UNITED STATES</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SECURITIES AND EXCHANGE COMMISSION</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Washington, D.C. 20549</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, serif"><STRONG>FORM 8-K</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman, serif"><STRONG>CURRENT REPORT</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Pursuant to SECTION 13 or 15(d) of the Securities Exchange Act of 1934</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Date of Report (Date of earliest event reported):</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 9pt">&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>December 22, 2004</U></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 16pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Dyadic International, Inc.
+<DIV>
+<HR align=left width="100%" color=#000000 noShade SIZE=1>
+</DIV></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(Exact name of registrant as specified in its charter)</FONT><BR></DIV>
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #000000 thin solid" width="33.33%">
+<P align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Delaware</STRONG></FONT></P></TD>
+<TD style="BORDER-BOTTOM: #000000 thin solid" width="33.33%">
+<P align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>333-102629</STRONG></FONT></P></TD>
+<TD style="BORDER-BOTTOM: #000000 thin solid" width="33.33%">
+<P align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>45-0486747</STRONG></FONT></P></TD></TR>
+<TR bgColor=#ffffff>
+<TD width="33.33%">
+<P align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(State or other jurisdiction of incorporation)</FONT></P></TD>
+<TD width="33.33%">
+<P align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Commission File Number)</FONT></P></TD>
+<TD width="33.33%">
+<P align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(IRS Employer Identification No.)</FONT></P></TD></TR>
+<TR bgColor=#ffffff>
+<TD width="33.33%">&nbsp;</TD>
+<TD width="33.33%">&nbsp;</TD>
+<TD width="33.33%">&nbsp;</TD></TR></TABLE></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 153pt">&nbsp;</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 153pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 153pt">&nbsp;&nbsp;&nbsp;</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 153pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 153pt">&nbsp;&nbsp;&nbsp;</FONT>
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #000000 thin solid" width="50%">
+<P align=center><STRONG>140 Intracoastal Pointe Drive, Suite 404<BR>Jupiter, Florida </STRONG></P></TD>
+<TD style="BORDER-BOTTOM: #000000 thin solid" vAlign=bottom width="50%">
+<P align=center><STRONG>33477</STRONG></P></TD></TR>
+<TR bgColor=#ffffff>
+<TD width="50%">
+<P align=center>(Address of principal executive offices)</P></TD>
+<TD width="50%">
+<P align=center>(Zip Code)</P></TD></TR></TABLE></DIV>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Registrant&#146;s telephone number, including area code: </FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>(561) 743-8333</U></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>CCP Worldwide, Inc., 6040-A Six Forks Road, Suite 179, Raleigh, North Carolina 27609
+<DIV>
+<HR align=left width="100%" color=#000000 noShade SIZE=1>
+</DIV></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">(Former name or former address, if changed since last report.)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><EM>see </EM></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">General Instruction A.2. below):</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 18pt" align=left></TD>
+<TD style="WIDTH: 18pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Wingdings">o</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 18pt" align=left></TD>
+<TD style="WIDTH: 18pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Wingdings">o</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 18pt" align=left></TD>
+<TD style="WIDTH: 18pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Wingdings">o</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 18pt" align=left></TD>
+<TD style="WIDTH: 18pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Wingdings">o</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></TD></TR></TABLE><FONT face=Symbol></FONT></DIV>
+<DIV>
+<DIV style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&nbsp;</DIV>
+<DIV style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><BR>&nbsp;</DIV>
+<DIV style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%" colSpan=3>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV></TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD style="PAGE-BREAK-AFTER: always" width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=black noShade SIZE=1>
+</FONT></TD></TR></TABLE></DIV>
+<DIV style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%"></TD></TR></TABLE></DIV>
+<DIV style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><BR><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">SECTION 4 - MATTERS RELATED TO ACCOUNTANTS AND FINANCIAL</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"> STATEMENTS</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>Item 4.01 Change in Registrant&#146;s Certifying Accountant</U></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">The Registrant, Dyadic International, Inc., a Delaware corporation formerly known as CCP Worldwide, Inc., consummated, on October 29, 2004, its acquisition via a reverse acquisition transaction (the &#147;Merger&#148;) of Dyadic International (USA), Inc., a Florida corporation formerly known as Dyadic International, Inc. (&#147;Dyadic-Florida&#148;).</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">The independent registered public accounting firm for the Registrant was Sherb &amp; Co., LLP, and the independent auditors for Dyadic-Florida have been Ernst &amp; Young LLP. Because the Merger will be treated as a reverse acquisition for accounting purposes, future historical financial reports filed by the Registrant will be those of Dyadic-Florida, the accounting acquirer. Accordingly, the Registrant&#146;s Board of Directors determined to change its independent registered public accounting firm from Sherb &amp; Co., LLP to Ernst &amp; Young LLP. Sherb &amp; Co., LLP was dismissed as the independent registered public accounting firm of the Registrant on December&nbsp;22, 2004, and Ernst &amp; Young LLP was engaged as the independent registered public accounting firm for the Registrant on
+December&nbsp;22, 2004. As a result of being the auditors of Dyadic-Florida, Ernst &amp; Young LLP did have consultations with Dyadic-Florida regarding the Merger.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">The reports of Sherb &amp; Co., LLP on the Registrant&#146;s financial statements for the past fiscal year did not contain an adverse opinion or a disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope, or accounting principles, but did include an explanatory paragraph relating to the Registrant&#146;s ability to continue as a &#147;going concern.&#148;</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">In connection with the audits of the Registrant&#146;s financial statements for the fiscal year ended December&nbsp;31, 2003, and through the date of the dismissal, there were no disagreements with Sherb &amp; Co., LLP on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which, if not resolved to the satisfaction of Sherb &amp; Co., LLP, would have caused Sherb &amp; Co., LLP to make reference to the matter in its reports.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">During the most recent fiscal year and through the date of the dismissal of Sherb &amp; Co., LLP, no information is required to be reported under Item 304(a)(1)(iv)(B) of Regulation S-B.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">The Registrant has provided Sherb &amp; Co., LLP with a copy of this Current Report on Form 8-K and has requested Sherb &amp; Co., LLP to furnish the Registrant with a letter addressed to the Securities and Exchange Commission stating whether it agrees with the above statements and, if not, to state the respects in which it does not agree with such statements.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>2&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=black noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">SECTION 9 - FINANCIAL STATEMENTS AND EXHIBITS</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>Item 9.01 Financial Statements and Exhibits</U></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>(c)</STRONG></FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Exhibits.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">The following exhibits are furnished in accordance with the provisions of Item 601 of Regulation S-K:</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+
+<TR>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="12%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Exhibit</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Number</STRONG></FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="58%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Description of Exhibit</STRONG></FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top align=middle width="12%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">*16.1</FONT></DIV></TD>
+<TD vAlign=top align=left width="58%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Letter from Sherb &amp; Co., LLP on change in certifying accountant</FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">_____________________________</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">*</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 27pt">&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">To be filed by amendment.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3></TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;3</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=black noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SIGNATURES</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 207pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>DYADIC INTERNATIONAL, INC.</STRONG></FONT><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Date: December 22, 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">By:</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><U>/s/ Mark A. Emalfarb</U></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT id=TAB1 style="MARGIN-LEFT: 207pt"></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Name:</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 0pt">&nbsp; &nbsp;</FONT>&nbsp;<FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Mark A. Emalfarb</FONT></DIV>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR style="LINE-HEIGHT: 1.25" vAlign=top>
+<TD style="WIDTH: 207pt" align=left></TD>
+<TD style="WIDTH: 9pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Title:</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">President and Chief Executive Officer</FONT></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV valign="top"></DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;4</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1></FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR></DIV></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

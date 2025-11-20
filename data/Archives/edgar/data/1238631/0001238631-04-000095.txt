@@ -1,0 +1,1008 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Dmk/jgAjYxP0MEAnHBD4GHODdE/9jOYv93qCDHt/fTJHMubOiUvXe+lKxDIfOaVz
+ olDG+9bzIVNTFa5gTN3QXw==
+
+<SEC-DOCUMENT>0001238631-04-000095.txt : 20041220
+<SEC-HEADER>0001238631-04-000095.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041220170413
+ACCESSION NUMBER:		0001238631-04-000095
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Cost Associated with Exit or Disposal Activities
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CURATIVE HEALTH SERVICES INC
+		CENTRAL INDEX KEY:			0001238631
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC [8093]
+		IRS NUMBER:				510467366
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50371
+		FILM NUMBER:		041214754
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 MOTOR PARKWAY
+		CITY:			HAUPAGUE
+		STATE:			NY
+		ZIP:			11788-5145
+		BUSINESS PHONE:		6312327000
+
+	MAIL ADDRESS:	
+		STREET 1:		THOMAS AXMACHER
+		STREET 2:		150 MOTOR PARKWAY
+		CITY:			HAUPPAGUE
+		STATE:			NY
+		ZIP:			11788-5145
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CURATIVE HOLDING CO
+		DATE OF NAME CHANGE:	20030604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cure8k122004.txt
+<DESCRIPTION>CURATIVE OFFICE CONSOLIDATION
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+     Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+       Date of report (Date of earliest event reported): December 14, 2004
+                                                         -----------------
+
+
+                         CURATIVE HEALTH SERVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+            Minnesota                  000-50371               51-0467366
+ (State or other jurisdiction of      (Commission            (IRS Employer
+  incorporation or organization)      File Number)       Identification Number)
+
+
+                                150 Motor Parkway
+                         Hauppauge, New York 11788-5145
+               (Address of principal executive offices) (zip code)
+
+
+                                 (631) 232-7000
+              (Registrant's telephone number, including area code)
+
+
+                                 Not Applicable
+        (Former name or former address, if changed since last report.)
+                           ---------------------------
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act
+    (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+    (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+    Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+    Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+<PAGE>
+
+
+Item 1.01 Entry into a Material Definitive Agreement
+
+     Amended and Restated Employment Agreement - John C. Prior
+
+As previously reported on a Form 8-K filed by Curative Health Services, Inc.
+(the "Company") on November 16, 2004, John C. Prior became the Chief Operating
+Officer of the Company effective as of November 15, 2004. On December 17, 2004,
+as a result of Mr. Prior's appointment as the Chief Operating Officer, the
+Company entered into an Amended and Restated Employment Agreement with Mr.
+Prior, effective as of December 31, 2004. The amended agreement was
+substantially the same as his prior agreement, except for changes in his title
+and base salary, as well as the fact that the amended agreement was with the
+Company, as opposed to a wholly-owned subsidiary of the Company as was the case
+with the prior agreement. Mr. Prior's employment agreement, as amended and
+restated, is summarized below.
+
+Under the amended and restated agreement, Mr. Prior is employed as the Company's
+Chief Operating Officer, subject to the direction of the Chief Executive
+Officer/President for an initial term of one year, with a compensation package
+including an initial base annual salary of $280,000 and the right to participate
+in the Company's Executive Bonus Compensation Program. Mr. Prior's employment
+agreement renews automatically for additional one-year periods upon the end of
+the initial term and each subsequent renewal term unless notice of termination
+is given at least three months prior to renewal. Mr. Prior's base salary is
+subject to annual review and increase by the Company's Board of Directors.
+
+The Company may terminate Mr. Prior's employment agreement at any time with or
+without cause upon 30 days' prior written notice to Mr. Prior, and Mr. Prior may
+terminate his employment agreement at any time upon 30 days' prior written
+notice to the Company. In the event the Company terminates Mr. Prior's
+employment agreement without cause prior to a change of control or elects not to
+renew, Mr. Prior will be entitled to receive a lump sum severance payment equal
+to his then current base salary plus the arithmetic average of payments made to
+him pursuant to the Company's Executive Bonus Compensation Program with respect
+to the three years immediately preceding the fiscal year in which the date of
+termination occurs. In addition, to the extent not otherwise required under the
+Company's Stock Option Plan or any award agreement with Mr. Prior, any unvested
+Stock Option Awards that would have vested during the twelve-month period
+following the date of termination shall vest and become immediately exercisable
+in full upon such termination. If Mr. Prior's employment agreement is terminated
+(or not renewed) by the Company without cause or by Mr. Prior for good reason
+during the twelve-month period immediately following a change in control (or is
+terminated or not renewed prior to a change in control at the request or
+insistence of any person in connection with a change in control), Mr. Prior
+shall be entitled to a lump sum severance payment equal to the product of two
+times his then current annual base salary plus the arithmetic average of
+payments made to Mr. Prior pursuant to the Company's Executive Bonus
+Compensation Program with respect to the three fiscal years immediately
+preceding the fiscal year in which the date of termination occurs. In addition,
+to the extent not otherwise required under the Company's Stock Option Plan or
+any award agreement with Mr. Prior, any unvested Stock Option Awards held by Mr.
+Prior shall vest and become immediately exercisable in full upon such change of
+control termination. Mr. Prior's employment agreement also restricts him from
+competing with the Company under certain circumstances during his employment
+with the Company and for a period of two years thereafter.
+
+
+<PAGE>
+
+     Restricted Stock Award Agreement - Thomas Axmacher
+
+Effective December 14, 2004, the Company and Thomas Axmacher, Chief Financial
+Officer, are entering into a Restricted Stock Award Agreement, whereby the
+Company has granted Mr. Axmacher a restricted stock award of 60,000 shares of
+its Common Stock on that date. On December 14, 2005, the one-year anniversary
+date of the grant, one-third of the shares shall vest and the balance shall vest
+in equal installments thereafter on the last day of each of the eight successive
+three-month periods following December 14, 2005, provided, however, that no such
+shares shall vest unless prior to the respective vesting date, Mr. Axmacher
+shall have relocated to the Company's new corporate headquarters in Nashua, New
+Hampshire (except that in the event of a change of control of the Company, all
+of such shares shall vest and become immediately exercisable). The Company
+intends to file the agreement as an exhibit to its upcoming Form 10-K.
+
+Item 2.05 Costs Associated with Exit or Disposal Activities
+
+On December 14, 2004, the Company's Board of Directors authorized management to
+commit the Company to a plan to move its headquarters from Hauppauge, New York,
+to Nashua, New Hampshire. The Company anticipates that the consolidation of its
+corporate offices in Nashua will be completed within the next six to eight
+months. The Company will not be renewing its Hauppauge office lease which
+expires in 2005. The decision to exit the Company's headquarters in Hauppauge
+was made to decrease overall corporate costs and improve operating and
+management efficiencies. The Company anticipates that it will achieve annual
+savings of approximately $3.5 million upon completion of the headquarter
+consolidation and reduction in management and other corporate positions. The
+press release issued on December 20, 2004 announcing the move is filed as
+Exhibit 99.1 to this Form 8-K and is incorporated herein by reference.
+
+The Company estimates its costs of moving furniture, fixtures and information
+systems at approximately $1.0 - $1.2 million, costs associated with personnel
+retention and severances at approximately $1.8 - $2.0 million, costs related to
+closing down its Hauppauge office and expanding its Nashua office at
+approximately $0.8 - $1.0 million and equipment write offs of approximately $0.2
+- - $0.4 million, for total estimated costs of approximately $3.8 - $4.6 million.
+Cash expenditures related to these costs are expected to be approximately $3.6 -
+$4.2 million. The Company expects to record charges related to the consolidation
+and reduction in management and other corporate positions in the fourth quarter
+of 2004 and subsequent quarters in 2005.
+
+Item 9.01 Financial Statements and Exhibits
+
+(c)  Exhibits
+
+     Exhibit No. Description of Exhibit
+     ----------  -------------------------------------------------
+
+       10.1      Amended and Restated Employment Agreement, effective as of
+                 December 31, 2004, by and between the Company and John C. Prior
+
+       99.1      Press Release dated December 20, 2004 regarding the
+                 consolidation of the Company's corporate offices to Nashua,
+                 New Hampshire
+
+
+
+<PAGE>
+
+
+
+
+Signature
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                    CURATIVE HEALTH SERVICES, INC.
+
+
+Date:  December 20, 2004            By:  /s/ Thomas Axmacher
+                                         -----------------------------------
+                                             Thomas Axmacher
+                                             Chief Financial Officer
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>prior_ex10-1.txt
+<DESCRIPTION>10.1 PRIOR AMENDED EMPLOYMENT AGREEMENT
+<TEXT>
+                                                                  Exhibit 10.1
+
+                    AMENDED AND RESTATED EMPLOYMENT AGREEMENT
+
+
+                  THIS AMENDED AND RESTATED EMPLOYMENT AGREEMENT (the
+"Agreement") is made effective as of December 31, 2004 (the "Effective Date"),
+between CURATIVE HEALTH SERVICES, INC., a Minnesota corporation (the "Company"),
+and JOHN C. PRIOR ("Executive").
+
+                  WHEREAS, the Company and Executive entered into an Amended and
+Restated Employment Agreement dated September 1, 1997, as such Amended and
+Restated Employment Agreement may have been amended from time to time thereafter
+(the "Employment Agreement");
+
+                  WHEREAS, Executive has been employed by Curative Health
+Services Co., a subsidiary of the Company ("Company Subsidiary"), as its
+President - Specialty Healthcare Services and has been appointed effective
+November 15, 2004 as the Chief Operating Officer of the Company ("COO");
+
+                  WHEREAS, the Company and Executive desire that Executive
+continue as an employee of the Company under the terms of the Employment
+Agreement, and
+
+                  WHEREAS, certain provisions of the Employment Agreement must
+be amended to give effect to the appointment of Executive as COO and the
+assignment of the Employment Agreement by the Company Subsidiary to the Company;
+
+                  NOW, THEREFORE, in consideration of the promises and the
+mutual covenants and agreements herein contained, the Company and Executive
+hereby agree that the Employment Agreement shall be and is hereby amended and
+restated in its entirety to read as follows:
+
+1.       Employment
+
+         1.1      Employment and Duties. The Company hereby agrees to employ
+Executive for the Term (as hereinafter defined) as Chief Operating Officer,
+subject to the direction of the Chief Executive Officer and/or President, and in
+connection therewith, to perform such duties as he shall reasonably be directed
+by the Chief Executive Officer and/or President to perform. Executive hereby
+accepts such employment and agrees to render such services. Executive shall
+perform duties and carry out his responsibilities hereunder in a diligent
+manner, shall devote his exclusive and full working time, attention and effort
+to the affairs of the Company and its subsidiaries and affiliates, shall use his
+best efforts to promote the interests of the Company and its subsidiaries and
+affiliates, and shall be just and faithful in the performance of his duties and
+in carrying out his responsibilities.
+
+                                       1
+<PAGE>
+
+         1.2      Location. The principal location for performance of
+Executive's services hereunder shall be at the Company's executive offices,
+subject to reasonable travel requirements during the course of such performance.
+
+2.       Employment Term
+
+         The term of Executive's employment hereunder (the "Term") shall be
+deemed to commence on the Effective Date and shall end on the first anniversary
+of the Effective Date, unless sooner terminated as hereinafter provided;
+provided, however, that the Term shall be automatically renewed and extended for
+an additional period of one (1) year on the each anniversary unless either party
+gives a Notice of Termination (as defined below) to the other party at least
+three (3) months prior to such anniversary.
+
+3.       Compensation and Benefits
+
+         3.1      Cash Compensation.
+
+                  (a)      Base Salary. The Company shall pay Executive an
+                           annual salary of $280,000.00 payable in bi-weekly
+                           installments, in arrears (the "Base Salary"). The
+                           Base Salary shall be reviewed annually by the
+                           Company's Board of Directors and may be increased,
+                           but not decreased (unless mutually agreed upon by
+                           Executive and the Company).
+
+                  (b)      Bonus Plan. Executive shall be entitled to
+                           participate in the Company's Executive Bonus
+                           Compensation Program, in accordance with and subject
+                           to the terms and provisions thereof.
+
+         3.2      Participation in Benefit Plans. Executive shall be entitled to
+participate in all employee benefit plans or programs of the Company to the
+extent that his position, title, tenure, salary, age, health and other
+qualifications make him eligible to participate. The Company does not guarantee
+the continuance of any particular employee benefit plan or program during the
+Term, and Executive's participation in any such plan or program shall be subject
+to all terms, provisions, rules and regulations applicable thereto. Executive
+will be entitled to twenty (20) days of vacation per year, to be used in
+accordance with the Company's vacation policy for senior executives as it may
+change from time to time. For the Benefit Period, if any, (as hereinafter
+defined), the Company will arrange to provide Executive with welfare benefits
+(including life and health insurance benefits) of substantially similar design
+and cost to Executive as the welfare benefits and other employee benefits
+available to Executive prior to Executive's or the Company's, as the case may
+be, receipt of a Notice of Termination (as hereinafter defined). In the event
+that Executive shall obtain full-time employment providing welfare benefits
+during the Benefit Period, such benefits as otherwise receivable hereunder by
+Executive shall be discontinued.
+
+                                       2
+<PAGE>
+
+         3.3      Expenses. The Company will pay or reimburse Executive for all
+reasonable and necessary out-of-pocket expenses incurred by him in the
+performance of his duties under this Agreement. Executive shall keep detailed
+and accurate records of expenses incurred in connection with the performance of
+his duties hereunder and reimbursement therefor shall be in accordance with
+policies and procedures to be established from time to time by the Board.
+
+         3.4      Automobile Expenses. During the Term, Executive shall be
+entitled to the use of an automobile leased in the name of the Company. The
+Executive shall be repaid by the Company for all automobile expenses incurred
+by the Executive in the performance of his duties under this agreement.
+
+4.       Termination of Employment
+
+         4.1      Definitions
+
+                  (a)      "Benefit Period" shall mean (i) the twelve (12) month
+period commencing on the Date of Termination which occurs in connection with a
+termination of employment described in the first sentence of Section 4.5(a), or
+(ii) the twenty-four (24) month period commencing on the Date of Termination
+which occurs in connection with a termination of employment described in the
+first sentence of Section 4.5(b).
+
+                  (b)      "Cause" shall mean any of the following:
+
+                           (i) any act or failure to act (or series or
+combination thereof) by Executive done with the intent to harm in any material
+respect the interests of the Company, its subsidiaries or affiliates;
+
+                           (ii) the commission by Executive of a felony;
+
+                           (iii) the perpetration by Executive of a dishonest
+act or common law fraud against the Company, or any
+subsidiary or affiliate thereof;
+
+                           (iv) a grossly negligent act or failure to act (or
+series or combination thereof) by Executive detrimental in any material respect
+to the interests of the Company, its subsidiaries or affiliates;
+
+                                       3
+<PAGE>
+
+                           (v) the material breach by Executive of his
+agreements or obligations under this Agreement; or
+
+                           (vi) the continued refusal to follow the directives
+of the Chief Executive Officer and/or President or
+Board of Directors that are consistent with Executive's duties and
+responsibilities identified in Section 1.1 hereof.
+
+                  (c)      A "Change of Control" shall mean any of the
+following:
+
+                           (i) a sale of all or substantially all of the assets
+of the Company;
+
+                           (ii the acquisition of more than fifty percent (50%)
+of the Common Stock of the Company (with all classes or series thereof treated
+as a single class) by any person or group of persons, except a Permitted
+Shareholder (as hereinafter defined), acting in concert. A "Permitted
+Shareholder" means a holder, as of the date the Plan was adopted by the Company,
+of Common Stock;
+
+                           (iii) a reorganization of the Company wherein the
+holders of Common Stock of the Company receive stock in another company, a
+merger of the Company with another company wherein there is a eighty percent
+(80%) or greater change in the ownership of the Company as a result of such
+merger, or any other transaction in which the Company (other than as the parent
+corporation) is consolidated for federal income tax purposes or is
+eligible to be consolidated for federal income tax purposes with another
+corporation;
+
+                           (iv) in the event that the Common Stock is traded on
+an established securities market, a public announcement that any person has
+acquired or has the right to acquire beneficial ownership of fifty percent (50%)
+or more of the then-outstanding Common Stock and for this purpose the terms
+"person" and "beneficial ownership" shall have the meanings provided in
+Section 13(d) of the Securities and Exchange Act of 1934 or related rules
+promulgated by the Securities and Exchange Commission, or the commencement of
+or public announcement of an intention to make a tender offer or exchange offer
+for fifty percent (50%) or more of the then outstanding Common Stock;
+
+                           (v) a majority of the Board of Directors is not
+comprised of Continuing Directors. A "Continuing Director" means a director
+recommended by the Board of Directors of the Company for election as a director
+of the Company by the stockholders; or
+
+                           (vi) the Board of Directors of the Company, in its
+sole and absolute discretion, determines that there
+has been a sufficient change in the share ownership of the Company to constitute
+a change of effective ownership or control of the Company.
+
+                                       4
+<PAGE>
+
+                  (d)      "Good Reason" shall mean, within the twelve (12)
+month period immediately following a Change of Control, the occurrence of any
+one or more of the following events:
+
+                           (i) the assignment to Executive of any duties
+inconsistent in any respect with Executive's position (including status,
+offices, title, and reporting requirements), authority, duties or other
+responsibilities as in effect immediately prior to the Change of
+Control or any other action of the Company that results in a diminishment in
+such position, authority, duties or responsibilities, other than an
+insubstantial and inadvertent action that is remedied by the Company promptly
+after receipt of notice thereof given by Executive;
+
+                           (ii) a reduction by the Company in Executive's Base
+Salary as in effect on the date hereof and as the same shall be increased
+from time to time hereafter;
+
+                           (iii) the Company's requiring Executive to be based
+at a location in excess of fifty (50) miles from the location of Executive's
+principal office immediately prior to the Change of Control;
+
+                           (iv) the failure by the Company to (a) continue in
+effect any material compensation or benefit plan, program, policy or practice
+in which Executive was participating at the time of the Change of Control or
+(b) provide Executive with compensation and benefits at least equal (in terms
+of benefit levels and/or reward opportunities) to those provided for under each
+employee benefit plan, program, policy and practice as in effect immediately
+prior to the Change of Control (or as in effect following the Change of Control,
+if greater);
+
+                           (v) the failure of the Company to obtain a
+satisfactory agreement from any successor to the Company to assume and agree to
+perform this Agreement; and
+
+                           (vi) any purported termination by the Company of
+Executive's employment that is not effected pursuant to a Notice of Termination
+(as defined below).
+
+                  (e)      "Date of Termination" shall mean the date specified
+in the Notice of Termination (as hereinafter defined) (except in the case of
+Executive's death, in which case Date of Termination shall be the date of
+death); provided, however, that if Executive's employment is terminated by the
+Company other than for Cause, the date specified in the Notice of Termination
+shall be at least thirty (30) days from the date the Notice of Termination is
+given to Executive and if Executive's employment is terminated by Executive for
+Good Reason, the date specified in the Notice of Termination shall not be more
+than sixty (60) days from the date the Notice of Termination is given to the
+Company.
+
+                                       5
+<PAGE>
+
+                  (f)      "Notice of Termination" shall mean a written notice
+either from the Company to Executive, or Executive to the Company, that
+indicates Section 2 or the specific provision of Section 4 of this Agreement
+relied upon as the reason for such termination or nonrenewal, the Date of
+Termination, and, in reasonable detail, the facts and circumstances claimed to
+provide a basis for termination or nonrenewal pursuant to Section 2 or this
+Section 4 of this Agreement.
+
+         4.2      Termination Upon Death or Disability. This Agreement, and
+Executive's employment hereunder, shall terminate automatically and without the
+necessity of any action on the part of the Company upon the death of Executive.
+In addition, if at any time during the Term Executive shall become physically or
+mentally disabled, whether totally or partially, so that he is unable
+substantially to perform his duties and services hereunder for (i) a period of
+six (6) consecutive months, or (ii) for shorter periods aggregating six (6)
+months during any twelve (12) month period, the Company may at any time after
+the last day of the sixth consecutive month of disability or the day on which
+the shorter periods of disability shall have equalled an aggregate of six (6)
+months, by written notice to Executive (but before Executive has recovered from
+such disability), terminate this Agreement and Executive's employment hereunder.
+
+         4.3      Company's and Executive's Right to Terminate-Prior to Change
+of Control. Prior to a Change of Control, this Agreement and Executive's
+employment hereunder may be terminated at any time by the Company, with or
+without Cause, upon thirty (30) days prior written notice to Executive, and by
+Executive, at any time, upon thirty (30) days prior written notice to the
+Company. Any termination of Executive's employment by the Company without Cause
+prior to a Change of Control that occurs at the request or insistence of any
+person (other than the Company) relating to such Change of Control shall be
+deemed to have occurred after the Change of Control for the purposes of this
+Agreement.
+
+         4.4      Company's and Executive's Right to Terminate-Following a
+Change of Control. Following a Change of Control, this Agreement and Executive's
+employment hereunder may be terminated at any time (i) by the Company, with or
+without Cause, upon thirty (30) days prior written notice to Executive, and (ii)
+by Executive for Good Reason upon thirty (30) days prior written notice to the
+Company. Executive's right to terminate his employment pursuant to this Section
+4.4 shall not be affected by incapacity due to physical or mental illness.
+Executive's continued employment following a Change of Control shall not
+constitute consent to, or a waiver of rights with respect to, any circumstance
+constituting Good Reason hereunder.
+
+                                       6
+<PAGE>
+
+         4.5      Compensation Upon Termination.
+
+                  (a)      Termination Prior to Change of Control. In the event
+the Company terminates (or elects not to renew) this Agreement without Cause,
+and such termination (or nonrenewal) without Cause occurs prior to any Change of
+Control, Executive shall be entitled to receive his Base Salary through the Date
+of Termination, the welfare benefits described in Section 3.2 for the Benefit
+Period, and not later than thirty (30) days after the Date of Termination, a
+lump sum severance payment equal to the sum of Executives then Current Base
+Salary plus the arithmetic average of payments made to Executive pursuant to the
+Company's Executive Bonus Compensation Program with respect to the three (3)
+fiscal years immediate proceeding the fiscal year in which the Date of
+Termination occurs. In addition, to the extent not otherwise required under the
+Company's Stock Option Plan or any award agreement with Executive, any unvested
+Stock Option Awards theretofore awarded Executive which would otherwise vest and
+become exercisable during the twelve (12) month period commencing on the date of
+termination shall vest and become exercisable on the Date of Termination. In the
+event this Agreement is terminated (or not renewed) for any reason other than by
+the Company without Cause, then such termination (or nonrenewal) occurs prior to
+a Change of Control, Executive shall not be entitled to the continuation of any
+compensation, bonuses or benefits provided hereunder, or any other payments
+following the Date of Termination, other than Base Salary earned through such
+Date of Termination.
+
+                  (b)      Termination Following Change of Control. If this
+Agreement is terminated (or not renewed) (i) by the Company without Cause, or
+(ii) by Executive for Good Reason during the twelve (12) month period
+immediately following a Change of Control, and such termination (or nonrenewal)
+occurs following a Change of Control, Executive shall be entitled to receive
+his full Base Salary through the Date of Termination, the welfare benefits
+described in Section 3.2 for the Benefit Period and, not later than thirty (30)
+days after the Date of Termination, a lump sum severance payment equal to the
+product of two (2) times the sum of Executive's then current Base Salary plus
+the arithmetic average of payments made to Executive pursuant to the Company's
+Executive Bonus Compensation Program with respect to the three (3) fiscal years
+immediately preceding the fiscal year in which the in which the Date of
+Termination occurs. In addition, to the extent not otherwise required under the
+Company's Stock Option Plan or any award agreement with Executive, any unvested
+stock option awards theretofore awarded to Executive shall vest and become
+immediately exercisable in full. In the event this Agreement is terminated (or
+not renewed) for any reason other than (i) by the Company without Cause, or (ii)
+by Executive for Good Reason, and such termination (or nonrenewal) occurs
+following a Change of Control, Executive shall not be entitled to the
+continuation of any compensation, bonuses or benefits provided hereunder, or any
+other payments following the Date of Termination, other than Base Salary earned
+through the Date of Termination.
+
+                  (c)      At Executive's option to be exercised by written
+notice to the Company, the severance benefits payable under this Section 4.5
+shall be paid in accordance with the Company's normal payroll procedures over
+the twelve (12) month or twenty-four (24) month period, as the case may be,
+corresponding to the amount of the payments instead of in a lump sum.
+
+                                       7
+<PAGE>
+
+                  (d)      Anything to the contrary contained herein
+notwithstanding, as a condition to Executive receiving severance benefits to be
+paid pursuant to this Section 4.5, Executive shall execute and deliver to the
+Company a general release in the form and substance reasonably satisfactory to
+the Company releasing the Company, its subsidiaries and affiliates, and their
+officers, directors, employees and agents from all liabilities, claims and
+obligations of any nature whatsoever, excepting only the Company's obligations
+under this Agreement, under any Stock Option Award Agreements or Restricted
+Stock Award Agreements, and under any other employee benefit plans or programs
+in which Executive participates under Section 3.2 hereof, subject to all terms
+and conditions of such plans or programs and this Agreement.
+
+                  (e)      Anything to the contrary contained herein
+notwithstanding, in the event that any payment or benefit received or to be
+received by Executive in connection with a Change in Control of the Company or
+termination of Executive's employment (whether payable pursuant to the terms of
+this Agreement or any other plan, contract, agreement or arrangement with the
+Company, with any person whose actions result in a Change in Control of the
+Company or with any person constituting a member of an "affiliated group" as
+defined in Section 280G(d)(5) of the Internal Revenue Code of 1986, as amended
+(the "Code"), with the Company or with any person whose actions result in a
+Change in Control of the Company (collectively, the "Total Payments") would not
+be deductible (in whole or in part) by the Company or such other person making
+such payment or providing such benefit solely as a result of Section 280G of
+the Code, the amount payable to Executive pursuant to this Section 4.5 shall
+be reduced until no portion of the Total Payments is not deductible solely as
+a result of Section 280G of the Code or such amount payable to Executive
+pursuant to Section 4.5 is reduced to zero. For purposes of this limitation,
+(a) no portion of the Total Payments the receipt or enjoyment of which Executive
+shall have effectively waived in writing prior to the date of payment of the
+amount pursuant to Section 4.5 shall be taken into account; (b) no portion of
+the Total Payments shall be taken into account which in the opinion of tax
+counsel selected by the Company and reasonably acceptable to Executive does not
+constitute a "parachute payment" within the meaning of Section 280G(b)(2)
+of the Code; (c) the payment pursuant to Section 4.5 shall be reduced only to
+the extent necessary so that the Total Payments (other than those referred to
+in the immediately preceding clause (b)) in their entirety constitute reasonable
+compensation within the meaning of Section 280G(b)(4)(B) of the Code, in the
+opinion of the tax counsel referred to in the immediately preceding clause
+(b); and (d) the value of any other non-cash benefit or of any deferred cash
+payment included in the Total Payments shall be determined by the Company's
+independent auditors in accordance with the principles of Sections 280G(d)(3)
+and (4) of the Code.
+
+                                       8
+<PAGE>
+
+5.       Employment Covenants
+
+         5.1      Trade Secrets and Confidential Information. Executive agrees
+that he shall, during the course of his employment and thereafter, hold
+inviolate and keep secret all documents, materials, knowledge or other
+confidential business or technical information of any nature whatsoever
+disclosed to or developed by his or to which he had access as a result of his
+employment (hereinafter referred to as "Confidential Information"). Such
+Confidential Information shall include technical and business information,
+including, but not limited to, inventions, research and development,
+engineering, products, designs, manufacture, methods, systems, improvements,
+trade secrets, formulas, processes, marketing, merchandising, selling,
+licensing, servicing, customer lists, records or financial information, manuals
+or Company strategy concerning its business, strategy or policies. Executive
+agrees that all Confidential Information shall remain the sole and absolute
+property of the Company. During the course of his employment, Executive shall
+not use, disclose, disseminate, publish, reproduce or otherwise make available
+such Confidential Information to any person, firm, corporation or other entity,
+except for the purpose of conducting business on behalf of the Company.
+Following the Term, Executive shall not use, disclose, disseminate, publish,
+reproduce or otherwise make available such Confidential Information to any
+person, firm, corporation or other entity. Upon termination of his employment
+with the Company, Executive will leave with or deliver to the Company all
+records and any compositions, articles, devices, equipment and other
+items which disclose or embody Confidential Information including all copies or
+specimens thereof, whether prepared by his or by others. The foregoing
+restrictions on disclosure of Confidential Information shall apply so long as
+the information has not properly come into the public domain through no action
+of Executive.
+
+         5.2      Transfer of Inventions. Executive, for himself and his heirs
+and representatives, will promptly communicate and disclose to the Company, and
+upon request will, without additional compensation, execute all papers
+reasonably necessary to assign to the Company or the Company's nominees, free of
+encumbrance or restrictions, all inventions, discoveries, improvements, whether
+patentable or not, conceived or originated by Executive solely or jointly with
+others, at the Company's expense or at the Company's facilities, or at the
+Company's request, or in the course of his employment, or based on knowledge or
+information obtained during the Term. All such assignments shall include the
+patent rights in this and all foreign countries. Notwithstanding the foregoing,
+this Section 5.2 shall not apply to any invention for which no equipment,
+supplies, facilities or trade secret information of the Company, its
+subsidiaries or its affiliates was used and which was developed entirely on
+Executive's own time and (a) that does not relate (1) directly to the business
+of the Company, its subsidiaries or its affiliates or (2) to the Company's or a
+subsidiary or affiliate of the Company's actual or demonstrably anticipated
+research or development, or (b) that does not result from any work performed by
+Executive for the Company, its subsidiaries or its affiliates.
+
+         5.3      Exclusivity of Employment. During the Term, Executive shall
+not directly or indirectly engage in any activity competitive with or adverse
+to the Company's business or welfare or render a material level of services of a
+business, professional or commercial nature to any other person or firm, whether
+for compensation or otherwise.
+
+                                       9
+<PAGE>
+
+         5.4      Covenant Not to Compete.  Executive agrees to be bound and
+abide by the following covenant not to compete:
+
+                  (a)      Term and Scope. During his employment with the
+Company and for a period of two (2) years after the Term, Executive will not
+render to any Conflicting Organization (as hereinafter defined), services,
+directly or indirectly, anywhere in the world in connection with any Conflicting
+Product, except that Executive may accept employment with a large Conflicting
+Organization whose business is diversified (and which has separate and distinct
+divisions) if Executive first certifies to the Board of Directors in writing
+that he has provided a copy of Section 5 of this Agreement to such prospective
+employer, that such prospective employer is a separate and distinct division of
+the Conflicting Organization and that Executive will not render services
+directly or indirectly in respect of any Conflicting Product (as hereinafter
+defined). Such two-year time period shall be tolled during any period that
+Executive is engaged in activity in violation of this covenant.
+
+                  (b)      Judicial Action. Executive and the Company agree
+that, if the period of time or the scope of the restrictive covenant not to
+compete contained in this Section 5.4 shall be adjudged unreasonable in any
+court proceeding, then the period of time and/or scope shall be reduced
+accordingly, so that this covenant may be enforced in such scope and during
+such period of time as is judged by the court to be reasonable. In the event of
+a breach or violation of this Section 5.4 by Executive, the parties agree than
+in addition to all other remedies, the Company shall be entitled to equitable
+relief for specific performance, and Executive hereby agrees and acknowledges
+that the Company has no adequate remedy at law for the breach of the covenants
+contained herein.
+
+                  (c) Definitions. For purposes of this Agreement, the following
+terms shall have the following meanings:
+
+                  "Conflicting Product" means any product, method or process,
+                  system or service of any person or organization other than the
+                  Company, its subsidiaries and affiliates, in existence or
+                  under development at the time Executive's employment with the
+                  Company terminates, that is the same as or similar to or
+                  competes with a product, method or process, system or service
+                  of or provided by the Company or any of it's subsidiaries or
+                  affiliates or about which Executive acquires Confidential
+                  Information.
+
+                  "Conflicting Organization" means any person or organization
+                  which is engaged in or about to become engaged in research on
+                  or development, production, marketing, licensing, selling or
+                  servicing of a Conflicting Product.
+
+                                       10
+<PAGE>
+
+         5.5      Disclosure to Prospective Employers. Executive will disclose
+to any prospective employer, prior to accepting employment, the existence of
+Section 5 of this Agreement. The obligation imposed by this Section 5.5 shall
+terminate two (2) years after termination of Executive's employment with the
+Company; provided, however, the running of such two-year period shall be tolled
+to the extent the covenant not to compete contained in Section 5.4(a) hereof
+is tolled.
+
+
+
+6.       Miscellaneous
+
+         6.1      Notices. Any notice required or permitted to be delivered
+hereunder shall be in writing and shall be deemed to be delivered on the earlier
+of (i) the date received, or (ii) the date of delivery, refusal or non-delivery
+indicated on the return receipt, if deposited in a United States Postal Service
+depository, postage prepaid, sent registered or certified mail, return receipt
+requested, addressed to the party to receive the same at the address of such
+party set forth below, or at such other address as may be designated in a notice
+delivered or mailed as herein provided.
+
+
+         To Company:       Curative Health Services, Inc.
+                           150 Motor Parkway, 4th Floor
+                           Hauppauge, NY  11788
+                           Attention:  Nancy F. Lanis, Executive Vice President,
+                              General Counsel and Secretary
+                           and
+                           Critical Care Systems, Inc.
+                           61 Spit Brook Road, Suite 505
+                           Nashua, NH  03060
+                           Attention:  Paul F. McConnell, Chief Executive
+                              Officer and President
+
+         Executive:        John C. Prior
+                           306 Hidden Acres Path
+                           Wading River, NY  11792
+
+
+         6.2      Headings. The headings of the articles and sections of this
+Agreement are inserted for convenience only and shall not be deemed a part of or
+affect the construction or interpretation of any provision hereof.
+
+                                       11
+<PAGE>
+
+         6.3      Modifications; Waiver. No modification of any provision of
+this Agreement or waiver of any right or remedy herein provided shall be
+effective for any purpose unless specifically set forth in a writing signed by
+the party to be bound thereby. No waiver of any right or remedy in respect of
+any occurrence or event on one occasion shall be deemed a waiver of such right
+or remedy in respect of such occurrence or event on any other occasion.
+
+         6.4      Entire Agreement. This Agreement contains the entire agreement
+of the parties with respect to the subject matter hereof and supersedes all
+other agreements, oral or written, heretofore made with respect thereto,
+including without limitation, the Employment Agreement.
+
+         6.5      Severability. Any provision of this Agreement prohibited by or
+unlawful or unenforceable under any applicable law of any jurisdiction shall as
+to such jurisdiction be ineffective without affecting any other provision
+hereof. To the full extent, however, that the provisions of such applicable law
+may be waived, they are hereby waived, to the end that this Amended and Restated
+Employment Agreement be deemed to be a valid and binding agreement enforceable
+in accordance with its terms.
+
+         6.6      Controlling Law. This Agreement has been entered into by the
+parties in the State of New York and shall be continued and enforced in
+accordance with the laws of that State.
+
+         6.7      Assignments. The Company shall have the right to assign this
+Agreement and to delegate all rights, duties and obligations hereunder to any
+entity that controls the Company, that the Company controls, or that may be the
+result of the merger, consolidation, acquisition or reorganization of the
+Company and another entity. Executive agrees that this Agreement is personal to
+him and his rights and interest hereunder may not be assigned, nor may his
+obligations and duties hereunder be delegated (except as to delegation in the
+normal course of operation of the Company), and any attempted assignment or
+delegation in violation of this provision shall be void.
+
+         6.8      Attorney Fees. In the event of litigation between the parties,
+to enforce their respective rights under this Agreement, the prevailing party
+shall be entitled to receive from the non-prevailing party reimbursement of the
+prevailing party's reasonable attorney's fees and costs at all levels of trial
+and appeal.
+
+                                       12
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+Effective Date.
+
+                           CURATIVE HEALTH SERVICES, INC.
+
+
+                           By:   /s/ Paul F. McConnell
+                                  --------------------------------------------
+                                 Name: Paul F. McConnell
+                                 Title:  Chief Executive Officer and President
+
+
+                                 /s/ John C. Prior
+                                 ---------------------------------------------
+                                 Executive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       13
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>release_ex99-1.txt
+<DESCRIPTION>PRESS RELEASE OFFICE CONSOLIDATION
+<TEXT>
+                                                                    Exhibit 99.1
+
+
+FOR IMMEDIATE RELEASE
+
+Contact:
+Kathy Lynch
+Investor Relations
+Curative Health Services
+631-232-7091
+klynch@curativehealth.com
+
+
+                            CURATIVE HEALTH SERVICES
+                         ANNOUNCES THE CONSOLIDATION OF
+                   CORPORATE OFFICES TO NASHUA, NEW HAMPSHIRE
+
+Hauppauge, New York - December 20, 2004 - Curative Health Services, Inc.,
+(Nasdaq: CURE), announced today that as part of the Company's continued
+integration, its corporate headquarters and corporate functions will be
+consolidated into the Company's office located in Nashua, New Hampshire. The
+Company anticipates that the consolidation of the corporate offices will be
+completed within the next six to eight months. The Company will not be renewing
+its Hauppauge, New York office lease which expires in 2005.
+
+"There will be many benefits associated with the consolidation of the corporate
+offices, including decreasing overall corporate costs and improving operating
+and management efficiencies," said President and Chief Executive Officer, Paul
+F. McConnell. "In addition, the Company anticipates that it will achieve annual
+savings of approximately $3.5 million upon completion of the headquarter
+consolidation and reduction in management and other corporate positions."
+
+The Company estimates its costs of moving furniture, fixtures and information
+systems at approximately $1.0-$1.2 million, costs associated with personnel
+retention and severances at approximately $1.8-$2.0 million, costs related to
+closing down its Hauppauge office and expanding its Nashua office at
+approximately $0.8-$1.0 million and equipment write offs of approximately
+$0.2-$0.4 million for total estimated costs of approximately $3.8-$4.6 million.
+Cash expenditures related to these costs are expected to be approximately
+$3.6-$4.2 million. The Company expects to record charges related to the
+consolidation and reduction in management and other corporate positions in the
+fourth quarter of 2004 and subsequent quarters in 2005.
+
+About Curative Health Services
+
+Curative Health Services, Inc. seeks to deliver high-quality care and clinical
+results for patients with serious or chronic medical conditions.
+
+The Specialty Infusion business, through its national footprint of Critical
+Care Systems' local pharmacy branches, provides products, related clinical
+services and disease management support to patients with chronic or severe
+conditions such as hemophilia and other bleeding disorders, chronic or severe
+infections, gastrointestinal illnesses that prohibit oral digestion and other
+severe conditions requiring nutritional support, immune system disorders,
+cancer and susceptibility to respiratory syncytial virus.
+
+<PAGE>
+
+The Wound Care Management business is a leader in the area of disease management
+specializing in chronic wound care management. The Wound Care Management
+business manages, on behalf of hospital clients, a nationwide network of Wound
+Care Center(R) programs that offer a comprehensive range of services for
+treatment of chronic wounds.
+
+For more information, visit www.curative.com.
+
+This press release contains forward-looking statements within the meaning of the
+Private Securities Litigation Reform Act of 1995. Such forward-looking
+statements involve known and unknown risks, uncertainties and other factors,
+which may cause the actual results, performance or achievements of the Company,
+or industry results, to be materially different from any future results,
+performance, or achievements expressed or implied by such forward-looking
+statements. Factors that might cause such differences include, but are not
+limited to, risks associated with our acquisition of Critical Care Systems
+including, but not limited to, integration risks and costs, risks of client
+retention, and risks associated with the operations of the acquired business, as
+well as risks in our current businesses such as the substantial level of
+indebtedness incurred in connection with the acquisition of Critical Care
+Systems, the potential for termination or non-renewal of a material number of
+contracts, an inability to obtain new contracts, changes in government
+regulations relating to the Company's Specialty Infusion or Wound Care
+Management businesses, changes in the regulations governing third party
+reimbursements for the Company's services, manufacturing shortages of products
+sold by Curative's Specialty Infusion business, the impact of competitive
+products and pricing, the ability to maintain pricing arrangements with
+suppliers that preserve margins, the seasonality and variability of operating
+results, the Company's ability to implement its strategies and achieve its
+objectives and the other risks and uncertainties detailed in the Company's
+filings with the Securities and Exchange Commission. Readers of this release are
+referred to the Company's Registration Statement on Form S-4 filed July 29,
+2004, as amended, and its Quarterly Report on Form 10-Q for the quarter ended
+September 30, 2004, for further discussion of these and other risk factors that
+could affect future results.
+                                       ###
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

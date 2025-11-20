@@ -1,0 +1,374 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MwmudwRYc+mt5IDe7ClBqZPyrnUrc6jyYsBtaqIjbKs4t8Aq3J9UdM5TlmKVphbD
+ 6jPRIjSyocFIW1K1nvep+Q==
+
+<SEC-DOCUMENT>0000950123-04-015345.txt : 20041229
+<SEC-HEADER>0000950123-04-015345.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229161106
+ACCESSION NUMBER:		0000950123-04-015345
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Termination of a Material Definitive Agreement
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KMART HOLDING CORP
+		CENTRAL INDEX KEY:			0001229206
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				320073116
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50278
+		FILM NUMBER:		041231287
+
+	MAIL ADDRESS:	
+		STREET 1:		3100 WEST BIG BEAVER ROAD
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>y04232e8vk.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B>
+
+
+
+<P align="left" style="font-size: 10pt">Date of Report (Date of earliest event reported): December&nbsp;23, 2004
+
+<P align="center" style="font-size: 24pt"><B>Kmart Holding Corporation</B>
+
+<DIV align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<HR align="center" size="1" noshade width="100%"></DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="65%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Delaware
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">000-50278
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">32-0073116</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="5" valign="top" align="left"><HR align="center" size="1" noshade width="100%"></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of<BR>
+incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer<BR>
+Identification No.)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="55%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">3100 West Big Beaver Road, Troy, Michigan
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">48084</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="left"><HR align="center" size="1" noshade width="100%"></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: (248)&nbsp;463-1000
+
+
+
+<P align="center" style="font-size: 10pt">Not Applicable
+
+
+<DIV align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<HR align="center" size="1" noshade width="100%"></DIV>
+
+<DIV align="center" style="font-size: 10pt">(Former name or former address, if changed since last report)</DIV>
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR
+240.13.e-4(c)</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;1.02 Termination of a Material Definitive Agreement.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">SIGNATURES</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+
+
+<!-- link2 "Item&nbsp;1.02 Termination of a Material Definitive Agreement." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;1.02 Termination of a Material Definitive Agreement.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December&nbsp;23, 2004, Kmart Corporation (&#147;Kmart&#148;), a subsidiary of Kmart Holding
+Corporation (the &#147;Company&#148;), delivered to General Electric Capital Corporation a notice of its
+election to permanently terminate the Credit Agreement dated as of May&nbsp;6, 2003, as amended, among
+Kmart, General Electric Capital Corporation, as administrative agent, co-collateral agent and
+lender, and the other credit parties and lenders party thereto (the &#147;Credit Facility&#148;), such
+termination to be effective as of January&nbsp;3, 2005. In light of the Company&#146;s strong balance sheet
+and liquidity position and after undertaking an analysis of the estimated working capital
+requirements, the Company determined that it was no longer cost effective to maintain the Credit
+Facility. Prior to its termination, the Credit Facility was a secured $800&nbsp;million revolving
+credit facility with an equivalent letter of credit sub-limit and was guaranteed by the Company,
+Kmart Management Corporation, Kmart Services Corporation and Kmart&#146;s direct and indirect domestic
+subsidiaries. Kmart has only used the Credit Facility to support outstanding letters of credit.
+The Credit Facility was terminated without penalty.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some of the lenders or their respective affiliates from time to time have provided in the
+past, and may provide in the future, investment banking, commercial lending and financial advisory
+services to the Company and its affiliates.
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">KMART HOLDING CORPORATION<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date: December 29, 2004&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ James F. Gooch
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">James F. Gooch&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Vice President, Controller&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
