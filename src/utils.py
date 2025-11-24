@@ -1,5 +1,5 @@
-# utils.py
-# 包含所有数据处理、文本提取和 NLP 分析的辅助函数
+# src/utils.py
+# (V18 - 完整版：指纹去重 + 增强解析)
 
 import logging
 import re
@@ -7,10 +7,9 @@ from pathlib import Path
 import pandas as pd
 import nltk
 from bs4 import BeautifulSoup
-import settings  # 导入配置以获取 HEADER_ONLY_CHAR_LIMIT 和 MIN_SENTENCE_LENGTH
+import settings
 
-# (★★★ V3 修改 ★★★)
-# 从 settings.py 导入 V3 分层关键词
+# 导入正则
 try:
     from settings import (
         CORE_KEYWORDS_REGEX,
@@ -18,9 +17,8 @@ try:
         OPERATIONAL_CONTEXT_REGEX
     )
 except ImportError:
-    logging.critical("无法从 settings.py 导入 V3 关键词 (CORE_KEYWORDS_REGEX, ...)。")
-    # 设置一个Bypass/Fallback，防止崩溃
-    CORE_KEYWORDS_REGEX = re.compile(r'a^')  # 匹配不到任何东西
+    # 防止 IDE 报错的占位符
+    CORE_KEYWORDS_REGEX = re.compile(r'a^')
     CONTEXT_KEYWORDS_REGEX = re.compile(r'a^')
     OPERATIONAL_CONTEXT_REGEX = re.compile(r'a^')
 
@@ -29,7 +27,7 @@ except ImportError:
 
 def setup_nltk():
     """
-    (需求 4) 仅下载分句所需的 NLTK 包 ('punkt' 和 'punkt_tab')。
+    仅下载分句所需的 NLTK 包。
     """
     required_packages = ['punkt', 'punkt_tab']
     logging.info(f"正在验证/下载 NLTK 资源: {required_packages}...")
@@ -37,19 +35,14 @@ def setup_nltk():
     all_downloaded = True
     for package in required_packages:
         try:
-            # (修改) 使用 nltk.data.find 检查，如果找不到才下载
             nltk.data.find(f'tokenizers/{package}')
-            logging.info(f"NLTK 资源 '{package}' 已存在。")
         except LookupError:
             logging.info(f"正在下载 NLTK 资源 '{package}'...")
-            if not nltk.download(package, quiet=True):
-                logging.error(f"下载 NLTK '{package}' 失败。")
+            try:
+                nltk.download(package, quiet=True)
+            except Exception as e:
+                logging.error(f"下载 NLTK '{package}' 失败: {e}")
                 all_downloaded = False
-            else:
-                logging.info(f"NLTK 资源 '{package}' 下载成功。")
-        except Exception as e:
-            logging.error(f"NLTK 检查/下载 '{package}' 时发生意外错误: {e}")
-            all_downloaded = False
 
     if all_downloaded:
         logging.info("所有 NLTK 资源准备就绪。")
@@ -62,28 +55,21 @@ def load_cik_map(map_path: Path) -> pd.DataFrame:
     加载 CIK-公司名称映射表。
     """
     if not map_path.exists():
-        logging.error(f"CIK 映射表文件未找到: {map_path}")
         return pd.DataFrame()
 
     try:
-        logging.info(f"正在加载 CIK 映射表: {map_path}")
+        # 尝试 utf-8，失败尝试 latin1
         try:
             df = pd.read_csv(map_path, encoding='utf-8')
         except UnicodeDecodeError:
             df = pd.read_csv(map_path, encoding='latin1')
 
-        if 'CIK' not in df.columns:
-            logging.error(f"CIK 映射表 {map_path} 中未找到 'CIK' 列。")
-            return pd.DataFrame()
-
-        # (新增) 确保 CIK 列是字符串
         if 'CIK' in df.columns:
             df['CIK'] = df['CIK'].astype(str)
 
         return df
-
     except Exception as e:
-        logging.error(f"加载 CIK 映射表时发生错误: {e}")
+        logging.error(f"加载 CIK 映射表失败: {e}")
         return pd.DataFrame()
 
 
@@ -91,41 +77,40 @@ def load_cik_map(map_path: Path) -> pd.DataFrame:
 
 def get_document_text(file_path: Path) -> str | None:
     """
-    (★ ★ ★ 关键修改 ★ ★ ★)
-    不再信任 .txt 扩展名。统一使用 BeautifulSoup 处理所有文件
-    (无论是 .txt 还是 .htm)，以剥离 <PAGE> 或 <html> 标签。
+    统一使用 BeautifulSoup 处理所有文件以剥离标签。
     """
+    try:
+        file_size = file_path.stat().st_size
+        # 20MB 大小限制
+        if file_size > 20 * 1024 * 1024:
+            logging.warning(f"文件过大 ({file_size / 1024 / 1024:.2f} MB)，跳过: {file_path.name}")
+            return None
+    except Exception:
+        pass
+
     content = None
     try:
-        # 1. 统一读取
         content_bytes = file_path.read_bytes()
         try:
             raw_text = content_bytes.decode('utf-8')
         except UnicodeDecodeError:
             raw_text = content_bytes.decode('latin1')
 
-        # 2. 统一使用 BeautifulSoup 解析
-        # 无论 .txt 还是 .htm，都用 lxml (或 html.parser) 清理
         try:
             soup = BeautifulSoup(raw_text, 'lxml')
         except Exception:
-            logging.debug("lxml 解析器未找到或失败，切换到内置 html.parser")
             soup = BeautifulSoup(raw_text, 'html.parser')
 
-        # 3. 统一提取文本，保留换行符
         content = soup.get_text(separator="\n", strip=True)
 
     except Exception as e:
-        logging.warning(f"读取或解析文件失败 {file_path}: {e}")
+        # logging.warning(f"解析文件失败 {file_path.name}: {e}")
         return None
 
-    # 4. (保持) 统一的温和清理
     if content:
-        # 1. 将多个空格和制表符替换为单个空格（保留换行符）
+        # 清洗多余空白
         content = re.sub(r'[ \t]+', ' ', content)
-        # 2. 将多个连续的换行符替换为单个换行符（保留段落）
         content = re.sub(r'\n+', '\n', content)
-        # 3. 移除开头和结尾的空白
         content = content.strip()
         return content
 
@@ -133,27 +118,19 @@ def get_document_text(file_path: Path) -> str | None:
 
 
 # --- 4. 元信息提取 (日期) ---
-# (此部分来自您的 utils.py，保持不变)
 
-# (需求 2) 关键词
 PREAMBLE_KEYWORDS = r"(?:Effective Date|as of|dated this|dated as of|dated|Agreement\s+dated)"
-
-# (修复 1) 限制月份
 MONTHS = r"(?:January|February|March|April|May|June|July|August|September|October|November|December)"
 
-# (修复 2) 增加格式
 DATE_REGEX_1 = re.compile(
-    # (修改) 允许 st/nd/th, 例如 "December 22nd, 2004"
     rf"{PREAMBLE_KEYWORDS}\s+({MONTHS}\s+\d{{1,2}}(?:st|nd|rd|th)?,?\s+\d{{4}})",
     re.IGNORECASE
 )
-
 DATE_REGEX_3 = re.compile(
     rf"{PREAMBLE_KEYWORDS}\s+(\d{{4}}-\d{{2}}-\d{{2}})",
     re.IGNORECASE
 )
 DATE_REGEX_4 = re.compile(
-    # (修改) 允许 st/nd/th, 例如 "December 22nd, 2004" (无 preamble)
     rf"({MONTHS}\s+\d{{1,2}}(?:st|nd|rd|th)?,?\s+\d{{4}})",
     re.IGNORECASE
 )
@@ -168,26 +145,16 @@ FALLBACK_PATTERNS = [DATE_REGEX_4, DATE_REGEX_5]
 
 def extract_effective_date(text: str) -> str | None:
     """
-    (V8)
-    - 阶段 1: 在头部搜索高精度 (带Preamble) 的日期。
-    - 阶段 2: 如果失败，在头部搜索低精度 (无Preamble) 的日期。
-    - 阶段 3: 如果全部失败，则在全文中搜索所有模式（高精度+低精度）。
+    提取生效日期。
     """
     if not text:
         return None
 
-    limit = 5000
-    try:
-        # (V3 修改) 从 settings.py 动态获取
-        limit = settings.HEADER_ONLY_CHAR_LIMIT
-    except AttributeError:
-        if not hasattr(settings, 'HEADER_ONLY_CHAR_LIMIT_DEFAULTED'):
-            logging.warning("settings.py 中未定义 HEADER_ONLY_CHAR_LIMIT，默认使用 5000。")
-            setattr(settings, 'HEADER_ONLY_CHAR_LIMIT_DEFAULTED', True)
-
+    # 限制头部搜索范围
+    limit = getattr(settings, 'HEADER_ONLY_CHAR_LIMIT', 5000)
     header_text = text[:limit]
 
-    # --- 阶段 1 & 2: 搜索头部 ---
+    # 阶段 1 & 2: 搜索头部
     for pattern in HEADER_PATTERNS + FALLBACK_PATTERNS:
         match = pattern.search(header_text)
         if match:
@@ -195,143 +162,145 @@ def extract_effective_date(text: str) -> str | None:
             cleaned_date = " ".join(date_str.split())
             return cleaned_date
 
-    # --- 阶段 3: 全文回退搜索 ---
-    logging.debug(f"日期头部搜索失败，正在扩展到全文进行(高+低)精度搜索...")
-
+    # 阶段 3: 全文回退搜索
     for pattern in HEADER_PATTERNS + FALLBACK_PATTERNS:
         match = pattern.search(text)
         if match:
             date_str = match.group(1).strip()
             cleaned_date = " ".join(date_str.split())
-            logging.debug(f"在全文中找到回退日期: {cleaned_date}")
             return cleaned_date
 
     return None
 
 
-# --- 5. 供应链句子分析 ---
-# (★★★ 此部分为V3修改核心 ★★★)
-# (已移除此处的本地 Regex 定义, 改为从 settings.py 导入)
+# --- 5. 供应链句子分析 (核心修改：指纹去重) ---
 
 def find_supply_chain_sentences(text: str) -> list[str]:
     """
-    (V3 - 增加上下文判断)
-    使用 settings.py 中定义的分层关键词策略。
+    使用 settings.py 中定义的分层关键词策略，并过滤噪音。
+    此处引入“指纹去重”逻辑。
     """
     if not text:
         return []
 
-    # (V2 修复) "缝合"被硬回车截断的句子
+    # 预处理：将换行符替换为空格，防止句子被截断
     text_for_splitting = text.replace('\n', ' ')
 
     matched_sentences = []
 
+    # 【指纹去重集合】
+    # 存储标准化后的句子指纹（小写 + 仅保留字母/汉字），忽略标点和空格差异
+    seen_fingerprints = set()
+
     try:
         sentences = nltk.sent_tokenize(text_for_splitting)
     except Exception as e:
-        logging.error(f"NLTK 分句失败: {e}。文本可能过大或格式异常。")
+        logging.error(f"NLTK 分句失败: {e}")
         return []
 
     for sentence in sentences:
-
-        # 移除多余空白
         cleaned_sentence = " ".join(sentence.split())
 
-        # 检查最小长度 (从 settings.py 动态获取)
-        try:
-            if len(cleaned_sentence) < settings.MIN_SENTENCE_LENGTH:
-                continue
-        except AttributeError:
-            logging.warning("settings.py 中未定义 MIN_SENTENCE_LENGTH，默认使用 50。")
-            if len(cleaned_sentence) < 50:
-                continue
+        # 1. 长度检查
+        if len(cleaned_sentence) < settings.MIN_SENTENCE_LENGTH:
+            continue
 
-        # --- (★★★ V3 核心逻辑 ★★★) ---
-        # (使用从 settings.py 导入的 REGEX)
+        # 【生成指纹】
+        # 移除所有非字母和非中文字符，并转为小写
+        # 这样 "Sentence A." 和 "Sentence A" (无点) 会被视为相同
+        fingerprint = re.sub(r'[^a-zA-Z\u4e00-\u9fa5]', '', cleaned_sentence).lower()
 
-        # 规则 1: 如果包含“核心关键词”，无条件采纳
+        # 如果指纹为空或已存在，跳过
+        if not fingerprint:
+            continue
+        if fingerprint in seen_fingerprints:
+            continue
+
+        # 3. 格式与内容噪音清洗 (基于 settings.py 中的正则)
+        if settings.NOISE_DOTS_REGEX.search(cleaned_sentence):
+            continue
+        if settings.NOISE_GARBAGE_REGEX.match(cleaned_sentence):
+            continue
+        if settings.NOISE_PAGE_NUMBER_REGEX.search(cleaned_sentence):
+            # 仅当行尾是数字且没有句号时过滤
+            if not cleaned_sentence.strip().endswith('.'):
+                continue
+        if settings.NOISE_LIST_REGEX.match(cleaned_sentence):
+            continue
+
+        # 4. 法律定义、程序与表格噪音过滤
+        if settings.NOISE_DEFINITION_REGEX.search(cleaned_sentence):
+            continue
+        if settings.NOISE_LEGAL_JARGON_REGEX.search(cleaned_sentence):
+            continue
+        if hasattr(settings, 'NOISE_TABLE_REGEX') and settings.NOISE_TABLE_REGEX.search(cleaned_sentence):
+            continue
+
+        # --- (关键词逻辑) ---
+        is_match = False
         if CORE_KEYWORDS_REGEX.search(cleaned_sentence):
-            matched_sentences.append(cleaned_sentence)
-
-        # 规则 2: 否则，如果包含“情境关键词”...
+            is_match = True
         elif CONTEXT_KEYWORDS_REGEX.search(cleaned_sentence):
-
-            # ...则它必须也包含“运营情境词”才被采纳
             if OPERATIONAL_CONTEXT_REGEX.search(cleaned_sentence):
-                matched_sentences.append(cleaned_sentence)
-            # else:
-            # (跳过) 匹配了 supplier/customer，但无运营上下文
-            # (例如 "illegal gift to supplier, customer...")
+                is_match = True
 
-        # --- (V3 逻辑结束) ---
+        if is_match:
+            matched_sentences.append(cleaned_sentence)
+            seen_fingerprints.add(fingerprint)  # 记录指纹
 
     return matched_sentences
 
 
-# --- 6. CIK 与公司名称解析 ---
-# (此部分来自您的 utils.py，保持不变)
+# --- 6. CIK 与公司名称解析 (增强版) ---
 
 def get_cik_from_8k_text(file_content: str) -> str | None:
     """
-    (修改 - 反馈 1) 从 8-K 文件的原始 .txt 文本内容中提取 CIK。
+    从 8-K 文件的原始 .txt 文本内容中提取 CIK。
     """
+    if not file_content:
+        return None
 
-    # 标志：re.IGNORECASE (忽略大小写) 和 re.DOTALL (使 . 匹配换行符)
     flags = re.IGNORECASE | re.DOTALL
 
-    # 策略 1：首选查找 SUBJECT COMPANY CIK
-    pattern_subject = re.compile(
-        r"SUBJECT COMPANY:.*?CENTRAL INDEX KEY:\s*(\d{10})",
-        flags
-    )
+    # 1. 尝试标准的 "SUBJECT COMPANY" 块
+    pattern_subject = re.compile(r"SUBJECT COMPANY:.*?CENTRAL INDEX KEY:\s*(\d{10})", flags)
     match_subject = pattern_subject.search(file_content)
-
     if match_subject:
-        return match_subject.group(1).lstrip('0')  # <-- 去除前导0
+        return match_subject.group(1).lstrip('0')
 
-    # 策略 2：备选方案，查找 Filer CIK (兼容 FILER: 和 FILED BY:)
-    pattern_filer = re.compile(
-        # (?:...) 是一个非捕获组，用于匹配 "FILER:" 或 "FILED BY:"
-        r"(?:FILER:|FILED BY:).*?CENTRAL INDEX KEY:\s*(\d{10})",
-        flags
-    )
+    # 2. 尝试 "FILER" 块
+    pattern_filer = re.compile(r"(?:FILER:|FILED BY:).*?CENTRAL INDEX KEY:\s*(\d{10})", flags)
     match_filer = pattern_filer.search(file_content)
-
     if match_filer:
-        return match_filer.group(1).lstrip('0')  # <-- 去除前导0
+        return match_filer.group(1).lstrip('0')
 
-    # 如果两种策略都失败
-    logging.warning(f"警告：未能在文件中找到 CIK 标签。")
+    # 3. 直接查找 CENTRAL INDEX KEY (全局回退，限制前2000字符)
+    header_part = file_content[:2000]
+    pattern_direct = re.compile(r"CENTRAL INDEX KEY:\s*(\d{10})", flags)
+    match_direct = pattern_direct.search(header_part)
+    if match_direct:
+        return match_direct.group(1).lstrip('0')
+
     return None
 
 
-# (需求 1) 用于从 8-K 主 .txt 文件中解析公司名
-COMPANY_NAME_REGEX = re.compile(
-    r"COMPANY CONFORMED NAME:\s+(.*)",
-    re.IGNORECASE
-)
+COMPANY_NAME_REGEX = re.compile(r"COMPANY CONFORMED NAME:\s+(.*)", re.IGNORECASE)
 
 
 def parse_company_name_from_main_filing(content: str | None) -> str | None:
     """
-    (修改 - 反馈 2) 从 8-K 主 .txt 文件内容中解析公司名称。
+    从 8-K 主 .txt 文件内容中解析公司名称。
     """
     if not content:
-        logging.warning("因内容为空，无法解析公司名称。")
         return None
+
+    # 限制搜索范围在前 2000 字符
+    header_part = content[:2000]
 
     try:
-        match = COMPANY_NAME_REGEX.search(content)
-
+        match = COMPANY_NAME_REGEX.search(header_part)
         if match:
-            name = match.group(1).strip()
-            # (修改) 此处日志级别改为 debug，因为 V9 会始终尝试解析
-            logging.debug(f"从主文件成功解析到公司名: {name}")
-            return name
-        else:
-            logging.warning("在主文件中未找到 'COMPANY CONFORMED NAME' 标签。")
-            return None
-
-    except Exception as e:
-        logging.error(f"解析主文件内容以获取公司名时失败: {e}")
-        return None
+            return match.group(1).strip()
+    except Exception:
+        pass
+    return None
