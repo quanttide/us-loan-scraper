@@ -13,7 +13,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # 数据源路径
 BASE_DATA_PATH = BASE_DIR / "data" / "Archives" / "edgar" / "data"
 # 服务器数据源
-BASE_DATA_PATH = BASE_DIR.parent /"py-sec-edgar" / "data" / "Archives" / "edgar" / "data"
+BASE_DATA_PATH = BASE_DIR.parent / "py-sec-edgar" / "data" / "Archives" / "edgar" / "data"
 
 # CIK 映射表
 CIK_MAP_PATH = BASE_DIR / "refdata" / "cik_tickers.csv"
