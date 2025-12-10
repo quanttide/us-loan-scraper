@@ -1,5 +1,5 @@
 # src/settings.py
-# (V5.5 - 包含所有噪音过滤规则，无需数据库配置)
+# (V5.6 - 词库增强版：强化关系维护与服务型供应链提取)
 
 import re
 import logging
@@ -12,8 +12,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # 数据源路径
 BASE_DATA_PATH = BASE_DIR / "data" / "Archives" / "edgar" / "data"
-# 服务器数据源
-BASE_DATA_PATH = BASE_DIR.parent / "py-sec-edgar" / "data" / "Archives" / "edgar" / "data"
+# 服务器数据源 (如有需要保持覆盖)
+# BASE_DATA_PATH = BASE_DIR.parent / "py-sec-edgar" / "data" / "Archives" / "edgar" / "data"
 
 # CIK 映射表
 CIK_MAP_PATH = BASE_DIR / "refdata" / "cik_tickers.csv"
@@ -29,9 +29,9 @@ LOAN_KEYWORDS_REGEX = re.compile(
     re.IGNORECASE
 )
 
-# --- 关键词配置 ---
+# --- 关键词配置 (核心逻辑更新) ---
 
-# 核心词
+# 核心词 (直接命中)
 CORE_KEYWORDS_REGEX = re.compile(
     r"""
     \b(
@@ -41,33 +41,67 @@ CORE_KEYWORDS_REGEX = re.compile(
     re.IGNORECASE | re.VERBOSE
 )
 
-# 情境词 (供应商/客户)
+# 情境词 (实体对象：供应商/客户/合作伙伴)
+# 更新：扩充了 manufacturer, licensor, client, franchisee 等
 CONTEXT_KEYWORDS_REGEX = re.compile(
     r"""
     \b(
+    # --- 供应商/上游 ---
     supplier(s)? |
-    customer(s)? |
     vendor(s)? |
+    manufacturer(s)? |
+    licensor(s)? |          # 关键：涉及IP/软件授权
+    sub(-)?contractor(s)? | # 分包商
+    service\s+provider(s)? |
+
+    # --- 客户/下游 ---
+    customer(s)? |
+    client(s)? |            # 关键：Customer的常见同义词
     distributor(s)? |
-    reseller(s)?
+    reseller(s)? |
+    licensee(s)? |
+    franchisee(s)?          # 关键：特许经营
     )\b
     """,
     re.IGNORECASE | re.VERBOSE
 )
 
 # 运营词 (必须与情境词同时出现)
+# 更新：重点增加了“关系维护”类词汇，以及“服务/软件/库存”等词汇
 OPERATIONAL_CONTEXT_REGEX = re.compile(
     r"""
     \b(
+    # --- A. 关系维护类 (最重要的类别) ---
+    relationship(s)? |      # 核心词：maintain relationship
+    relation(s)? |
+    doing\s+business |      # e.g., cease doing business with...
+    goodwill |              # 商誉
+    franchise |             # 特许经营权
+
+    # --- B. 动作/状态类 ---
+    supply | supplying | supplied |
+    purchase | purchasing |
+    procure | procurement | 
+    order(s)? |
+    fulfill | fulfillment |
+    ship | shipping | shipment(s)? |
+    deliver | delivery | deliverables |
+    transport | transportation |
+    provide\s+services |    # 提供服务
+
+    # --- C. 合同/资产类 ---
     agreement(s)? |
     contract(s)? |
-    order(s)? |
-    parts |
-    component(s)? |
+    inventory |             # 库存
+    stock |
+    material(s)? |
     goods |
-    materials |
-    fulfillment |
-    transport(s)? | transportation
+    product(s)? |
+    service(s)? |           # 服务型供应链
+    part(s)? |
+    component(s)? |
+    equipment |
+    software                # 软硬件供应链
     )\b
     """,
     re.IGNORECASE | re.VERBOSE
